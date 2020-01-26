@@ -13,6 +13,7 @@ Visit our links
 * [Steam Group](https://steamcommunity.com/groups/awesomecars)
 * [Facebook](https://www.facebook.com/awesomecarscs/)
 * [YouTube](https://www.youtube.com/watch?v=8Mf8ZUnfMkA&list=PLRjQLmPQzOiHFQB0HW6FeURc_UH9UajA4)
+* [Radio](https://zeno.fm/syntrwave/)
 * [93.123.18.81:27017](steam://connect/93.123.18.81:27017)
 
 [![Join us!](https://i.imgur.com/guPatOw.png)](steam://connect/93.123.18.81:27017)
