@@ -1,0 +1,374 @@
+L 01/17/2020 - 23:13:24: Log file started (file "logs/L0117073.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/17/2020 - 23:13:24: Loading map "air_fight2"
+L 01/17/2020 - 23:13:24: Server cvars start
+L 01/17/2020 - 23:13:24: Server cvar "@BunnyHopper" = "3.x"
+L 01/17/2020 - 23:13:24: Server cvar "@CRXGoSpec" = "1.1"
+L 01/17/2020 - 23:13:24: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "@D.I.C.E." = "1.1"
+L 01/17/2020 - 23:13:24: Server cvar "@MOTDCommands" = "1.2"
+L 01/17/2020 - 23:13:24: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/17/2020 - 23:13:24: Server cvar "AdvancedMute" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "aesp_version" = "1.3"
+L 01/17/2020 - 23:13:24: Server cvar "allow_spectators" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "amx_client_languages" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "amx_language" = "en"
+L 01/17/2020 - 23:13:24: Server cvar "amx_nextmap" = "air_fight2"
+L 01/17/2020 - 23:13:24: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/17/2020 - 23:13:24: Server cvar "amx_timeleft" = "00:00"
+L 01/17/2020 - 23:13:24: Server cvar "amxmodx_version" = "1.8.2"
+L 01/17/2020 - 23:13:24: Server cvar "amxxbg_vip" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "asp_version" = "4.5.1"
+L 01/17/2020 - 23:13:24: Server cvar "atac_version" = "3.0.1"
+L 01/17/2020 - 23:13:24: Server cvar "badcamper_version" = "1.4 beta"
+L 01/17/2020 - 23:13:24: Server cvar "blockmaker" = "4.01"
+L 01/17/2020 - 23:13:24: Server cvar "c4 timer" = "1.1"
+L 01/17/2020 - 23:13:24: Server cvar "coop" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "CRXAdminGroups" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "CRXFastKnife" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "CRXGametracker" = "2.0"
+L 01/17/2020 - 23:13:24: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/17/2020 - 23:13:24: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "CustomShop" = "4.2"
+L 01/17/2020 - 23:13:24: Server cvar "deathmatch" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "decalfrequency" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "edgefriction" = "2"
+L 01/17/2020 - 23:13:24: Server cvar "ers_version" = "2.3c"
+L 01/17/2020 - 23:13:24: Server cvar "gagsystem_shoko" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/17/2020 - 23:13:24: Server cvar "gal_version" = "v5.9.1-926"
+L 01/17/2020 - 23:13:24: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/17/2020 - 23:13:24: Server cvar "humans_join_team" = "any"
+L 01/17/2020 - 23:13:24: Server cvar "jtp10181" = "chute,gore"
+L 01/17/2020 - 23:13:24: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/17/2020 - 23:13:24: Server cvar "LetitSnow" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/17/2020 - 23:13:24: Server cvar "max_queries_sec" = "3"
+L 01/17/2020 - 23:13:24: Server cvar "max_queries_sec_global" = "150"
+L 01/17/2020 - 23:13:24: Server cvar "max_queries_window" = "60"
+L 01/17/2020 - 23:13:24: Server cvar "mdbBans" = "4.8"
+L 01/17/2020 - 23:13:24: Server cvar "metamod_version" = "1.21p37"
+L 01/17/2020 - 23:13:24: Server cvar "mp_autokick" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_autokick_timeout" = "-1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_autoteambalance" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_buytime" = "0.25"
+L 01/17/2020 - 23:13:24: Server cvar "mp_c4timer" = "35"
+L 01/17/2020 - 23:13:24: Server cvar "mp_chattime" = "10.000000"
+L 01/17/2020 - 23:13:24: Server cvar "mp_consistency" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_fadetoblack" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_flashlight" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_footsteps" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_forcecamera" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_forcechasecam" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_forcerespawn" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_fraglimit" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_fragsleft" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_freeforall" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_freezetime" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_friendlyfire" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_hostage_hurtable" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_hostagepenalty" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_item_staytime" = "300"
+L 01/17/2020 - 23:13:24: Server cvar "mp_kickpercent" = "0.66"
+L 01/17/2020 - 23:13:24: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_limitteams" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_logdetail" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_logfile" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_logmessages" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/17/2020 - 23:13:24: Server cvar "mp_maxmoney" = "999999"
+L 01/17/2020 - 23:13:24: Server cvar "mp_maxrounds" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_mirrordamage" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_playerid" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_round_infinite" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_round_restart_delay" = "5"
+L 01/17/2020 - 23:13:24: Server cvar "mp_roundover" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_roundtime" = "2.3"
+L 01/17/2020 - 23:13:24: Server cvar "mp_show_radioicon" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_startmoney" = "850"
+L 01/17/2020 - 23:13:24: Server cvar "mp_timeleft" = "00:00"
+L 01/17/2020 - 23:13:24: Server cvar "mp_timelimit" = "20"
+L 01/17/2020 - 23:13:24: Server cvar "mp_tkpunish" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "mp_windifference" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "mp_winlimit" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/17/2020 - 23:13:24: Server cvar "pausable" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "present_version" = "2.01"
+L 01/17/2020 - 23:13:24: Server cvar "RandomHP" = "2.2"
+L 01/17/2020 - 23:13:24: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/17/2020 - 23:13:24: Server cvar "reconnect_features" = "0.3.1"
+L 01/17/2020 - 23:13:24: Server cvar "report_system_version" = "3.1"
+L 01/17/2020 - 23:13:24: Server cvar "resemiclip_version" = "2.3.9"
+L 01/17/2020 - 23:13:24: Server cvar "reu_version" = "0.1.0.130"
+L 01/17/2020 - 23:13:24: Server cvar "revoice_version" = "0.1.0.30"
+L 01/17/2020 - 23:13:24: Server cvar "RRWM" = "2.0"
+L 01/17/2020 - 23:13:24: Server cvar "sanksounds_version" = "1.8.6"
+L 01/17/2020 - 23:13:24: Server cvar "SimpleMenu" = "1.1"
+L 01/17/2020 - 23:13:24: Server cvar "SNAC_Version" = "1.1"
+L 01/17/2020 - 23:13:24: Server cvar "SpecList" = "1.2a"
+L 01/17/2020 - 23:13:24: Server cvar "sr_version" = "1.6"
+L 01/17/2020 - 23:13:24: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/17/2020 - 23:13:24: Server cvar "StyleC4Timer" = "2.1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_accelerate" = "5"
+L 01/17/2020 - 23:13:24: Server cvar "sv_aim" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_airaccelerate" = "100"
+L 01/17/2020 - 23:13:24: Server cvar "sv_allowupload" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_alltalk" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_bounce" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_cheats" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "sv_clienttrace" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/17/2020 - 23:13:24: Server cvar "sv_friction" = "4"
+L 01/17/2020 - 23:13:24: Server cvar "sv_gravity" = "800"
+L 01/17/2020 - 23:13:24: Server cvar "sv_logblocks" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "sv_maxrate" = "50000"
+L 01/17/2020 - 23:13:24: Server cvar "sv_maxspeed" = "900"
+L 01/17/2020 - 23:13:24: Server cvar "sv_minrate" = "10000"
+L 01/17/2020 - 23:13:24: Server cvar "sv_password" = ""
+L 01/17/2020 - 23:13:24: Server cvar "sv_proxies" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_restart" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "sv_restartround" = "0"
+L 01/17/2020 - 23:13:24: Server cvar "sv_stepsize" = "18"
+L 01/17/2020 - 23:13:24: Server cvar "sv_stopspeed" = "75"
+L 01/17/2020 - 23:13:24: Server cvar "sv_uploadmax" = "0.5"
+L 01/17/2020 - 23:13:24: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/17/2020 - 23:13:24: Server cvar "sv_voiceenable" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "sv_wateraccelerate" = "10"
+L 01/17/2020 - 23:13:24: Server cvar "sv_waterfriction" = "1"
+L 01/17/2020 - 23:13:24: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/17/2020 - 23:13:24: Server cvar "vehicle_real_killer" = "1.1"
+L 01/17/2020 - 23:13:24: Server cvar "WalkGuard" = "1.3.2"
+L 01/17/2020 - 23:13:24: Server cvar "we_grenades" = "Huehue"
+L 01/17/2020 - 23:13:24: Server cvar "we_player_models" = "Huehue"
+L 01/17/2020 - 23:13:24: Server cvar "whb_version" = "1.5.692"
+L 01/17/2020 - 23:13:24: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/17/2020 - 23:13:24: Server cvars end
+L 01/17/2020 - 23:13:27: Server cvar "mp_autoteambalance" = "1"
+L 01/17/2020 - 23:13:27: Server cvar "mp_autoteambalance" = "0"
+L 01/17/2020 - 23:13:27: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/17/2020 - 23:13:29: Started map "air_fight2" (CRC "-1788665057")
+L 01/17/2020 - 23:13:31: World triggered "Round_Start"
+L 01/17/2020 - 23:14:28: Server cvar "amx_nextmap" = "shipwreck"
+L 01/17/2020 - 23:19:14: [REUNION]: Punisher (81.24.242.96) authorized as RevEmu
+L 01/17/2020 - 23:19:14: "Punisher<29><STEAM_1:1:1331625618><>" connected, address "81.24.242.96:27005"
+L 01/17/2020 - 23:19:25: "Punisher<29><STEAM_1:1:1331625618><>" entered the game
+L 01/17/2020 - 23:19:29: "Punisher<29><STEAM_1:1:1331625618><>" joined team "TERRORIST"
+L 01/17/2020 - 23:19:41: "ROXELNATOR<30><STEAM_0:1:443567484><>" connected, address "46.40.14.72:27005"
+L 01/17/2020 - 23:19:42: "ROXELNATOR<30><STEAM_0:1:443567484><>" STEAM USERID validated
+L 01/17/2020 - 23:19:50: "ROXELNATOR<30><STEAM_0:1:443567484><>" entered the game
+L 01/17/2020 - 23:19:56: "ROXELNATOR<30><STEAM_0:1:443567484><>" joined team "CT"
+L 01/17/2020 - 23:19:57: World triggered "Game_Commencing"
+L 01/17/2020 - 23:19:57: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/17/2020 - 23:19:57: World triggered "Round_End"
+L 01/17/2020 - 23:19:57: [REUNION]: Zoras_ (78.30.165.210) authorized as RevEmu
+L 01/17/2020 - 23:19:57: "Zoras_<31><STEAM_1:0:1144401391><>" connected, address "78.30.165.210:21074"
+L 01/17/2020 - 23:20:01: World triggered "Round_Start"
+L 01/17/2020 - 23:20:04: [REUNION]: Zoras_ (78.30.165.210) authorized as RevEmu
+L 01/17/2020 - 23:20:04: "Zoras_<32><STEAM_1:0:1144401391><>" connected, address "78.30.165.210:21074"
+L 01/17/2020 - 23:20:24: "Zoras_<32><STEAM_1:0:1144401391><>" entered the game
+L 01/17/2020 - 23:20:31: "Zoras_<32><STEAM_1:0:1144401391><>" joined team "TERRORIST"
+L 01/17/2020 - 23:20:45: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "mp5navy"
+L 01/17/2020 - 23:20:45: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/17/2020 - 23:20:45: World triggered "Round_End"
+L 01/17/2020 - 23:20:49: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" committed suicide with "worldspawn" (world)
+L 01/17/2020 - 23:20:51: World triggered "Round_Start"
+L 01/17/2020 - 23:21:17: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "m249"
+L 01/17/2020 - 23:21:20: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:21:20: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/17/2020 - 23:21:20: World triggered "Round_End"
+L 01/17/2020 - 23:21:26: World triggered "Round_Start"
+L 01/17/2020 - 23:21:46: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:21:49: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "m249"
+L 01/17/2020 - 23:21:49: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/17/2020 - 23:21:49: World triggered "Round_End"
+L 01/17/2020 - 23:21:55: World triggered "Round_Start"
+L 01/17/2020 - 23:22:27: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:22:29: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "m249"
+L 01/17/2020 - 23:22:29: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 01/17/2020 - 23:22:29: World triggered "Round_End"
+L 01/17/2020 - 23:22:35: World triggered "Round_Start"
+L 01/17/2020 - 23:23:13: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "m249"
+L 01/17/2020 - 23:23:38: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "m249"
+L 01/17/2020 - 23:23:38: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 01/17/2020 - 23:23:38: World triggered "Round_End"
+L 01/17/2020 - 23:23:44: World triggered "Round_Start"
+L 01/17/2020 - 23:23:57: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/17/2020 - 23:24:22: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "sg552"
+L 01/17/2020 - 23:24:22: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 01/17/2020 - 23:24:22: World triggered "Round_End"
+L 01/17/2020 - 23:24:28: World triggered "Round_Start"
+L 01/17/2020 - 23:24:44: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:24:50: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "sg552"
+L 01/17/2020 - 23:24:50: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 01/17/2020 - 23:24:50: World triggered "Round_End"
+L 01/17/2020 - 23:24:56: World triggered "Round_Start"
+L 01/17/2020 - 23:25:15: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:25:17: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "sg552"
+L 01/17/2020 - 23:25:17: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 01/17/2020 - 23:25:17: World triggered "Round_End"
+L 01/17/2020 - 23:25:23: World triggered "Round_Start"
+L 01/17/2020 - 23:25:43: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:25:53: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "sg552"
+L 01/17/2020 - 23:25:53: Team "CT" triggered "CTs_Win" (CT "9") (T "0")
+L 01/17/2020 - 23:25:53: World triggered "Round_End"
+L 01/17/2020 - 23:25:59: World triggered "Round_Start"
+L 01/17/2020 - 23:26:23: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" killed "ROXELNATOR<30><STEAM_0:1:443567484><CT>" with "m249"
+L 01/17/2020 - 23:26:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "1")
+L 01/17/2020 - 23:26:23: World triggered "Round_End"
+L 01/17/2020 - 23:26:29: World triggered "Round_Start"
+L 01/17/2020 - 23:26:55: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "m3"
+L 01/17/2020 - 23:27:06: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" killed "ROXELNATOR<30><STEAM_0:1:443567484><CT>" with "m3"
+L 01/17/2020 - 23:27:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "2")
+L 01/17/2020 - 23:27:06: World triggered "Round_End"
+L 01/17/2020 - 23:27:12: World triggered "Round_Start"
+L 01/17/2020 - 23:27:35: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" killed "ROXELNATOR<30><STEAM_0:1:443567484><CT>" with "sg552"
+L 01/17/2020 - 23:27:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "3")
+L 01/17/2020 - 23:27:35: World triggered "Round_End"
+L 01/17/2020 - 23:27:41: World triggered "Round_Start"
+L 01/17/2020 - 23:27:59: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" killed "ROXELNATOR<30><STEAM_0:1:443567484><CT>" with "tracktrain"
+L 01/17/2020 - 23:27:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "4")
+L 01/17/2020 - 23:27:59: World triggered "Round_End"
+L 01/17/2020 - 23:28:00: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:28:05: World triggered "Round_Start"
+L 01/17/2020 - 23:28:25: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" committed suicide with "tracktrain"
+L 01/17/2020 - 23:28:25: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:28:25: Team "CT" triggered "CTs_Win" (CT "10") (T "4")
+L 01/17/2020 - 23:28:25: World triggered "Round_End"
+L 01/17/2020 - 23:28:31: World triggered "Round_Start"
+L 01/17/2020 - 23:28:49: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "mp5navy"
+L 01/17/2020 - 23:28:55: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:28:55: Team "CT" triggered "CTs_Win" (CT "11") (T "4")
+L 01/17/2020 - 23:28:55: World triggered "Round_End"
+L 01/17/2020 - 23:29:01: World triggered "Round_Start"
+L 01/17/2020 - 23:29:43: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:30:14: [REUNION]: KoKo jE kRaLJinA (77.243.23.204) authorized as RevEmu
+L 01/17/2020 - 23:30:14: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><>" connected, address "77.243.23.204:10366"
+L 01/17/2020 - 23:30:35: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><>" entered the game
+L 01/17/2020 - 23:30:48: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" with "mp5navy"
+L 01/17/2020 - 23:30:48: Team "CT" triggered "CTs_Win" (CT "12") (T "4")
+L 01/17/2020 - 23:30:48: World triggered "Round_End"
+L 01/17/2020 - 23:30:49: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><>" joined team "CT"
+L 01/17/2020 - 23:30:52: "ROXELNATOR<30><STEAM_0:1:443567484><CT>" joined team "TERRORIST"
+L 01/17/2020 - 23:30:52: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ROXELNATOR to TERRORIST")
+L 01/17/2020 - 23:30:54: World triggered "Round_Start"
+L 01/17/2020 - 23:30:59: [REUNION]: `~|BaLkaToN|~`PeTaR` (37.220.68.177) authorized as RevEmu
+L 01/17/2020 - 23:30:59: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/17/2020 - 23:31:12: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:31:15: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><>" entered the game
+L 01/17/2020 - 23:31:19: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><>" joined team "CT"
+L 01/17/2020 - 23:31:22: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" committed suicide with "worldspawn" (world)
+L 01/17/2020 - 23:31:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "5")
+L 01/17/2020 - 23:31:22: World triggered "Round_End"
+L 01/17/2020 - 23:31:28: World triggered "Round_Start"
+L 01/17/2020 - 23:31:59: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/17/2020 - 23:32:11: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "glock18"
+L 01/17/2020 - 23:32:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "6")
+L 01/17/2020 - 23:32:11: World triggered "Round_End"
+L 01/17/2020 - 23:32:15: "Zoras_<32><STEAM_1:0:1144401391><TERRORIST>" joined team "CT"
+L 01/17/2020 - 23:32:15: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Zoras_ to CT")
+L 01/17/2020 - 23:32:17: World triggered "Round_Start"
+L 01/17/2020 - 23:32:37: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" committed suicide with "worldspawn" (world)
+L 01/17/2020 - 23:32:38: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/17/2020 - 23:32:38: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "tracktrain"
+L 01/17/2020 - 23:32:55: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Zoras_<32><STEAM_1:0:1144401391><CT>" with "ak47"
+L 01/17/2020 - 23:32:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "7")
+L 01/17/2020 - 23:32:55: World triggered "Round_End"
+L 01/17/2020 - 23:32:59: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" joined team "CT"
+L 01/17/2020 - 23:32:59: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Punisher to CT")
+L 01/17/2020 - 23:33:01: World triggered "Round_Start"
+L 01/17/2020 - 23:33:28: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:33:33: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Zoras_<32><STEAM_1:0:1144401391><CT>" with "tracktrain"
+L 01/17/2020 - 23:33:40: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Punisher<29><STEAM_1:1:1331625618><CT>" with "tracktrain"
+L 01/17/2020 - 23:33:45: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/17/2020 - 23:33:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "8")
+L 01/17/2020 - 23:33:45: World triggered "Round_End"
+L 01/17/2020 - 23:33:51: World triggered "Round_Start"
+L 01/17/2020 - 23:34:10: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Zoras_<32><STEAM_1:0:1144401391><CT>" with "tracktrain"
+L 01/17/2020 - 23:34:10: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/17/2020 - 23:34:20: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "deagle"
+L 01/17/2020 - 23:34:44: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Punisher<29><STEAM_1:1:1331625618><CT>" with "aug"
+L 01/17/2020 - 23:34:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "9")
+L 01/17/2020 - 23:34:44: World triggered "Round_End"
+L 01/17/2020 - 23:34:49: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 01/17/2020 - 23:34:50: World triggered "Round_Start"
+L 01/17/2020 - 23:35:12: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/17/2020 - 23:35:27: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "ak47"
+L 01/17/2020 - 23:35:38: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Zoras_<32><STEAM_1:0:1144401391><CT>" with "ak47"
+L 01/17/2020 - 23:35:57: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Punisher<29><STEAM_1:1:1331625618><CT>" with "ak47"
+L 01/17/2020 - 23:35:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "10")
+L 01/17/2020 - 23:35:57: World triggered "Round_End"
+L 01/17/2020 - 23:36:03: World triggered "Round_Start"
+L 01/17/2020 - 23:36:33: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Punisher<29><STEAM_1:1:1331625618><CT>" with "tracktrain"
+L 01/17/2020 - 23:36:34: "Zoras_<32><STEAM_1:0:1144401391><CT>" committed suicide with "tracktrain"
+L 01/17/2020 - 23:36:41: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "ak47"
+L 01/17/2020 - 23:36:44: "Punisher<29><STEAM_1:1:1331625618><CT>" joined team "TERRORIST"
+L 01/17/2020 - 23:36:55: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/17/2020 - 23:36:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "11")
+L 01/17/2020 - 23:36:55: World triggered "Round_End"
+L 01/17/2020 - 23:37:01: World triggered "Round_Start"
+L 01/17/2020 - 23:37:18: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "Zoras_<32><STEAM_1:0:1144401391><CT>" with "tracktrain"
+L 01/17/2020 - 23:37:36: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" with "ak47"
+L 01/17/2020 - 23:38:05: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/17/2020 - 23:38:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "12")
+L 01/17/2020 - 23:38:05: World triggered "Round_End"
+L 01/17/2020 - 23:38:08: [REUNION]: IcemaN (93.155.150.118) authorized as NoSteam47
+L 01/17/2020 - 23:38:08: "IcemaN<35><VALVE_ID_LAN><>" connected, address "93.155.150.118:28029"
+L 01/17/2020 - 23:38:11: World triggered "Round_Start"
+L 01/17/2020 - 23:38:19: "IcemaN<35><VALVE_ID_LAN><>" entered the game
+L 01/17/2020 - 23:38:28: "IcemaN<35><VALVE_ID_LAN><>" joined team "CT"
+L 01/17/2020 - 23:38:39: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" changed name to "Ro[L]eX"
+L 01/17/2020 - 23:38:53: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "IcemaN<35><VALVE_ID_LAN><CT>" with "tracktrain"
+L 01/17/2020 - 23:38:55: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "m4a1"
+L 01/17/2020 - 23:38:57: "Zoras_<32><STEAM_1:0:1144401391><CT>" killed "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" with "m249"
+L 01/17/2020 - 23:38:57: Team "CT" triggered "CTs_Win" (CT "13") (T "12")
+L 01/17/2020 - 23:38:57: World triggered "Round_End"
+L 01/17/2020 - 23:38:57: "IcemaN<35><VALVE_ID_LAN><CT>" disconnected
+L 01/17/2020 - 23:39:03: World triggered "Round_Start"
+L 01/17/2020 - 23:39:25: "Ro[L]eX<34><STEAM_1:1:41823316><CT>" changed name to "`~|BaLkaToN|~`PeTaR`"
+L 01/17/2020 - 23:39:30: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/17/2020 - 23:39:40: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" committed suicide with "tracktrain"
+L 01/17/2020 - 23:39:43: Server cvar "mp_timelimit" = "0.000000"
+L 01/17/2020 - 23:40:02: "Zoras_<32><STEAM_1:0:1144401391><CT>" killed "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" with "m249"
+L 01/17/2020 - 23:40:02: Team "CT" triggered "CTs_Win" (CT "14") (T "12")
+L 01/17/2020 - 23:40:02: World triggered "Round_End"
+L 01/17/2020 - 23:40:07: "Punisher<29><STEAM_1:1:1331625618><TERRORIST>" joined team "CT"
+L 01/17/2020 - 23:40:07: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Punisher to CT")
+L 01/17/2020 - 23:40:08: World triggered "Round_Start"
+L 01/17/2020 - 23:40:08: Server cvar "sv_maxspeed" = "0.000000"
+L 01/17/2020 - 23:40:08: Server cvar "mp_friendlyfire" = "1"
+L 01/17/2020 - 23:40:11: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" with "m3"
+L 01/17/2020 - 23:40:14: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" killed "Zoras_<32><STEAM_1:0:1144401391><CT>" with "m3"
+L 01/17/2020 - 23:40:15: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/17/2020 - 23:40:15: Team "CT" triggered "CTs_Win" (CT "15") (T "12")
+L 01/17/2020 - 23:40:15: World triggered "Round_End"
+L 01/17/2020 - 23:40:20: Server cvar "sv_maxspeed" = "900.000000"
+L 01/17/2020 - 23:40:20: Server cvar "mp_friendlyfire" = "0"
+L 01/17/2020 - 23:40:20: Server cvar "mp_timelimit" = "20.000000"
+L 01/17/2020 - 23:40:20: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: AMX Mod X
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: Reunion
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: ReAuthCheck
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: WHBlocker
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: ReSemiclip
+L 01/17/2020 - 23:40:20: [META] ini: Read plugin config for: Revoice
+L 01/17/2020 - 23:40:20: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/17/2020 - 23:40:20: [META] dll: Updating plugins...
+L 01/17/2020 - 23:40:20: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/17/2020 - 23:40:20: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/17/2020 - 23:40:20: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/17/2020 - 23:40:20: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/17/2020 - 23:40:20: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/17/2020 - 23:40:20: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/17/2020 - 23:40:20: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/17/2020 - 23:40:20: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/17/2020 - 23:40:20: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/17/2020 - 23:40:20: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/17/2020 - 23:40:20: "Punisher<29><STEAM_1:1:1331625618><CT>" disconnected
+L 01/17/2020 - 23:40:20: "ROXELNATOR<30><STEAM_0:1:443567484><TERRORIST>" disconnected
+L 01/17/2020 - 23:40:20: "Zoras_<32><STEAM_1:0:1144401391><CT>" disconnected
+L 01/17/2020 - 23:40:20: "KoKo jE kRaLJinA<33><STEAM_1:1:1834348531><CT>" disconnected
+L 01/17/2020 - 23:40:20: "`~|BaLkaToN|~`PeTaR`<34><STEAM_1:1:41823316><CT>" disconnected
+L 01/17/2020 - 23:40:20: Log file closed

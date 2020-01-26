@@ -1,0 +1,45 @@
+{
+    "name"      : "DefaultDeploy",
+    "class"     : "CBasePlayerWeapon",
+    "library"   : "mod",
+    "arguments" : 
+    [
+        {
+            "type" : "char *",
+			"info" : "v_ model path"
+        },
+        {
+            "type" : "char *",
+			"info" : "p_ model path"
+        },
+        {
+            "type" : "int",
+			"info" : "animation"
+        },
+        {
+            "type" : "char *",
+			"info" : "anim ext"
+        },
+        {
+            "type" : "int",
+			"info" : "skiplocal"
+        }
+    ],
+    "return" :
+    {
+        "type" : "bool"
+    },
+    "identifiers" : 
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0x56,0x8B,"*",0x8B,"*",0xFF,"*","*","*","*","*",0x85,"*",0x75,"*",0x5E,0xC2]
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "_ZN17CBasePlayerWeapon13DefaultDeployEPcS0_iS0_i"
+        } 
+    ]
+}

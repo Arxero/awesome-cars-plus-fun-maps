@@ -1,0 +1,13 @@
+[en]
+MAPRATE_ALREADY_VOTED = !n[!gMap!tRate!n] You already gave rating for this map!
+MAPRATE_MENU_TITLE = Would you like map
+MAPRATE_VOTES_YES = Votes YES
+MAPRATE_VOTES_NO = Votes NO
+MAPRATE_ITEM_YES = Yes
+MAPRATE_ITEM_NO = No 
+MAPRATE_ITEM_EXIT = Close
+MAPRATE_SUCCESS_VOTE_YES = !n[!gMap!tRate!n] You successfull rate this map with !gYES!n!
+MAPRATE_SUCCESS_VOTE_NO = !n[!gMap!tRate!n] You successfull rate this map with !gNO!n!   
+MAPRATE_RESULTS = Results
+MAPRATE_RESULTS_FOR = Results for 
+MAPRATE_MAPS = map/s   

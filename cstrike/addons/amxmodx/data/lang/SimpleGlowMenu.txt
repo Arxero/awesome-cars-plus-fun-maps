@@ -1,0 +1,17 @@
+[en]
+GLOW_NOACCESS = You have no access to the &x04Glow Menu&x01!
+GLOW_NOTEAM = Your team isn't allowed to use the &x04Glow Menu&x01!
+GLOW_SELECTED = \r[\ySELECTED\r]
+GLOW_REMOVE = Your glow has been removed &x04successfully&x01.
+GLOW_ALREADY = This glow is already selected!
+GLOW_ONSELECT_CHAT = You have selected a &x04%s &x01glow.
+GLOW_ONSELECT_HUD = You have selected a %s glow.
+
+[bg]
+GLOW_NOACCESS = Nqmash dostup do &x04Glow Menuto&x01!
+GLOW_NOTEAM = Tvoqt otbor nqma pravo da izpolzva &x04Glow Menuto&x01!
+GLOW_SELECTED = \r[\yIZBRAN\r]
+GLOW_REMOVE = Tvoqt glow e premahnat &x04uspeshno&x01.
+GLOW_ALREADY = Tozi glow e veche izbran!
+GLOW_ONSELECT_CHAT = Ti izbra &x04%s &x01glow.
+GLOW_ONSELECT_HUD = Ti izbra %s glow.

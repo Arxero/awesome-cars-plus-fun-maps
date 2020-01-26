@@ -1,0 +1,31 @@
+[en]
+
+CHOOSE = Choose The Right Wire Or Die!^n1. Red^n2. Black^n^n0. Die
+
+[fr]
+
+CHOOSE = Choisis le bon fil ou meurre !^n1. Rouge^n2. Noir^n^n0. Meurre 
+
+[nl]
+
+CHOOSE = Kies het goede draadje of ga dood!^n1. Rood^n2. Zwart^n^n0. Sterf
+
+[es]
+
+CHOOSE = Elije el Cable Correcto o Morir!^n1. Rojo^n2. Negro^n^n0. Morir
+
+[ls]
+
+CHOOSE = OMFGR0X0|2 j00|2 B0X0|2zzzz CUT T3H |3LU3 0n3!!!111^n1. R3d^n2. |3la(k^n^n0. l!f3 
+
+[pl]
+
+CHOOSE = Wybierz odpowiedni kabelek lub gin!^n1. Czerwony^n2. Czarny^n^n0. Umieraj
+
+[sv]
+
+CHOOSE = V'a'lg den r'a'tta kabeln eller d'o'!^n1. R'o'd^n2. Svart^n^n0. D'o'
+
+[de]
+
+CHOOSE = Waehle die richtige Leitung, oder sterbe!^n1. Rot^n2. Schwarz^n^n0. Sterben

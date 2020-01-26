@@ -1,0 +1,467 @@
+L 12/25/2019 - 23:57:41: Log file started (file "logs/L1225111.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/25/2019 - 23:57:41: Loading map "fy_buzzkill"
+L 12/25/2019 - 23:57:41: Server cvars start
+L 12/25/2019 - 23:57:41: Server cvar "@BunnyHopper" = "3.x"
+L 12/25/2019 - 23:57:41: Server cvar "@CRXGoSpec" = "1.1"
+L 12/25/2019 - 23:57:41: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "@D.I.C.E." = "1.1"
+L 12/25/2019 - 23:57:41: Server cvar "@MOTDCommands" = "1.2"
+L 12/25/2019 - 23:57:41: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/25/2019 - 23:57:41: Server cvar "AdvancedMute" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "aesp_version" = "1.3"
+L 12/25/2019 - 23:57:41: Server cvar "allow_spectators" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "amx_client_languages" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "amx_language" = "en"
+L 12/25/2019 - 23:57:41: Server cvar "amx_nextmap" = "fy_buzzkill"
+L 12/25/2019 - 23:57:41: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/25/2019 - 23:57:41: Server cvar "amx_timeleft" = "17:36"
+L 12/25/2019 - 23:57:41: Server cvar "amxmodx_version" = "1.8.2"
+L 12/25/2019 - 23:57:41: Server cvar "amxxbg_vip" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "asp_version" = "4.5.1"
+L 12/25/2019 - 23:57:41: Server cvar "atac_version" = "3.0.1"
+L 12/25/2019 - 23:57:41: Server cvar "badcamper_version" = "1.4 beta"
+L 12/25/2019 - 23:57:41: Server cvar "blockmaker" = "4.01"
+L 12/25/2019 - 23:57:41: Server cvar "c4 timer" = "1.1"
+L 12/25/2019 - 23:57:41: Server cvar "coop" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "CRXAdminGroups" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "CRXFastKnife" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "CRXGametracker" = "2.0"
+L 12/25/2019 - 23:57:41: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/25/2019 - 23:57:41: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "CustomShop" = "4.2"
+L 12/25/2019 - 23:57:41: Server cvar "deathmatch" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "decalfrequency" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "edgefriction" = "2"
+L 12/25/2019 - 23:57:41: Server cvar "ers_version" = "2.3c"
+L 12/25/2019 - 23:57:41: Server cvar "gagsystem_shoko" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/25/2019 - 23:57:41: Server cvar "gal_version" = "v5.9.1-926"
+L 12/25/2019 - 23:57:41: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/25/2019 - 23:57:41: Server cvar "humans_join_team" = "any"
+L 12/25/2019 - 23:57:41: Server cvar "jtp10181" = "chute,gore"
+L 12/25/2019 - 23:57:41: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/25/2019 - 23:57:41: Server cvar "LetitSnow" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/25/2019 - 23:57:41: Server cvar "max_queries_sec" = "3"
+L 12/25/2019 - 23:57:41: Server cvar "max_queries_sec_global" = "150"
+L 12/25/2019 - 23:57:41: Server cvar "max_queries_window" = "60"
+L 12/25/2019 - 23:57:41: Server cvar "mdbBans" = "4.8"
+L 12/25/2019 - 23:57:41: Server cvar "metamod_version" = "1.21p37"
+L 12/25/2019 - 23:57:41: Server cvar "mp_autokick" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_autokick_timeout" = "-1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_autoteambalance" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_buytime" = "0.25"
+L 12/25/2019 - 23:57:41: Server cvar "mp_c4timer" = "35"
+L 12/25/2019 - 23:57:41: Server cvar "mp_chattime" = "10.000000"
+L 12/25/2019 - 23:57:41: Server cvar "mp_consistency" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_fadetoblack" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_flashlight" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_footsteps" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_forcecamera" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_forcechasecam" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_forcerespawn" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_fraglimit" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_fragsleft" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_freeforall" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_freezetime" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_friendlyfire" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_hostage_hurtable" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_hostagepenalty" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_item_staytime" = "300"
+L 12/25/2019 - 23:57:41: Server cvar "mp_kickpercent" = "0.66"
+L 12/25/2019 - 23:57:41: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_limitteams" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_logdetail" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_logfile" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_logmessages" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/25/2019 - 23:57:41: Server cvar "mp_maxmoney" = "999999"
+L 12/25/2019 - 23:57:41: Server cvar "mp_maxrounds" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_mirrordamage" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_playerid" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_round_infinite" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_round_restart_delay" = "5"
+L 12/25/2019 - 23:57:41: Server cvar "mp_roundover" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_roundtime" = "2.3"
+L 12/25/2019 - 23:57:41: Server cvar "mp_show_radioicon" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_startmoney" = "850"
+L 12/25/2019 - 23:57:41: Server cvar "mp_timeleft" = "17:36"
+L 12/25/2019 - 23:57:41: Server cvar "mp_timelimit" = "20"
+L 12/25/2019 - 23:57:41: Server cvar "mp_tkpunish" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "mp_windifference" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "mp_winlimit" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/25/2019 - 23:57:41: Server cvar "pausable" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "present_version" = "2.01"
+L 12/25/2019 - 23:57:41: Server cvar "RandomHP" = "2.2"
+L 12/25/2019 - 23:57:41: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/25/2019 - 23:57:41: Server cvar "reconnect_features" = "0.3.1"
+L 12/25/2019 - 23:57:41: Server cvar "report_system_version" = "3.1"
+L 12/25/2019 - 23:57:41: Server cvar "resemiclip_version" = "2.3.9"
+L 12/25/2019 - 23:57:41: Server cvar "reu_version" = "0.1.0.130"
+L 12/25/2019 - 23:57:41: Server cvar "revoice_version" = "0.1.0.30"
+L 12/25/2019 - 23:57:41: Server cvar "RRWM" = "2.0"
+L 12/25/2019 - 23:57:41: Server cvar "sanksounds_version" = "1.8.6"
+L 12/25/2019 - 23:57:41: Server cvar "SimpleMenu" = "1.1"
+L 12/25/2019 - 23:57:41: Server cvar "SNAC_Version" = "1.1"
+L 12/25/2019 - 23:57:41: Server cvar "SpecList" = "1.2a"
+L 12/25/2019 - 23:57:41: Server cvar "sr_version" = "1.6"
+L 12/25/2019 - 23:57:41: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/25/2019 - 23:57:41: Server cvar "StyleC4Timer" = "2.1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_accelerate" = "5"
+L 12/25/2019 - 23:57:41: Server cvar "sv_aim" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_airaccelerate" = "100"
+L 12/25/2019 - 23:57:41: Server cvar "sv_allowupload" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_alltalk" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_bounce" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_cheats" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "sv_clienttrace" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/25/2019 - 23:57:41: Server cvar "sv_friction" = "4"
+L 12/25/2019 - 23:57:41: Server cvar "sv_gravity" = "800"
+L 12/25/2019 - 23:57:41: Server cvar "sv_logblocks" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "sv_maxrate" = "50000"
+L 12/25/2019 - 23:57:41: Server cvar "sv_maxspeed" = "900.000000"
+L 12/25/2019 - 23:57:41: Server cvar "sv_minrate" = "10000"
+L 12/25/2019 - 23:57:41: Server cvar "sv_password" = ""
+L 12/25/2019 - 23:57:41: Server cvar "sv_proxies" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_restart" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "sv_restartround" = "0"
+L 12/25/2019 - 23:57:41: Server cvar "sv_stepsize" = "18"
+L 12/25/2019 - 23:57:41: Server cvar "sv_stopspeed" = "75"
+L 12/25/2019 - 23:57:41: Server cvar "sv_uploadmax" = "0.5"
+L 12/25/2019 - 23:57:41: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/25/2019 - 23:57:41: Server cvar "sv_voiceenable" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "sv_wateraccelerate" = "10"
+L 12/25/2019 - 23:57:41: Server cvar "sv_waterfriction" = "1"
+L 12/25/2019 - 23:57:41: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/25/2019 - 23:57:41: Server cvar "vehicle_real_killer" = "1.1"
+L 12/25/2019 - 23:57:41: Server cvar "WalkGuard" = "1.3.2"
+L 12/25/2019 - 23:57:41: Server cvar "we_grenades" = "Huehue"
+L 12/25/2019 - 23:57:41: Server cvar "we_player_models" = "Huehue"
+L 12/25/2019 - 23:57:41: Server cvar "whb_version" = "1.5.692"
+L 12/25/2019 - 23:57:41: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/25/2019 - 23:57:41: Server cvars end
+L 12/25/2019 - 23:57:43: Server cvar "sv_maxspeed" = "900"
+L 12/25/2019 - 23:57:44: Server cvar "mp_autoteambalance" = "0"
+L 12/25/2019 - 23:57:44: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/25/2019 - 23:57:45: Started map "fy_buzzkill" (CRC "1751606704")
+L 12/25/2019 - 23:57:47: World triggered "Round_Start"
+L 12/25/2019 - 23:58:08: "Sco7ch<107><STEAM_0:0:523417429><>" connected, address "83.79.204.48:27005"
+L 12/25/2019 - 23:58:08: [REUNION]: cala221 (87.245.69.13) authorized as RevEmu
+L 12/25/2019 - 23:58:08: "cala221<108><STEAM_1:1:110586922><>" connected, address "87.245.69.13:27005"
+L 12/25/2019 - 23:58:08: "Sco7ch<107><STEAM_0:0:523417429><>" STEAM USERID validated
+L 12/25/2019 - 23:58:08: "Kirari<109><STEAM_0:0:92075437><>" connected, address "79.217.60.254:27005"
+L 12/25/2019 - 23:58:09: "Kirari<109><STEAM_0:0:92075437><>" STEAM USERID validated
+L 12/25/2019 - 23:58:22: "Sco7ch<107><STEAM_0:0:523417429><>" entered the game
+L 12/25/2019 - 23:58:24: "cala221<108><STEAM_1:1:110586922><>" entered the game
+L 12/25/2019 - 23:58:28: "cala221<108><STEAM_1:1:110586922><>" joined team "TERRORIST"
+L 12/25/2019 - 23:58:30: "Sco7ch<107><STEAM_0:0:523417429><>" joined team "CT"
+L 12/25/2019 - 23:58:31: World triggered "Game_Commencing"
+L 12/25/2019 - 23:58:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/25/2019 - 23:58:31: World triggered "Round_End"
+L 12/25/2019 - 23:58:35: World triggered "Round_Start"
+L 12/25/2019 - 23:58:57: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/25/2019 - 23:58:57: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/25/2019 - 23:58:57: World triggered "Round_End"
+L 12/25/2019 - 23:58:58: "Kirari<109><STEAM_0:0:92075437><>" entered the game
+L 12/25/2019 - 23:59:03: World triggered "Round_Start"
+L 12/25/2019 - 23:59:13: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/25/2019 - 23:59:13: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 12/25/2019 - 23:59:13: World triggered "Round_End"
+L 12/25/2019 - 23:59:19: World triggered "Round_Start"
+L 12/25/2019 - 23:59:26: "Kirari<109><STEAM_0:0:92075437><>" joined team "TERRORIST"
+L 12/25/2019 - 23:59:35: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/25/2019 - 23:59:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 12/25/2019 - 23:59:35: World triggered "Round_End"
+L 12/25/2019 - 23:59:41: World triggered "Round_Start"
+L 12/26/2019 - 00:00:02: "Kirari<109><STEAM_0:0:92075437><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "m3"
+L 12/26/2019 - 00:00:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 12/26/2019 - 00:00:02: World triggered "Round_End"
+L 12/26/2019 - 00:00:08: World triggered "Round_Start"
+L 12/26/2019 - 00:00:18: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "deagle"
+L 12/26/2019 - 00:00:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 12/26/2019 - 00:00:18: World triggered "Round_End"
+L 12/26/2019 - 00:00:24: World triggered "Round_Start"
+L 12/26/2019 - 00:00:37: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:00:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 12/26/2019 - 00:00:37: World triggered "Round_End"
+L 12/26/2019 - 00:00:43: World triggered "Round_Start"
+L 12/26/2019 - 00:00:54: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:01:06: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:01:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 12/26/2019 - 00:01:06: World triggered "Round_End"
+L 12/26/2019 - 00:01:12: World triggered "Round_Start"
+L 12/26/2019 - 00:01:27: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:01:37: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:01:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 12/26/2019 - 00:01:37: World triggered "Round_End"
+L 12/26/2019 - 00:01:43: World triggered "Round_Start"
+L 12/26/2019 - 00:01:52: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:01:59: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:01:59: Team "CT" triggered "CTs_Win" (CT "3") (T "6")
+L 12/26/2019 - 00:01:59: World triggered "Round_End"
+L 12/26/2019 - 00:02:05: World triggered "Round_Start"
+L 12/26/2019 - 00:02:13: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 00:02:15: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 00:02:15: Team "CT" triggered "CTs_Win" (CT "4") (T "6")
+L 12/26/2019 - 00:02:15: World triggered "Round_End"
+L 12/26/2019 - 00:02:21: World triggered "Round_Start"
+L 12/26/2019 - 00:02:31: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:02:57: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "deagle"
+L 12/26/2019 - 00:02:57: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 12/26/2019 - 00:02:57: World triggered "Round_End"
+L 12/26/2019 - 00:03:03: World triggered "Round_Start"
+L 12/26/2019 - 00:03:10: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:03:17: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:03:17: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 12/26/2019 - 00:03:17: World triggered "Round_End"
+L 12/26/2019 - 00:03:23: World triggered "Round_Start"
+L 12/26/2019 - 00:03:33: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:03:37: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:03:37: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 12/26/2019 - 00:03:37: World triggered "Round_End"
+L 12/26/2019 - 00:03:43: World triggered "Round_Start"
+L 12/26/2019 - 00:04:03: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "galil"
+L 12/26/2019 - 00:04:08: "cala221<108><STEAM_1:1:110586922><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 00:04:08: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 12/26/2019 - 00:04:08: World triggered "Round_End"
+L 12/26/2019 - 00:04:14: World triggered "Round_Start"
+L 12/26/2019 - 00:04:57: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:05:09: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:05:09: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 12/26/2019 - 00:05:09: World triggered "Round_End"
+L 12/26/2019 - 00:05:15: World triggered "Round_Start"
+L 12/26/2019 - 00:05:24: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:05:29: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:05:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "7")
+L 12/26/2019 - 00:05:29: World triggered "Round_End"
+L 12/26/2019 - 00:05:35: World triggered "Round_Start"
+L 12/26/2019 - 00:05:42: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:05:46: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:05:46: Team "CT" triggered "CTs_Win" (CT "10") (T "7")
+L 12/26/2019 - 00:05:46: World triggered "Round_End"
+L 12/26/2019 - 00:05:52: World triggered "Round_Start"
+L 12/26/2019 - 00:06:07: "Kirari<109><STEAM_0:0:92075437><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "xm1014"
+L 12/26/2019 - 00:06:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "8")
+L 12/26/2019 - 00:06:07: World triggered "Round_End"
+L 12/26/2019 - 00:06:13: World triggered "Round_Start"
+L 12/26/2019 - 00:06:29: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:06:33: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:06:33: Team "CT" triggered "CTs_Win" (CT "11") (T "8")
+L 12/26/2019 - 00:06:33: World triggered "Round_End"
+L 12/26/2019 - 00:06:39: World triggered "Round_Start"
+L 12/26/2019 - 00:06:55: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:06:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "9")
+L 12/26/2019 - 00:06:55: World triggered "Round_End"
+L 12/26/2019 - 00:07:01: World triggered "Round_Start"
+L 12/26/2019 - 00:07:08: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:07:18: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "grenade"
+L 12/26/2019 - 00:07:18: Team "CT" triggered "CTs_Win" (CT "12") (T "9")
+L 12/26/2019 - 00:07:18: World triggered "Round_End"
+L 12/26/2019 - 00:07:24: World triggered "Round_Start"
+L 12/26/2019 - 00:07:29: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ump45"
+L 12/26/2019 - 00:07:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "10")
+L 12/26/2019 - 00:07:29: World triggered "Round_End"
+L 12/26/2019 - 00:07:35: World triggered "Round_Start"
+L 12/26/2019 - 00:07:41: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:07:43: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:07:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "11")
+L 12/26/2019 - 00:07:43: World triggered "Round_End"
+L 12/26/2019 - 00:07:49: World triggered "Round_Start"
+L 12/26/2019 - 00:07:58: [REUNION]: <Warrior> Player (109.93.38.35) authorized as RevEmu
+L 12/26/2019 - 00:07:58: "<Warrior> Player<110><STEAM_1:1:767892478><>" connected, address "109.93.38.35:27005"
+L 12/26/2019 - 00:08:05: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:08:07: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:08:07: Team "CT" triggered "CTs_Win" (CT "13") (T "11")
+L 12/26/2019 - 00:08:07: World triggered "Round_End"
+L 12/26/2019 - 00:08:13: World triggered "Round_Start"
+L 12/26/2019 - 00:08:17: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:08:24: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:08:24: Team "CT" triggered "CTs_Win" (CT "14") (T "11")
+L 12/26/2019 - 00:08:24: World triggered "Round_End"
+L 12/26/2019 - 00:08:30: World triggered "Round_Start"
+L 12/26/2019 - 00:08:37: "Kirari<109><STEAM_0:0:92075437><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "famas"
+L 12/26/2019 - 00:08:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "12")
+L 12/26/2019 - 00:08:37: World triggered "Round_End"
+L 12/26/2019 - 00:08:43: World triggered "Round_Start"
+L 12/26/2019 - 00:08:45: [REUNION]: 8==F (109.93.203.123) authorized as RevEmu
+L 12/26/2019 - 00:08:45: "8==F<111><STEAM_1:0:365614513><>" connected, address "109.93.203.123:3004"
+L 12/26/2019 - 00:08:57: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:08:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "13")
+L 12/26/2019 - 00:08:57: World triggered "Round_End"
+L 12/26/2019 - 00:09:03: World triggered "Round_Start"
+L 12/26/2019 - 00:09:18: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:09:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "14")
+L 12/26/2019 - 00:09:18: World triggered "Round_End"
+L 12/26/2019 - 00:09:24: World triggered "Round_Start"
+L 12/26/2019 - 00:09:30: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:09:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "15")
+L 12/26/2019 - 00:09:30: World triggered "Round_End"
+L 12/26/2019 - 00:09:32: [REUNION]: 8==F (109.93.203.123) authorized as RevEmu
+L 12/26/2019 - 00:09:32: "8==F<112><STEAM_1:0:365614513><>" connected, address "109.93.203.123:3004"
+L 12/26/2019 - 00:09:36: World triggered "Round_Start"
+L 12/26/2019 - 00:09:46: "Sco7ch<107><STEAM_0:0:523417429><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:09:47: "8==F<112><STEAM_1:0:365614513><>" entered the game
+L 12/26/2019 - 00:09:51: "8==F<112><STEAM_1:0:365614513><>" joined team "CT"
+L 12/26/2019 - 00:10:21: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "ak47"
+L 12/26/2019 - 00:10:22: [REUNION]: <Warrior> Player (109.93.38.35) authorized as RevEmu
+L 12/26/2019 - 00:10:22: "<Warrior> Player<113><STEAM_1:1:767892478><>" connected, address "109.93.38.35:27005"
+L 12/26/2019 - 00:10:22: "8==F<112><STEAM_1:0:365614513><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:10:22: Team "CT" triggered "CTs_Win" (CT "15") (T "15")
+L 12/26/2019 - 00:10:22: World triggered "Round_End"
+L 12/26/2019 - 00:10:28: World triggered "Round_Start"
+L 12/26/2019 - 00:10:32: "<Warrior> Player<113><STEAM_1:1:767892478><>" entered the game
+L 12/26/2019 - 00:10:41: "Kirari<109><STEAM_0:0:92075437><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><CT>" with "m4a1"
+L 12/26/2019 - 00:10:50: "8==F<112><STEAM_1:0:365614513><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:11:06: "<Warrior> Player<113><STEAM_1:1:767892478><>" joined team "CT"
+L 12/26/2019 - 00:11:06: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "m4a1"
+L 12/26/2019 - 00:11:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "16")
+L 12/26/2019 - 00:11:06: World triggered "Round_End"
+L 12/26/2019 - 00:11:11: "Sco7ch<107><STEAM_0:0:523417429><CT>" joined team "TERRORIST"
+L 12/26/2019 - 00:11:11: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Sco7ch to TERRORIST")
+L 12/26/2019 - 00:11:12: World triggered "Round_Start"
+L 12/26/2019 - 00:11:22: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "<Warrior> Player<113><STEAM_1:1:767892478><CT>" with "m4a1"
+L 12/26/2019 - 00:11:23: "8==F<112><STEAM_1:0:365614513><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "deagle"
+L 12/26/2019 - 00:11:24: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "m4a1"
+L 12/26/2019 - 00:11:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "17")
+L 12/26/2019 - 00:11:24: World triggered "Round_End"
+L 12/26/2019 - 00:11:28: "cala221<108><STEAM_1:1:110586922><TERRORIST>" joined team "CT"
+L 12/26/2019 - 00:11:28: "<><><>" triggered "amx_chat" (text "[PTB] Transfered cala221 to CT")
+L 12/26/2019 - 00:11:30: World triggered "Round_Start"
+L 12/26/2019 - 00:11:42: "<Warrior> Player<113><STEAM_1:1:767892478><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "deagle"
+L 12/26/2019 - 00:11:42: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "deagle"
+L 12/26/2019 - 00:11:50: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<113><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:12:00: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "cala221<108><STEAM_1:1:110586922><CT>" with "ak47"
+L 12/26/2019 - 00:12:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "18")
+L 12/26/2019 - 00:12:00: World triggered "Round_End"
+L 12/26/2019 - 00:12:06: World triggered "Round_Start"
+L 12/26/2019 - 00:12:15: "cala221<108><STEAM_1:1:110586922><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "galil"
+L 12/26/2019 - 00:12:22: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "cala221<108><STEAM_1:1:110586922><CT>" with "galil"
+L 12/26/2019 - 00:12:40: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<113><STEAM_1:1:767892478><CT>" with "galil"
+L 12/26/2019 - 00:12:41: "8==F<112><STEAM_1:0:365614513><CT>" killed "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" with "galil"
+L 12/26/2019 - 00:12:41: Team "CT" triggered "CTs_Win" (CT "16") (T "18")
+L 12/26/2019 - 00:12:41: World triggered "Round_End"
+L 12/26/2019 - 00:12:42: "<Warrior> Player<113><STEAM_1:1:767892478><CT>" disconnected
+L 12/26/2019 - 00:12:42: [REUNION]: <Warrior> Player (109.93.38.35) authorized as RevEmu
+L 12/26/2019 - 00:12:42: "<Warrior> Player<114><STEAM_1:1:767892478><>" connected, address "109.93.38.35:27005"
+L 12/26/2019 - 00:12:47: World triggered "Round_Start"
+L 12/26/2019 - 00:12:49: "<Warrior> Player<114><STEAM_1:1:767892478><>" entered the game
+L 12/26/2019 - 00:12:51: "<Warrior> Player<114><STEAM_1:1:767892478><>" joined team "CT"
+L 12/26/2019 - 00:13:01: "8==F<112><STEAM_1:0:365614513><CT>" killed "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:13:05: "cala221<108><STEAM_1:1:110586922><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "m249"
+L 12/26/2019 - 00:13:05: Team "CT" triggered "CTs_Win" (CT "17") (T "18")
+L 12/26/2019 - 00:13:05: World triggered "Round_End"
+L 12/26/2019 - 00:13:09: "cala221<108><STEAM_1:1:110586922><CT>" joined team "TERRORIST"
+L 12/26/2019 - 00:13:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered cala221 to TERRORIST")
+L 12/26/2019 - 00:13:11: World triggered "Round_Start"
+L 12/26/2019 - 00:13:34: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "ak47"
+L 12/26/2019 - 00:13:34: "<Warrior> Player<114><STEAM_1:1:767892478><CT>" killed "Kirari<109><STEAM_0:0:92075437><TERRORIST>" with "deagle"
+L 12/26/2019 - 00:13:43: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:13:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "19")
+L 12/26/2019 - 00:13:43: World triggered "Round_End"
+L 12/26/2019 - 00:13:47: "Kirari<109><STEAM_0:0:92075437><TERRORIST>" joined team "CT"
+L 12/26/2019 - 00:13:47: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Kirari to CT")
+L 12/26/2019 - 00:13:49: World triggered "Round_Start"
+L 12/26/2019 - 00:13:55: "<Warrior> Player<114><STEAM_1:1:767892478><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:13:59: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "Kirari<109><STEAM_0:0:92075437><CT>" with "ak47"
+L 12/26/2019 - 00:14:00: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "ak47"
+L 12/26/2019 - 00:14:04: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:14:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "20")
+L 12/26/2019 - 00:14:04: World triggered "Round_End"
+L 12/26/2019 - 00:14:10: World triggered "Round_Start"
+L 12/26/2019 - 00:14:21: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "Kirari<109><STEAM_0:0:92075437><CT>" with "ak47"
+L 12/26/2019 - 00:14:25: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:14:44: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "ak47"
+L 12/26/2019 - 00:14:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "21")
+L 12/26/2019 - 00:14:44: World triggered "Round_End"
+L 12/26/2019 - 00:14:50: World triggered "Round_Start"
+L 12/26/2019 - 00:15:00: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "ak47"
+L 12/26/2019 - 00:15:03: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:15:12: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Kirari<109><STEAM_0:0:92075437><CT>" with "ak47"
+L 12/26/2019 - 00:15:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "22")
+L 12/26/2019 - 00:15:12: World triggered "Round_End"
+L 12/26/2019 - 00:15:17: "cala221<108><STEAM_1:1:110586922><TERRORIST>" joined team "CT"
+L 12/26/2019 - 00:15:17: "<><><>" triggered "amx_chat" (text "[PTB] Transfered cala221 to CT")
+L 12/26/2019 - 00:15:18: World triggered "Round_Start"
+L 12/26/2019 - 00:15:19: "Kirari<109><STEAM_0:0:92075437><CT>" disconnected
+L 12/26/2019 - 00:15:36: "cala221<108><STEAM_1:1:110586922><CT>" killed "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:15:36: Team "CT" triggered "CTs_Win" (CT "18") (T "22")
+L 12/26/2019 - 00:15:36: World triggered "Round_End"
+L 12/26/2019 - 00:15:41: "8==F<112><STEAM_1:0:365614513><CT>" joined team "TERRORIST"
+L 12/26/2019 - 00:15:41: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 8==F to TERRORIST")
+L 12/26/2019 - 00:15:42: World triggered "Round_Start"
+L 12/26/2019 - 00:15:50: "8==F<112><STEAM_1:0:365614513><TERRORIST>" killed "cala221<108><STEAM_1:1:110586922><CT>" with "m4a1"
+L 12/26/2019 - 00:15:53: "8==F<112><STEAM_1:0:365614513><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "m4a1"
+L 12/26/2019 - 00:15:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "23")
+L 12/26/2019 - 00:15:53: World triggered "Round_End"
+L 12/26/2019 - 00:15:59: World triggered "Round_Start"
+L 12/26/2019 - 00:16:10: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "cala221<108><STEAM_1:1:110586922><CT>" with "ak47"
+L 12/26/2019 - 00:16:12: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:16:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "24")
+L 12/26/2019 - 00:16:12: World triggered "Round_End"
+L 12/26/2019 - 00:16:18: World triggered "Round_Start"
+L 12/26/2019 - 00:16:27: "<Warrior> Player<114><STEAM_1:1:767892478><CT>" killed "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:16:47: "cala221<108><STEAM_1:1:110586922><CT>" killed "8==F<112><STEAM_1:0:365614513><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:16:47: Team "CT" triggered "CTs_Win" (CT "19") (T "24")
+L 12/26/2019 - 00:16:47: World triggered "Round_End"
+L 12/26/2019 - 00:16:53: World triggered "Round_Start"
+L 12/26/2019 - 00:17:05: "8==F<112><STEAM_1:0:365614513><TERRORIST>" killed "cala221<108><STEAM_1:1:110586922><CT>" with "mac10"
+L 12/26/2019 - 00:17:13: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "mac10"
+L 12/26/2019 - 00:17:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "25")
+L 12/26/2019 - 00:17:13: World triggered "Round_End"
+L 12/26/2019 - 00:17:18: "8==F<112><STEAM_1:0:365614513><TERRORIST>" joined team "CT"
+L 12/26/2019 - 00:17:18: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 8==F to CT")
+L 12/26/2019 - 00:17:19: World triggered "Round_Start"
+L 12/26/2019 - 00:17:36: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "8==F<112><STEAM_1:0:365614513><CT>" with "ak47"
+L 12/26/2019 - 00:17:44: "cala221<108><STEAM_1:1:110586922><CT>" killed "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" with "knife"
+L 12/26/2019 - 00:17:44: Team "CT" triggered "CTs_Win" (CT "20") (T "25")
+L 12/26/2019 - 00:17:44: World triggered "Round_End"
+L 12/26/2019 - 00:17:49: "cala221<108><STEAM_1:1:110586922><CT>" joined team "TERRORIST"
+L 12/26/2019 - 00:17:49: "<><><>" triggered "amx_chat" (text "[PTB] Transfered cala221 to TERRORIST")
+L 12/26/2019 - 00:17:50: World triggered "Round_Start"
+L 12/26/2019 - 00:17:55: "<Warrior> Player<114><STEAM_1:1:767892478><CT>" killed "cala221<108><STEAM_1:1:110586922><TERRORIST>" with "m4a1"
+L 12/26/2019 - 00:18:00: "8==F<112><STEAM_1:0:365614513><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 00:18:12: Server cvar "amx_nextmap" = "awesome_cars"
+L 12/26/2019 - 00:18:14: Server cvar "mp_timelimit" = "0.000000"
+L 12/26/2019 - 00:18:18: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" killed "<Warrior> Player<114><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 00:18:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "26")
+L 12/26/2019 - 00:18:18: World triggered "Round_End"
+L 12/26/2019 - 00:18:24: World triggered "Round_Start"
+L 12/26/2019 - 00:18:24: Server cvar "sv_maxspeed" = "0.000000"
+L 12/26/2019 - 00:18:24: Server cvar "mp_friendlyfire" = "1"
+L 12/26/2019 - 00:18:30: "8==F<112><STEAM_1:0:365614513><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 00:18:32: "cala221<108><STEAM_1:1:110586922><TERRORIST>" killed "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" with "ak47"
+L 12/26/2019 - 00:18:35: Server cvar "sv_maxspeed" = "900.000000"
+L 12/26/2019 - 00:18:35: Server cvar "mp_friendlyfire" = "0"
+L 12/26/2019 - 00:18:35: Server cvar "mp_timelimit" = "20.000000"
+L 12/26/2019 - 00:18:36: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: AMX Mod X
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: Reunion
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: ReAuthCheck
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: WHBlocker
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: ReSemiclip
+L 12/26/2019 - 00:18:36: [META] ini: Read plugin config for: Revoice
+L 12/26/2019 - 00:18:36: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/26/2019 - 00:18:36: [META] dll: Updating plugins...
+L 12/26/2019 - 00:18:36: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 00:18:36: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/26/2019 - 00:18:36: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/26/2019 - 00:18:36: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 00:18:36: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/26/2019 - 00:18:36: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/26/2019 - 00:18:36: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 00:18:36: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/26/2019 - 00:18:36: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/26/2019 - 00:18:36: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/26/2019 - 00:18:36: "8==F<112><STEAM_1:0:365614513><CT>" disconnected
+L 12/26/2019 - 00:18:36: "Sco7ch<107><STEAM_0:0:523417429><TERRORIST>" disconnected
+L 12/26/2019 - 00:18:36: "<Warrior> Player<114><STEAM_1:1:767892478><CT>" disconnected
+L 12/26/2019 - 00:18:36: "cala221<108><STEAM_1:1:110586922><TERRORIST>" disconnected
+L 12/26/2019 - 00:18:36: World triggered "Round_Draw" (CT "20") (T "26")
+L 12/26/2019 - 00:18:36: World triggered "Round_End"
+L 12/26/2019 - 00:18:36: Log file closed

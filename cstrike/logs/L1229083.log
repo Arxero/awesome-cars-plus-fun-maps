@@ -1,0 +1,121 @@
+L 12/29/2019 - 22:43:06: Log file started (file "logs/L1229083.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/29/2019 - 22:43:06: Server cvar "mp_buytime" = "1"
+L 12/29/2019 - 22:43:06: Server cvar "mp_c4timer" = "35"
+L 12/29/2019 - 22:43:06: Server cvar "mp_flashlight" = "1"
+L 12/29/2019 - 22:43:06: Server cvar "mp_freezetime" = "1"
+L 12/29/2019 - 22:43:06: Server cvar "mp_hostagepenalty" = "0"
+L 12/29/2019 - 22:43:06: Server cvar "mp_limitteams" = "1"
+L 12/29/2019 - 22:43:06: Server cvar "mp_roundtime" = "2.3"
+L 12/29/2019 - 22:43:06: Server cvar "mp_startmoney" = "850"
+L 12/29/2019 - 22:43:06: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/29/2019 - 22:43:06: Server cvar "sv_maxrate" = "50000"
+L 12/29/2019 - 22:43:06: Server cvar "sv_maxspeed" = "320"
+L 12/29/2019 - 22:43:06: Server cvar "sv_minrate" = "10000"
+L 12/29/2019 - 22:43:06: Server cvar "max_queries_sec_global" = "***PROTECTED***"
+L 12/29/2019 - 22:43:06: Server cvar "max_queries_sec" = "***PROTECTED***"
+L 12/29/2019 - 22:43:06: Server cvar "decalfrequency" = "0"
+L 12/29/2019 - 22:43:06: Server cvar "sv_airaccelerate" = "100"
+L 12/29/2019 - 22:43:06: Server cvar "sv_friction" = "3"
+L 12/29/2019 - 22:43:06: Server cvar "sv_friction" = "4"
+L 12/29/2019 - 22:43:09: [REUNION]: cala221 (194.230.148.60) authorized as RevEmu
+L 12/29/2019 - 22:43:09: "cala221<1><STEAM_1:1:997480938><>" connected, address "194.230.148.60:3995"
+L 12/29/2019 - 22:43:12: Server cvar "mp_timelimit" = "10"
+L 12/29/2019 - 22:43:13: World triggered "Round_Start"
+L 12/29/2019 - 22:43:14: [REUNION]: tedo (194.187.135.147) authorized as RevEmu
+L 12/29/2019 - 22:43:14: "tedo<2><STEAM_1:0:908198505><>" connected, address "194.187.135.147:27005"
+L 12/29/2019 - 22:43:17: [REUNION]: tedo (194.187.135.147) authorized as RevEmu
+L 12/29/2019 - 22:43:17: "tedo<3><STEAM_1:0:908198505><>" connected, address "194.187.135.147:27005"
+L 12/29/2019 - 22:43:19: "cala221<1><STEAM_1:1:997480938><>" entered the game
+L 12/29/2019 - 22:43:20: "tedo<3><STEAM_1:0:908198505><>" entered the game
+L 12/29/2019 - 22:43:24: "tedo<3><STEAM_1:0:908198505><>" joined team "CT"
+L 12/29/2019 - 22:43:25: "cala221<1><STEAM_1:1:997480938><>" joined team "CT"
+L 12/29/2019 - 22:43:37: "Sco7ch<4><STEAM_0:0:523417429><>" connected, address "188.62.113.175:27005"
+L 12/29/2019 - 22:43:38: "Sco7ch<4><STEAM_0:0:523417429><>" STEAM USERID validated
+L 12/29/2019 - 22:43:40: "Sco7ch<4><STEAM_0:0:523417429><>" entered the game
+L 12/29/2019 - 22:43:44: "Sco7ch<4><STEAM_0:0:523417429><>" joined team "TERRORIST"
+L 12/29/2019 - 22:43:44: World triggered "Game_Commencing"
+L 12/29/2019 - 22:43:44: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/29/2019 - 22:43:44: World triggered "Round_End"
+L 12/29/2019 - 22:43:48: World triggered "Round_Start"
+L 12/29/2019 - 22:44:16: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "tracktrain"
+L 12/29/2019 - 22:44:19: "tedo<3><STEAM_1:0:908198505><CT>" killed "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" with "tracktrain"
+L 12/29/2019 - 22:44:19: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/29/2019 - 22:44:19: World triggered "Round_End"
+L 12/29/2019 - 22:44:25: World triggered "Round_Start"
+L 12/29/2019 - 22:44:44: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "tedo<3><STEAM_1:0:908198505><CT>" with "tracktrain"
+L 12/29/2019 - 22:46:33: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "knife"
+L 12/29/2019 - 22:46:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/29/2019 - 22:46:33: World triggered "Round_End"
+L 12/29/2019 - 22:46:39: World triggered "Round_Start"
+L 12/29/2019 - 22:47:07: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "tracktrain"
+L 12/29/2019 - 22:48:04: "tedo<3><STEAM_1:0:908198505><CT>" killed "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" with "tracktrain"
+L 12/29/2019 - 22:48:04: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/29/2019 - 22:48:04: World triggered "Round_End"
+L 12/29/2019 - 22:48:10: World triggered "Round_Start"
+L 12/29/2019 - 22:48:28: "tedo<3><STEAM_1:0:908198505><CT>" killed "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" with "tracktrain"
+L 12/29/2019 - 22:48:28: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 12/29/2019 - 22:48:28: World triggered "Round_End"
+L 12/29/2019 - 22:48:34: World triggered "Round_Start"
+L 12/29/2019 - 22:49:12: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 335)
+L 12/29/2019 - 22:49:13: "tedo<3><STEAM_1:0:908198505><CT>" killed "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" with "tracktrain"
+L 12/29/2019 - 22:49:13: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 12/29/2019 - 22:49:13: World triggered "Round_End"
+L 12/29/2019 - 22:49:14: "tedo<3><STEAM_1:0:908198505><CT>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "tracktrain"
+L 12/29/2019 - 22:49:19: World triggered "Round_Start"
+L 12/29/2019 - 22:49:25: "tedo<3><STEAM_1:0:908198505><CT>" committed suicide with "world"
+L 12/29/2019 - 22:49:44: "cala221<1><STEAM_1:1:997480938><CT>" killed "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" with "knife"
+L 12/29/2019 - 22:49:44: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 12/29/2019 - 22:49:44: World triggered "Round_End"
+L 12/29/2019 - 22:49:50: World triggered "Round_Start"
+L 12/29/2019 - 22:50:09: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "tedo<3><STEAM_1:0:908198505><CT>" with "tracktrain"
+L 12/29/2019 - 22:50:11: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "tracktrain"
+L 12/29/2019 - 22:50:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 12/29/2019 - 22:50:11: World triggered "Round_End"
+L 12/29/2019 - 22:50:17: World triggered "Round_Start"
+L 12/29/2019 - 22:51:29: "tedo<3><STEAM_1:0:908198505><CT>" killed "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" with "tracktrain"
+L 12/29/2019 - 22:51:29: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 12/29/2019 - 22:51:29: World triggered "Round_End"
+L 12/29/2019 - 22:51:35: World triggered "Round_Start"
+L 12/29/2019 - 22:52:04: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "tedo<3><STEAM_1:0:908198505><CT>" with "knife"
+L 12/29/2019 - 22:52:18: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "knife"
+L 12/29/2019 - 22:52:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "3")
+L 12/29/2019 - 22:52:18: World triggered "Round_End"
+L 12/29/2019 - 22:52:24: World triggered "Round_Start"
+L 12/29/2019 - 22:53:20: Server cvar "mp_timelimit" = "0.000000"
+L 12/29/2019 - 22:53:54: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "cala221<1><STEAM_1:1:997480938><CT>" with "knife"
+L 12/29/2019 - 22:54:04: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" killed "tedo<3><STEAM_1:0:908198505><CT>" with "tracktrain"
+L 12/29/2019 - 22:54:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 12/29/2019 - 22:54:04: World triggered "Round_End"
+L 12/29/2019 - 22:54:10: World triggered "Round_Start"
+L 12/29/2019 - 22:54:10: Server cvar "sv_maxspeed" = "0.000000"
+L 12/29/2019 - 22:54:10: Server cvar "mp_friendlyfire" = "1"
+L 12/29/2019 - 22:54:17: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/29/2019 - 22:54:17: Team "CT" triggered "CTs_Win" (CT "7") (T "4")
+L 12/29/2019 - 22:54:17: World triggered "Round_End"
+L 12/29/2019 - 22:54:21: Server cvar "sv_maxspeed" = "320.000000"
+L 12/29/2019 - 22:54:21: Server cvar "mp_friendlyfire" = "0"
+L 12/29/2019 - 22:54:21: Server cvar "mp_timelimit" = "10.000000"
+L 12/29/2019 - 22:54:21: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: AMX Mod X
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: Reunion
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: ReAuthCheck
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: WHBlocker
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: ReSemiclip
+L 12/29/2019 - 22:54:21: [META] ini: Read plugin config for: Revoice
+L 12/29/2019 - 22:54:21: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/29/2019 - 22:54:21: [META] dll: Updating plugins...
+L 12/29/2019 - 22:54:21: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/29/2019 - 22:54:21: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/29/2019 - 22:54:21: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/29/2019 - 22:54:21: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/29/2019 - 22:54:21: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/29/2019 - 22:54:21: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/29/2019 - 22:54:21: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/29/2019 - 22:54:21: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/29/2019 - 22:54:21: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/29/2019 - 22:54:21: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/29/2019 - 22:54:21: "cala221<1><STEAM_1:1:997480938><CT>" disconnected
+L 12/29/2019 - 22:54:21: "tedo<3><STEAM_1:0:908198505><CT>" disconnected
+L 12/29/2019 - 22:54:21: "Sco7ch<4><STEAM_0:0:523417429><TERRORIST>" disconnected
+L 12/29/2019 - 22:54:21: Log file closed

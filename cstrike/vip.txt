@@ -1,0 +1,26 @@
+html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>
+<font size="2" color="#e0a518"><b><center>What u get when u are VIP?</center></b></font><br />
+<font size="1" color="#c0c0ff">
+<UL>
+<LI TYPE=square>You get Free nades each round. (HE,2FB,SG)</LI><br>
+<LI TYPE=square>Free Armor+Helm.</LI><br>
+<LI TYPE=square>You Get 500$ per kill and per HS 800$.</LI><br>
+<LI TYPE=square>You See bullet damage at real time.</LI><br>
+<LI TYPE=square>Write /vips u will see VIP's online..</LI><br>
+<LI TYPE=square>You can see Admin Chat and write on it.</UL><br>
+<LI TYPE=square>Slot reservation.</UL><br>
+<LI TYPE=square>Only VIP's from 3round will see free gun menu</UL><br>
+<font size="1" color=#00c000><strong>What Price of VIP?</strong></font><br>
+Go to the VIP Section! >>>>> awesomecs.prophpbb.com <<<<<.<br>
+<font size="2" color="#ffffff"><strong>VIP by The Pro</strong></font><br />
+</body>
+</html>

@@ -1,0 +1,334 @@
+L 12/13/2019 - 23:17:02: Log file started (file "logs/L1213181.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/13/2019 - 23:17:02: Loading map "cart_attack"
+L 12/13/2019 - 23:17:02: Server cvars start
+L 12/13/2019 - 23:17:02: Server cvar "@BunnyHopper" = "3.x"
+L 12/13/2019 - 23:17:02: Server cvar "@CRXGoSpec" = "1.1"
+L 12/13/2019 - 23:17:02: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "@D.I.C.E." = "1.1"
+L 12/13/2019 - 23:17:02: Server cvar "@MOTDCommands" = "1.2"
+L 12/13/2019 - 23:17:02: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/13/2019 - 23:17:02: Server cvar "AdvancedMute" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "aesp_version" = "1.3"
+L 12/13/2019 - 23:17:02: Server cvar "allow_spectators" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "amx_client_languages" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "amx_language" = "en"
+L 12/13/2019 - 23:17:02: Server cvar "amx_nextmap" = "cart_attack"
+L 12/13/2019 - 23:17:02: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/13/2019 - 23:17:02: Server cvar "amx_timeleft" = "05:12"
+L 12/13/2019 - 23:17:02: Server cvar "amxmodx_version" = "1.8.2"
+L 12/13/2019 - 23:17:02: Server cvar "amxxbg_vip" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "asp_version" = "4.5.1"
+L 12/13/2019 - 23:17:02: Server cvar "atac_version" = "3.0.1"
+L 12/13/2019 - 23:17:02: Server cvar "badcamper_version" = "1.4 beta"
+L 12/13/2019 - 23:17:02: Server cvar "blockmaker" = "4.01"
+L 12/13/2019 - 23:17:02: Server cvar "c4 timer" = "1.1"
+L 12/13/2019 - 23:17:02: Server cvar "coop" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "CRXAdminGroups" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "CRXFastKnife" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "CRXGametracker" = "2.0"
+L 12/13/2019 - 23:17:02: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/13/2019 - 23:17:02: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "CustomShop" = "4.2"
+L 12/13/2019 - 23:17:02: Server cvar "deathmatch" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "decalfrequency" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "edgefriction" = "2"
+L 12/13/2019 - 23:17:02: Server cvar "ers_version" = "2.3c"
+L 12/13/2019 - 23:17:02: Server cvar "gagsystem_shoko" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/13/2019 - 23:17:02: Server cvar "gal_version" = "v5.9.1-926"
+L 12/13/2019 - 23:17:02: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/13/2019 - 23:17:02: Server cvar "humans_join_team" = "any"
+L 12/13/2019 - 23:17:02: Server cvar "jtp10181" = "chute,gore"
+L 12/13/2019 - 23:17:02: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/13/2019 - 23:17:02: Server cvar "LetitSnow" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/13/2019 - 23:17:02: Server cvar "max_queries_sec" = "3"
+L 12/13/2019 - 23:17:02: Server cvar "max_queries_sec_global" = "150"
+L 12/13/2019 - 23:17:02: Server cvar "max_queries_window" = "60"
+L 12/13/2019 - 23:17:02: Server cvar "mdbBans" = "4.8"
+L 12/13/2019 - 23:17:02: Server cvar "metamod_version" = "1.21p37"
+L 12/13/2019 - 23:17:02: Server cvar "mp_autokick" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_autokick_timeout" = "-1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_autoteambalance" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_buytime" = "0.25"
+L 12/13/2019 - 23:17:02: Server cvar "mp_c4timer" = "35"
+L 12/13/2019 - 23:17:02: Server cvar "mp_chattime" = "10.000000"
+L 12/13/2019 - 23:17:02: Server cvar "mp_consistency" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_fadetoblack" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_flashlight" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_footsteps" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_forcecamera" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_forcechasecam" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_forcerespawn" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_fraglimit" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_fragsleft" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_freeforall" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_freezetime" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_friendlyfire" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_hostage_hurtable" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_hostagepenalty" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_item_staytime" = "300"
+L 12/13/2019 - 23:17:02: Server cvar "mp_kickpercent" = "0.66"
+L 12/13/2019 - 23:17:02: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_limitteams" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_logdetail" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_logfile" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_logmessages" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/13/2019 - 23:17:02: Server cvar "mp_maxmoney" = "999999"
+L 12/13/2019 - 23:17:02: Server cvar "mp_maxrounds" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_mirrordamage" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_playerid" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_round_infinite" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_round_restart_delay" = "5"
+L 12/13/2019 - 23:17:02: Server cvar "mp_roundover" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_roundtime" = "2.3"
+L 12/13/2019 - 23:17:02: Server cvar "mp_show_radioicon" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_startmoney" = "850"
+L 12/13/2019 - 23:17:02: Server cvar "mp_timeleft" = "05:12"
+L 12/13/2019 - 23:17:02: Server cvar "mp_timelimit" = "20"
+L 12/13/2019 - 23:17:02: Server cvar "mp_tkpunish" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "mp_windifference" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "mp_winlimit" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/13/2019 - 23:17:02: Server cvar "pausable" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "present_version" = "2.01"
+L 12/13/2019 - 23:17:02: Server cvar "RandomHP" = "2.2"
+L 12/13/2019 - 23:17:02: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/13/2019 - 23:17:02: Server cvar "reconnect_features" = "0.3.1"
+L 12/13/2019 - 23:17:02: Server cvar "report_system_version" = "3.1"
+L 12/13/2019 - 23:17:02: Server cvar "resemiclip_version" = "2.3.9"
+L 12/13/2019 - 23:17:02: Server cvar "reu_version" = "0.1.0.130"
+L 12/13/2019 - 23:17:02: Server cvar "revoice_version" = "0.1.0.30"
+L 12/13/2019 - 23:17:02: Server cvar "RRWM" = "2.0"
+L 12/13/2019 - 23:17:02: Server cvar "sanksounds_version" = "1.8.6"
+L 12/13/2019 - 23:17:02: Server cvar "SimpleMenu" = "1.1"
+L 12/13/2019 - 23:17:02: Server cvar "SNAC_Version" = "1.1"
+L 12/13/2019 - 23:17:02: Server cvar "SpecList" = "1.2a"
+L 12/13/2019 - 23:17:02: Server cvar "sr_version" = "1.6"
+L 12/13/2019 - 23:17:02: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/13/2019 - 23:17:02: Server cvar "StyleC4Timer" = "2.1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_accelerate" = "5"
+L 12/13/2019 - 23:17:02: Server cvar "sv_aim" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_airaccelerate" = "100"
+L 12/13/2019 - 23:17:02: Server cvar "sv_allowupload" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_alltalk" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_bounce" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_cheats" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "sv_clienttrace" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/13/2019 - 23:17:02: Server cvar "sv_friction" = "4"
+L 12/13/2019 - 23:17:02: Server cvar "sv_gravity" = "800"
+L 12/13/2019 - 23:17:02: Server cvar "sv_logblocks" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "sv_maxrate" = "50000"
+L 12/13/2019 - 23:17:02: Server cvar "sv_maxspeed" = "900.000000"
+L 12/13/2019 - 23:17:02: Server cvar "sv_minrate" = "10000"
+L 12/13/2019 - 23:17:02: Server cvar "sv_password" = ""
+L 12/13/2019 - 23:17:02: Server cvar "sv_proxies" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_restart" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "sv_restartround" = "0"
+L 12/13/2019 - 23:17:02: Server cvar "sv_stepsize" = "18"
+L 12/13/2019 - 23:17:02: Server cvar "sv_stopspeed" = "75"
+L 12/13/2019 - 23:17:02: Server cvar "sv_uploadmax" = "0.5"
+L 12/13/2019 - 23:17:02: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/13/2019 - 23:17:02: Server cvar "sv_voiceenable" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "sv_wateraccelerate" = "10"
+L 12/13/2019 - 23:17:02: Server cvar "sv_waterfriction" = "1"
+L 12/13/2019 - 23:17:02: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/13/2019 - 23:17:02: Server cvar "vehicle_real_killer" = "1.1"
+L 12/13/2019 - 23:17:02: Server cvar "WalkGuard" = "1.3.2"
+L 12/13/2019 - 23:17:02: Server cvar "we_grenades" = "Huehue"
+L 12/13/2019 - 23:17:02: Server cvar "we_player_models" = "Huehue"
+L 12/13/2019 - 23:17:02: Server cvar "whb_version" = "1.5.692"
+L 12/13/2019 - 23:17:02: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/13/2019 - 23:17:02: Server cvars end
+L 12/13/2019 - 23:17:04: Server cvar "sv_maxspeed" = "900"
+L 12/13/2019 - 23:17:04: Server cvar "mp_autoteambalance" = "1"
+L 12/13/2019 - 23:17:05: Server cvar "mp_autoteambalance" = "0"
+L 12/13/2019 - 23:17:05: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/13/2019 - 23:17:06: Started map "cart_attack" (CRC "-607986547")
+L 12/13/2019 - 23:17:08: World triggered "Round_Start"
+L 12/13/2019 - 23:17:10: [REUNION]: Florin (188.241.70.184) authorized as RevEmu
+L 12/13/2019 - 23:17:10: "Florin<311><STEAM_1:1:2079496364><>" connected, address "188.241.70.184:27005"
+L 12/13/2019 - 23:17:10: [REUNION]: Effectual | NaDrK@No__Pile** (77.243.31.193) authorized as RevEmu
+L 12/13/2019 - 23:17:10: "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><>" connected, address "77.243.31.193:40105"
+L 12/13/2019 - 23:17:13: [REUNION]: Player-Fatal (156.214.61.255) authorized as RevEmu
+L 12/13/2019 - 23:17:13: "Player-Fatal<313><STEAM_1:0:841290966><>" connected, address "156.214.61.255:27005"
+L 12/13/2019 - 23:17:15: "Florin<311><STEAM_1:1:2079496364><>" entered the game
+L 12/13/2019 - 23:17:16: "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><>" entered the game
+L 12/13/2019 - 23:17:17: "Florin<311><STEAM_1:1:2079496364><>" joined team "CT"
+L 12/13/2019 - 23:17:18: "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><>" joined team "TERRORIST"
+L 12/13/2019 - 23:17:18: World triggered "Game_Commencing"
+L 12/13/2019 - 23:17:18: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/13/2019 - 23:17:18: World triggered "Round_End"
+L 12/13/2019 - 23:17:21: "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:17:22: World triggered "Round_Start"
+L 12/13/2019 - 23:17:28: "Player-Fatal<313><STEAM_1:0:841290966><>" entered the game
+L 12/13/2019 - 23:17:34: "Player-Fatal<313><STEAM_1:0:841290966><>" joined team "TERRORIST"
+L 12/13/2019 - 23:17:39: [REUNION]: PaNtA (79.101.130.241) authorized as RevEmu
+L 12/13/2019 - 23:17:39: "PaNtA<314><STEAM_1:0:293049944><>" connected, address "79.101.130.241:27005"
+L 12/13/2019 - 23:17:45: [REUNION]: PaNtA (79.101.130.241) authorized as RevEmu
+L 12/13/2019 - 23:17:45: "PaNtA<315><STEAM_1:0:293049944><>" connected, address "79.101.130.241:27005"
+L 12/13/2019 - 23:17:52: [REUNION]: Veki (109.92.105.76) authorized as RevEmu
+L 12/13/2019 - 23:17:52: "Veki<316><STEAM_2:1:1166319910><>" connected, address "109.92.105.76:27005"
+L 12/13/2019 - 23:17:56: "PaNtA<315><STEAM_1:0:293049944><>" entered the game
+L 12/13/2019 - 23:18:14: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><TERRORIST>" with "grenade"
+L 12/13/2019 - 23:18:14: "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/13/2019 - 23:18:18: "Effectual | NaDrK@No__Pile**<312><STEAM_2:1:1189543934><TERRORIST>" disconnected
+L 12/13/2019 - 23:18:21: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" killed "Florin<311><STEAM_1:1:2079496364><CT>" with "deagle"
+L 12/13/2019 - 23:18:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/13/2019 - 23:18:21: World triggered "Round_End"
+L 12/13/2019 - 23:18:24: "PaNtA<315><STEAM_1:0:293049944><>" joined team "CT"
+L 12/13/2019 - 23:18:25: [REUNION]: Veki (109.92.105.76) authorized as RevEmu
+L 12/13/2019 - 23:18:25: "Veki<317><STEAM_2:1:1166319910><>" connected, address "109.92.105.76:27005"
+L 12/13/2019 - 23:18:26: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:18:27: World triggered "Round_Start"
+L 12/13/2019 - 23:18:29: "Veki<317><STEAM_2:1:1166319910><>" entered the game
+L 12/13/2019 - 23:18:33: "Veki<317><STEAM_2:1:1166319910><>" joined team "TERRORIST"
+L 12/13/2019 - 23:19:13: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:19:13: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/13/2019 - 23:19:30: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" killed "PaNtA<315><STEAM_1:0:293049944><CT>" with "mp5navy"
+L 12/13/2019 - 23:19:37: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Veki<317><STEAM_2:1:1166319910><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:19:37: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 12/13/2019 - 23:19:37: World triggered "Round_End"
+L 12/13/2019 - 23:19:42: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:19:43: World triggered "Round_Start"
+L 12/13/2019 - 23:19:53: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" committed suicide with "world"
+L 12/13/2019 - 23:19:53: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" joined team "CT"
+L 12/13/2019 - 23:20:18: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:20:18: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/13/2019 - 23:20:18: World triggered "Round_End"
+L 12/13/2019 - 23:20:22: "Florin<311><STEAM_1:1:2079496364><CT>" joined team "TERRORIST"
+L 12/13/2019 - 23:20:22: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Florin to TERRORIST")
+L 12/13/2019 - 23:20:23: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:20:24: World triggered "Round_Start"
+L 12/13/2019 - 23:20:51: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/13/2019 - 23:20:56: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" triggered "Got_The_Bomb"
+L 12/13/2019 - 23:21:12: [REUNION]: lucrak (179.6.46.144) authorized as RevEmu
+L 12/13/2019 - 23:21:12: "lucrak<318><STEAM_1:0:1645778643><>" connected, address "179.6.46.144:4248"
+L 12/13/2019 - 23:21:14: "Veki<317><STEAM_2:1:1166319910><CT>" killed "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:21:15: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" killed "Veki<317><STEAM_2:1:1166319910><CT>" with "m4a1"
+L 12/13/2019 - 23:21:23: "Veki<317><STEAM_2:1:1166319910><CT>" joined team "TERRORIST"
+L 12/13/2019 - 23:21:27: [REUNION]: Monchis (190.198.134.195) authorized as RevEmu
+L 12/13/2019 - 23:21:27: "Monchis<319><STEAM_2:0:2025735122><>" connected, address "190.198.134.195:3181"
+L 12/13/2019 - 23:21:33: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" killed "PaNtA<315><STEAM_1:0:293049944><CT>" with "m4a1"
+L 12/13/2019 - 23:21:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 12/13/2019 - 23:21:33: World triggered "Round_End"
+L 12/13/2019 - 23:21:37: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" joined team "CT"
+L 12/13/2019 - 23:21:37: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Player-Fatal to CT")
+L 12/13/2019 - 23:21:38: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:21:39: World triggered "Round_Start"
+L 12/13/2019 - 23:22:12: [REUNION]: SERVERBOOST.ML BUY PLAYERS (89.108.88.97) authorized as NoSteam48
+L 12/13/2019 - 23:22:12: "SERVERBOOST.ML BUY PLAYERS<320><STEAM_ID_LAN><>" connected, address "89.108.88.97:11058"
+L 12/13/2019 - 23:22:15: [META] ClientCommand 'meta list' from player ''
+L 12/13/2019 - 23:22:20: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" killed "PaNtA<315><STEAM_1:0:293049944><CT>" with "m4a1"
+L 12/13/2019 - 23:22:34: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" killed "Player-Fatal<313><STEAM_1:0:841290966><CT>" with "m4a1"
+L 12/13/2019 - 23:22:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 12/13/2019 - 23:22:34: World triggered "Round_End"
+L 12/13/2019 - 23:22:39: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:22:40: World triggered "Round_Start"
+L 12/13/2019 - 23:23:29: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" killed "PaNtA<315><STEAM_1:0:293049944><CT>" with "m4a1"
+L 12/13/2019 - 23:23:42: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" killed "Player-Fatal<313><STEAM_1:0:841290966><CT>" with "m4a1"
+L 12/13/2019 - 23:23:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 12/13/2019 - 23:23:42: World triggered "Round_End"
+L 12/13/2019 - 23:23:47: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" joined team "CT"
+L 12/13/2019 - 23:23:47: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Florin to CT")
+L 12/13/2019 - 23:23:47: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:23:48: World triggered "Round_Start"
+L 12/13/2019 - 23:24:51: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" killed "Player-Fatal<313><STEAM_1:0:841290966><CT>" with "ak47"
+L 12/13/2019 - 23:24:55: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Veki<317><STEAM_2:1:1166319910><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:24:55: Team "CT" triggered "CTs_Win" (CT "3") (T "4")
+L 12/13/2019 - 23:24:55: World triggered "Round_End"
+L 12/13/2019 - 23:25:00: "Player-Fatal<313><STEAM_1:0:841290966><CT>" joined team "TERRORIST"
+L 12/13/2019 - 23:25:00: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Player-Fatal to TERRORIST")
+L 12/13/2019 - 23:25:00: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:25:01: World triggered "Round_Start"
+L 12/13/2019 - 23:25:54: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" killed "Florin<311><STEAM_1:1:2079496364><CT>" with "ak47"
+L 12/13/2019 - 23:25:54: "PaNtA<315><STEAM_1:0:293049944><CT>" killed "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:25:54: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/13/2019 - 23:25:57: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" killed "PaNtA<315><STEAM_1:0:293049944><CT>" with "ak47"
+L 12/13/2019 - 23:25:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 12/13/2019 - 23:25:57: World triggered "Round_End"
+L 12/13/2019 - 23:26:02: "PaNtA<315><STEAM_1:0:293049944><CT>" joined team "TERRORIST"
+L 12/13/2019 - 23:26:02: "<><><>" triggered "amx_chat" (text "[PTB] Transfered PaNtA to TERRORIST")
+L 12/13/2019 - 23:26:02: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:26:03: World triggered "Round_Start"
+L 12/13/2019 - 23:26:18: [REUNION]: Eduedugamer (177.203.143.225) authorized as RevEmu
+L 12/13/2019 - 23:26:18: "Eduedugamer<321><STEAM_1:1:242997888><>" connected, address "177.203.143.225:27005"
+L 12/13/2019 - 23:26:54: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Veki<317><STEAM_2:1:1166319910><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:27:02: "Veki<317><STEAM_2:1:1166319910><TERRORIST>" joined team "CT"
+L 12/13/2019 - 23:27:02: "Florin<311><STEAM_1:1:2079496364><CT>" killed "PaNtA<315><STEAM_1:0:293049944><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:27:09: "Florin<311><STEAM_1:1:2079496364><CT>" killed "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" with "m4a1"
+L 12/13/2019 - 23:27:09: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 12/13/2019 - 23:27:09: World triggered "Round_End"
+L 12/13/2019 - 23:27:14: "Florin<311><STEAM_1:1:2079496364><CT>" joined team "TERRORIST"
+L 12/13/2019 - 23:27:14: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Florin to TERRORIST")
+L 12/13/2019 - 23:27:14: "PaNtA<315><STEAM_1:0:293049944><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:27:15: World triggered "Round_Start"
+L 12/13/2019 - 23:28:04: "Veki<317><STEAM_2:1:1166319910><CT>" killed "Florin<311><STEAM_1:1:2079496364><TERRORIST>" with "p90"
+L 12/13/2019 - 23:28:15: "PaNtA<315><STEAM_1:0:293049944><TERRORIST>" committed suicide with "world"
+L 12/13/2019 - 23:28:43: [REUNION]: goku (177.194.122.41) authorized as RevEmu
+L 12/13/2019 - 23:28:43: "goku<322><STEAM_2:0:528912043><>" connected, address "177.194.122.41:27005"
+L 12/13/2019 - 23:28:45: "PaNtA<315><STEAM_1:0:293049944><TERRORIST>" disconnected
+L 12/13/2019 - 23:29:08: "Veki<317><STEAM_2:1:1166319910><CT>" committed suicide with "worldspawn" (world)
+L 12/13/2019 - 23:29:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 12/13/2019 - 23:29:08: World triggered "Round_End"
+L 12/13/2019 - 23:29:11: [REUNION]: 17 je koren iz 289 (93.86.237.62) authorized as RevEmu
+L 12/13/2019 - 23:29:11: "17 je koren iz 289<323><STEAM_1:1:217629542><>" connected, address "93.86.237.62:11054"
+L 12/13/2019 - 23:29:13: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:29:14: World triggered "Round_Start"
+L 12/13/2019 - 23:30:16: "Florin<311><STEAM_1:1:2079496364><TERRORIST>" disconnected
+L 12/13/2019 - 23:30:17: [REUNION]: SERVERBOOST.ML BUY PLAYERS (89.108.88.97) authorized as RevEmu
+L 12/13/2019 - 23:30:17: "SERVERBOOST.ML BUY PLAYERS<324><STEAM_2:0:2108560526><>" connected, address "89.108.88.97:11058"
+L 12/13/2019 - 23:30:20: [META] ClientCommand 'meta list' from player ''
+L 12/13/2019 - 23:30:36: "Veki<317><STEAM_2:1:1166319910><CT>" killed "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" with "famas"
+L 12/13/2019 - 23:30:36: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 12/13/2019 - 23:30:36: World triggered "Round_End"
+L 12/13/2019 - 23:30:40: "Veki<317><STEAM_2:1:1166319910><CT>" disconnected
+L 12/13/2019 - 23:30:41: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:30:42: World triggered "Round_Start"
+L 12/13/2019 - 23:33:00: Team "CT" triggered "Target_Saved" (CT "6") (T "6")
+L 12/13/2019 - 23:33:00: World triggered "Round_End"
+L 12/13/2019 - 23:33:05: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/13/2019 - 23:33:06: World triggered "Round_Start"
+L 12/13/2019 - 23:33:28: [REUNION]: MLK_GOLd^_^ (189.120.79.215) authorized as RevEmu
+L 12/13/2019 - 23:33:28: "MLK_GOLd^_^<325><STEAM_1:1:1695131425><>" connected, address "189.120.79.215:1974"
+L 12/13/2019 - 23:33:43: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/13/2019 - 23:33:43: "Player-Fatal<313><STEAM_1:0:841290966><TERRORIST>" disconnected
+L 12/13/2019 - 23:33:43: World triggered "Round_Draw" (CT "6") (T "6")
+L 12/13/2019 - 23:33:43: World triggered "Round_End"
+L 12/13/2019 - 23:33:49: World triggered "Round_Start"
+L 12/13/2019 - 23:34:52: [REUNION]: MLK_GOLd^_^ (189.120.79.215) authorized as RevEmu
+L 12/13/2019 - 23:34:52: "MLK_GOLd^_^<326><STEAM_1:1:1695131425><>" connected, address "189.120.79.215:1974"
+L 12/13/2019 - 23:36:07: Team "CT" triggered "Target_Saved" (CT "6") (T "6")
+L 12/13/2019 - 23:36:07: World triggered "Round_End"
+L 12/13/2019 - 23:36:13: World triggered "Round_Start"
+L 12/13/2019 - 23:37:21: Server cvar "mp_chattime" = "12.000000"
+L 12/13/2019 - 23:37:21: Server cvar "amx_nextmap" = "cc_boathouse"
+L 12/13/2019 - 23:37:21: Team "CT" scored "6" with "0" players
+L 12/13/2019 - 23:37:21: Team "TERRORIST" scored "6" with "0" players
+L 12/13/2019 - 23:37:31: Server cvar "mp_chattime" = "10.000000"
+L 12/13/2019 - 23:37:31: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: AMX Mod X
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: Reunion
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: ReAuthCheck
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: WHBlocker
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: ReSemiclip
+L 12/13/2019 - 23:37:31: [META] ini: Read plugin config for: Revoice
+L 12/13/2019 - 23:37:31: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/13/2019 - 23:37:31: [META] dll: Updating plugins...
+L 12/13/2019 - 23:37:31: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/13/2019 - 23:37:31: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/13/2019 - 23:37:31: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/13/2019 - 23:37:31: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/13/2019 - 23:37:31: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/13/2019 - 23:37:31: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/13/2019 - 23:37:31: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/13/2019 - 23:37:31: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/13/2019 - 23:37:31: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/13/2019 - 23:37:31: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/13/2019 - 23:37:31: Log file closed

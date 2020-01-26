@@ -1,0 +1,20 @@
+[en]
+SPAWNMSG = !tIf you want !yRequest !tor !yGive !tmoney , write !y( !g/money !y, !g!money !y, !g.money !y)
+EXIT = \yExit
+MAINMENUTITLE = \yTrade Money
+MAINMENUITEM1 = \wGive Money
+MAINMENUITEM2 = \wRequest Money
+GIVEMENUTITLE = \ySelect a player to give Money
+REQMENUTITLE = \ySelect a player to request Money
+LIMITOPEN = !tYou cant open more than !y%d !ttimes per round
+CONFMENUTITLE = \r%s \ysent you a request for money
+CONFMENUITEM1 = \wAccept
+CONFMENUITEM2 = \wRefuse
+PLAYERACCEPT = !tAccepted the request from !g%s
+TARGETACCEPT = !g%s !taccepted the request
+PLAYERREFUSE = !tRefusing requests
+TARGETREFUSE = !g%s !tdenied the request
+ENOUGHMONEY = !yYou dont have enough money
+AMOUNTGIVE = !tYou've given !g$%d !tto !y%s
+AMOUNTRECEIVE = !y%s !tgave you !g$%d
+PREFIX = !y[TM]

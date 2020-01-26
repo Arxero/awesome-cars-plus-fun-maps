@@ -1,0 +1,23 @@
+{
+    "name"        : "Kill",
+    "class"       : "CWeaponBox",
+    "library"     : "mod",
+    "identifiers" :
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : "?Kill@CWeaponBox@@QAEXXZ"
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "Kill__10CWeaponBox"
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "_ZN10CWeaponBox4KillEv"
+        }
+    ]
+}

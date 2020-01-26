@@ -1,0 +1,464 @@
+L 01/04/2020 - 17:52:57: Log file started (file "logs/L0104061.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/04/2020 - 17:52:57: Loading map "4_houses"
+L 01/04/2020 - 17:52:57: Server cvars start
+L 01/04/2020 - 17:52:57: Server cvar "@BunnyHopper" = "3.x"
+L 01/04/2020 - 17:52:57: Server cvar "@CRXGoSpec" = "1.1"
+L 01/04/2020 - 17:52:57: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "@D.I.C.E." = "1.1"
+L 01/04/2020 - 17:52:57: Server cvar "@MOTDCommands" = "1.2"
+L 01/04/2020 - 17:52:57: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/04/2020 - 17:52:57: Server cvar "AdvancedMute" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "aesp_version" = "1.3"
+L 01/04/2020 - 17:52:57: Server cvar "allow_spectators" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "amx_client_languages" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "amx_language" = "en"
+L 01/04/2020 - 17:52:57: Server cvar "amx_nextmap" = "4_houses"
+L 01/04/2020 - 17:52:57: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/04/2020 - 17:52:57: Server cvar "amx_timeleft" = "00:00"
+L 01/04/2020 - 17:52:57: Server cvar "amxmodx_version" = "1.8.2"
+L 01/04/2020 - 17:52:57: Server cvar "amxxbg_vip" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "asp_version" = "4.5.1"
+L 01/04/2020 - 17:52:57: Server cvar "atac_version" = "3.0.1"
+L 01/04/2020 - 17:52:57: Server cvar "badcamper_version" = "1.4 beta"
+L 01/04/2020 - 17:52:57: Server cvar "blockmaker" = "4.01"
+L 01/04/2020 - 17:52:57: Server cvar "c4 timer" = "1.1"
+L 01/04/2020 - 17:52:57: Server cvar "coop" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "CRXAdminGroups" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "CRXFastKnife" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "CRXGametracker" = "2.0"
+L 01/04/2020 - 17:52:57: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/04/2020 - 17:52:57: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "CustomShop" = "4.2"
+L 01/04/2020 - 17:52:57: Server cvar "deathmatch" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "decalfrequency" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "edgefriction" = "2"
+L 01/04/2020 - 17:52:57: Server cvar "ers_version" = "2.3c"
+L 01/04/2020 - 17:52:57: Server cvar "gagsystem_shoko" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/04/2020 - 17:52:57: Server cvar "gal_version" = "v5.9.1-926"
+L 01/04/2020 - 17:52:57: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/04/2020 - 17:52:57: Server cvar "humans_join_team" = "any"
+L 01/04/2020 - 17:52:57: Server cvar "jtp10181" = "chute,gore"
+L 01/04/2020 - 17:52:57: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/04/2020 - 17:52:57: Server cvar "LetitSnow" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/04/2020 - 17:52:57: Server cvar "max_queries_sec" = "3"
+L 01/04/2020 - 17:52:57: Server cvar "max_queries_sec_global" = "150"
+L 01/04/2020 - 17:52:57: Server cvar "max_queries_window" = "60"
+L 01/04/2020 - 17:52:57: Server cvar "mdbBans" = "4.8"
+L 01/04/2020 - 17:52:57: Server cvar "metamod_version" = "1.21p37"
+L 01/04/2020 - 17:52:57: Server cvar "mp_autokick" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_autokick_timeout" = "-1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_autoteambalance" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_buytime" = "0.25"
+L 01/04/2020 - 17:52:57: Server cvar "mp_c4timer" = "35"
+L 01/04/2020 - 17:52:57: Server cvar "mp_chattime" = "10.000000"
+L 01/04/2020 - 17:52:57: Server cvar "mp_consistency" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_fadetoblack" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_flashlight" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_footsteps" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_forcecamera" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_forcechasecam" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_forcerespawn" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_fraglimit" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_fragsleft" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_freeforall" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_freezetime" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_hostage_hurtable" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_hostagepenalty" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_item_staytime" = "300"
+L 01/04/2020 - 17:52:57: Server cvar "mp_kickpercent" = "0.66"
+L 01/04/2020 - 17:52:57: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_limitteams" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_logdetail" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_logfile" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_logmessages" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/04/2020 - 17:52:57: Server cvar "mp_maxmoney" = "999999"
+L 01/04/2020 - 17:52:57: Server cvar "mp_maxrounds" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_mirrordamage" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_playerid" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_round_infinite" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_round_restart_delay" = "5"
+L 01/04/2020 - 17:52:57: Server cvar "mp_roundover" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_roundtime" = "2.3"
+L 01/04/2020 - 17:52:57: Server cvar "mp_show_radioicon" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_startmoney" = "850"
+L 01/04/2020 - 17:52:57: Server cvar "mp_timeleft" = "00:00"
+L 01/04/2020 - 17:52:57: Server cvar "mp_timelimit" = "20.000000"
+L 01/04/2020 - 17:52:57: Server cvar "mp_tkpunish" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "mp_windifference" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "mp_winlimit" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/04/2020 - 17:52:57: Server cvar "pausable" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "present_version" = "2.01"
+L 01/04/2020 - 17:52:57: Server cvar "RandomHP" = "2.2"
+L 01/04/2020 - 17:52:57: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/04/2020 - 17:52:57: Server cvar "reconnect_features" = "0.3.1"
+L 01/04/2020 - 17:52:57: Server cvar "report_system_version" = "3.1"
+L 01/04/2020 - 17:52:57: Server cvar "resemiclip_version" = "2.3.9"
+L 01/04/2020 - 17:52:57: Server cvar "reu_version" = "0.1.0.130"
+L 01/04/2020 - 17:52:57: Server cvar "revoice_version" = "0.1.0.30"
+L 01/04/2020 - 17:52:57: Server cvar "RRWM" = "2.0"
+L 01/04/2020 - 17:52:57: Server cvar "sanksounds_version" = "1.8.6"
+L 01/04/2020 - 17:52:57: Server cvar "SimpleMenu" = "1.1"
+L 01/04/2020 - 17:52:57: Server cvar "SNAC_Version" = "1.1"
+L 01/04/2020 - 17:52:57: Server cvar "SpecList" = "1.2a"
+L 01/04/2020 - 17:52:57: Server cvar "sr_version" = "1.6"
+L 01/04/2020 - 17:52:57: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/04/2020 - 17:52:57: Server cvar "StyleC4Timer" = "2.1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_accelerate" = "5"
+L 01/04/2020 - 17:52:57: Server cvar "sv_aim" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_airaccelerate" = "100"
+L 01/04/2020 - 17:52:57: Server cvar "sv_allowupload" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_alltalk" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_bounce" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_cheats" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "sv_clienttrace" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/04/2020 - 17:52:57: Server cvar "sv_friction" = "4"
+L 01/04/2020 - 17:52:57: Server cvar "sv_gravity" = "800"
+L 01/04/2020 - 17:52:57: Server cvar "sv_logblocks" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "sv_maxrate" = "50000"
+L 01/04/2020 - 17:52:57: Server cvar "sv_maxspeed" = "900.000000"
+L 01/04/2020 - 17:52:57: Server cvar "sv_minrate" = "10000"
+L 01/04/2020 - 17:52:57: Server cvar "sv_password" = ""
+L 01/04/2020 - 17:52:57: Server cvar "sv_proxies" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_restart" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "sv_restartround" = "0"
+L 01/04/2020 - 17:52:57: Server cvar "sv_stepsize" = "18"
+L 01/04/2020 - 17:52:57: Server cvar "sv_stopspeed" = "75"
+L 01/04/2020 - 17:52:57: Server cvar "sv_uploadmax" = "0.5"
+L 01/04/2020 - 17:52:57: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/04/2020 - 17:52:57: Server cvar "sv_voiceenable" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "sv_wateraccelerate" = "10"
+L 01/04/2020 - 17:52:57: Server cvar "sv_waterfriction" = "1"
+L 01/04/2020 - 17:52:57: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/04/2020 - 17:52:57: Server cvar "vehicle_real_killer" = "1.1"
+L 01/04/2020 - 17:52:57: Server cvar "WalkGuard" = "1.3.2"
+L 01/04/2020 - 17:52:57: Server cvar "we_grenades" = "Huehue"
+L 01/04/2020 - 17:52:57: Server cvar "we_player_models" = "Huehue"
+L 01/04/2020 - 17:52:57: Server cvar "whb_version" = "1.5.692"
+L 01/04/2020 - 17:52:57: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/04/2020 - 17:52:57: Server cvars end
+L 01/04/2020 - 17:52:59: Server cvar "sv_maxspeed" = "900"
+L 01/04/2020 - 17:52:59: Server cvar "mp_autoteambalance" = "1"
+L 01/04/2020 - 17:52:59: Server cvar "mp_timelimit" = "20"
+L 01/04/2020 - 17:52:59: Server cvar "mp_autoteambalance" = "0"
+L 01/04/2020 - 17:52:59: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/04/2020 - 17:53:01: Started map "4_houses" (CRC "451486053")
+L 01/04/2020 - 17:53:03: World triggered "Round_Start"
+L 01/04/2020 - 17:53:04: [REUNION]: Kureto (79.100.223.176) authorized as RevEmu
+L 01/04/2020 - 17:53:04: "Kureto<133><STEAM_1:0:2061683078><>" connected, address "79.100.223.176:20946"
+L 01/04/2020 - 17:53:04: [REUNION]: Chane (79.100.223.176) authorized as RevEmu
+L 01/04/2020 - 17:53:04: "Chane<134><STEAM_2:1:1034716719><>" connected, address "79.100.223.176:20368"
+L 01/04/2020 - 17:53:04: "short circuit<131><STEAM_1:1:1245774753><>" entered the game
+L 01/04/2020 - 17:53:04: "*Mr.Bombastic*<116><STEAM_1:1:25228615><>" entered the game
+L 01/04/2020 - 17:53:05: "H3ADROOM<107><STEAM_0:0:150924950><>" entered the game
+L 01/04/2020 - 17:53:05: "Tr1Pk[0]_12<120><STEAM_1:1:41823316><>" entered the game
+L 01/04/2020 - 17:53:06: "p;p<132><STEAM_2:1:190285650><>" entered the game
+L 01/04/2020 - 17:53:06: "HuNt3r<128><STEAM_1:1:1071071391><>" entered the game
+L 01/04/2020 - 17:53:06: [REUNION]: koko je kraljina (37.19.108.192) authorized as RevEmu
+L 01/04/2020 - 17:53:06: "koko je kraljina<135><STEAM_1:1:1834348531><>" connected, address "37.19.108.192:22113"
+L 01/04/2020 - 17:53:07: "guls<109><STEAM_2:0:1886291632><>" entered the game
+L 01/04/2020 - 17:53:08: "Kureto<133><STEAM_1:0:2061683078><>" entered the game
+L 01/04/2020 - 17:53:08: "Chane<134><STEAM_2:1:1034716719><>" entered the game
+L 01/04/2020 - 17:53:09: "short circuit<131><STEAM_1:1:1245774753><>" joined team "TERRORIST"
+L 01/04/2020 - 17:53:09: "p;p<132><STEAM_2:1:190285650><>" joined team "CT"
+L 01/04/2020 - 17:53:09: "HuNt3r<128><STEAM_1:1:1071071391><>" joined team "CT"
+L 01/04/2020 - 17:53:09: World triggered "Game_Commencing"
+L 01/04/2020 - 17:53:09: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/04/2020 - 17:53:09: World triggered "Round_End"
+L 01/04/2020 - 17:53:10: "H3ADROOM<107><STEAM_0:0:150924950><>" joined team "CT"
+L 01/04/2020 - 17:53:11: "guls<109><STEAM_2:0:1886291632><>" joined team "CT"
+L 01/04/2020 - 17:53:12: "*Mr.Bombastic*<116><STEAM_1:1:25228615><>" joined team "CT"
+L 01/04/2020 - 17:53:13: World triggered "Round_Start"
+L 01/04/2020 - 17:53:14: "Tr1Pk[0]_12<120><STEAM_1:1:41823316><>" joined team "TERRORIST"
+L 01/04/2020 - 17:53:15: "koko je kraljina<135><STEAM_1:1:1834348531><>" entered the game
+L 01/04/2020 - 17:53:18: "koko je kraljina<135><STEAM_1:1:1834348531><>" joined team "TERRORIST"
+L 01/04/2020 - 17:53:21: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "deagle"
+L 01/04/2020 - 17:53:26: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "deagle"
+L 01/04/2020 - 17:53:40: "guls<109><STEAM_2:0:1886291632><CT>" killed "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" with "grenade"
+L 01/04/2020 - 17:53:40: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/04/2020 - 17:53:40: World triggered "Round_End"
+L 01/04/2020 - 17:53:46: World triggered "Round_Start"
+L 01/04/2020 - 17:53:59: "HuNt3r<128><STEAM_1:1:1071071391><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:54:02: "p;p<132><STEAM_2:1:190285650><CT>" killed "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:54:03: "Kureto<133><STEAM_1:0:2061683078><>" joined team "SPECTATOR"
+L 01/04/2020 - 17:54:08: "Chane<134><STEAM_2:1:1034716719><>" joined team "SPECTATOR"
+L 01/04/2020 - 17:54:10: "guls<109><STEAM_2:0:1886291632><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "knife"
+L 01/04/2020 - 17:54:10: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/04/2020 - 17:54:10: World triggered "Round_End"
+L 01/04/2020 - 17:54:14: "Kureto<133><STEAM_1:0:2061683078><SPECTATOR>" disconnected
+L 01/04/2020 - 17:54:14: "Chane<134><STEAM_2:1:1034716719><SPECTATOR>" disconnected
+L 01/04/2020 - 17:54:15: "p;p<132><STEAM_2:1:190285650><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:54:15: "<><><>" triggered "amx_chat" (text "[PTB] Transfered p;p to TERRORIST")
+L 01/04/2020 - 17:54:16: World triggered "Round_Start"
+L 01/04/2020 - 17:54:29: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "p;p<132><STEAM_2:1:190285650><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:54:33: "p;p<132><STEAM_2:1:190285650><TERRORIST>" joined team "CT"
+L 01/04/2020 - 17:54:39: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:54:45: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:55:00: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "guls<109><STEAM_2:0:1886291632><CT>" with "ak47"
+L 01/04/2020 - 17:55:01: "*Mr.Bombastic*<116><STEAM_1:1:25228615><CT>" disconnected
+L 01/04/2020 - 17:55:01: [REUNION]: *Mr.Fantastic* (77.29.211.54) authorized as RevEmu
+L 01/04/2020 - 17:55:01: "*Mr.Fantastic*<136><STEAM_1:1:25228615><>" connected, address "77.29.211.54:27005"
+L 01/04/2020 - 17:55:04: "*Mr.Fantastic*<136><STEAM_1:1:25228615><>" entered the game
+L 01/04/2020 - 17:55:05: "HuNt3r<128><STEAM_1:1:1071071391><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:55:05: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/04/2020 - 17:55:05: World triggered "Round_End"
+L 01/04/2020 - 17:55:06: "*Mr.Fantastic*<136><STEAM_1:1:25228615><>" joined team "CT"
+L 01/04/2020 - 17:55:09: "H3ADROOM<107><STEAM_0:0:150924950><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:55:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered H3ADROOM to TERRORIST")
+L 01/04/2020 - 17:55:11: World triggered "Round_Start"
+L 01/04/2020 - 17:55:22: "p;p<132><STEAM_2:1:190285650><CT>" killed "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" with "m3"
+L 01/04/2020 - 17:55:25: "guls<109><STEAM_2:0:1886291632><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "knife"
+L 01/04/2020 - 17:55:26: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "guls<109><STEAM_2:0:1886291632><CT>" with "deagle"
+L 01/04/2020 - 17:55:29: "H3ADROOM<107><STEAM_0:0:150924950><TERRORIST>" killed "HuNt3r<128><STEAM_1:1:1071071391><CT>" with "m3"
+L 01/04/2020 - 17:55:33: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "p;p<132><STEAM_2:1:190285650><CT>" with "m3"
+L 01/04/2020 - 17:55:49: "H3ADROOM<107><STEAM_0:0:150924950><TERRORIST>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" with "deagle"
+L 01/04/2020 - 17:55:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 01/04/2020 - 17:55:49: World triggered "Round_End"
+L 01/04/2020 - 17:55:52: "H3ADROOM<107><STEAM_0:0:150924950><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 17:55:52: "H3ADROOM<107><STEAM_0:0:150924950><TERRORIST>" joined team "CT"
+L 01/04/2020 - 17:55:54: "HuNt3r<128><STEAM_1:1:1071071391><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:55:54: "<><><>" triggered "amx_chat" (text "[PTB] Transfered HuNt3r to TERRORIST")
+L 01/04/2020 - 17:55:55: World triggered "Round_Start"
+L 01/04/2020 - 17:56:06: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:56:08: "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" killed "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" with "awp"
+L 01/04/2020 - 17:56:16: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:56:22: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:56:22: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 01/04/2020 - 17:56:22: World triggered "Round_End"
+L 01/04/2020 - 17:56:27: "guls<109><STEAM_2:0:1886291632><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:56:27: "<><><>" triggered "amx_chat" (text "[PTB] Transfered guls to TERRORIST")
+L 01/04/2020 - 17:56:27: "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" committed suicide with "world"
+L 01/04/2020 - 17:56:27: "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:56:28: World triggered "Round_Start"
+L 01/04/2020 - 17:56:32: "p;p<132><STEAM_2:1:190285650><CT>" killed "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:56:36: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:56:37: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:56:41: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" killed "p;p<132><STEAM_2:1:190285650><CT>" with "galil"
+L 01/04/2020 - 17:56:55: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" with "ak47"
+L 01/04/2020 - 17:56:57: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" killed "H3ADROOM<107><STEAM_0:0:150924950><CT>" with "m4a1"
+L 01/04/2020 - 17:56:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 01/04/2020 - 17:56:57: World triggered "Round_End"
+L 01/04/2020 - 17:57:03: World triggered "Round_Start"
+L 01/04/2020 - 17:57:06: "guls<109><STEAM_2:0:1886291632><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 17:57:06: "guls<109><STEAM_2:0:1886291632><TERRORIST>" joined team "CT"
+L 01/04/2020 - 17:57:10: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:57:17: "p;p<132><STEAM_2:1:190285650><CT>" killed "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:57:18: "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 17:57:18: "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" joined team "SPECTATOR"
+L 01/04/2020 - 17:57:23: "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 17:57:23: "Tr1Pk[0]_12<120><STEAM_1:1:41823316><TERRORIST>" joined team "SPECTATOR"
+L 01/04/2020 - 17:57:25: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "usp"
+L 01/04/2020 - 17:57:25: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 01/04/2020 - 17:57:25: World triggered "Round_End"
+L 01/04/2020 - 17:57:30: "p;p<132><STEAM_2:1:190285650><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:57:30: "<><><>" triggered "amx_chat" (text "[PTB] Transfered p;p to TERRORIST")
+L 01/04/2020 - 17:57:31: World triggered "Round_Start"
+L 01/04/2020 - 17:57:42: "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" killed "guls<109><STEAM_2:0:1886291632><CT>" with "ak47"
+L 01/04/2020 - 17:57:47: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "H3ADROOM<107><STEAM_0:0:150924950><CT>" with "ak47"
+L 01/04/2020 - 17:57:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 01/04/2020 - 17:57:47: World triggered "Round_End"
+L 01/04/2020 - 17:57:50: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 17:57:50: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" joined team "CT"
+L 01/04/2020 - 17:57:53: World triggered "Round_Start"
+L 01/04/2020 - 17:58:02: "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 17:58:10: "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" killed "H3ADROOM<107><STEAM_0:0:150924950><CT>" with "ak47"
+L 01/04/2020 - 17:58:16: "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" killed "guls<109><STEAM_2:0:1886291632><CT>" with "ak47"
+L 01/04/2020 - 17:58:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "4")
+L 01/04/2020 - 17:58:16: World triggered "Round_End"
+L 01/04/2020 - 17:58:22: World triggered "Round_Start"
+L 01/04/2020 - 17:58:28: "guls<109><STEAM_2:0:1886291632><CT>" killed "p;p<132><STEAM_2:1:190285650><TERRORIST>" with "g3sg1"
+L 01/04/2020 - 17:58:31: "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" killed "guls<109><STEAM_2:0:1886291632><CT>" with "g3sg1"
+L 01/04/2020 - 17:58:32: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" with "g3sg1"
+L 01/04/2020 - 17:58:35: "guls<109><STEAM_2:0:1886291632><CT>" disconnected
+L 01/04/2020 - 17:58:35: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" with "g3sg1"
+L 01/04/2020 - 17:58:53: "HuNt3r<128><STEAM_1:1:1071071391><TERRORIST>" disconnected
+L 01/04/2020 - 17:59:10: "H3ADROOM<107><STEAM_0:0:150924950><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "g3sg1"
+L 01/04/2020 - 17:59:10: Team "CT" triggered "CTs_Win" (CT "6") (T "4")
+L 01/04/2020 - 17:59:10: World triggered "Round_End"
+L 01/04/2020 - 17:59:14: "H3ADROOM<107><STEAM_0:0:150924950><CT>" disconnected
+L 01/04/2020 - 17:59:14: "p;p<132><STEAM_2:1:190285650><TERRORIST>" joined team "CT"
+L 01/04/2020 - 17:59:14: "<><><>" triggered "amx_chat" (text "[PTB] Transfered p;p to CT")
+L 01/04/2020 - 17:59:16: World triggered "Round_Start"
+L 01/04/2020 - 17:59:23: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:59:23: Team "CT" triggered "CTs_Win" (CT "7") (T "4")
+L 01/04/2020 - 17:59:23: World triggered "Round_End"
+L 01/04/2020 - 17:59:27: "*Mr.Fantastic*<136><STEAM_1:1:25228615><CT>" joined team "TERRORIST"
+L 01/04/2020 - 17:59:27: "<><><>" triggered "amx_chat" (text "[PTB] Transfered *Mr.Fantastic* to TERRORIST")
+L 01/04/2020 - 17:59:27: "short circuit<131><STEAM_1:1:1245774753><SPECTATOR>" joined team "TERRORIST"
+L 01/04/2020 - 17:59:29: World triggered "Round_Start"
+L 01/04/2020 - 17:59:42: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:59:48: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 17:59:48: "short circuit<131><STEAM_1:1:1245774753><TERRORIST>" disconnected
+L 01/04/2020 - 17:59:48: [REUNION]: short circuit (94.155.252.230) authorized as RevEmu
+L 01/04/2020 - 17:59:48: "short circuit<137><STEAM_1:1:1245774753><>" connected, address "94.155.252.230:27005"
+L 01/04/2020 - 17:59:52: "short circuit<137><STEAM_1:1:1245774753><>" entered the game
+L 01/04/2020 - 17:59:53: "short circuit<137><STEAM_1:1:1245774753><>" joined team "CT"
+L 01/04/2020 - 18:00:36: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "p;p<132><STEAM_2:1:190285650><CT>" with "m4a1"
+L 01/04/2020 - 18:00:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "5")
+L 01/04/2020 - 18:00:36: World triggered "Round_End"
+L 01/04/2020 - 18:00:42: World triggered "Round_Start"
+L 01/04/2020 - 18:00:51: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:00:55: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "usp"
+L 01/04/2020 - 18:00:55: Team "CT" triggered "CTs_Win" (CT "8") (T "5")
+L 01/04/2020 - 18:00:55: World triggered "Round_End"
+L 01/04/2020 - 18:01:01: World triggered "Round_Start"
+L 01/04/2020 - 18:01:29: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "mp5navy"
+L 01/04/2020 - 18:01:31: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "p;p<132><STEAM_2:1:190285650><CT>" with "ak47"
+L 01/04/2020 - 18:01:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "6")
+L 01/04/2020 - 18:01:31: World triggered "Round_End"
+L 01/04/2020 - 18:01:35: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 18:01:37: World triggered "Round_Start"
+L 01/04/2020 - 18:01:56: "short circuit<137><STEAM_1:1:1245774753><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:02:06: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "m4a1"
+L 01/04/2020 - 18:02:32: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:02:32: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 01/04/2020 - 18:02:32: World triggered "Round_End"
+L 01/04/2020 - 18:02:38: World triggered "Round_Start"
+L 01/04/2020 - 18:02:49: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" killed "p;p<132><STEAM_2:1:190285650><CT>" with "tmp"
+L 01/04/2020 - 18:02:53: "short circuit<137><STEAM_1:1:1245774753><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "elite"
+L 01/04/2020 - 18:02:57: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "tmp"
+L 01/04/2020 - 18:02:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "7")
+L 01/04/2020 - 18:02:57: World triggered "Round_End"
+L 01/04/2020 - 18:03:03: World triggered "Round_Start"
+L 01/04/2020 - 18:03:15: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "knife"
+L 01/04/2020 - 18:03:20: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "awp"
+L 01/04/2020 - 18:03:20: Team "CT" triggered "CTs_Win" (CT "10") (T "7")
+L 01/04/2020 - 18:03:20: World triggered "Round_End"
+L 01/04/2020 - 18:03:26: World triggered "Round_Start"
+L 01/04/2020 - 18:03:35: "short circuit<137><STEAM_1:1:1245774753><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:03:39: "short circuit<137><STEAM_1:1:1245774753><CT>" killed "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:03:39: Team "CT" triggered "CTs_Win" (CT "11") (T "7")
+L 01/04/2020 - 18:03:39: World triggered "Round_End"
+L 01/04/2020 - 18:03:44: "short circuit<137><STEAM_1:1:1245774753><CT>" joined team "TERRORIST"
+L 01/04/2020 - 18:03:44: "<><><>" triggered "amx_chat" (text "[PTB] Transfered short circuit to TERRORIST")
+L 01/04/2020 - 18:03:45: World triggered "Round_Start"
+L 01/04/2020 - 18:03:48: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" with "awp"
+L 01/04/2020 - 18:03:52: "*Mr.Fantastic*<136><STEAM_1:1:25228615><TERRORIST>" changed name to "*Mr.Bombastic*"
+L 01/04/2020 - 18:03:55: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" with "awp"
+L 01/04/2020 - 18:04:04: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "usp"
+L 01/04/2020 - 18:04:04: Team "CT" triggered "CTs_Win" (CT "12") (T "7")
+L 01/04/2020 - 18:04:04: World triggered "Round_End"
+L 01/04/2020 - 18:04:10: World triggered "Round_Start"
+L 01/04/2020 - 18:04:27: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" with "galil"
+L 01/04/2020 - 18:04:43: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "galil"
+L 01/04/2020 - 18:04:45: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" with "galil"
+L 01/04/2020 - 18:04:45: Team "CT" triggered "CTs_Win" (CT "13") (T "7")
+L 01/04/2020 - 18:04:45: World triggered "Round_End"
+L 01/04/2020 - 18:04:51: World triggered "Round_Start"
+L 01/04/2020 - 18:05:03: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:05:36: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:05:40: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" killed "p;p<132><STEAM_2:1:190285650><CT>" with "ak47"
+L 01/04/2020 - 18:05:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "8")
+L 01/04/2020 - 18:05:40: World triggered "Round_End"
+L 01/04/2020 - 18:05:46: World triggered "Round_Start"
+L 01/04/2020 - 18:06:02: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:06:11: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" with "ak47"
+L 01/04/2020 - 18:06:15: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" with "knife"
+L 01/04/2020 - 18:06:15: Team "CT" triggered "CTs_Win" (CT "14") (T "8")
+L 01/04/2020 - 18:06:15: World triggered "Round_End"
+L 01/04/2020 - 18:06:21: World triggered "Round_Start"
+L 01/04/2020 - 18:06:29: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:06:46: "p;p<132><STEAM_2:1:190285650><CT>" killed "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:06:58: "koko je kraljina<135><STEAM_1:1:1834348531><TERRORIST>" joined team "CT"
+L 01/04/2020 - 18:07:23: "p;p<132><STEAM_2:1:190285650><CT>" killed "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" with "knife"
+L 01/04/2020 - 18:07:23: Team "CT" triggered "CTs_Win" (CT "15") (T "8")
+L 01/04/2020 - 18:07:23: World triggered "Round_End"
+L 01/04/2020 - 18:07:29: World triggered "Round_Start"
+L 01/04/2020 - 18:07:34: "p;p<132><STEAM_2:1:190285650><CT>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:07:48: "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 18:07:48: Team "CT" triggered "CTs_Win" (CT "16") (T "8")
+L 01/04/2020 - 18:07:48: World triggered "Round_End"
+L 01/04/2020 - 18:07:48: "short circuit<137><STEAM_1:1:1245774753><TERRORIST>" joined team "SPECTATOR"
+L 01/04/2020 - 18:07:52: "p;p<132><STEAM_2:1:190285650><CT>" joined team "TERRORIST"
+L 01/04/2020 - 18:07:52: "<><><>" triggered "amx_chat" (text "[PTB] Transfered p;p to TERRORIST")
+L 01/04/2020 - 18:07:54: World triggered "Round_Start"
+L 01/04/2020 - 18:08:10: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "koko je kraljina<135><STEAM_1:1:1834348531><CT>" with "mp5navy"
+L 01/04/2020 - 18:08:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "9")
+L 01/04/2020 - 18:08:10: World triggered "Round_End"
+L 01/04/2020 - 18:08:12: "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 18:08:12: "*Mr.Bombastic*<136><STEAM_1:1:25228615><TERRORIST>" joined team "CT"
+L 01/04/2020 - 18:08:16: World triggered "Round_Start"
+L 01/04/2020 - 18:08:23: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 18:08:27: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "koko je kraljina<135><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/04/2020 - 18:08:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "10")
+L 01/04/2020 - 18:08:27: World triggered "Round_End"
+L 01/04/2020 - 18:08:33: World triggered "Round_Start"
+L 01/04/2020 - 18:08:37: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 18:08:39: "short circuit<137><STEAM_1:1:1245774753><SPECTATOR>" joined team "CT"
+L 01/04/2020 - 18:08:41: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "ak47"
+L 01/04/2020 - 18:08:44: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "koko je kraljina<135><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/04/2020 - 18:08:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "11")
+L 01/04/2020 - 18:08:44: World triggered "Round_End"
+L 01/04/2020 - 18:08:50: World triggered "Round_Start"
+L 01/04/2020 - 18:08:57: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 18:08:59: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "koko je kraljina<135><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/04/2020 - 18:09:39: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "ak47"
+L 01/04/2020 - 18:09:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "12")
+L 01/04/2020 - 18:09:39: World triggered "Round_End"
+L 01/04/2020 - 18:09:45: World triggered "Round_Start"
+L 01/04/2020 - 18:10:01: "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" killed "p;p<132><STEAM_2:1:190285650><TERRORIST>" with "m3"
+L 01/04/2020 - 18:10:01: Team "CT" triggered "CTs_Win" (CT "17") (T "12")
+L 01/04/2020 - 18:10:01: World triggered "Round_End"
+L 01/04/2020 - 18:10:07: World triggered "Round_Start"
+L 01/04/2020 - 18:10:31: "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" killed "p;p<132><STEAM_2:1:190285650><TERRORIST>" with "knife"
+L 01/04/2020 - 18:10:31: Team "CT" triggered "CTs_Win" (CT "18") (T "12")
+L 01/04/2020 - 18:10:31: World triggered "Round_End"
+L 01/04/2020 - 18:10:37: World triggered "Round_Start"
+L 01/04/2020 - 18:10:44: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "koko je kraljina<135><STEAM_1:1:1834348531><CT>" with "m4a1"
+L 01/04/2020 - 18:10:47: "short circuit<137><STEAM_1:1:1245774753><CT>" killed "p;p<132><STEAM_2:1:190285650><TERRORIST>" with "m4a1"
+L 01/04/2020 - 18:10:47: Team "CT" triggered "CTs_Win" (CT "19") (T "12")
+L 01/04/2020 - 18:10:47: World triggered "Round_End"
+L 01/04/2020 - 18:10:49: "Tr1Pk[0]_12<120><STEAM_1:1:41823316><SPECTATOR>" disconnected
+L 01/04/2020 - 18:10:53: World triggered "Round_Start"
+L 01/04/2020 - 18:11:02: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "ak47"
+L 01/04/2020 - 18:11:27: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "koko je kraljina<135><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/04/2020 - 18:11:47: "koko je kraljina<135><STEAM_1:1:1834348531><CT>" disconnected
+L 01/04/2020 - 18:11:48: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 18:11:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "13")
+L 01/04/2020 - 18:11:48: World triggered "Round_End"
+L 01/04/2020 - 18:11:54: World triggered "Round_Start"
+L 01/04/2020 - 18:12:05: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "short circuit<137><STEAM_1:1:1245774753><CT>" with "ak47"
+L 01/04/2020 - 18:12:11: Server cvar "amx_nextmap" = "GM_StarWars"
+L 01/04/2020 - 18:12:23: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" with "m4a1"
+L 01/04/2020 - 18:12:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "14")
+L 01/04/2020 - 18:12:23: World triggered "Round_End"
+L 01/04/2020 - 18:12:29: World triggered "Round_Start"
+L 01/04/2020 - 18:12:29: Server cvar "sv_maxspeed" = "0.000000"
+L 01/04/2020 - 18:12:29: Server cvar "mp_friendlyfire" = "1"
+L 01/04/2020 - 18:12:36: "p;p<132><STEAM_2:1:190285650><TERRORIST>" killed "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 18:12:40: Server cvar "sv_maxspeed" = "900.000000"
+L 01/04/2020 - 18:12:40: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 18:12:40: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: AMX Mod X
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: Reunion
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: ReAuthCheck
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: WHBlocker
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: ReSemiclip
+L 01/04/2020 - 18:12:40: [META] ini: Read plugin config for: Revoice
+L 01/04/2020 - 18:12:40: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/04/2020 - 18:12:40: [META] dll: Updating plugins...
+L 01/04/2020 - 18:12:40: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 18:12:40: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/04/2020 - 18:12:40: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/04/2020 - 18:12:40: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 18:12:40: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/04/2020 - 18:12:40: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/04/2020 - 18:12:40: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 18:12:40: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/04/2020 - 18:12:40: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/04/2020 - 18:12:40: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/04/2020 - 18:12:40: "*Mr.Bombastic*<136><STEAM_1:1:25228615><CT>" disconnected
+L 01/04/2020 - 18:12:40: "short circuit<137><STEAM_1:1:1245774753><CT>" disconnected
+L 01/04/2020 - 18:12:40: "p;p<132><STEAM_2:1:190285650><TERRORIST>" disconnected
+L 01/04/2020 - 18:12:40: World triggered "Round_Draw" (CT "19") (T "14")
+L 01/04/2020 - 18:12:40: World triggered "Round_End"
+L 01/04/2020 - 18:12:40: Log file closed

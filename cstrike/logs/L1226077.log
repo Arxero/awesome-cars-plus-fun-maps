@@ -1,0 +1,496 @@
+L 12/26/2019 - 22:44:28: Log file started (file "logs/L1226077.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/26/2019 - 22:44:28: Loading map "de_lidl"
+L 12/26/2019 - 22:44:28: Server cvars start
+L 12/26/2019 - 22:44:28: Server cvar "@BunnyHopper" = "3.x"
+L 12/26/2019 - 22:44:28: Server cvar "@CRXGoSpec" = "1.1"
+L 12/26/2019 - 22:44:28: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "@D.I.C.E." = "1.1"
+L 12/26/2019 - 22:44:28: Server cvar "@MOTDCommands" = "1.2"
+L 12/26/2019 - 22:44:28: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/26/2019 - 22:44:28: Server cvar "AdvancedMute" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "aesp_version" = "1.3"
+L 12/26/2019 - 22:44:28: Server cvar "allow_spectators" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "amx_client_languages" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "amx_language" = "en"
+L 12/26/2019 - 22:44:28: Server cvar "amx_nextmap" = "de_lidl"
+L 12/26/2019 - 22:44:28: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/26/2019 - 22:44:28: Server cvar "amx_timeleft" = "02:45"
+L 12/26/2019 - 22:44:28: Server cvar "amxmodx_version" = "1.8.2"
+L 12/26/2019 - 22:44:28: Server cvar "amxxbg_vip" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "asp_version" = "4.5.1"
+L 12/26/2019 - 22:44:28: Server cvar "atac_version" = "3.0.1"
+L 12/26/2019 - 22:44:28: Server cvar "badcamper_version" = "1.4 beta"
+L 12/26/2019 - 22:44:28: Server cvar "blockmaker" = "4.01"
+L 12/26/2019 - 22:44:28: Server cvar "c4 timer" = "1.1"
+L 12/26/2019 - 22:44:28: Server cvar "coop" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "CRXAdminGroups" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "CRXFastKnife" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "CRXGametracker" = "2.0"
+L 12/26/2019 - 22:44:28: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/26/2019 - 22:44:28: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "CustomShop" = "4.2"
+L 12/26/2019 - 22:44:28: Server cvar "deathmatch" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "decalfrequency" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "edgefriction" = "2"
+L 12/26/2019 - 22:44:28: Server cvar "ers_version" = "2.3c"
+L 12/26/2019 - 22:44:28: Server cvar "gagsystem_shoko" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/26/2019 - 22:44:28: Server cvar "gal_version" = "v5.9.1-926"
+L 12/26/2019 - 22:44:28: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/26/2019 - 22:44:28: Server cvar "humans_join_team" = "any"
+L 12/26/2019 - 22:44:28: Server cvar "jtp10181" = "chute,gore"
+L 12/26/2019 - 22:44:28: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/26/2019 - 22:44:28: Server cvar "LetitSnow" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/26/2019 - 22:44:28: Server cvar "max_queries_sec" = "3"
+L 12/26/2019 - 22:44:28: Server cvar "max_queries_sec_global" = "150"
+L 12/26/2019 - 22:44:28: Server cvar "max_queries_window" = "60"
+L 12/26/2019 - 22:44:28: Server cvar "mdbBans" = "4.8"
+L 12/26/2019 - 22:44:28: Server cvar "metamod_version" = "1.21p37"
+L 12/26/2019 - 22:44:28: Server cvar "mp_autokick" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_autokick_timeout" = "-1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_autoteambalance" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_buytime" = "0.25"
+L 12/26/2019 - 22:44:28: Server cvar "mp_c4timer" = "35"
+L 12/26/2019 - 22:44:28: Server cvar "mp_chattime" = "10.000000"
+L 12/26/2019 - 22:44:28: Server cvar "mp_consistency" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_fadetoblack" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_flashlight" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_footsteps" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_forcecamera" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_forcechasecam" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_forcerespawn" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_fraglimit" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_fragsleft" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_freeforall" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_freezetime" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_friendlyfire" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_hostage_hurtable" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_hostagepenalty" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_item_staytime" = "300"
+L 12/26/2019 - 22:44:28: Server cvar "mp_kickpercent" = "0.66"
+L 12/26/2019 - 22:44:28: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_limitteams" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_logdetail" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_logfile" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_logmessages" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/26/2019 - 22:44:28: Server cvar "mp_maxmoney" = "999999"
+L 12/26/2019 - 22:44:28: Server cvar "mp_maxrounds" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_mirrordamage" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_playerid" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_round_infinite" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_round_restart_delay" = "5"
+L 12/26/2019 - 22:44:28: Server cvar "mp_roundover" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_roundtime" = "2.3"
+L 12/26/2019 - 22:44:28: Server cvar "mp_show_radioicon" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_startmoney" = "850"
+L 12/26/2019 - 22:44:28: Server cvar "mp_timeleft" = "02:44"
+L 12/26/2019 - 22:44:28: Server cvar "mp_timelimit" = "20"
+L 12/26/2019 - 22:44:28: Server cvar "mp_tkpunish" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "mp_windifference" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "mp_winlimit" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/26/2019 - 22:44:28: Server cvar "pausable" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "present_version" = "2.01"
+L 12/26/2019 - 22:44:28: Server cvar "RandomHP" = "2.2"
+L 12/26/2019 - 22:44:28: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/26/2019 - 22:44:28: Server cvar "reconnect_features" = "0.3.1"
+L 12/26/2019 - 22:44:28: Server cvar "report_system_version" = "3.1"
+L 12/26/2019 - 22:44:28: Server cvar "resemiclip_version" = "2.3.9"
+L 12/26/2019 - 22:44:28: Server cvar "reu_version" = "0.1.0.130"
+L 12/26/2019 - 22:44:28: Server cvar "revoice_version" = "0.1.0.30"
+L 12/26/2019 - 22:44:28: Server cvar "RRWM" = "2.0"
+L 12/26/2019 - 22:44:28: Server cvar "sanksounds_version" = "1.8.6"
+L 12/26/2019 - 22:44:28: Server cvar "SimpleMenu" = "1.1"
+L 12/26/2019 - 22:44:28: Server cvar "SNAC_Version" = "1.1"
+L 12/26/2019 - 22:44:28: Server cvar "SpecList" = "1.2a"
+L 12/26/2019 - 22:44:28: Server cvar "sr_version" = "1.6"
+L 12/26/2019 - 22:44:28: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/26/2019 - 22:44:28: Server cvar "StyleC4Timer" = "2.1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_accelerate" = "5"
+L 12/26/2019 - 22:44:28: Server cvar "sv_aim" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_airaccelerate" = "100"
+L 12/26/2019 - 22:44:28: Server cvar "sv_allowupload" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_alltalk" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_bounce" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_cheats" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "sv_clienttrace" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/26/2019 - 22:44:28: Server cvar "sv_friction" = "4"
+L 12/26/2019 - 22:44:28: Server cvar "sv_gravity" = "800"
+L 12/26/2019 - 22:44:28: Server cvar "sv_logblocks" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "sv_maxrate" = "50000"
+L 12/26/2019 - 22:44:28: Server cvar "sv_maxspeed" = "900.000000"
+L 12/26/2019 - 22:44:28: Server cvar "sv_minrate" = "10000"
+L 12/26/2019 - 22:44:28: Server cvar "sv_password" = ""
+L 12/26/2019 - 22:44:28: Server cvar "sv_proxies" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_restart" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "sv_restartround" = "0"
+L 12/26/2019 - 22:44:28: Server cvar "sv_stepsize" = "18"
+L 12/26/2019 - 22:44:28: Server cvar "sv_stopspeed" = "75"
+L 12/26/2019 - 22:44:28: Server cvar "sv_uploadmax" = "0.5"
+L 12/26/2019 - 22:44:28: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/26/2019 - 22:44:28: Server cvar "sv_voiceenable" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "sv_wateraccelerate" = "10"
+L 12/26/2019 - 22:44:28: Server cvar "sv_waterfriction" = "1"
+L 12/26/2019 - 22:44:28: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/26/2019 - 22:44:28: Server cvar "vehicle_real_killer" = "1.1"
+L 12/26/2019 - 22:44:28: Server cvar "WalkGuard" = "1.3.2"
+L 12/26/2019 - 22:44:28: Server cvar "we_grenades" = "Huehue"
+L 12/26/2019 - 22:44:28: Server cvar "we_player_models" = "Huehue"
+L 12/26/2019 - 22:44:28: Server cvar "whb_version" = "1.5.692"
+L 12/26/2019 - 22:44:28: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/26/2019 - 22:44:28: Server cvars end
+L 12/26/2019 - 22:44:31: Server cvar "sv_maxspeed" = "900"
+L 12/26/2019 - 22:44:31: Server cvar "mp_autoteambalance" = "1"
+L 12/26/2019 - 22:44:31: Server cvar "mp_autoteambalance" = "0"
+L 12/26/2019 - 22:44:31: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/26/2019 - 22:44:33: Started map "de_lidl" (CRC "-830416388")
+L 12/26/2019 - 22:44:35: World triggered "Round_Start"
+L 12/26/2019 - 22:44:35: [REUNION]: Ludia :D (77.76.16.213) authorized as RevEmu
+L 12/26/2019 - 22:44:35: "Ludia :D<321><STEAM_1:0:186885685><>" connected, address "77.76.16.213:35022"
+L 12/26/2019 - 22:44:36: "Maverick<250><STEAM_0:0:37264973><>" entered the game
+L 12/26/2019 - 22:44:36: "Mr.Knife<249><STEAM_1:1:1973042010><>" entered the game
+L 12/26/2019 - 22:44:37: "BAD BOY<296><STEAM_1:1:175462098><>" entered the game
+L 12/26/2019 - 22:44:38: "Ludia :D<321><STEAM_1:0:186885685><>" entered the game
+L 12/26/2019 - 22:44:40: "Maverick<250><STEAM_0:0:37264973><>" joined team "CT"
+L 12/26/2019 - 22:44:40: "Ludia :D<321><STEAM_1:0:186885685><>" joined team "TERRORIST"
+L 12/26/2019 - 22:44:41: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:44:41: World triggered "Game_Commencing"
+L 12/26/2019 - 22:44:41: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/26/2019 - 22:44:41: World triggered "Round_End"
+L 12/26/2019 - 22:44:41: "Saad<307><STEAM_0:1:113405507><>" entered the game
+L 12/26/2019 - 22:44:42: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><>" entered the game
+L 12/26/2019 - 22:44:44: "Mr.Knife<249><STEAM_1:1:1973042010><>" joined team "TERRORIST"
+L 12/26/2019 - 22:44:44: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:44:45: "BAD BOY<296><STEAM_1:1:175462098><>" joined team "TERRORIST"
+L 12/26/2019 - 22:44:45: World triggered "Round_Start"
+L 12/26/2019 - 22:44:46: "2Pacalypse<288><VALVE_ID_LAN><>" entered the game
+L 12/26/2019 - 22:44:47: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><>" joined team "CT"
+L 12/26/2019 - 22:44:52: "2Pacalypse<288><VALVE_ID_LAN><>" joined team "CT"
+L 12/26/2019 - 22:44:55: [REUNION]: 19 Panzerwaffe 14 (84.252.35.205) authorized as NoSteam47
+L 12/26/2019 - 22:44:55: "19 Panzerwaffe 14<322><VALVE_ID_LAN><>" connected, address "84.252.35.205:27005"
+L 12/26/2019 - 22:44:56: "PLAMENA~~<323><STEAM_0:0:186939542><>" connected, address "46.237.123.235:27005"
+L 12/26/2019 - 22:44:56: "PLAMENA~~<323><STEAM_0:0:186939542><>" STEAM USERID validated
+L 12/26/2019 - 22:44:57: "xXMr.ONurXx_YT<324><STEAM_0:0:526678195><>" connected, address "185.78.37.218:27005"
+L 12/26/2019 - 22:44:57: "mpakaliaros21<325><STEAM_0:1:452387901><>" connected, address "80.106.16.237:27005"
+L 12/26/2019 - 22:44:57: "xXMr.ONurXx_YT<324><STEAM_0:0:526678195><>" STEAM USERID validated
+L 12/26/2019 - 22:44:57: "mpakaliaros21<325><STEAM_0:1:452387901><>" STEAM USERID validated
+L 12/26/2019 - 22:44:58: [REUNION]: 4_-_four_-_4 (94.156.7.20) authorized as RevEmu
+L 12/26/2019 - 22:44:58: "4_-_four_-_4<326><STEAM_2:1:494350868><>" connected, address "94.156.7.20:27005"
+L 12/26/2019 - 22:45:00: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:45:07: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:45:07: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:45:09: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "deagle"
+L 12/26/2019 - 22:45:09: "uh oh stinky<327><STEAM_0:1:160665695><>" connected, address "102.115.181.195:27005"
+L 12/26/2019 - 22:45:10: "uh oh stinky<327><STEAM_0:1:160665695><>" STEAM USERID validated
+L 12/26/2019 - 22:45:19: [REUNION]: 8==F (109.93.203.123) authorized as RevEmu
+L 12/26/2019 - 22:45:19: "8==F<328><STEAM_1:0:365614513><>" connected, address "109.93.203.123:2253"
+L 12/26/2019 - 22:45:23: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "deagle"
+L 12/26/2019 - 22:45:24: "uh oh stinky<327><STEAM_0:1:160665695><>" entered the game
+L 12/26/2019 - 22:45:32: "4_-_four_-_4<326><STEAM_2:1:494350868><>" entered the game
+L 12/26/2019 - 22:45:34: "4_-_four_-_4<326><STEAM_2:1:494350868><>" joined team "TERRORIST"
+L 12/26/2019 - 22:45:35: "uh oh stinky<327><STEAM_0:1:160665695><>" joined team "CT"
+L 12/26/2019 - 22:45:40: "Saad<307><STEAM_0:1:113405507><>" joined team "SPECTATOR"
+L 12/26/2019 - 22:45:53: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" with "deagle"
+L 12/26/2019 - 22:45:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/26/2019 - 22:45:53: World triggered "Round_End"
+L 12/26/2019 - 22:45:58: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:45:59: World triggered "Round_Start"
+L 12/26/2019 - 22:46:02: "xXMr.ONurXx_YT<324><STEAM_0:0:526678195><>" entered the game
+L 12/26/2019 - 22:46:05: "xXMr.ONurXx_YT<324><STEAM_0:0:526678195><>" joined team "CT"
+L 12/26/2019 - 22:46:15: "19 Panzerwaffe 14<322><VALVE_ID_LAN><>" entered the game
+L 12/26/2019 - 22:46:19: "19 Panzerwaffe 14<322><VALVE_ID_LAN><>" joined team "CT"
+L 12/26/2019 - 22:46:36: "PLAMENA~~<323><STEAM_0:0:186939542><>" entered the game
+L 12/26/2019 - 22:46:38: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 22:46:49: "PLAMENA~~<323><STEAM_0:0:186939542><>" joined team "TERRORIST"
+L 12/26/2019 - 22:47:02: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "xXMr.ONurXx_YT<324><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/26/2019 - 22:47:06: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "ak47"
+L 12/26/2019 - 22:47:07: "Saad<307><STEAM_0:1:113405507><SPECTATOR>" joined team "TERRORIST"
+L 12/26/2019 - 22:47:36: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" killed "uh oh stinky<327><STEAM_0:1:160665695><CT>" with "scout"
+L 12/26/2019 - 22:47:45: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "ak47"
+L 12/26/2019 - 22:47:46: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "awp"
+L 12/26/2019 - 22:47:58: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 22:47:58: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 12/26/2019 - 22:47:58: World triggered "Round_End"
+L 12/26/2019 - 22:48:03: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:48:03: Kick: "19 Panzerwaffe 14<322><VALVE_ID_LAN><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 12/26/2019 - 22:48:03: "19 Panzerwaffe 14<322><VALVE_ID_LAN><CT>" disconnected
+L 12/26/2019 - 22:48:04: World triggered "Round_Start"
+L 12/26/2019 - 22:48:08: "xXMr.ONurXx_YT<324><STEAM_0:0:526678195><CT>" disconnected
+L 12/26/2019 - 22:48:22: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "awp"
+L 12/26/2019 - 22:48:29: "Maverick<250><STEAM_0:0:37264973><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:48:38: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "deagle"
+L 12/26/2019 - 22:48:44: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" with "deagle"
+L 12/26/2019 - 22:48:47: [REUNION]: 19 Panzerwaffe 14 (84.252.35.205) authorized as NoSteam47
+L 12/26/2019 - 22:48:47: "19 Panzerwaffe 14<329><VALVE_ID_LAN><>" connected, address "84.252.35.205:27005"
+L 12/26/2019 - 22:48:51: "19 Panzerwaffe 14<329><VALVE_ID_LAN><>" entered the game
+L 12/26/2019 - 22:48:55: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "uh oh stinky<327><STEAM_0:1:160665695><CT>" with "awp"
+L 12/26/2019 - 22:48:55: "19 Panzerwaffe 14<329><VALVE_ID_LAN><>" joined team "CT"
+L 12/26/2019 - 22:48:57: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:49:05: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "galil"
+L 12/26/2019 - 22:49:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 12/26/2019 - 22:49:05: World triggered "Round_End"
+L 12/26/2019 - 22:49:10: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:49:11: World triggered "Round_Start"
+L 12/26/2019 - 22:49:21: "uh oh stinky<327><STEAM_0:1:160665695><CT>" disconnected
+L 12/26/2019 - 22:49:21: "uh oh stinky<330><STEAM_0:1:160665695><>" connected, address "102.115.181.195:27005"
+L 12/26/2019 - 22:49:22: "uh oh stinky<330><STEAM_0:1:160665695><>" STEAM USERID validated
+L 12/26/2019 - 22:49:36: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 22:49:44: "Saad<307><STEAM_0:1:113405507><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "galil"
+L 12/26/2019 - 22:49:45: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:49:56: "uh oh stinky<330><STEAM_0:1:160665695><>" entered the game
+L 12/26/2019 - 22:49:58: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" with "ak47"
+L 12/26/2019 - 22:49:58: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:49:59: "Saad<307><STEAM_0:1:113405507><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "galil"
+L 12/26/2019 - 22:49:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 12/26/2019 - 22:49:59: World triggered "Round_End"
+L 12/26/2019 - 22:50:04: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" joined team "CT"
+L 12/26/2019 - 22:50:04: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Mr.Knife to CT")
+L 12/26/2019 - 22:50:04: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:50:05: World triggered "Round_Start"
+L 12/26/2019 - 22:50:08: "uh oh stinky<330><STEAM_0:1:160665695><>" joined team "CT"
+L 12/26/2019 - 22:50:20: "Mr.Knife<249><STEAM_1:1:1973042010><CT>" killed "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:50:25: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "grenade"
+L 12/26/2019 - 22:50:27: "Mr.Knife<249><STEAM_1:1:1973042010><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:50:33: "uh oh stinky<330><STEAM_0:1:160665695><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:50:33: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:50:33: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:50:40: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "uh oh stinky<330><STEAM_0:1:160665695><CT>" with "ak47"
+L 12/26/2019 - 22:50:44: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" triggered "Got_The_Bomb"
+L 12/26/2019 - 22:51:01: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/26/2019 - 22:51:02: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" with "ak47"
+L 12/26/2019 - 22:51:05: "ک!мþℓعмэи†э么<314><STEAM_0:1:49983591><CT>" disconnected
+L 12/26/2019 - 22:51:10: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:51:10: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 12/26/2019 - 22:51:10: World triggered "Round_End"
+L 12/26/2019 - 22:51:15: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:51:16: World triggered "Round_Start"
+L 12/26/2019 - 22:51:38: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:51:38: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:51:38: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 22:51:40: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "uh oh stinky<330><STEAM_0:1:160665695><CT>" with "ak47"
+L 12/26/2019 - 22:51:41: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/26/2019 - 22:51:42: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:51:51: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:51:52: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "deagle"
+L 12/26/2019 - 22:51:59: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" triggered "Got_The_Bomb"
+L 12/26/2019 - 22:52:08: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/26/2019 - 22:52:15: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" killed "Mr.Knife<249><STEAM_1:1:1973042010><CT>" with "ak47"
+L 12/26/2019 - 22:52:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 12/26/2019 - 22:52:15: World triggered "Round_End"
+L 12/26/2019 - 22:52:19: "Mr.Knife<249><STEAM_1:1:1973042010><CT>" joined team "TERRORIST"
+L 12/26/2019 - 22:52:20: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" joined team "CT"
+L 12/26/2019 - 22:52:20: "<><><>" triggered "amx_chat" (text "[PTB] Transfered PLAMENA~~ to CT")
+L 12/26/2019 - 22:52:20: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:52:21: World triggered "Round_Start"
+L 12/26/2019 - 22:52:39: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 22:52:43: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "PLAMENA~~<323><STEAM_0:0:186939542><CT>" with "mp5navy"
+L 12/26/2019 - 22:52:44: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 22:52:45: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "mp5navy"
+L 12/26/2019 - 22:52:48: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "mp5navy"
+L 12/26/2019 - 22:52:48: "2Pacalypse<288><VALVE_ID_LAN><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 22:53:04: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "uh oh stinky<330><STEAM_0:1:160665695><CT>" with "mp5navy"
+L 12/26/2019 - 22:53:09: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "mp5navy"
+L 12/26/2019 - 22:53:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 12/26/2019 - 22:53:09: World triggered "Round_End"
+L 12/26/2019 - 22:53:14: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:53:15: World triggered "Round_Start"
+L 12/26/2019 - 22:53:27: "Saad<307><STEAM_0:1:113405507><TERRORIST>" killed "2Pacalypse<288><VALVE_ID_LAN><CT>" with "deagle"
+L 12/26/2019 - 22:53:33: "PLAMENA~~<323><STEAM_0:0:186939542><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:53:39: "PLAMENA~~<323><STEAM_0:0:186939542><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:53:39: "uh oh stinky<330><STEAM_0:1:160665695><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "awp"
+L 12/26/2019 - 22:53:45: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "uh oh stinky<330><STEAM_0:1:160665695><CT>" with "mp5navy"
+L 12/26/2019 - 22:53:50: "2Pacalypse<288><VALVE_ID_LAN><CT>" disconnected
+L 12/26/2019 - 22:54:26: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "PLAMENA~~<323><STEAM_0:0:186939542><CT>" with "awp"
+L 12/26/2019 - 22:54:29: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/26/2019 - 22:54:41: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:54:41: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:54:58: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "awp"
+L 12/26/2019 - 22:54:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 12/26/2019 - 22:54:58: World triggered "Round_End"
+L 12/26/2019 - 22:55:02: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" joined team "CT"
+L 12/26/2019 - 22:55:02: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 4_-_four_-_4 to CT")
+L 12/26/2019 - 22:55:03: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:55:04: World triggered "Round_Start"
+L 12/26/2019 - 22:55:22: "Saad<307><STEAM_0:1:113405507><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "deagle"
+L 12/26/2019 - 22:55:25: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:55:25: "PLAMENA~~<323><STEAM_0:0:186939542><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:55:25: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:55:35: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:55:42: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:55:42: Team "CT" triggered "CTs_Win" (CT "3") (T "6")
+L 12/26/2019 - 22:55:42: World triggered "Round_End"
+L 12/26/2019 - 22:55:47: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:55:48: World triggered "Round_Start"
+L 12/26/2019 - 22:56:02: "uh oh stinky<330><STEAM_0:1:160665695><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "awp"
+L 12/26/2019 - 22:56:09: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:56:09: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:56:12: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:56:16: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 22:56:29: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "uh oh stinky<330><STEAM_0:1:160665695><CT>" with "ak47"
+L 12/26/2019 - 22:56:33: [REUNION]: Mladen Pedofil *volim decu (109.93.38.35) authorized as RevEmu
+L 12/26/2019 - 22:56:33: "Mladen Pedofil *volim decu<331><STEAM_1:1:767892478><>" connected, address "109.93.38.35:27005"
+L 12/26/2019 - 22:56:51: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:56:51: Team "CT" triggered "CTs_Win" (CT "4") (T "6")
+L 12/26/2019 - 22:56:51: World triggered "Round_End"
+L 12/26/2019 - 22:56:52: [REUNION]: Mladen Pedofil *volim decu (109.93.38.35) authorized as RevEmu
+L 12/26/2019 - 22:56:52: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><>" connected, address "109.93.38.35:27005"
+L 12/26/2019 - 22:56:56: "PLAMENA~~<323><STEAM_0:0:186939542><CT>" joined team "TERRORIST"
+L 12/26/2019 - 22:56:56: "<><><>" triggered "amx_chat" (text "[PTB] Transfered PLAMENA~~ to TERRORIST")
+L 12/26/2019 - 22:56:56: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:56:57: World triggered "Round_Start"
+L 12/26/2019 - 22:57:06: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><>" entered the game
+L 12/26/2019 - 22:57:09: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><>" joined team "CT"
+L 12/26/2019 - 22:57:14: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:57:14: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:57:20: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" killed "uh oh stinky<330><STEAM_0:1:160665695><CT>" with "ak47"
+L 12/26/2019 - 22:57:23: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" with "m4a1"
+L 12/26/2019 - 22:57:24: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 22:57:28: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:57:32: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" killed "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" with "ak47"
+L 12/26/2019 - 22:57:33: "Maverick<250><STEAM_0:0:37264973><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:57:37: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "m4a1"
+L 12/26/2019 - 22:57:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "7")
+L 12/26/2019 - 22:57:37: World triggered "Round_End"
+L 12/26/2019 - 22:57:42: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:57:42: "uh oh stinky<330><STEAM_0:1:160665695><CT>" changed name to "yashveer"
+L 12/26/2019 - 22:57:43: World triggered "Round_Start"
+L 12/26/2019 - 22:57:49: "yashveer<330><STEAM_0:1:160665695><CT>" disconnected
+L 12/26/2019 - 22:57:49: "yashveer<333><STEAM_0:1:160665695><>" connected, address "102.115.181.195:27005"
+L 12/26/2019 - 22:57:50: "yashveer<333><STEAM_0:1:160665695><>" STEAM USERID validated
+L 12/26/2019 - 22:57:58: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "famas"
+L 12/26/2019 - 22:57:59: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:58:04: "PLAMENA~~<323><STEAM_0:0:186939542><TERRORIST>" disconnected
+L 12/26/2019 - 22:58:09: "yashveer<333><STEAM_0:1:160665695><>" entered the game
+L 12/26/2019 - 22:58:19: "yashveer<333><STEAM_0:1:160665695><>" joined team "CT"
+L 12/26/2019 - 22:58:21: [REUNION]: pickavac (89.216.135.42) authorized as RevEmu
+L 12/26/2019 - 22:58:21: "pickavac<334><STEAM_1:0:686931852><>" connected, address "89.216.135.42:27005"
+L 12/26/2019 - 22:58:34: "Maverick<250><STEAM_0:0:37264973><CT>" killed "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:58:35: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/26/2019 - 22:58:49: [REUNION]: pickavac (89.216.135.42) authorized as RevEmu
+L 12/26/2019 - 22:58:49: "pickavac<335><STEAM_1:0:686931852><>" connected, address "89.216.135.42:27005"
+L 12/26/2019 - 22:58:49: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" with "sg552"
+L 12/26/2019 - 22:58:53: "pickavac<335><STEAM_1:0:686931852><>" entered the game
+L 12/26/2019 - 22:58:54: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "m4a1"
+L 12/26/2019 - 22:58:54: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 22:59:00: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 22:59:01: "pickavac<335><STEAM_1:0:686931852><>" joined team "CT"
+L 12/26/2019 - 22:59:19: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "deagle"
+L 12/26/2019 - 22:59:19: Team "CT" triggered "CTs_Win" (CT "5") (T "7")
+L 12/26/2019 - 22:59:19: World triggered "Round_End"
+L 12/26/2019 - 22:59:24: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" joined team "TERRORIST"
+L 12/26/2019 - 22:59:24: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 4_-_four_-_4 to TERRORIST")
+L 12/26/2019 - 22:59:24: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 22:59:25: World triggered "Round_Start"
+L 12/26/2019 - 23:00:04: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "pickavac<335><STEAM_1:0:686931852><CT>" with "deagle"
+L 12/26/2019 - 23:00:08: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/26/2019 - 23:00:13: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "yashveer<333><STEAM_0:1:160665695><CT>" with "famas"
+L 12/26/2019 - 23:00:25: "BAD BOY<296><STEAM_1:1:175462098><TERRORIST>" disconnected
+L 12/26/2019 - 23:00:26: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 23:00:33: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "deagle"
+L 12/26/2019 - 23:00:33: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 23:00:36: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" killed "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" with "deagle"
+L 12/26/2019 - 23:00:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 12/26/2019 - 23:00:36: World triggered "Round_End"
+L 12/26/2019 - 23:00:41: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 23:00:42: World triggered "Round_Start"
+L 12/26/2019 - 23:00:57: [REUNION]: svinger (46.161.103.76) authorized as RevEmu
+L 12/26/2019 - 23:00:57: "svinger<336><STEAM_2:1:2008482990><>" connected, address "46.161.103.76:27005"
+L 12/26/2019 - 23:01:00: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" with "mp5navy"
+L 12/26/2019 - 23:01:03: "Mr.Knife<249><STEAM_1:1:1973042010><TERRORIST>" disconnected
+L 12/26/2019 - 23:01:04: [REUNION]: svinger (46.161.103.76) authorized as RevEmu
+L 12/26/2019 - 23:01:04: "svinger<337><STEAM_2:1:2008482990><>" connected, address "46.161.103.76:27005"
+L 12/26/2019 - 23:01:04: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:01:04: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 23:01:09: "pickavac<335><STEAM_1:0:686931852><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:01:12: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" killed "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" with "ak47"
+L 12/26/2019 - 23:01:12: Team "CT" triggered "CTs_Win" (CT "6") (T "8")
+L 12/26/2019 - 23:01:12: World triggered "Round_End"
+L 12/26/2019 - 23:01:13: "svinger<337><STEAM_2:1:2008482990><>" entered the game
+L 12/26/2019 - 23:01:16: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><CT>" joined team "TERRORIST"
+L 12/26/2019 - 23:01:16: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Mladen Pedofil *volim decu to TERRORIST")
+L 12/26/2019 - 23:01:17: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 23:01:18: World triggered "Round_Start"
+L 12/26/2019 - 23:01:18: "svinger<337><STEAM_2:1:2008482990><>" joined team "TERRORIST"
+L 12/26/2019 - 23:01:39: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "m3"
+L 12/26/2019 - 23:01:39: "Saad<307><STEAM_0:1:113405507><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/26/2019 - 23:01:40: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><TERRORIST>" killed "Maverick<250><STEAM_0:0:37264973><CT>" with "m3"
+L 12/26/2019 - 23:01:52: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "yashveer<333><STEAM_0:1:160665695><CT>" with "mac10"
+L 12/26/2019 - 23:02:05: "pickavac<335><STEAM_1:0:686931852><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m3"
+L 12/26/2019 - 23:02:06: "pickavac<335><STEAM_1:0:686931852><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 12/26/2019 - 23:02:14: Team "TERRORIST" triggered "Target_Bombed" (CT "6") (T "9")
+L 12/26/2019 - 23:02:14: World triggered "Round_End"
+L 12/26/2019 - 23:02:19: "4_-_four_-_4<326><STEAM_2:1:494350868><TERRORIST>" joined team "CT"
+L 12/26/2019 - 23:02:19: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 4_-_four_-_4 to CT")
+L 12/26/2019 - 23:02:19: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 23:02:20: World triggered "Round_Start"
+L 12/26/2019 - 23:02:39: "pickavac<335><STEAM_1:0:686931852><CT>" killed "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:02:39: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 23:02:45: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:02:45: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 23:02:49: "pickavac<335><STEAM_1:0:686931852><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:02:49: "Maverick<250><STEAM_0:0:37264973><CT>" killed "svinger<337><STEAM_2:1:2008482990><TERRORIST>" with "deagle"
+L 12/26/2019 - 23:02:49: Team "CT" triggered "CTs_Win" (CT "7") (T "9")
+L 12/26/2019 - 23:02:49: World triggered "Round_End"
+L 12/26/2019 - 23:02:53: "pickavac<335><STEAM_1:0:686931852><CT>" joined team "TERRORIST"
+L 12/26/2019 - 23:02:53: "<><><>" triggered "amx_chat" (text "[PTB] Transfered pickavac to TERRORIST")
+L 12/26/2019 - 23:02:54: "pickavac<335><STEAM_1:0:686931852><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 23:02:55: World triggered "Round_Start"
+L 12/26/2019 - 23:03:12: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" killed "pickavac<335><STEAM_1:0:686931852><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:03:12: "pickavac<335><STEAM_1:0:686931852><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 23:03:16: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" killed "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 12/26/2019 - 23:03:20: "Saad<307><STEAM_0:1:113405507><TERRORIST>" killed "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 23:03:20: "Maverick<250><STEAM_0:0:37264973><CT>" killed "Saad<307><STEAM_0:1:113405507><TERRORIST>" with "deagle"
+L 12/26/2019 - 23:03:34: "Maverick<250><STEAM_0:0:37264973><CT>" killed "svinger<337><STEAM_2:1:2008482990><TERRORIST>" with "deagle"
+L 12/26/2019 - 23:03:41: Server cvar "amx_nextmap" = "fun_gta"
+L 12/26/2019 - 23:03:42: "pickavac<335><STEAM_1:0:686931852><TERRORIST>" joined team "CT"
+L 12/26/2019 - 23:04:17: Server cvar "mp_timelimit" = "0.000000"
+L 12/26/2019 - 23:04:20: "19 Panzerwaffe 14<329><VALVE_ID_LAN><CT>" joined team "SPECTATOR"
+L 12/26/2019 - 23:04:39: "yashveer<333><STEAM_0:1:160665695><CT>" killed "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><TERRORIST>" with "elite"
+L 12/26/2019 - 23:04:39: Team "CT" triggered "CTs_Win" (CT "8") (T "9")
+L 12/26/2019 - 23:04:39: World triggered "Round_End"
+L 12/26/2019 - 23:04:44: "svinger<337><STEAM_2:1:2008482990><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 23:04:45: World triggered "Round_Start"
+L 12/26/2019 - 23:04:45: Server cvar "sv_maxspeed" = "0.000000"
+L 12/26/2019 - 23:04:45: Server cvar "mp_friendlyfire" = "1"
+L 12/26/2019 - 23:04:49: "Mladen Pedofil *volim decu<332><STEAM_1:1:767892478><TERRORIST>" disconnected
+L 12/26/2019 - 23:04:56: "yashveer<333><STEAM_0:1:160665695><CT>" killed "pickavac<335><STEAM_1:0:686931852><CT>" with "grenade"
+L 12/26/2019 - 23:04:57: Server cvar "sv_maxspeed" = "900.000000"
+L 12/26/2019 - 23:04:57: Server cvar "mp_friendlyfire" = "0"
+L 12/26/2019 - 23:04:57: Server cvar "mp_timelimit" = "20.000000"
+L 12/26/2019 - 23:04:57: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: AMX Mod X
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: Reunion
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: ReAuthCheck
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: WHBlocker
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: ReSemiclip
+L 12/26/2019 - 23:04:57: [META] ini: Read plugin config for: Revoice
+L 12/26/2019 - 23:04:57: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/26/2019 - 23:04:57: [META] dll: Updating plugins...
+L 12/26/2019 - 23:04:57: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 23:04:57: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/26/2019 - 23:04:57: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/26/2019 - 23:04:57: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 23:04:57: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/26/2019 - 23:04:57: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/26/2019 - 23:04:57: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 23:04:57: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/26/2019 - 23:04:57: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/26/2019 - 23:04:57: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/26/2019 - 23:04:57: "4_-_four_-_4<326><STEAM_2:1:494350868><CT>" disconnected
+L 12/26/2019 - 23:04:57: "pickavac<335><STEAM_1:0:686931852><CT>" disconnected
+L 12/26/2019 - 23:04:57: "Ludia :D<321><STEAM_1:0:186885685><TERRORIST>" disconnected
+L 12/26/2019 - 23:04:57: "svinger<337><STEAM_2:1:2008482990><TERRORIST>" disconnected
+L 12/26/2019 - 23:04:57: "Maverick<250><STEAM_0:0:37264973><CT>" disconnected
+L 12/26/2019 - 23:04:57: "Saad<307><STEAM_0:1:113405507><TERRORIST>" disconnected
+L 12/26/2019 - 23:04:57: "19 Panzerwaffe 14<329><VALVE_ID_LAN><SPECTATOR>" disconnected
+L 12/26/2019 - 23:04:57: "yashveer<333><STEAM_0:1:160665695><CT>" disconnected
+L 12/26/2019 - 23:04:57: World triggered "Round_Draw" (CT "8") (T "9")
+L 12/26/2019 - 23:04:57: World triggered "Round_End"
+L 12/26/2019 - 23:04:57: Log file closed

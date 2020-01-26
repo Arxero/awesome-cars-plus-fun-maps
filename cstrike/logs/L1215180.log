@@ -1,0 +1,460 @@
+L 12/15/2019 - 20:49:29: Log file started (file "logs/L1215180.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/15/2019 - 20:49:29: Loading map "air_fight2"
+L 12/15/2019 - 20:49:29: Server cvars start
+L 12/15/2019 - 20:49:29: Server cvar "@BunnyHopper" = "3.x"
+L 12/15/2019 - 20:49:29: Server cvar "@CRXGoSpec" = "1.1"
+L 12/15/2019 - 20:49:29: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "@D.I.C.E." = "1.1"
+L 12/15/2019 - 20:49:29: Server cvar "@MOTDCommands" = "1.2"
+L 12/15/2019 - 20:49:29: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/15/2019 - 20:49:29: Server cvar "AdvancedMute" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "aesp_version" = "1.3"
+L 12/15/2019 - 20:49:29: Server cvar "allow_spectators" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "amx_client_languages" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "amx_language" = "en"
+L 12/15/2019 - 20:49:29: Server cvar "amx_nextmap" = "air_fight2"
+L 12/15/2019 - 20:49:29: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/15/2019 - 20:49:29: Server cvar "amx_timeleft" = "00:00"
+L 12/15/2019 - 20:49:29: Server cvar "amxmodx_version" = "1.8.2"
+L 12/15/2019 - 20:49:29: Server cvar "amxxbg_vip" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "asp_version" = "4.5.1"
+L 12/15/2019 - 20:49:29: Server cvar "atac_version" = "3.0.1"
+L 12/15/2019 - 20:49:29: Server cvar "badcamper_version" = "1.4 beta"
+L 12/15/2019 - 20:49:29: Server cvar "blockmaker" = "4.01"
+L 12/15/2019 - 20:49:29: Server cvar "c4 timer" = "1.1"
+L 12/15/2019 - 20:49:29: Server cvar "coop" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "CRXAdminGroups" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "CRXFastKnife" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "CRXGametracker" = "2.0"
+L 12/15/2019 - 20:49:29: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/15/2019 - 20:49:29: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "CustomShop" = "4.2"
+L 12/15/2019 - 20:49:29: Server cvar "deathmatch" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "decalfrequency" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "edgefriction" = "2"
+L 12/15/2019 - 20:49:29: Server cvar "ers_version" = "2.3c"
+L 12/15/2019 - 20:49:29: Server cvar "gagsystem_shoko" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/15/2019 - 20:49:29: Server cvar "gal_version" = "v5.9.1-926"
+L 12/15/2019 - 20:49:29: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/15/2019 - 20:49:29: Server cvar "humans_join_team" = "any"
+L 12/15/2019 - 20:49:29: Server cvar "jtp10181" = "chute,gore"
+L 12/15/2019 - 20:49:29: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/15/2019 - 20:49:29: Server cvar "LetitSnow" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/15/2019 - 20:49:29: Server cvar "max_queries_sec" = "3"
+L 12/15/2019 - 20:49:29: Server cvar "max_queries_sec_global" = "150"
+L 12/15/2019 - 20:49:29: Server cvar "max_queries_window" = "60"
+L 12/15/2019 - 20:49:29: Server cvar "mdbBans" = "4.8"
+L 12/15/2019 - 20:49:29: Server cvar "metamod_version" = "1.21p37"
+L 12/15/2019 - 20:49:29: Server cvar "mp_autokick" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_autokick_timeout" = "-1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_autoteambalance" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_buytime" = "0.25"
+L 12/15/2019 - 20:49:29: Server cvar "mp_c4timer" = "35"
+L 12/15/2019 - 20:49:29: Server cvar "mp_chattime" = "10"
+L 12/15/2019 - 20:49:29: Server cvar "mp_consistency" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_fadetoblack" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_flashlight" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_footsteps" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_forcecamera" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_forcechasecam" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_forcerespawn" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_fraglimit" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_fragsleft" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_freeforall" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_freezetime" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_friendlyfire" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_hostage_hurtable" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_hostagepenalty" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_item_staytime" = "300"
+L 12/15/2019 - 20:49:29: Server cvar "mp_kickpercent" = "0.66"
+L 12/15/2019 - 20:49:29: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_limitteams" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_logdetail" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_logfile" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_logmessages" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/15/2019 - 20:49:29: Server cvar "mp_maxmoney" = "999999"
+L 12/15/2019 - 20:49:29: Server cvar "mp_maxrounds" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_mirrordamage" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_playerid" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_round_infinite" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_round_restart_delay" = "5"
+L 12/15/2019 - 20:49:29: Server cvar "mp_roundover" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_roundtime" = "2.3"
+L 12/15/2019 - 20:49:29: Server cvar "mp_show_radioicon" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_startmoney" = "850"
+L 12/15/2019 - 20:49:29: Server cvar "mp_timeleft" = "00:00"
+L 12/15/2019 - 20:49:29: Server cvar "mp_timelimit" = "20.000000"
+L 12/15/2019 - 20:49:29: Server cvar "mp_tkpunish" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "mp_windifference" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "mp_winlimit" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/15/2019 - 20:49:29: Server cvar "pausable" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "present_version" = "2.01"
+L 12/15/2019 - 20:49:29: Server cvar "RandomHP" = "2.2"
+L 12/15/2019 - 20:49:29: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/15/2019 - 20:49:29: Server cvar "reconnect_features" = "0.3.1"
+L 12/15/2019 - 20:49:29: Server cvar "report_system_version" = "3.1"
+L 12/15/2019 - 20:49:29: Server cvar "resemiclip_version" = "2.3.9"
+L 12/15/2019 - 20:49:29: Server cvar "reu_version" = "0.1.0.130"
+L 12/15/2019 - 20:49:29: Server cvar "revoice_version" = "0.1.0.30"
+L 12/15/2019 - 20:49:29: Server cvar "RRWM" = "2.0"
+L 12/15/2019 - 20:49:29: Server cvar "sanksounds_version" = "1.8.6"
+L 12/15/2019 - 20:49:29: Server cvar "SimpleMenu" = "1.1"
+L 12/15/2019 - 20:49:29: Server cvar "SNAC_Version" = "1.1"
+L 12/15/2019 - 20:49:29: Server cvar "SpecList" = "1.2a"
+L 12/15/2019 - 20:49:29: Server cvar "sr_version" = "1.6"
+L 12/15/2019 - 20:49:29: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/15/2019 - 20:49:29: Server cvar "StyleC4Timer" = "2.1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_accelerate" = "5"
+L 12/15/2019 - 20:49:29: Server cvar "sv_aim" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_airaccelerate" = "100"
+L 12/15/2019 - 20:49:29: Server cvar "sv_allowupload" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_alltalk" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_bounce" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_cheats" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "sv_clienttrace" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/15/2019 - 20:49:29: Server cvar "sv_friction" = "4"
+L 12/15/2019 - 20:49:29: Server cvar "sv_gravity" = "800"
+L 12/15/2019 - 20:49:29: Server cvar "sv_logblocks" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "sv_maxrate" = "50000"
+L 12/15/2019 - 20:49:29: Server cvar "sv_maxspeed" = "900.000000"
+L 12/15/2019 - 20:49:29: Server cvar "sv_minrate" = "10000"
+L 12/15/2019 - 20:49:29: Server cvar "sv_password" = ""
+L 12/15/2019 - 20:49:29: Server cvar "sv_proxies" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_restart" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "sv_restartround" = "0"
+L 12/15/2019 - 20:49:29: Server cvar "sv_stepsize" = "18"
+L 12/15/2019 - 20:49:29: Server cvar "sv_stopspeed" = "75"
+L 12/15/2019 - 20:49:29: Server cvar "sv_uploadmax" = "0.5"
+L 12/15/2019 - 20:49:29: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/15/2019 - 20:49:29: Server cvar "sv_voiceenable" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "sv_wateraccelerate" = "10"
+L 12/15/2019 - 20:49:29: Server cvar "sv_waterfriction" = "1"
+L 12/15/2019 - 20:49:29: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/15/2019 - 20:49:29: Server cvar "vehicle_real_killer" = "1.1"
+L 12/15/2019 - 20:49:29: Server cvar "WalkGuard" = "1.3.2"
+L 12/15/2019 - 20:49:29: Server cvar "we_grenades" = "Huehue"
+L 12/15/2019 - 20:49:29: Server cvar "we_player_models" = "Huehue"
+L 12/15/2019 - 20:49:29: Server cvar "whb_version" = "1.5.692"
+L 12/15/2019 - 20:49:29: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/15/2019 - 20:49:29: Server cvars end
+L 12/15/2019 - 20:49:31: Server cvar "sv_maxspeed" = "900"
+L 12/15/2019 - 20:49:31: Server cvar "mp_autoteambalance" = "1"
+L 12/15/2019 - 20:49:31: Server cvar "mp_timelimit" = "20"
+L 12/15/2019 - 20:49:31: Server cvar "mp_autoteambalance" = "0"
+L 12/15/2019 - 20:49:31: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/15/2019 - 20:49:33: Started map "air_fight2" (CRC "-1788665057")
+L 12/15/2019 - 20:49:35: World triggered "Round_Start"
+L 12/15/2019 - 20:49:35: "PLAMENA~~<33><STEAM_0:0:186939542><>" connected, address "46.237.123.235:27005"
+L 12/15/2019 - 20:49:35: "Maverick<11><STEAM_0:0:37264973><>" entered the game
+L 12/15/2019 - 20:49:35: "PLAMENA~~<33><STEAM_0:0:186939542><>" STEAM USERID validated
+L 12/15/2019 - 20:49:35: [REUNION]: sadpoweR (91.92.244.153) authorized as RevEmu
+L 12/15/2019 - 20:49:35: "sadpoweR<34><STEAM_1:0:1287166476><>" connected, address "91.92.244.153:7703"
+L 12/15/2019 - 20:49:38: "PLAMENA~~<33><STEAM_0:0:186939542><>" entered the game
+L 12/15/2019 - 20:49:39: "Maverick<11><STEAM_0:0:37264973><>" joined team "CT"
+L 12/15/2019 - 20:49:40: "PLAMENA~~<33><STEAM_0:0:186939542><>" joined team "CT"
+L 12/15/2019 - 20:49:40: "Saad<18><STEAM_0:1:113405507><>" entered the game
+L 12/15/2019 - 20:49:41: "jesse_pinkman<16><STEAM_1:0:1973059967><>" entered the game
+L 12/15/2019 - 20:49:41: "sadpoweR<34><STEAM_1:0:1287166476><>" entered the game
+L 12/15/2019 - 20:49:43: "jesse_pinkman<16><STEAM_1:0:1973059967><>" joined team "TERRORIST"
+L 12/15/2019 - 20:49:43: World triggered "Game_Commencing"
+L 12/15/2019 - 20:49:43: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/15/2019 - 20:49:43: World triggered "Round_End"
+L 12/15/2019 - 20:49:47: World triggered "Round_Start"
+L 12/15/2019 - 20:49:48: "sadpoweR<34><STEAM_1:0:1287166476><>" joined team "CT"
+L 12/15/2019 - 20:50:00: [REUNION]: LAMBORJINI (151.237.37.93) authorized as RevEmu
+L 12/15/2019 - 20:50:00: "LAMBORJINI<35><STEAM_1:0:681183515><>" connected, address "151.237.37.93:27005"
+L 12/15/2019 - 20:50:01: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><>" entered the game
+L 12/15/2019 - 20:50:04: "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><>" entered the game
+L 12/15/2019 - 20:50:05: "LAMBORJINI<35><STEAM_1:0:681183515><>" entered the game
+L 12/15/2019 - 20:50:06: "Saad<18><STEAM_0:1:113405507><>" joined team "TERRORIST"
+L 12/15/2019 - 20:50:09: "Sco7ch<36><STEAM_0:0:523417429><>" connected, address "85.3.139.68:27005"
+L 12/15/2019 - 20:50:09: "Sco7ch<36><STEAM_0:0:523417429><>" STEAM USERID validated
+L 12/15/2019 - 20:50:10: "jesse_pinkman<16><STEAM_1:0:1973059967><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "m249"
+L 12/15/2019 - 20:50:11: "sadpoweR<34><STEAM_1:0:1287166476><CT>" killed "jesse_pinkman<16><STEAM_1:0:1973059967><TERRORIST>" with "m249"
+L 12/15/2019 - 20:50:11: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><>" joined team "TERRORIST"
+L 12/15/2019 - 20:50:12: "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><>" joined team "TERRORIST"
+L 12/15/2019 - 20:50:15: "LAMBORJINI<35><STEAM_1:0:681183515><>" joined team "CT"
+L 12/15/2019 - 20:50:27: "jesse_pinkman<16><STEAM_1:0:1973059967><TERRORIST>" joined team "SPECTATOR"
+L 12/15/2019 - 20:50:29: "PLAMENA~~<33><STEAM_0:0:186939542><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:50:38: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 20:50:38: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/15/2019 - 20:50:38: World triggered "Round_End"
+L 12/15/2019 - 20:50:39: "sadpoweR<34><STEAM_1:0:1287166476><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:50:44: World triggered "Round_Start"
+L 12/15/2019 - 20:50:46: [REUNION]: [DEA].AIM.PALESTINE (217.66.255.6) authorized as RevEmu
+L 12/15/2019 - 20:50:46: "[DEA].AIM.PALESTINE<37><STEAM_1:1:1316058917><>" connected, address "217.66.255.6:23728"
+L 12/15/2019 - 20:51:03: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "PLAMENA~~<33><STEAM_0:0:186939542><CT>" with "tracktrain"
+L 12/15/2019 - 20:51:04: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 20:51:08: "Maverick<11><STEAM_0:0:37264973><CT>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:51:08: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 12/15/2019 - 20:51:08: "Maverick<11><STEAM_0:0:37264973><CT>" killed "sadpoweR<34><STEAM_1:0:1287166476><CT>" with "tracktrain"
+L 12/15/2019 - 20:52:01: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" committed suicide with "tracktrain"
+L 12/15/2019 - 20:52:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/15/2019 - 20:52:01: World triggered "Round_End"
+L 12/15/2019 - 20:52:07: World triggered "Round_Start"
+L 12/15/2019 - 20:52:08: "Lady marmalade<38><STEAM_0:0:93225415><>" connected, address "213.214.68.136:27005"
+L 12/15/2019 - 20:52:09: "Lady marmalade<38><STEAM_0:0:93225415><>" STEAM USERID validated
+L 12/15/2019 - 20:52:11: [REUNION]: BoMBerMan (109.120.250.191) authorized as RevEmu
+L 12/15/2019 - 20:52:11: "BoMBerMan<39><STEAM_2:0:1639119794><>" connected, address "109.120.250.191:27005"
+L 12/15/2019 - 20:52:12: "Lady marmalade<40><STEAM_0:0:93225415><>" connected, address "213.214.68.136:27005"
+L 12/15/2019 - 20:52:13: "Lady marmalade<40><STEAM_0:0:93225415><>" STEAM USERID validated
+L 12/15/2019 - 20:52:16: [REUNION]: BoMBerMan (109.120.250.191) authorized as RevEmu
+L 12/15/2019 - 20:52:16: "BoMBerMan<41><STEAM_2:0:1639119794><>" connected, address "109.120.250.191:27005"
+L 12/15/2019 - 20:52:21: "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "m3"
+L 12/15/2019 - 20:52:21: "PLAMENA~~<33><STEAM_0:0:186939542><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:52:22: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 20:52:22: "BoMBerMan<41><STEAM_2:0:1639119794><>" entered the game
+L 12/15/2019 - 20:52:32: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "sadpoweR<34><STEAM_1:0:1287166476><CT>" with "tracktrain"
+L 12/15/2019 - 20:52:33: "BoMBerMan<41><STEAM_2:0:1639119794><>" joined team "TERRORIST"
+L 12/15/2019 - 20:52:43: "Lady marmalade<40><STEAM_0:0:93225415><>" entered the game
+L 12/15/2019 - 20:52:46: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "aug"
+L 12/15/2019 - 20:52:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 12/15/2019 - 20:52:46: World triggered "Round_End"
+L 12/15/2019 - 20:52:48: "Lady marmalade<40><STEAM_0:0:93225415><>" joined team "CT"
+L 12/15/2019 - 20:52:52: World triggered "Round_Start"
+L 12/15/2019 - 20:53:09: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:53:14: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:53:18: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:53:23: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "BoMBerMan<41><STEAM_2:0:1639119794><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:53:23: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 12/15/2019 - 20:53:23: World triggered "Round_End"
+L 12/15/2019 - 20:53:26: "sadpoweR<34><STEAM_1:0:1287166476><CT>" committed suicide with "worldspawn" (world)
+L 12/15/2019 - 20:53:27: "sadpoweR<34><STEAM_1:0:1287166476><CT>" joined team "TERRORIST"
+L 12/15/2019 - 20:53:27: "<><><>" triggered "amx_chat" (text "[PTB] Transfered sadpoweR to TERRORIST")
+L 12/15/2019 - 20:53:29: World triggered "Round_Start"
+L 12/15/2019 - 20:53:37: "Saad<2><STEAM_0:1:113405507><>" triggered "amx_chat" (text ":D")
+L 12/15/2019 - 20:53:43: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:53:44: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "BoMBerMan<41><STEAM_2:0:1639119794><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:53:49: "Lady marmalade<40><STEAM_0:0:93225415><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:53:56: "jesse_pinkman<16><STEAM_1:0:1973059967><SPECTATOR>" joined team "CT"
+L 12/15/2019 - 20:53:57: "Maverick<1><STEAM_0:0:37264973><>" triggered "amx_chat" (text ":D yay")
+L 12/15/2019 - 20:54:05: "sadpoweR<34><STEAM_1:0:1287166476><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/15/2019 - 20:54:15: "Lady marmalade<40><STEAM_0:0:93225415><CT>" committed suicide with "tracktrain"
+L 12/15/2019 - 20:54:23: "PLAMENA~~<33><STEAM_0:0:186939542><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:54:49: "sadpoweR<34><STEAM_1:0:1287166476><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/15/2019 - 20:54:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 12/15/2019 - 20:54:49: World triggered "Round_End"
+L 12/15/2019 - 20:54:55: World triggered "Round_Start"
+L 12/15/2019 - 20:55:16: "Lady marmalade<40><STEAM_0:0:93225415><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:55:16: "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" killed "BoMBerMan<41><STEAM_2:0:1639119794><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:55:19: "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" killed "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:55:22: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" with "m3"
+L 12/15/2019 - 20:55:40: "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:56:00: "PLAMENA~~<33><STEAM_0:0:186939542><CT>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "tracktrain"
+L 12/15/2019 - 20:56:09: "Lady marmalade<40><STEAM_0:0:93225415><CT>" killed "sadpoweR<34><STEAM_1:0:1287166476><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:56:09: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 12/15/2019 - 20:56:09: World triggered "Round_End"
+L 12/15/2019 - 20:56:15: World triggered "Round_Start"
+L 12/15/2019 - 20:56:26: "PLAMENA~~<33><STEAM_0:0:186939542><CT>" committed suicide with "world"
+L 12/15/2019 - 20:56:30: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:56:31: "BoMBerMan<41><STEAM_2:0:1639119794><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "aug"
+L 12/15/2019 - 20:56:55: "Lady marmalade<40><STEAM_0:0:93225415><CT>" killed "BoMBerMan<41><STEAM_2:0:1639119794><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:57:02: "Maverick<11><STEAM_0:0:37264973><CT>" killed "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:57:07: "PLAMENA~~<33><STEAM_0:0:186939542><CT>" disconnected
+L 12/15/2019 - 20:57:13: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:57:30: "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><TERRORIST>" joined team "SPECTATOR"
+L 12/15/2019 - 20:57:37: "Lady marmalade<40><STEAM_0:0:93225415><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 20:57:41: "BoMBerMan<41><STEAM_2:0:1639119794><TERRORIST>" disconnected
+L 12/15/2019 - 20:58:01: "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" killed "sadpoweR<34><STEAM_1:0:1287166476><TERRORIST>" with "mp5navy"
+L 12/15/2019 - 20:58:01: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 12/15/2019 - 20:58:01: World triggered "Round_End"
+L 12/15/2019 - 20:58:05: "Lady marmalade<40><STEAM_0:0:93225415><CT>" joined team "TERRORIST"
+L 12/15/2019 - 20:58:05: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Lady marmalade to TERRORIST")
+L 12/15/2019 - 20:58:07: World triggered "Round_Start"
+L 12/15/2019 - 20:58:24: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" with "m4a1"
+L 12/15/2019 - 20:58:31: "Maverick<11><STEAM_0:0:37264973><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:58:31: "Maverick<11><STEAM_0:0:37264973><CT>" killed "sadpoweR<34><STEAM_1:0:1287166476><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 20:58:33: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 12/15/2019 - 20:58:49: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" with "tracktrain"
+L 12/15/2019 - 20:59:12: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/15/2019 - 20:59:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 12/15/2019 - 20:59:12: World triggered "Round_End"
+L 12/15/2019 - 20:59:16: "SkR1LL3X<42><STEAM_0:0:509830088><>" connected, address "185.2.210.64:27005"
+L 12/15/2019 - 20:59:17: "sadpoweR<34><STEAM_1:0:1287166476><TERRORIST>" joined team "CT"
+L 12/15/2019 - 20:59:17: "<><><>" triggered "amx_chat" (text "[PTB] Transfered sadpoweR to CT")
+L 12/15/2019 - 20:59:18: World triggered "Round_Start"
+L 12/15/2019 - 20:59:30: "SkR1LL3X<43><STEAM_0:0:509830088><>" connected, address "185.2.210.64:27005"
+L 12/15/2019 - 20:59:33: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/15/2019 - 20:59:41: "sadpoweR<34><STEAM_1:0:1287166476><CT>" disconnected
+L 12/15/2019 - 20:59:49: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 12/15/2019 - 20:59:58: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:00:05: "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" killed "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:00:14: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" killed "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" with "galil"
+L 12/15/2019 - 21:00:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 12/15/2019 - 21:00:14: World triggered "Round_End"
+L 12/15/2019 - 21:00:19: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><TERRORIST>" joined team "CT"
+L 12/15/2019 - 21:00:19: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Mr.HigH.RNG : S G S to CT")
+L 12/15/2019 - 21:00:19: [REUNION]: 7NEro (79.117.97.209) authorized as RevEmu
+L 12/15/2019 - 21:00:19: "7NEro<44><STEAM_1:1:497895095><>" connected, address "79.117.97.209:27005"
+L 12/15/2019 - 21:00:20: World triggered "Round_Start"
+L 12/15/2019 - 21:00:43: [REUNION]: [DEA].AIM.PALESTINE (217.66.255.6) authorized as RevEmu
+L 12/15/2019 - 21:00:43: "[DEA].AIM.PALESTINE<45><STEAM_1:1:1316058917><>" connected, address "217.66.255.6:23728"
+L 12/15/2019 - 21:00:50: "[DEA].AIM.PALESTINE<45><STEAM_1:1:1316058917><>" entered the game
+L 12/15/2019 - 21:00:53: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 21:00:58: "[DEA].AIM.PALESTINE<45><STEAM_1:1:1316058917><>" joined team "TERRORIST"
+L 12/15/2019 - 21:01:15: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "mac10"
+L 12/15/2019 - 21:01:23: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 21:01:23: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 12/15/2019 - 21:01:23: World triggered "Round_End"
+L 12/15/2019 - 21:01:29: World triggered "Round_Start"
+L 12/15/2019 - 21:01:42: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "tracktrain"
+L 12/15/2019 - 21:01:56: "Maverick<11><STEAM_0:0:37264973><CT>" committed suicide with "tracktrain"
+L 12/15/2019 - 21:02:02: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" with "ak47"
+L 12/15/2019 - 21:02:13: "[DEA].AIM.PALESTINE<45><STEAM_1:1:1316058917><TERRORIST>" disconnected
+L 12/15/2019 - 21:02:18: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/15/2019 - 21:02:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 12/15/2019 - 21:02:18: World triggered "Round_End"
+L 12/15/2019 - 21:02:18: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:02:24: World triggered "Round_Start"
+L 12/15/2019 - 21:02:45: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "tracktrain"
+L 12/15/2019 - 21:02:55: "Maverick<11><STEAM_0:0:37264973><CT>" killed "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:02:55: "Maverick<11><STEAM_0:0:37264973><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:02:55: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 12/15/2019 - 21:02:55: World triggered "Round_End"
+L 12/15/2019 - 21:03:01: World triggered "Round_Start"
+L 12/15/2019 - 21:03:04: [REUNION]: +-->Kllier`Boss<--+ (217.66.255.6) authorized as RevEmu
+L 12/15/2019 - 21:03:04: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><>" connected, address "217.66.255.6:23728"
+L 12/15/2019 - 21:03:11: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><>" entered the game
+L 12/15/2019 - 21:03:16: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><>" joined team "TERRORIST"
+L 12/15/2019 - 21:03:19: "SkR1LL3X<47><STEAM_0:0:509830088><>" connected, address "185.2.210.64:27005"
+L 12/15/2019 - 21:03:28: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "LAMBORJINI<35><STEAM_1:0:681183515><CT>" with "tracktrain"
+L 12/15/2019 - 21:03:29: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" killed "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/15/2019 - 21:03:39: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" with "tracktrain"
+L 12/15/2019 - 21:03:42: "LAMBORJINI<35><STEAM_1:0:681183515><CT>" disconnected
+L 12/15/2019 - 21:03:46: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:03:49: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 21:03:49: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 12/15/2019 - 21:03:49: World triggered "Round_End"
+L 12/15/2019 - 21:03:55: World triggered "Round_Start"
+L 12/15/2019 - 21:04:04: [REUNION]: LEOPARD (151.237.37.93) authorized as RevEmu
+L 12/15/2019 - 21:04:04: "LEOPARD<48><STEAM_1:0:681183515><>" connected, address "151.237.37.93:27005"
+L 12/15/2019 - 21:04:04: [REUNION]: 7NEro (79.117.97.209) authorized as RevEmu
+L 12/15/2019 - 21:04:04: "7NEro<49><STEAM_1:1:497895095><>" connected, address "79.117.97.209:27005"
+L 12/15/2019 - 21:04:07: "LEOPARD<48><STEAM_1:0:681183515><>" entered the game
+L 12/15/2019 - 21:04:07: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/15/2019 - 21:04:13: "LEOPARD<48><STEAM_1:0:681183515><>" joined team "CT"
+L 12/15/2019 - 21:04:17: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 12/15/2019 - 21:04:26: "LEOPARD<48><STEAM_1:0:681183515><CT>" killed "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" with "m4a1"
+L 12/15/2019 - 21:04:29: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" killed "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" with "ak47"
+L 12/15/2019 - 21:04:30: "LEOPARD<48><STEAM_1:0:681183515><CT>" killed "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/15/2019 - 21:04:30: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 12/15/2019 - 21:04:30: World triggered "Round_End"
+L 12/15/2019 - 21:04:36: World triggered "Round_Start"
+L 12/15/2019 - 21:04:43: [REUNION]: 7NEro (79.117.97.209) authorized as RevEmu
+L 12/15/2019 - 21:04:43: "7NEro<50><STEAM_1:1:497895095><>" connected, address "79.117.97.209:27005"
+L 12/15/2019 - 21:04:45: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 21:04:54: "LEOPARD<48><STEAM_1:0:681183515><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:04:59: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" killed "LEOPARD<48><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/15/2019 - 21:05:22: "jesse_pinkman<16><STEAM_1:0:1973059967><CT>" disconnected
+L 12/15/2019 - 21:05:31: "Maverick<11><STEAM_0:0:37264973><CT>" committed suicide with "trigger_hurt" (world)
+L 12/15/2019 - 21:05:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "7")
+L 12/15/2019 - 21:05:31: World triggered "Round_End"
+L 12/15/2019 - 21:05:37: World triggered "Round_Start"
+L 12/15/2019 - 21:05:43: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:06:05: "LEOPARD<48><STEAM_1:0:681183515><CT>" killed "Saad<18><STEAM_0:1:113405507><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:06:16: "Maverick<11><STEAM_0:0:37264973><CT>" killed "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" with "xm1014"
+L 12/15/2019 - 21:06:16: Team "CT" triggered "CTs_Win" (CT "9") (T "7")
+L 12/15/2019 - 21:06:16: World triggered "Round_End"
+L 12/15/2019 - 21:06:22: World triggered "Round_Start"
+L 12/15/2019 - 21:06:34: "Saad<18><STEAM_0:1:113405507><TERRORIST>" committed suicide with "tracktrain"
+L 12/15/2019 - 21:06:39: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/15/2019 - 21:06:40: "LEOPARD<48><STEAM_1:0:681183515><CT>" committed suicide with "tracktrain"
+L 12/15/2019 - 21:06:46: "LEOPARD<48><STEAM_1:0:681183515><CT>" disconnected
+L 12/15/2019 - 21:06:56: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" killed "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" with "usp"
+L 12/15/2019 - 21:07:10: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "ak47"
+L 12/15/2019 - 21:07:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "8")
+L 12/15/2019 - 21:07:10: World triggered "Round_End"
+L 12/15/2019 - 21:07:14: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" joined team "CT"
+L 12/15/2019 - 21:07:14: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Lady marmalade to CT")
+L 12/15/2019 - 21:07:16: World triggered "Round_Start"
+L 12/15/2019 - 21:07:18: [REUNION]: jesse_pinkman (91.148.164.81) authorized as RevEmu
+L 12/15/2019 - 21:07:18: "jesse_pinkman<51><STEAM_1:0:1973059967><>" connected, address "91.148.164.81:27005"
+L 12/15/2019 - 21:07:34: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Lady marmalade<40><STEAM_0:0:93225415><CT>" with "tracktrain"
+L 12/15/2019 - 21:07:54: "jesse_pinkman<51><STEAM_1:0:1973059967><>" entered the game
+L 12/15/2019 - 21:07:55: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" killed "Maverick<11><STEAM_0:0:37264973><CT>" with "m4a1"
+L 12/15/2019 - 21:07:57: "jesse_pinkman<51><STEAM_1:0:1973059967><>" joined team "TERRORIST"
+L 12/15/2019 - 21:08:04: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "ak47"
+L 12/15/2019 - 21:08:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "9")
+L 12/15/2019 - 21:08:04: World triggered "Round_End"
+L 12/15/2019 - 21:08:09: "Maverick<11><STEAM_0:0:37264973><CT>" joined team "TERRORIST"
+L 12/15/2019 - 21:08:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to TERRORIST")
+L 12/15/2019 - 21:08:10: World triggered "Round_Start"
+L 12/15/2019 - 21:08:22: [REUNION]: Trump (185.7.218.146) authorized as RevEmu
+L 12/15/2019 - 21:08:22: "Trump<52><STEAM_1:0:436762595><>" connected, address "185.7.218.146:27005"
+L 12/15/2019 - 21:08:26: "Maverick<11><STEAM_0:0:37264973><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/15/2019 - 21:08:26: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Lady marmalade<40><STEAM_0:0:93225415><CT>" with "tracktrain"
+L 12/15/2019 - 21:08:28: "Saad<18><STEAM_0:1:113405507><TERRORIST>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "tracktrain"
+L 12/15/2019 - 21:08:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "10")
+L 12/15/2019 - 21:08:28: World triggered "Round_End"
+L 12/15/2019 - 21:08:33: "Saad<18><STEAM_0:1:113405507><TERRORIST>" joined team "CT"
+L 12/15/2019 - 21:08:33: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Saad to CT")
+L 12/15/2019 - 21:08:34: World triggered "Round_Start"
+L 12/15/2019 - 21:08:37: Server cvar "amx_nextmap" = "cs_carzzz"
+L 12/15/2019 - 21:08:56: "Saad<18><STEAM_0:1:113405507><CT>" killed "Maverick<11><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:09:02: "Saad<18><STEAM_0:1:113405507><CT>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "tracktrain"
+L 12/15/2019 - 21:09:07: "Saad<18><STEAM_0:1:113405507><CT>" killed "Lady marmalade<40><STEAM_0:0:93225415><CT>" with "tracktrain"
+L 12/15/2019 - 21:09:09: "jesse_pinkman<51><STEAM_1:0:1973059967><TERRORIST>" disconnected
+L 12/15/2019 - 21:09:10: [REUNION]: Trump (185.7.218.146) authorized as RevEmu
+L 12/15/2019 - 21:09:10: "Trump<53><STEAM_1:0:436762595><>" connected, address "185.7.218.146:27005"
+L 12/15/2019 - 21:09:11: "Saad<18><STEAM_0:1:113405507><CT>" committed suicide with "world"
+L 12/15/2019 - 21:09:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "11")
+L 12/15/2019 - 21:09:11: World triggered "Round_End"
+L 12/15/2019 - 21:09:16: "Lady marmalade<40><STEAM_0:0:93225415><CT>" joined team "TERRORIST"
+L 12/15/2019 - 21:09:16: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Lady marmalade to TERRORIST")
+L 12/15/2019 - 21:09:17: Server cvar "mp_timelimit" = "0.000000"
+L 12/15/2019 - 21:09:17: World triggered "Round_Start"
+L 12/15/2019 - 21:09:36: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" killed "Saad<18><STEAM_0:1:113405507><CT>" with "m4a1"
+L 12/15/2019 - 21:09:43: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" killed "Maverick<11><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 12/15/2019 - 21:09:53: "Trump<53><STEAM_1:0:436762595><>" entered the game
+L 12/15/2019 - 21:09:55: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" killed "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" with "tracktrain"
+L 12/15/2019 - 21:09:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "12")
+L 12/15/2019 - 21:09:55: World triggered "Round_End"
+L 12/15/2019 - 21:09:57: "Trump<53><STEAM_1:0:436762595><>" joined team "CT"
+L 12/15/2019 - 21:09:59: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><TERRORIST>" joined team "CT"
+L 12/15/2019 - 21:09:59: "<><><>" triggered "amx_chat" (text "[PTB] Transfered +-->Kllier`Boss<--+ to CT")
+L 12/15/2019 - 21:10:01: World triggered "Round_Start"
+L 12/15/2019 - 21:10:01: Server cvar "sv_maxspeed" = "0.000000"
+L 12/15/2019 - 21:10:01: Server cvar "mp_friendlyfire" = "1"
+L 12/15/2019 - 21:10:04: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" committed suicide with "grenade"
+L 12/15/2019 - 21:10:04: "Maverick<11><STEAM_0:0:37264973><TERRORIST>" committed suicide with "grenade"
+L 12/15/2019 - 21:10:12: Server cvar "sv_maxspeed" = "900.000000"
+L 12/15/2019 - 21:10:12: Server cvar "mp_friendlyfire" = "0"
+L 12/15/2019 - 21:10:12: Server cvar "mp_timelimit" = "20.000000"
+L 12/15/2019 - 21:10:12: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: AMX Mod X
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: Reunion
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: ReAuthCheck
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: WHBlocker
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: ReSemiclip
+L 12/15/2019 - 21:10:12: [META] ini: Read plugin config for: Revoice
+L 12/15/2019 - 21:10:12: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/15/2019 - 21:10:12: [META] dll: Updating plugins...
+L 12/15/2019 - 21:10:12: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/15/2019 - 21:10:12: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/15/2019 - 21:10:12: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/15/2019 - 21:10:12: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/15/2019 - 21:10:12: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/15/2019 - 21:10:12: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/15/2019 - 21:10:12: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/15/2019 - 21:10:12: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/15/2019 - 21:10:12: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/15/2019 - 21:10:12: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/15/2019 - 21:10:12: "Maverick<11><STEAM_0:0:37264973><TERRORIST>" disconnected
+L 12/15/2019 - 21:10:12: "Saad<18><STEAM_0:1:113405507><CT>" disconnected
+L 12/15/2019 - 21:10:12: "xXMr.ONurXx_YT<22><STEAM_2:1:935252518><SPECTATOR>" disconnected
+L 12/15/2019 - 21:10:12: "+-->Kllier`Boss<--+<46><STEAM_1:1:1316058917><CT>" disconnected
+L 12/15/2019 - 21:10:12: "Mr.HigH.RNG : S G S<28><STEAM_2:0:315919210><CT>" disconnected
+L 12/15/2019 - 21:10:12: "Trump<53><STEAM_1:0:436762595><CT>" disconnected
+L 12/15/2019 - 21:10:12: "Lady marmalade<40><STEAM_0:0:93225415><TERRORIST>" disconnected
+L 12/15/2019 - 21:10:12: World triggered "Round_Draw" (CT "9") (T "12")
+L 12/15/2019 - 21:10:12: World triggered "Round_End"
+L 12/15/2019 - 21:10:12: Log file closed

@@ -1,0 +1,458 @@
+L 12/10/2019 - 17:10:17: Log file started (file "logs/L1210147.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/10/2019 - 17:10:17: Loading map "cars_n_robots"
+L 12/10/2019 - 17:10:17: Server cvars start
+L 12/10/2019 - 17:10:17: Server cvar "@BunnyHopper" = "3.x"
+L 12/10/2019 - 17:10:17: Server cvar "@CRXGoSpec" = "1.1"
+L 12/10/2019 - 17:10:17: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "@D.I.C.E." = "1.1"
+L 12/10/2019 - 17:10:17: Server cvar "@MOTDCommands" = "1.2"
+L 12/10/2019 - 17:10:17: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/10/2019 - 17:10:17: Server cvar "AdvancedMute" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "aesp_version" = "1.3"
+L 12/10/2019 - 17:10:17: Server cvar "allow_spectators" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "amx_client_languages" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "amx_language" = "en"
+L 12/10/2019 - 17:10:17: Server cvar "amx_nextmap" = "cars_n_robots"
+L 12/10/2019 - 17:10:17: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/10/2019 - 17:10:17: Server cvar "amx_timeleft" = "11:37"
+L 12/10/2019 - 17:10:17: Server cvar "amxmodx_version" = "1.8.2"
+L 12/10/2019 - 17:10:17: Server cvar "amxxbg_vip" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "asp_version" = "4.5.1"
+L 12/10/2019 - 17:10:17: Server cvar "atac_version" = "3.0.1"
+L 12/10/2019 - 17:10:17: Server cvar "badcamper_version" = "1.4 beta"
+L 12/10/2019 - 17:10:17: Server cvar "blockmaker" = "4.01"
+L 12/10/2019 - 17:10:17: Server cvar "c4 timer" = "1.1"
+L 12/10/2019 - 17:10:17: Server cvar "coop" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "CRXAdminGroups" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "CRXFastKnife" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "CRXGametracker" = "2.0"
+L 12/10/2019 - 17:10:17: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/10/2019 - 17:10:17: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "CustomShop" = "4.2"
+L 12/10/2019 - 17:10:17: Server cvar "deathmatch" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "decalfrequency" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "edgefriction" = "2"
+L 12/10/2019 - 17:10:17: Server cvar "ers_version" = "2.3c"
+L 12/10/2019 - 17:10:17: Server cvar "gagsystem_shoko" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/10/2019 - 17:10:17: Server cvar "gal_version" = "v5.9.1-926"
+L 12/10/2019 - 17:10:17: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/10/2019 - 17:10:17: Server cvar "humans_join_team" = "any"
+L 12/10/2019 - 17:10:17: Server cvar "jtp10181" = "chute,gore"
+L 12/10/2019 - 17:10:17: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/10/2019 - 17:10:17: Server cvar "LetitSnow" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/10/2019 - 17:10:17: Server cvar "max_queries_sec" = "3"
+L 12/10/2019 - 17:10:17: Server cvar "max_queries_sec_global" = "150"
+L 12/10/2019 - 17:10:17: Server cvar "max_queries_window" = "60"
+L 12/10/2019 - 17:10:17: Server cvar "mdbBans" = "4.8"
+L 12/10/2019 - 17:10:17: Server cvar "metamod_version" = "1.21p37"
+L 12/10/2019 - 17:10:17: Server cvar "mp_autokick" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_autokick_timeout" = "-1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_autoteambalance" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_buytime" = "0.25"
+L 12/10/2019 - 17:10:17: Server cvar "mp_c4timer" = "35"
+L 12/10/2019 - 17:10:17: Server cvar "mp_chattime" = "10.000000"
+L 12/10/2019 - 17:10:17: Server cvar "mp_consistency" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_fadetoblack" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_flashlight" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_footsteps" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_forcecamera" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_forcechasecam" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_forcerespawn" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_fraglimit" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_fragsleft" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_freeforall" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_freezetime" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_friendlyfire" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_hostage_hurtable" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_hostagepenalty" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_item_staytime" = "300"
+L 12/10/2019 - 17:10:17: Server cvar "mp_kickpercent" = "0.66"
+L 12/10/2019 - 17:10:17: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_limitteams" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_logdetail" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_logfile" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_logmessages" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/10/2019 - 17:10:17: Server cvar "mp_maxmoney" = "999999"
+L 12/10/2019 - 17:10:17: Server cvar "mp_maxrounds" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_mirrordamage" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_playerid" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_round_infinite" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_round_restart_delay" = "5"
+L 12/10/2019 - 17:10:17: Server cvar "mp_roundover" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_roundtime" = "2.3"
+L 12/10/2019 - 17:10:17: Server cvar "mp_show_radioicon" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_startmoney" = "850"
+L 12/10/2019 - 17:10:17: Server cvar "mp_timeleft" = "11:37"
+L 12/10/2019 - 17:10:17: Server cvar "mp_timelimit" = "20"
+L 12/10/2019 - 17:10:17: Server cvar "mp_tkpunish" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "mp_windifference" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "mp_winlimit" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/10/2019 - 17:10:17: Server cvar "pausable" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "present_version" = "2.01"
+L 12/10/2019 - 17:10:17: Server cvar "RandomHP" = "2.2"
+L 12/10/2019 - 17:10:17: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/10/2019 - 17:10:17: Server cvar "reconnect_features" = "0.3.1"
+L 12/10/2019 - 17:10:17: Server cvar "report_system_version" = "3.1"
+L 12/10/2019 - 17:10:17: Server cvar "resemiclip_version" = "2.3.9"
+L 12/10/2019 - 17:10:17: Server cvar "reu_version" = "0.1.0.130"
+L 12/10/2019 - 17:10:17: Server cvar "revoice_version" = "0.1.0.30"
+L 12/10/2019 - 17:10:17: Server cvar "RRWM" = "2.0"
+L 12/10/2019 - 17:10:17: Server cvar "sanksounds_version" = "1.8.6"
+L 12/10/2019 - 17:10:17: Server cvar "SimpleMenu" = "1.1"
+L 12/10/2019 - 17:10:17: Server cvar "SNAC_Version" = "1.1"
+L 12/10/2019 - 17:10:17: Server cvar "SpecList" = "1.2a"
+L 12/10/2019 - 17:10:17: Server cvar "sr_version" = "1.6"
+L 12/10/2019 - 17:10:17: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/10/2019 - 17:10:17: Server cvar "StyleC4Timer" = "2.1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_accelerate" = "5"
+L 12/10/2019 - 17:10:17: Server cvar "sv_aim" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_airaccelerate" = "100"
+L 12/10/2019 - 17:10:17: Server cvar "sv_allowupload" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_alltalk" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_bounce" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_cheats" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "sv_clienttrace" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/10/2019 - 17:10:17: Server cvar "sv_friction" = "4"
+L 12/10/2019 - 17:10:17: Server cvar "sv_gravity" = "800"
+L 12/10/2019 - 17:10:17: Server cvar "sv_logblocks" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "sv_maxrate" = "50000"
+L 12/10/2019 - 17:10:17: Server cvar "sv_maxspeed" = "900.000000"
+L 12/10/2019 - 17:10:17: Server cvar "sv_minrate" = "10000"
+L 12/10/2019 - 17:10:17: Server cvar "sv_password" = ""
+L 12/10/2019 - 17:10:17: Server cvar "sv_proxies" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_restart" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "sv_restartround" = "0"
+L 12/10/2019 - 17:10:17: Server cvar "sv_stepsize" = "18"
+L 12/10/2019 - 17:10:17: Server cvar "sv_stopspeed" = "75"
+L 12/10/2019 - 17:10:17: Server cvar "sv_uploadmax" = "0.5"
+L 12/10/2019 - 17:10:17: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/10/2019 - 17:10:17: Server cvar "sv_voiceenable" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "sv_wateraccelerate" = "10"
+L 12/10/2019 - 17:10:17: Server cvar "sv_waterfriction" = "1"
+L 12/10/2019 - 17:10:17: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/10/2019 - 17:10:17: Server cvar "vehicle_real_killer" = "1.1"
+L 12/10/2019 - 17:10:17: Server cvar "WalkGuard" = "1.3.2"
+L 12/10/2019 - 17:10:17: Server cvar "we_grenades" = "Huehue"
+L 12/10/2019 - 17:10:17: Server cvar "we_player_models" = "Huehue"
+L 12/10/2019 - 17:10:17: Server cvar "whb_version" = "1.5.692"
+L 12/10/2019 - 17:10:17: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/10/2019 - 17:10:17: Server cvars end
+L 12/10/2019 - 17:10:19: Server cvar "sv_maxspeed" = "900"
+L 12/10/2019 - 17:10:19: Server cvar "mp_autoteambalance" = "1"
+L 12/10/2019 - 17:10:20: Server cvar "mp_autoteambalance" = "0"
+L 12/10/2019 - 17:10:20: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/10/2019 - 17:10:21: Started map "cars_n_robots" (CRC "-1478812139")
+L 12/10/2019 - 17:10:23: World triggered "Round_Start"
+L 12/10/2019 - 17:10:23: [REUNION]: ronaldo (94.156.117.43) authorized as RevEmu
+L 12/10/2019 - 17:10:23: "ronaldo<20><STEAM_1:0:853193476><>" connected, address "94.156.117.43:27005"
+L 12/10/2019 - 17:10:42: "ronaldo<20><STEAM_1:0:853193476><>" entered the game
+L 12/10/2019 - 17:10:45: [REUNION]: MANQKA 325 PRO (77.85.64.160) authorized as NoSteam47
+L 12/10/2019 - 17:10:45: "MANQKA 325 PRO<21><VALVE_ID_LAN><>" connected, address "77.85.64.160:27005"
+L 12/10/2019 - 17:10:50: "ronaldo<20><STEAM_1:0:853193476><>" joined team "CT"
+L 12/10/2019 - 17:12:00: "MANQKA 325 PRO<21><VALVE_ID_LAN><>" entered the game
+L 12/10/2019 - 17:12:41: Team "CT" triggered "Target_Saved" (CT "0") (T "0")
+L 12/10/2019 - 17:12:41: World triggered "Round_End"
+L 12/10/2019 - 17:12:47: World triggered "Round_Start"
+L 12/10/2019 - 17:12:58: "MANQKA 325 PRO<21><VALVE_ID_LAN><>" joined team "SPECTATOR"
+L 12/10/2019 - 17:13:13: "ronaldo<20><STEAM_1:0:853193476><CT>" committed suicide with "world"
+L 12/10/2019 - 17:13:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/10/2019 - 17:13:13: World triggered "Round_End"
+L 12/10/2019 - 17:13:13: "ronaldo<20><STEAM_1:0:853193476><CT>" joined team "SPECTATOR"
+L 12/10/2019 - 17:13:19: World triggered "Round_Start"
+L 12/10/2019 - 17:13:24: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 326)
+L 12/10/2019 - 17:13:49: "ronaldo<20><STEAM_1:0:853193476><SPECTATOR>" disconnected
+L 12/10/2019 - 17:13:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/10/2019 - 17:13:49: World triggered "Round_End"
+L 12/10/2019 - 17:13:55: World triggered "Round_Start"
+L 12/10/2019 - 17:16:13: Team "CT" triggered "Target_Saved" (CT "0") (T "0")
+L 12/10/2019 - 17:16:13: World triggered "Round_End"
+L 12/10/2019 - 17:16:19: World triggered "Round_Start"
+L 12/10/2019 - 17:16:23: [REUNION]: ronaldo (94.156.117.43) authorized as RevEmu
+L 12/10/2019 - 17:16:23: "ronaldo<22><STEAM_1:0:853193476><>" connected, address "94.156.117.43:27005"
+L 12/10/2019 - 17:16:29: "ronaldo<22><STEAM_1:0:853193476><>" entered the game
+L 12/10/2019 - 17:16:32: "ronaldo<22><STEAM_1:0:853193476><>" joined team "CT"
+L 12/10/2019 - 17:16:38: [REUNION]: MWR-SOBT (87.120.48.109) authorized as RevEmu
+L 12/10/2019 - 17:16:38: "MWR-SOBT<23><STEAM_1:1:1657453429><>" connected, address "87.120.48.109:27005"
+L 12/10/2019 - 17:17:23: [REUNION]: MWR-SOBT (87.120.48.109) authorized as RevEmu
+L 12/10/2019 - 17:17:23: "MWR-SOBT<24><STEAM_1:1:1657453429><>" connected, address "87.120.48.109:27005"
+L 12/10/2019 - 17:17:50: "ronaldo<22><STEAM_1:0:853193476><CT>" disconnected
+L 12/10/2019 - 17:17:50: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/10/2019 - 17:17:50: World triggered "Round_End"
+L 12/10/2019 - 17:17:56: World triggered "Round_Start"
+L 12/10/2019 - 17:18:19: "MWR-SOBT<24><STEAM_1:1:1657453429><>" entered the game
+L 12/10/2019 - 17:18:22: "MWR-SOBT<24><STEAM_1:1:1657453429><>" joined team "TERRORIST"
+L 12/10/2019 - 17:18:23: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:18:39: [REUNION]: ronaldo (94.156.117.43) authorized as RevEmu
+L 12/10/2019 - 17:18:39: "ronaldo<25><STEAM_1:0:853193476><>" connected, address "94.156.117.43:27005"
+L 12/10/2019 - 17:18:46: "ronaldo<25><STEAM_1:0:853193476><>" entered the game
+L 12/10/2019 - 17:18:49: "ronaldo<25><STEAM_1:0:853193476><>" joined team "CT"
+L 12/10/2019 - 17:18:50: World triggered "Game_Commencing"
+L 12/10/2019 - 17:18:50: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/10/2019 - 17:18:50: World triggered "Round_End"
+L 12/10/2019 - 17:18:53: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:18:54: World triggered "Round_Start"
+L 12/10/2019 - 17:19:26: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "mp5navy"
+L 12/10/2019 - 17:19:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/10/2019 - 17:19:26: World triggered "Round_End"
+L 12/10/2019 - 17:19:28: "drakon zubi<26><STEAM_0:0:163292230><>" connected, address "212.5.158.121:42967"
+L 12/10/2019 - 17:19:28: "drakon zubi<26><STEAM_0:0:163292230><>" STEAM USERID validated
+L 12/10/2019 - 17:19:31: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:19:31: "drakon zubi<27><STEAM_0:0:163292230><>" connected, address "212.5.158.121:42967"
+L 12/10/2019 - 17:19:32: "drakon zubi<27><STEAM_0:0:163292230><>" STEAM USERID validated
+L 12/10/2019 - 17:19:32: World triggered "Round_Start"
+L 12/10/2019 - 17:19:51: "drakon zubi<28><STEAM_0:0:163292230><>" connected, address "212.5.158.121:42967"
+L 12/10/2019 - 17:19:52: "drakon zubi<28><STEAM_0:0:163292230><>" STEAM USERID validated
+L 12/10/2019 - 17:19:54: "drakon zubi<28><STEAM_0:0:163292230><>" entered the game
+L 12/10/2019 - 17:20:00: "drakon zubi<28><STEAM_0:0:163292230><>" joined team "CT"
+L 12/10/2019 - 17:21:02: "ronaldo<25><STEAM_1:0:853193476><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "p90"
+L 12/10/2019 - 17:21:02: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 12/10/2019 - 17:21:02: World triggered "Round_End"
+L 12/10/2019 - 17:21:07: "ronaldo<25><STEAM_1:0:853193476><CT>" joined team "TERRORIST"
+L 12/10/2019 - 17:21:07: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ronaldo to TERRORIST")
+L 12/10/2019 - 17:21:07: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:21:08: World triggered "Round_Start"
+L 12/10/2019 - 17:22:09: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/10/2019 - 17:22:28: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "mp5navy"
+L 12/10/2019 - 17:22:28: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/10/2019 - 17:22:28: World triggered "Round_End"
+L 12/10/2019 - 17:22:33: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" joined team "CT"
+L 12/10/2019 - 17:22:33: "<><><>" triggered "amx_chat" (text "[PTB] Transfered MWR-SOBT to CT")
+L 12/10/2019 - 17:22:33: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:22:34: World triggered "Round_Start"
+L 12/10/2019 - 17:23:02: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "mp5navy"
+L 12/10/2019 - 17:23:02: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 12/10/2019 - 17:23:02: World triggered "Round_End"
+L 12/10/2019 - 17:23:07: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:23:08: World triggered "Round_Start"
+L 12/10/2019 - 17:23:12: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" committed suicide with "world"
+L 12/10/2019 - 17:23:12: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:23:12: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" joined team "CT"
+L 12/10/2019 - 17:23:15: "drakon zubi<28><STEAM_0:0:163292230><CT>" committed suicide with "world"
+L 12/10/2019 - 17:23:15: "drakon zubi<28><STEAM_0:0:163292230><CT>" joined team "TERRORIST"
+L 12/10/2019 - 17:23:15: World triggered "Game_Commencing"
+L 12/10/2019 - 17:23:15: World triggered "Game_Commencing" (CT "3") (T "1")
+L 12/10/2019 - 17:23:15: World triggered "Round_End"
+L 12/10/2019 - 17:23:18: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:23:19: World triggered "Round_Start"
+L 12/10/2019 - 17:24:28: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "mp5navy"
+L 12/10/2019 - 17:24:39: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "mp5navy"
+L 12/10/2019 - 17:24:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/10/2019 - 17:24:39: World triggered "Round_End"
+L 12/10/2019 - 17:24:44: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:24:45: World triggered "Round_Start"
+L 12/10/2019 - 17:25:16: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "m4a1"
+L 12/10/2019 - 17:25:33: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "m4a1"
+L 12/10/2019 - 17:25:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 12/10/2019 - 17:25:33: World triggered "Round_End"
+L 12/10/2019 - 17:25:38: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:25:39: World triggered "Round_Start"
+L 12/10/2019 - 17:26:19: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "m4a1"
+L 12/10/2019 - 17:26:28: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "m4a1"
+L 12/10/2019 - 17:26:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 12/10/2019 - 17:26:28: World triggered "Round_End"
+L 12/10/2019 - 17:26:33: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:26:34: World triggered "Round_Start"
+L 12/10/2019 - 17:26:54: "MANQKA 325 PRO<21><VALVE_ID_LAN><SPECTATOR>" joined team "CT"
+L 12/10/2019 - 17:26:59: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "m4a1"
+L 12/10/2019 - 17:27:04: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "m4a1"
+L 12/10/2019 - 17:27:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 12/10/2019 - 17:27:04: World triggered "Round_End"
+L 12/10/2019 - 17:27:09: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:27:10: World triggered "Round_Start"
+L 12/10/2019 - 17:27:15: [REUNION]: XxXgeorgiXxX :) (93.155.192.142) authorized as RevEmu
+L 12/10/2019 - 17:27:15: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><>" connected, address "93.155.192.142:27005"
+L 12/10/2019 - 17:27:37: [REUNION]: XxXgeorgiXxX :) (93.155.192.142) authorized as RevEmu
+L 12/10/2019 - 17:27:37: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><>" connected, address "93.155.192.142:27005"
+L 12/10/2019 - 17:28:06: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "m4a1"
+L 12/10/2019 - 17:28:10: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "m4a1"
+L 12/10/2019 - 17:28:24: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><>" entered the game
+L 12/10/2019 - 17:28:30: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MANQKA 325 PRO<21><VALVE_ID_LAN><CT>" with "m4a1"
+L 12/10/2019 - 17:28:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 12/10/2019 - 17:28:30: World triggered "Round_End"
+L 12/10/2019 - 17:28:35: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:28:36: World triggered "Round_Start"
+L 12/10/2019 - 17:28:36: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><>" joined team "TERRORIST"
+L 12/10/2019 - 17:29:03: "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" killed "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" with "mp5navy"
+L 12/10/2019 - 17:29:13: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 335)
+L 12/10/2019 - 17:29:34: "MANQKA 325 PRO<21><VALVE_ID_LAN><CT>" committed suicide with "world"
+L 12/10/2019 - 17:29:38: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "m4a1"
+L 12/10/2019 - 17:30:04: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "m4a1"
+L 12/10/2019 - 17:30:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "6")
+L 12/10/2019 - 17:30:04: World triggered "Round_End"
+L 12/10/2019 - 17:30:09: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:30:10: World triggered "Round_Start"
+L 12/10/2019 - 17:30:39: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MANQKA 325 PRO<21><VALVE_ID_LAN><CT>" with "p228"
+L 12/10/2019 - 17:30:49: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "m4a1"
+L 12/10/2019 - 17:31:01: "ronaldo<25><STEAM_1:0:853193476><CT>" killed "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" with "usp"
+L 12/10/2019 - 17:31:01: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:31:24: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><CT>" with "m4a1"
+L 12/10/2019 - 17:31:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "7")
+L 12/10/2019 - 17:31:24: World triggered "Round_End"
+L 12/10/2019 - 17:31:29: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:31:30: World triggered "Round_Start"
+L 12/10/2019 - 17:31:54: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MANQKA 325 PRO<21><VALVE_ID_LAN><CT>" with "m4a1"
+L 12/10/2019 - 17:31:57: "MANQKA 325 PRO<21><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 12/10/2019 - 17:32:07: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/10/2019 - 17:32:35: Kick: "MANQKA 325 PRO<21><VALVE_ID_LAN><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 12/10/2019 - 17:32:35: "MANQKA 325 PRO<21><VALVE_ID_LAN><TERRORIST>" disconnected
+L 12/10/2019 - 17:32:42: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "8")
+L 12/10/2019 - 17:32:42: World triggered "Round_End"
+L 12/10/2019 - 17:32:44: [REUNION]: MANQKA 325 PRO (77.85.64.160) authorized as NoSteam47
+L 12/10/2019 - 17:32:44: "MANQKA 325 PRO<31><VALVE_ID_LAN><>" connected, address "77.85.64.160:27005"
+L 12/10/2019 - 17:32:47: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" joined team "CT"
+L 12/10/2019 - 17:32:47: "<><><>" triggered "amx_chat" (text "[PTB] Transfered drakon zubi to CT")
+L 12/10/2019 - 17:32:47: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:32:48: World triggered "Round_Start"
+L 12/10/2019 - 17:32:58: "MANQKA 325 PRO<31><VALVE_ID_LAN><>" entered the game
+L 12/10/2019 - 17:33:03: "MANQKA 325 PRO<31><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 12/10/2019 - 17:33:15: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:33:15: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:33:19: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:33:19: Team "CT" triggered "CTs_Win" (CT "1") (T "8")
+L 12/10/2019 - 17:33:19: World triggered "Round_End"
+L 12/10/2019 - 17:33:24: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:33:25: World triggered "Round_Start"
+L 12/10/2019 - 17:33:38: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:33:38: "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 12/10/2019 - 17:33:58: "XxXgeorgiXxX :)<30><STEAM_1:1:1289710602><TERRORIST>" disconnected
+L 12/10/2019 - 17:34:09: "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" with "mp5navy"
+L 12/10/2019 - 17:34:09: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:34:09: Team "CT" triggered "CTs_Win" (CT "2") (T "8")
+L 12/10/2019 - 17:34:09: World triggered "Round_End"
+L 12/10/2019 - 17:34:14: "ronaldo<25><STEAM_1:0:853193476><CT>" joined team "TERRORIST"
+L 12/10/2019 - 17:34:14: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ronaldo to TERRORIST")
+L 12/10/2019 - 17:34:14: "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:34:15: World triggered "Round_Start"
+L 12/10/2019 - 17:34:28: "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:34:28: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Got_The_Bomb"
+L 12/10/2019 - 17:34:30: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:34:30: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:34:32: "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" committed suicide with "world"
+L 12/10/2019 - 17:34:32: "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" joined team "CT"
+L 12/10/2019 - 17:34:44: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/10/2019 - 17:34:44: Team "CT" triggered "CTs_Win" (CT "3") (T "8")
+L 12/10/2019 - 17:34:44: World triggered "Round_End"
+L 12/10/2019 - 17:34:49: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:34:50: World triggered "Round_Start"
+L 12/10/2019 - 17:34:53: "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" committed suicide with "world"
+L 12/10/2019 - 17:34:53: "MWR-SOBT<24><STEAM_1:1:1657453429><CT>" joined team "TERRORIST"
+L 12/10/2019 - 17:35:18: "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/10/2019 - 17:35:18: "MANQKA 325 PRO<31><VALVE_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 12/10/2019 - 17:36:11: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:36:11: Team "CT" triggered "CTs_Win" (CT "4") (T "8")
+L 12/10/2019 - 17:36:11: World triggered "Round_End"
+L 12/10/2019 - 17:36:16: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:36:17: World triggered "Round_Start"
+L 12/10/2019 - 17:36:42: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:36:55: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:36:55: Team "CT" triggered "CTs_Win" (CT "5") (T "8")
+L 12/10/2019 - 17:36:55: World triggered "Round_End"
+L 12/10/2019 - 17:37:00: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:37:01: World triggered "Round_Start"
+L 12/10/2019 - 17:37:29: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:37:29: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:37:33: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:37:33: Team "CT" triggered "CTs_Win" (CT "6") (T "8")
+L 12/10/2019 - 17:37:33: World triggered "Round_End"
+L 12/10/2019 - 17:37:38: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:37:39: World triggered "Round_Start"
+L 12/10/2019 - 17:37:59: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:37:59: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:38:17: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:38:17: Team "CT" triggered "CTs_Win" (CT "7") (T "8")
+L 12/10/2019 - 17:38:17: World triggered "Round_End"
+L 12/10/2019 - 17:38:22: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:38:23: World triggered "Round_Start"
+L 12/10/2019 - 17:38:38: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:38:42: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:38:42: Team "CT" triggered "CTs_Win" (CT "8") (T "8")
+L 12/10/2019 - 17:38:42: World triggered "Round_End"
+L 12/10/2019 - 17:38:47: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:38:48: World triggered "Round_Start"
+L 12/10/2019 - 17:38:49: [REUNION]: Player (5.178.87.52) authorized as RevEmu
+L 12/10/2019 - 17:38:49: "Player<32><STEAM_2:1:1822192329><>" connected, address "5.178.87.52:51274"
+L 12/10/2019 - 17:40:41: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/10/2019 - 17:40:41: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:41:06: Team "CT" triggered "Target_Saved" (CT "9") (T "8")
+L 12/10/2019 - 17:41:06: World triggered "Round_End"
+L 12/10/2019 - 17:41:08: "MANQKA 325 PRO<31><VALVE_ID_LAN><SPECTATOR>" disconnected
+L 12/10/2019 - 17:41:08: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:41:11: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:41:12: World triggered "Round_Start"
+L 12/10/2019 - 17:41:28: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:41:28: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:41:33: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:41:33: Team "CT" triggered "CTs_Win" (CT "10") (T "8")
+L 12/10/2019 - 17:41:33: World triggered "Round_End"
+L 12/10/2019 - 17:41:38: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:41:39: World triggered "Round_Start"
+L 12/10/2019 - 17:41:50: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:41:50: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:42:11: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:42:11: Team "CT" triggered "CTs_Win" (CT "11") (T "8")
+L 12/10/2019 - 17:42:11: World triggered "Round_End"
+L 12/10/2019 - 17:42:16: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:42:17: World triggered "Round_Start"
+L 12/10/2019 - 17:42:33: Server cvar "amx_nextmap" = "awesome_cars"
+L 12/10/2019 - 17:42:50: [REUNION]: plamen (77.85.246.51) authorized as RevEmu
+L 12/10/2019 - 17:42:50: "plamen<33><STEAM_1:1:876199173><>" connected, address "77.85.246.51:27005"
+L 12/10/2019 - 17:42:50: Server cvar "mp_timelimit" = "0.000000"
+L 12/10/2019 - 17:42:52: [REUNION]: plamen (77.85.246.51) authorized as RevEmu
+L 12/10/2019 - 17:42:52: "plamen<34><STEAM_1:1:876199173><>" connected, address "77.85.246.51:27005"
+L 12/10/2019 - 17:42:54: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:42:54: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:42:56: "plamen<34><STEAM_1:1:876199173><>" entered the game
+L 12/10/2019 - 17:42:56: "drakon zubi<28><STEAM_0:0:163292230><CT>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "m4a1"
+L 12/10/2019 - 17:42:56: Team "CT" triggered "CTs_Win" (CT "12") (T "8")
+L 12/10/2019 - 17:42:56: World triggered "Round_End"
+L 12/10/2019 - 17:42:59: "plamen<34><STEAM_1:1:876199173><>" joined team "CT"
+L 12/10/2019 - 17:43:00: "drakon zubi<28><STEAM_0:0:163292230><CT>" joined team "TERRORIST"
+L 12/10/2019 - 17:43:00: "<><><>" triggered "amx_chat" (text "[PTB] Transfered drakon zubi to TERRORIST")
+L 12/10/2019 - 17:43:01: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:43:02: World triggered "Round_Start"
+L 12/10/2019 - 17:43:02: Server cvar "sv_maxspeed" = "0.000000"
+L 12/10/2019 - 17:43:02: Server cvar "mp_friendlyfire" = "1"
+L 12/10/2019 - 17:43:04: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" with "mp5navy"
+L 12/10/2019 - 17:43:05: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" killed "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" with "mp5navy"
+L 12/10/2019 - 17:43:08: "drakon zubi<28><STEAM_0:0:163292230><TERRORIST>" disconnected
+L 12/10/2019 - 17:43:08: Team "CT" triggered "CTs_Win" (CT "13") (T "8")
+L 12/10/2019 - 17:43:08: World triggered "Round_End"
+L 12/10/2019 - 17:43:13: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/10/2019 - 17:43:13: Server cvar "sv_maxspeed" = "900.000000"
+L 12/10/2019 - 17:43:13: Server cvar "mp_friendlyfire" = "0"
+L 12/10/2019 - 17:43:13: Server cvar "mp_timelimit" = "20.000000"
+L 12/10/2019 - 17:43:13: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: AMX Mod X
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: Reunion
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: ReAuthCheck
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: WHBlocker
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: ReSemiclip
+L 12/10/2019 - 17:43:13: [META] ini: Read plugin config for: Revoice
+L 12/10/2019 - 17:43:13: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/10/2019 - 17:43:13: [META] dll: Updating plugins...
+L 12/10/2019 - 17:43:13: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/10/2019 - 17:43:13: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/10/2019 - 17:43:13: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/10/2019 - 17:43:13: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/10/2019 - 17:43:13: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/10/2019 - 17:43:13: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/10/2019 - 17:43:13: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/10/2019 - 17:43:13: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/10/2019 - 17:43:13: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/10/2019 - 17:43:13: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/10/2019 - 17:43:13: "plamen<34><STEAM_1:1:876199173><CT>" disconnected
+L 12/10/2019 - 17:43:13: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/10/2019 - 17:43:13: "ronaldo<25><STEAM_1:0:853193476><TERRORIST>" disconnected
+L 12/10/2019 - 17:43:13: "MWR-SOBT<24><STEAM_1:1:1657453429><TERRORIST>" disconnected
+L 12/10/2019 - 17:43:13: World triggered "Round_Draw" (CT "13") (T "8")
+L 12/10/2019 - 17:43:13: World triggered "Round_End"
+L 12/10/2019 - 17:43:13: Log file closed

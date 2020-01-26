@@ -1,0 +1,11 @@
+[en]
+KICK_REASON = Away From Keyboard (AFK)
+SPEC_TRANSFERRED = %s was transferred to the spectators for being AFK.
+YOU_AFK = Let's play or you will be kicked!
+YOU_AFK_JOIN = Join in game and play or you will be kicked!
+KICKED_AFK = %s was kicked for being AFK.
+ALL_CTS_AFK = All remaining CT players are AFK!
+ALL_TS_AFK = All remaining T players are AFK!
+BOMB_DROP = C4 was dropped because you are AFK.
+BOMB_TRANSFERRED = C4 was transferred to teammate because you are AFK.
+BOMB_GOT = You got C4 from AFK teammate.

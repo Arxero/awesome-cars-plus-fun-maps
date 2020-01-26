@@ -1,0 +1,952 @@
+[en]
+DICE_CANTROLL_DISABLED = The system is currently disabled.
+DICE_CANTROLL_NOITEMS = No dice items are currently available.
+DICE_CANTROLL_FLAG = You are not allowed to roll the dice.
+DICE_CANTROLL_TEAM = Your team is not allowed to roll the dice.
+DICE_CANTROLL_INTERVAL = Please wait !g%i more second(s) !nbefore rolling again.
+DICE_CANTROLL_BUSY = The dice dealer is currently busy with !t%s!n. Please wait your turn.
+DICE_CANTROLL_COOLDOWN = The dice is cooling down at the moment...
+DICE_CANTROLL_DEAD = Dead players can't roll the dice!
+DICE_CANTROLL_FREEZE = Please wait for the round to fully start.
+DICE_CANTROLL_DELAY = The dice can be rolled after !g%i seconds !nsince round start.
+DICE_CANTROLL_COST = Rolling the dice requires !g%i$
+DICE_DELAY_OVER = The dice can be rolled now. Good luck!
+DICE_ROLLED = !t%s !nhas rolled the dice and !g%L!n!
+DICE_REMAINING = second(s) remaining
+DICE_INTERRUPTED = was interrupted
+DICE_DIED = %s died during his roll...
+DICE_LEFT = %s left during his roll...
+DICE_ROUND_END = The round has ended.
+DICE_LOADED = Configuration has been successfully loaded!
+DICE_FORCE = !g%s !nforced !n%s !nto roll the dice.
+DICE_LOG = %s rolled the dice and got item #%i: %L
+
+DI_INSTANT_HEALTH = and got some instant HP
+DII_INSTANT_HEALTH = You now have %i health points.
+DIH_INSTANT_HEALTH = %s won and now has %i HP!
+
+DI_GODMODE = got GODMODE
+DII_GODMODE = You are now immortal!
+DII_GODMODE_OFF = You are once again mortal.
+DIH_GODMODE = %s has GODMODE.
+
+DI_FULL_EQUIP = got Full Equipment
+DII_FULL_EQUIP = You received Full Equipment!
+DIH_FULL_EQUIP = %s got Full Equipment!
+
+DI_SCORPIONS = got some Scorpions!
+DII_SCORPIONS = Your body has been infested with Scorpions!
+DII_SCORPIONS_OFF = The scorpions have left your body.
+DIH_SCORPIONS = %s is throwing Scorpions!
+
+DI_DEMONS = was possessed by Demons
+DII_DEMONS = You are possessed by Demons!
+DII_DEMONS_OFF = You have been cured!
+DIH_DEMONS = %s is possessed by Demons!
+
+DI_MOONWALK = won Moonwalk
+DII_MOONWALK = You can now jump higher!
+DII_MOONWALK_OFF = You can no longer jump higher.
+DIH_MOONWALK = %s has Moonwalk!
+
+DI_HARDWALK = won Hardwalk
+DII_HARDWALK = The gravity is strong with this one...
+DII_HARDWALK_OFF = You can jump once again!
+DIH_HARDWALK = %s now feels the force of gravity!
+
+DI_BANKRUPT = went bankrupt
+DII_BANKRUPT = You lost all of your money!
+DIH_BANKRUPT = %s lost all of his money!
+
+DI_MONEY = got some CASH
+DII_MONEY = You won %i$!
+DIH_MONEY = %s won %i$!
+
+DI_OLD_MAN = is now an Old Man
+DII_OLD_MAN = You are an Old Man now!
+DII_OLD_MAN_OFF = You can run like a youngster once again!
+DIH_OLD_MAN = %s is an Old Man now!
+
+DI_JET_PLANE = won Jet Plane mode
+DII_JET_PLANE = You are a Jet Plane now!
+DII_JET_PLANE_OFF = You are no longer fast as the speed of light.
+DIH_JET_PLANE = %s has Jet Plane mode!
+
+DI_BOMBER = got a bunch of HE Grenades
+DII_BOMBER = You received %i HE Grenades!
+DIH_BOMBER = %s received %i HE Grenades!
+
+DI_LIGHTNING = was struck by lightning
+DII_LIGHTNING = You were struck by lightning %i time(s)!
+DIH_LIGHTNING = %s was struck by lightning %i time(s)!
+
+DI_DISCO = is now PARTYING
+DII_DISCO = Welcome to the Disco Club!
+DII_DISCO_OFF = You have left the Disco!
+DIH_DISCO = %s is a crazy Disco Club Member!
+
+DI_MADNESS = got UZI Madness
+DII_MADNESS = Kill them all!
+DII_MADNESS_OFF = You calmed down.
+DIH_MADNESS = %s is infected with UZI Madness!
+
+DI_SHADOW = is now Invisible
+DII_SHADOW = You are now invisible!
+DII_SHADOW_OFF = You are no longer invisible!
+DIH_SHADOW = %s is invisible!
+
+DI_NOCLIP = got NOCLIP
+DII_NOCLIP = You can now go through walls!
+DII_NOCLIP_OFF = You can no longer go through walls!
+DIH_NOCLIP = %s think he's a ghost!
+
+DI_BURY = got burried
+DII_BURY = You got burried!
+DII_BURY_OFF = You are free!
+DIH_BURY = %s is burried!
+
+DI_MOLE = got teleported to the Enemy Base
+DII_MOLE = Welcome to the Enemy Base!
+DIH_MOLE = %s was teleported to the Enemy Base!
+
+DI_WILD_RIDE = is going for a Wild Ride
+DII_WILD_RIDE = Better find a soft landing spot, mate!
+DII_WILD_RIDE_OFF = Have a nice trip!
+DIH_WILD_RIDE = %s is going for a Wild Ride!
+
+DI_RANDOM_WEAPON = got a Random Weapon
+DII_RANDOM_WEAPON = Have fun with this %s with %i bullets!
+DIH_RANDOM_WEAPON = %s received a weapon: %s (%i bullets).
+
+DI_CAMERA = got a Distorted Camera Angle
+DII_CAMERA = Your camera angle was distorted!
+DII_CAMERA_OFF = Your camera angle is back to normal!
+DIH_CAMERA = %s has a Distorted Camera Angle!
+
+DI_DISARM = lost all of his weapons
+DII_DISARM = You have lost all of your weapons!
+DIH_DISARM = %s lost all of his weapons!
+
+DI_TOXINS = got his blood poisoned
+DII_TOXINS = Your blood has been poisoned!
+DII_TOXINS_OFF = You survived the blood poisoning!
+DIH_TOXINS = %s has blood poisoning!
+
+DI_ZEUS = won ZEUS MODE
+DII_ZEUS = You won ZEUS MODE!!!
+DII_ZEUS_OFF = You are back to normal!
+DIH_ZEUS = %s has ZEUS MODE!!!
+
+[mk]
+DICE_CANTROLL_DISABLED = Pluginot momentalno e iskluchen.
+DICE_CANTROLL_NOITEMS = Momentalno nema dostapni predmeti vo pluginot.
+DICE_CANTROLL_FLAG = Nemash pravo da ja vrtish kockata.
+DICE_CANTROLL_TEAM = Tvojot tim nema pravo da ja vrti kockata.
+DICE_CANTROLL_INTERVAL = Pochekaj ushte !g%i sekundi !npred povtorno da vrtish.
+DICE_CANTROLL_BUSY = Momentalno sme zafateni so !t%s!n. Pochekajte go vashiot red!
+DICE_CANTROLL_COOLDOWN = Kockata se regenerira od poslednoto vrtenje...
+DICE_CANTROLL_DEAD = Mrtvi igrachi ne mozhat da ja vrtat kockata!
+DICE_CANTROLL_FREEZE = Pochekajte rundata celosno da zapochne.
+DICE_CANTROLL_DELAY = Kockata mozhe da se vrti posle !g%i sekundi !nod pochetokot na rundata.
+DICE_CANTROLL_COST = Treba da imash !g%i$ !nza da ja vrtish kockata.
+DICE_DELAY_OVER = Kockata mozhe da se vrti. So srekja!
+DICE_ROLLED = !t%s !nja svrte kockata i !g%L!n!
+DICE_REMAINING = sekundi ostanuvaat
+DICE_INTERRUPTED = beshe prekinat
+DICE_DIED = %s umre pod efekt na kockata...
+DICE_LEFT = %s zamina pod efekt na kockata...
+DICE_ROUND_END = Rundata zavrshi.
+DICE_LOADED = Konfiguracijata beshe prevchitana!
+DICE_FORCE = !g%s !ngo prisili !n%s !nda ja svrti kockata.
+
+DI_INSTANT_HEALTH = dobi HP
+DII_INSTANT_HEALTH = Imash %i HP.
+DIH_INSTANT_HEALTH = %s osvoi i sega ima %i HP!
+
+DI_GODMODE = stana BESMRTEN
+DII_GODMODE = Ti si besmrten!
+DII_GODMODE_OFF = Vekje ne si besmrten.
+DIH_GODMODE = %s e BESMRTEN.
+
+DI_FULL_EQUIP = dobi Celosna Oprema
+DII_FULL_EQUIP = Dobi Celosna Oprema!
+DIH_FULL_EQUIP = %s dobi Celosna Oprema!
+
+DI_SCORPIONS = dobi Skorpii!
+DII_SCORPIONS = Tvoeto telo e zarezeno so Skorpii!
+DII_SCORPIONS_OFF = Skorpiite go napushtija tvoeto telo.
+DIH_SCORPIONS = %s frla Skorpii!
+
+DI_DEMONS = stana opsednat od Demoni
+DII_DEMONS = Opsednat si od Demoni!
+DII_DEMONS_OFF = Beshe izlechen!
+DIH_DEMONS = %s e opsednat od Demoni!
+
+DI_MOONWALK = dobi Od na Mesechinata
+DII_MOONWALK = Mozhesh da skokash povisoko!
+DII_MOONWALK_OFF = Vekje ne mozhesh da skokash povisoko.
+DIH_MOONWALK = %s ima Od na Mesechinata.
+
+DI_HARDWALK = dobi Tezhok Od
+DII_HARDWALK = Ne mozhesh da skokash!
+DII_HARDWALK_OFF = Povtorno mozhesh da skokash normalno.
+DIH_HARDWALK = %s ja chuvstvuva silata na gravitacijata!
+
+DI_BANKRUPT = bankrotirashe
+DII_BANKRUPT = Gi zagubi site pari!
+DIH_BANKRUPT = %s gi zagubi site pari!
+
+DI_MONEY = dobi PARI
+DII_MONEY = Osvoi %i$!
+DIH_MONEY = %s osvoi %i$!
+
+DI_OLD_MAN = stana Starec
+DII_OLD_MAN = Ti si Starec!
+DII_OLD_MAN_OFF = Povtorno mozhesh da trchash normalno!
+DIH_OLD_MAN = %s e Starec!
+
+DI_JET_PLANE = stana brz kako Avion
+DII_JET_PLANE = Brz si kako Avion!
+DII_JET_PLANE_OFF = Vekje ne si brz.
+DIH_JET_PLANE = %s e brz kako Avion!
+
+DI_BOMBER = dobi eden kup HE Bombi
+DII_BOMBER = Dobi %i HE Bombi!
+DIH_BOMBER = %s dobi %i HE Bombi!
+
+DI_LIGHTNING = beshe pogoden od grom
+DII_LIGHTNING = Grom te udri %i pat(i)!
+DIH_LIGHTNING = %s beshe pogoden od grom %i pat(i)!
+
+DI_DISCO = sega se ZHURKA
+DII_DISCO = Dobredojde vo Disko Klubot!
+DII_DISCO_OFF = Go napushti Diskoto!
+DIH_DISCO = %s se zhurka vo Disko Klub!
+
+DI_MADNESS = dobi UZI Ludilo
+DII_MADNESS = Ubij gi site!
+DII_MADNESS_OFF = Ti se smiri.
+DIH_MADNESS = %s e zarazen od UZI Ludilo!
+
+DI_SHADOW = stana nevidliv
+DII_SHADOW = Stana nevidliv!
+DII_SHADOW_OFF = vekje ne si nevidliv!
+DIH_SHADOW = %s e nevidliv!
+
+DI_NOCLIP = dobi NOCLIP
+DII_NOCLIP = Mozhesh da se dvizhish niz dzidovi!
+DII_NOCLIP_OFF = Vekje ne mozhesh da se dvizhish niz dzidovi!
+DIH_NOCLIP = %s misli deka e duh!
+
+DI_BURY = beshe zakopan
+DII_BURY = TI beshe zakopan!
+DII_BURY_OFF = Sloboden si!
+DIH_BURY = %s e zakopan!
+
+DI_MOLE = se teleportira vo Bazata na Protivnikot
+DII_MOLE = Dobredojde vo Bazata na Protivnikot!
+DIH_MOLE = %s beshe teleportiran vo Bazata na Protivnikot!
+
+DI_WILD_RIDE = kje odi na Ludo Patuvanje
+DII_WILD_RIDE = Najdi dobro mesto za sletuvanje, prijatele!
+DII_WILD_RIDE_OFF = Srekjen pat!
+DIH_WILD_RIDE = %s kje odi na Ludo Patuvanje!
+
+DI_RANDOM_WEAPON = dobi Proizvolno Oruzhje
+DII_RANDOM_WEAPON = Dobi %s so %i kurshumi!
+DIH_RANDOM_WEAPON = %s dobi oruzhje: %s (%i kurshumi).
+
+DI_CAMERA = dobi Poremeten Ekran
+DII_CAMERA = Ekranot ti e poremeten!
+DII_CAMERA_OFF = Ekranot ti se vrati vo ekrana!
+DIH_CAMERA = %s ima Poremeten Ekran!
+
+DI_DISARM = gi izgubi site oruzhja
+DII_DISARM = Gi izgubi site oruzhja!
+DIH_DISARM = %s gi izgubi site oruzhja!
+
+DI_TOXINS = dobi truenje na krvta
+DII_TOXINS = Krvta ti e otruena!
+DII_TOXINS_OFF = Go prezhivea truenjeto na krvta!
+DIH_TOXINS = %s ima truenje na krvta!
+
+DI_ZEUS = dobi ZEUS MODE
+DII_ZEUS = Dobi ZEUS MODE!!!
+DII_ZEUS_OFF = Se vrati vo normala!
+DIH_ZEUS = %s ima ZEUS MODE!!!
+
+[sk]
+DICE_CANTROLL_DISABLED = System je momentalne vypnuty.
+DICE_CANTROLL_NOITEMS = Aktualne nie su k dispozicii ziadne itemy pre hod kockou.
+DICE_CANTROLL_FLAG = Nemas povolene hodit kockou.
+DICE_CANTROLL_TEAM = Tvoj tim nema povolene hadzat kockou.
+DICE_CANTROLL_INTERVAL = Musis pockat !g%i sekund !npred dalsim hodenim kocky.
+DICE_CANTROLL_BUSY = Diler kocky je teraz zaneprazdneny s!t %s!n. Skus to neskor.
+DICE_CANTROLL_COOLDOWN = Diler kocky na teraz oddychuje...
+DICE_CANTROLL_DEAD = Musis byt nazive!
+DICE_CANTROLL_FREEZE = Pockaj kym naplno zacne nove kolo.
+DICE_CANTROLL_DELAY = Kocku mozes hodit az!g %i sekund/y !n po zaciatku kola.
+DICE_CANTROLL_COST = Na hodenie kocky potrebujes !g%i$
+DICE_DELAY_OVER = Mozes hodit kockou. Vela stastia!
+DICE_ROLLED = !t%s !nhodil kockou a !g%L!n!
+DICE_REMAINING = sekund zostava
+DICE_INTERRUPTED = bol preruseny
+DICE_DIED = %s zomrel pocas losu...
+DICE_LEFT = %s sa odpojil pocas losu...
+DICE_ROUND_END = Kolo uz skoncilo.
+DICE_LOADED = Konfiguracia bola uspesne nacitana!
+DICE_FORCE = !g%s !ndonutil !n%s !nhodit kockou.
+DICE_LOG = %s hodil kockou a dostal polozku #%i: %L
+
+DI_INSTANT_HEALTH = a dostal navyse HP
+DII_INSTANT_HEALTH = Teraz mas %iHP.
+DIH_INSTANT_HEALTH = %s dostal %i HP!
+
+DI_GODMODE = teraz je BOH
+DII_GODMODE = Teraz si nesmrtelny!
+DII_GODMODE_OFF = Uz nie si nesmrtelny.
+DIH_GODMODE = %s je BOH.
+
+DI_FULL_EQUIP = dostal plnu vybavu
+DII_FULL_EQUIP = Ziskal si plnu vybavu!
+DIH_FULL_EQUIP = %s dostal plnu vybavu!
+
+DI_SCORPIONS = vyhral skorpionov!
+DII_SCORPIONS = V tvojom tele su skorpiony!
+DII_SCORPIONS_OFF = Z tvojho tela vyletuju skorpiony.
+DIH_SCORPIONS = %s hadze skorpionov!
+
+DI_DEMONS = bol posadnuty demonom
+DII_DEMONS = Bol si posadnuty demonom!
+DII_DEMONS_OFF = Bol si oslobodeny!
+DIH_DEMONS = %s je posadnuty demonom!
+
+DI_MOONWALK = teraz ma kroky ako na mesiaci
+DII_MOONWALK = Teraz mas vacsie skoky!
+DII_MOONWALK_OFF = Uz neurobis vyssi skok.
+DIH_MOONWALK = %s ma kroky ako na mesiaci!
+
+DI_HARDWALK = teraz ma tazke kroky
+DII_HARDWALK = Gravitacia je teraz o nieco silnejsia...
+DII_HARDWALK_OFF = Teraz uz mozes normalne skakat!
+DIH_HARDWALK = %s teraz pocituje silnu gravitaciu!
+
+DI_BANKRUPT = zbankrotoval
+DII_BANKRUPT = Prisiel si o vsetky svoje peniaze!
+DIH_BANKRUPT = %s prisiel o vsetky svoje peniaze!
+
+DI_MONEY = vyhral PRACHY
+DII_MONEY = Vyhral si %i$!
+DIH_MONEY = %s vyhral %i$!
+
+DI_OLD_MAN = teraz je stary dedo
+DII_OLD_MAN = Stal sa z teba stary dedo!
+DII_OLD_MAN_OFF = Zase mozes behat ako mladenec!
+DIH_OLD_MAN = %s je nateraz stary dedko!
+
+DI_JET_PLANE = vyhral prudove lietadlo
+DII_JET_PLANE = Si ako prudove lietadlo!
+DII_JET_PLANE_OFF = Uz nie si rychly ako strela.
+DIH_JET_PLANE = %s vyhral prudove lietadlo!
+
+DI_BOMBER = dostal vela granatov
+DII_BOMBER = Dostal si %i HE granatov!
+DIH_BOMBER = %s dostal si %i HE granatov!
+
+DI_LIGHTNING = bol zasiahnuty bleskom
+DII_LIGHTNING = Dostanes %i zasahov bleskom!
+DIH_LIGHTNING = %s bol %i-krat zasiahnuty bleskom!
+
+DI_DISCO = teraz TANCUJE
+DII_DISCO = Vitaj na Diskoteke!
+DII_DISCO_OFF = Isiel si domov!
+DIH_DISCO = %s je clenom Party Hard diskoteky!
+
+DI_MADNESS = teraz je sialeny UZI zabijak
+DII_MADNESS = Zabi vsetkych!
+DII_MADNESS_OFF = Uz si sa ukludnil.
+DIH_MADNESS = %s je teraz sialeny UZI zabijak
+
+DI_SHADOW = teraz je neviditelny
+DII_SHADOW = Teraz si neviditelny!
+DII_SHADOW_OFF = Uz nie si neviditelny!
+DIH_SHADOW = %s ziskal neviditelnost!
+
+DI_NOCLIP = teraz je DUCH
+DII_NOCLIP = Teraz mozes prechadzat cez steny!
+DII_NOCLIP_OFF = Uz nemozes prechadzat cez steny!
+DIH_NOCLIP = %s je nehmotny ako duch!
+
+DI_BURY = bol pochovany
+DII_BURY = Si pochovany!
+DII_BURY_OFF = Si volny!
+DIH_BURY = %s bol pochovany!
+
+DI_MOLE = bol teleportovany na nepriatelsku zakladnu
+DII_MOLE = Vitaj na nepriatelskej zakladni!
+DIH_MOLE = %s bol teleportovany na nepriatelsku zakladnu!
+
+DI_WILD_RIDE = vydal sa na divoku jazdu
+DII_WILD_RIDE = Kamos, bude lepsie najst nejake miesto na hladke pristatie!
+DII_WILD_RIDE_OFF = Stastnu cestu!
+DIH_WILD_RIDE = %s sa vydal na divoku jazdu!
+
+DI_RANDOM_WEAPON = ziskal nahodnu zbran
+DII_RANDOM_WEAPON = Vela zabavy s %s a %i nabojmi!
+DIH_RANDOM_WEAPON = %s dostal zbran: %s (%i nabojov).
+
+DI_CAMERA = pretocila sa mu kamera
+DII_CAMERA = Pretocila sa ti kamera!
+DII_CAMERA_OFF = Kamera sa ti vratila spat do normalu!
+DIH_CAMERA = %s sa pretocila kamera!
+
+DI_DISARM = prisiel o vsetky zbrane
+DII_DISARM = Prisiel si o vsetky zbrane!
+DIH_DISARM = %s prisiel o vsetky svoje zbrane!
+
+DI_TOXINS = dostal otravu krvi
+DII_TOXINS = Dostal si otravu krvi!
+DII_TOXINS_OFF = Prezil si otravu krvi!
+DIH_TOXINS = %s dostal otravu krvi!
+
+DI_ZEUS = stal sa z neho ZEUS
+DII_ZEUS = Si ZEUS!!!
+DII_ZEUS_OFF = Uz nie si ZEUS!
+DIH_ZEUS = %s je ZEUS!!!
+
+[de]
+DICE_CANTROLL_DISABLED = Das System ist derzeit deaktiviert.
+DICE_CANTROLL_NOITEMS = Momentan sind keine Würfel vorhanden.
+DICE_CANTROLL_FLAG = Die Würfel dürfen nicht gewürfelt werden.
+DICE_CANTROLL_TEAM = Ihr Team darf die Würfel nicht rollen.
+DICE_CANTROLL_INTERVAL = Bitte warte !g%i mehre Sekunden !nbevor du wieder rollen kannst.
+DICE_CANTROLL_BUSY = Der Würfelhändler ist momentan mit !t%s!n beschäftigt. Bitte warte bis du an der Reihe bist.
+DICE_CANTROLL_COOLDOWN = Der Würfel kühlt derzeit ab...
+DICE_CANTROLL_DEAD = Tote Spieler können keine Würfel rollen!
+DICE_CANTROLL_FREEZE = Bitte warten Sie, bis die Runde vollständig gestartet ist.
+DICE_CANTROLL_DELAY = Die Würfel können nach  !g%i Sekunden gerollt werden!
+DICE_CANTROLL_COST = Das Rollen der Würfel erfordert !g%i$
+DICE_DELAY_OVER = Die Würfel können jetzt gerollt werden. Viel Glück!
+DICE_ROLLED = !t%s !nHat die Würfel gerollt und !g%L!n!
+DICE_REMAINING = Sekunde(n) verbleibend.
+DICE_INTERRUPTED = wurde unterbrochen
+DICE_DIED = %s starb während seiner Rolle...
+DICE_LEFT = %s links während seiner Rolle...
+DICE_ROUND_END = Die Runde ist zu Ende.
+DICE_LOADED = Konfiguration wurde erfolgreich geladen!
+DICE_FORCE = !g%s !ngezwungen !n%s !ndie Würfel zu rollen.
+
+DI_INSTANT_HEALTH = Und bekam sofort mehr HP
+DII_INSTANT_HEALTH = Sie haben jetzt %i Gesundheit Punkte.
+DIH_INSTANT_HEALTH = %s Gewann und hat jetzt %i HP!
+
+DI_GODMODE = bekam Gott-Modus
+DII_GODMODE = Du bist jetzt unsterblich!
+DII_GODMODE_OFF = Du bist wieder sterblich.
+DIH_GODMODE = %s hatte Gott-Modus.
+
+DI_FULL_EQUIP = bekam volle Rüstung.
+DII_FULL_EQUIP = Du hast volle Ausrüstung erhalten!
+DIH_FULL_EQUIP = %s bekam volle Rüstung!
+
+DI_SCORPIONS = Bekam einige Skorpione!
+DII_SCORPIONS = Ihr Körper wurde infiziert mit Skorpionen!
+DII_SCORPIONS_OFF = Die Skorpione haben deinen Körper verlassen.
+DIH_SCORPIONS = %s wirft Scorpions!
+
+DI_DEMONS = War von Dämonen besessen
+DII_DEMONS = Du bist von Dämonen besessen!
+DII_DEMONS_OFF = Sie wurden geheilt!
+DIH_DEMONS = %s Ist von Dämonen besessen!
+
+DI_MOONWALK = gewann Mondweg.
+DII_MOONWALK = Sie können nun höher springen!
+DII_MOONWALK_OFF = Sie können nicht mehr höher springen.
+DIH_MOONWALK = %s gewann Mondweg!
+
+DI_HARDWALK = Gewann schwerer Spaziergang.
+DII_HARDWALK = Die Schwerkraft ist stark mit diesem...
+DII_HARDWALK_OFF = Sie können wieder springen!
+DIH_HARDWALK = %s Jetzt fühle die Schwerkraft!
+
+DI_BANKRUPT = Bankrott gegangen
+DII_BANKRUPT = Du hast dein ganzes Geld verloren!
+DIH_BANKRUPT = %s verlor sein ganzes Geld!
+
+DI_MONEY = bekam etwas Geld
+DII_MONEY = du gewannst %i$!
+DIH_MONEY = %s gewann %i$!
+
+DI_OLD_MAN = ist jetzt ein alter Mann
+DII_OLD_MAN = Du bist jetzt ein alter Mann!
+DII_OLD_MAN_OFF = Sie können wieder wie ein Jugendlicher laufen!
+DIH_OLD_MAN = %s Ist ein alter Mann jetzt!
+
+DI_JET_PLANE = gewann Düsenflugzeug Modus
+DII_JET_PLANE = Sie sind jetzt ein Düsenflugzeug !
+DII_JET_PLANE_OFF = Du bist nicht mehr schnell wie die Lichtgeschwindigkeit.
+DIH_JET_PLANE = %s gewann Düsenflugzeug Modus!
+
+DI_BOMBER = erhielt ein Bündel von HE Granaten
+DII_BOMBER = Sie erhielten %i HE Granaten!
+DIH_BOMBER = %s erhielt %i HE Granaten!
+
+DI_LIGHTNING = wurde vom Blitz getroffen
+DII_LIGHTNING = Sie wurden vom Blitz getroffen %i für die Dauer der Zeit(en)!
+DIH_LIGHTNING = %s wurde vom Blitz getroffen %i für die Dauer der Zeit(en)!
+
+DI_DISCO = feiert jetzt
+DII_DISCO = Willkommen in der Disco!
+DII_DISCO_OFF = Du hast die Disco verlassen!
+DIH_DISCO = %s Ist ein verrücktes Disco Club Mitglied!
+
+DI_MADNESS = bekam eine Wahnsinns UZI
+DII_MADNESS = Töte sie alle!
+DII_MADNESS_OFF = Du hast dich beruhigt.
+DIH_MADNESS = %s Wurde mit UZI Wahnsinn infiziert!
+
+DI_SHADOW = Ist jetzt Unsichtbar
+DII_SHADOW = Sie sind jetzt unsichtbar!
+DII_SHADOW_OFF = Du bist nicht mehr unsichtbar!
+DIH_SHADOW = %s ging unsichtbar!
+
+DI_NOCLIP = bekam NOCLIP
+DII_NOCLIP = Sie können nun durch Wände gehen!
+DII_NOCLIP_OFF = Sie können nicht mehr durch Wände gehen!
+DIH_NOCLIP = %s denkt er ist ein Geist!
+
+DI_BURY = wurde begraben
+DII_BURY = Du wurdest begraben!
+DII_BURY_OFF = Du bist frei!
+DIH_BURY = %s Wurde begraben!
+
+DI_MOLE = Wurde an die feindliche Basis teleportiert
+DII_MOLE = Willkommen auf der feindlichen Basis!
+DIH_MOLE = %s Wurde auf die feindliche Basis teleportiert!
+
+DI_WILD_RIDE = Geht für eine wilden Ritt
+DII_WILD_RIDE = Besser Sie finden einen weichen Landungsplatz, Kumpel!
+DII_WILD_RIDE_OFF = Gute Reise!
+DIH_WILD_RIDE = %s geht für eine wilden Ritt
+
+DI_RANDOM_WEAPON = erhielt eine zufällige Waffe
+DII_RANDOM_WEAPON = Hab Spaß %s mit %i Kugeln!
+DIH_RANDOM_WEAPON = %s bekam eine Waffe: %s (%i Kugeln).
+
+DI_CAMERA = bekam einen verzerrten Kamera-Winkel
+DII_CAMERA = Ihr Kamerawinkel war verzerrt!
+DII_CAMERA_OFF = Der Kamerawinkel ist wieder normal!
+DIH_CAMERA = %s Bekam einen verzerrten Kamera-Winkel!
+
+DI_DISARM = Verlor alle seine Waffen
+DII_DISARM = Sie haben alle Ihre Waffen verloren!
+DIH_DISARM = %s lverlor alle seine Waffen!
+
+DI_TOXINS = bekam sein vergiftetes Blut
+DII_TOXINS = Dein Blut ist vergiftet worden!
+DII_TOXINS_OFF = Du hast die Blutvergiftung überlebt!
+DIH_TOXINS = %s erhielt sein Blut vergiftet!
+
+[nl]
+DICE_CANTROLL_DISABLED = Het systeem is momenteel uitgeschakeld.
+DICE_CANTROLL_NOITEMS = Er zijn momenteel geen roll the dice opties beschikbaar.
+DICE_CANTROLL_FLAG = Je bent niet toegestaan om mee te doen aan roll the dice.
+DICE_CANTROLL_TEAM = Jouw team is niet toegestaan om mee te doen aan roll the dice.
+DICE_CANTROLL_INTERVAL = Wacht alsjeblieft nog !g%s second(en) vooraleer je nog eens rolt.
+DICE_CANTROLL_BUSY = Please wait your turn. De dobbelsteen dealer is momenteel bezig met !t%s!n. Wacht alsjeblieft op uw beurt.
+DICE_CANTROLL_COOLDOWN = De dobbelsteen is momenteel aan het afkoelen...
+DICE_CANTROLL_DEAD = Spelers die dood zijn kunnen niet meedoen aan roll the dice!
+DICE_CANTROLL_FREEZE = Wacht alsjeblieft tot de ronde volledig is gestart.
+DICE_CANTROLL_DELAY = De dobbelsteen kan gerold worden na !g%i seconden !nsinds de ronde is gestart.
+DICE_CANTROLL_COST = Om de dobbelsteen te kunnen gooien, heb je een minimum nodig van !g%i$
+DICE_DELAY_OVER = De dobbelsteen kan gegooid worden, veel succes!
+DICE_ROLLED = !t%s !nheeft met de dobbelsteen gegooid en !g%L!n!
+DICE_REMAINING = second(en) resterend
+DICE_INTERRUPTED = werd onderbroken
+DICE_DIED = %s is doodgegaan tijdens zijn rolbeurt...
+DICE_LEFT = %s heeft het spel verlaten tijdens zijn rolbeurt...
+DICE_ROUND_END = The ronde is beëindigd
+DICE_LOADED = Configuratie is succesvol geladen!
+DICE_FORCE = !g%s !ndwong !t%s !nom de dobbelsteen te gooien.
+
+DI_INSTANT_HEALTH = en kreeg onmiddelijk HP
+DII_INSTANT_HEALTH = You now have %i health points. Je hebt nu %i levenspunten.
+DIH_INSTANT_HEALTH = %s heeft gewonnen en heeft nu %i HP!
+
+DI_GODMODE = kreeg GODMODE
+DII_GODMODE = Je bent nu onsterfelijk!
+DII_GODMODE_OFF = Je bent terug sterfelijk!
+DIH_GODMODE = %s kreeg GODMODE.
+
+DI_FULL_EQUIP = kreeg Volle Uitrusting
+DII_FULL_EQUIP = You received Full Equipment! Je hebt een Volle Uitrusting ontvangen!
+DIH_FULL_EQUIP = %s kreeg Volle Uitrusting!
+
+DI_SCORPIONS = Kreeg Schorpioenen
+DII_SCORPIONS = Je lichaam werd besmet met Schorpioenen!
+DII_SCORPIONS_OFF = De Schorpioenen hebben je lichaam verlaten.
+DIH_SCORPIONS = %s gooit met Schorpioenen!
+
+DI_DEMONS = was bezeten door Demonen!
+DII_DEMONS = Je bent bezeten door Demonen!
+DII_DEMONS_OFF = Je bent genezen!
+DIH_DEMONS = %s is bezeten door Demonen!
+
+DI_MOONWALK = heeft Moonwalk gewonnen
+DII_MOONWALK = Je kan nu hoger springen!
+DII_MOONWALK_OFF = Je kan niet meer hoger springen.
+DIH_MOONWALK = %s heeft Moonwalk gewonnen!
+
+DI_HARDWALK = heeft Hardwalk gewonnen
+DII_HARDWALK = The zwaartekracht is sterk met deze...
+DII_HARDWALK_OFF = Je kan terug normaal springen!
+DIH_HARDWALK = %s voelt nu de kracht van zwaartekracht!
+
+DI_BANKRUPT = is bankroet gegaan.
+DII_BANKRUPT = Je bent al je geld kwijt!
+DIH_BANKRUPT = %s is al zijn geld kwijt!
+
+DI_MONEY = heeft wat GELD gekregen.
+DII_MONEY = Je verdiende %i$!
+DIH_MONEY = %s verdiende %i$!
+
+DI_OLD_MAN = is nu een Oude Man
+DII_OLD_MAN = Je bent nu een Oude Man!
+DII_OLD_MAN_OFF = Je kan terug lopen als een jong veulentje!
+DIH_OLD_MAN = %s is nu een Oude Man!
+
+DI_JET_PLANE = heeft straaljager mode gewonnen!
+DII_JET_PLANE = You are a Jet Plane now! Je bent nu een straaljager
+DII_JET_PLANE_OFF = Je bent niet meer zo snel als het licht.
+DIH_JET_PLANE = %s heeft straaljager mode gewonnen!
+
+DI_BOMBER = Heeft een heleboel HE Granaten gekregen.
+DII_BOMBER = Je kreeg %i HE Granaten!
+DIH_BOMBER = %s kreeg %i HE Granaten!
+
+DI_LIGHTNING = werd geraakt door een bliksemschicht.
+DII_LIGHTNING = Je werd %i keer geraakt door bliksem.
+DIH_LIGHTNING = %s werd %i keer geraakt door bliksem!
+
+DI_DISCO = is nu aan het feesten!
+DII_DISCO = Welcome in de Disco Club!
+DII_DISCO_OFF = Je hebt de Disco verlaten!
+DIH_DISCO = %s is een gekke Disco Club Member!
+
+DI_MADNESS = kreeg de UZI Gekte
+DII_MADNESS = Vermoord ze allemaal!
+DII_MADNESS_OFF = Je bent gekalmeerd.
+DIH_MADNESS = %s werd besmet met de UZI Gekte
+
+DI_SHADOW = is nu Onzichtbaar
+DII_SHADOW = Je bent nu onzichtbaar! 
+DII_SHADOW_OFF = Je bent terug zichtbaar.
+DIH_SHADOW = %s is onzichtbaar!
+
+DI_NOCLIP = kreeg NOCLIP
+DII_NOCLIP = Je kan nu door muren gaan!
+DII_NOCLIP_OFF = Je kan niet meer door muren gaan.
+DIH_NOCLIP = %s denkt dat hij een spook is!
+
+DI_BURY = werd begraven
+DII_BURY = Je werd begraven!
+DII_BURY_OFF = Je bent terug vrij!
+DIH_BURY = %s werd begraven!
+
+DI_MOLE = werd geteleporteerd naar de Vijandelijke Basis
+DII_MOLE = Welcome in de Vijandelijke Basis!
+DIH_MOLE = %s werd geteleporteerd naar de Vijandelijke Basis!
+
+DI_WILD_RIDE = gaat voor een wilde rit
+DII_WILD_RIDE = Je kan maar beter een zachte landinsplaats vinden, maat!
+DII_WILD_RIDE_OFF = Een goede reis toegewenst!
+DIH_WILD_RIDE = %s gaat voor een Wilde Rit!
+
+DI_RANDOM_WEAPON = kreeg een Willekeurig Wapen
+DII_RANDOM_WEAPON = Veel plezier met deze %s met %i kogels!
+DIH_RANDOM_WEAPON = %s kreeg een wapen: %s (%i kogels).
+
+DI_CAMERA = kreeg een Vervormde Camerahoek
+DII_CAMERA = Je camerahoek werd vervormd!
+DII_CAMERA_OFF = Je camerahoek is terug normaal!
+DIH_CAMERA = %s kreeg een Vervormde Camerahoek!
+
+DI_DISARM = verloor al zijn wapens
+DII_DISARM = Je bent al je wapens verloren!
+DIH_DISARM = %s is al zijn wapens verloren!
+
+DI_TOXINS = kreeg een bloedvergiftiging.
+DII_TOXINS = Je bloed is vergiftigd!
+DII_TOXINS_OFF = Je hebt de bloedvergiftiging overleefd!
+DIH_TOXINS = %s kreeg een bloedvergiftiging
+
+[bp]
+DICE_CANTROLL_DISABLED = O sistema esta atualmente desativado.
+DICE_CANTROLL_NOITEMS = Nenhum item do dado esta disponivel atualmente.
+DICE_CANTROLL_FLAG = Voce nao tem permissao para jogar o dado.
+DICE_CANTROLL_TEAM = Seu time nao tem permissao para jogar o dado.
+DICE_CANTROLL_INTERVAL = Por favor, espere !g%i segundos !nantes de jogar o dado novamente.
+DICE_CANTROLL_BUSY = O traficante de dados esta ocupado com t%s!n. Por favor, espere sua vez.
+DICE_CANTROLL_COOLDOWN = O dado esta esfriando no momento...
+DICE_CANTROLL_DEAD = Jogadores mortos nao podem jogar o dado.
+DICE_CANTROLL_FREEZE = Por favor, espere a rodada iniciar completamente.
+DICE_CANTROLL_DELAY = O dado somente pode ser jogado depois de g%i segundos !napos o inicio da rodada.
+DICE_CANTROLL_COST = Jogar o dado requer !gR$ %i
+DICE_DELAY_OVER = O dado pode ser jogado agora. Boa sorte!
+DICE_ROLLED = !t%s !nacabou de jogar o dado e !g%L!n!
+DICE_REMAINING = segundo(s) restantes
+DICE_INTERRUPTED = foi interrompido
+DICE_DIED = %s morreu enquanto jogava o dado...
+DICE_LEFT = %s saiu enquanto jogava o dado...
+DICE_ROUND_END = A rodada terminou.
+DICE_LOADED = A configuracao foi carregado com sucesso!
+DICE_FORCE = !g%s !nforçou !n%s !na jogar o dado.
+
+DI_INSTANT_HEALTH = e ganhou Saude Instantania
+DII_INSTANT_HEALTH = Agora voce tem %i pontos de vida.
+DIH_INSTANT_HEALTH = %s ganhou e agora tem %i de saude!
+
+DI_GODMODE = conseguir o Modo Deus
+DII_GODMODE = Agora voce eh imortal!
+DII_GODMODE_OFF = Agora voce eh mortal novamente.
+DIH_GODMODE = %s conseguir o Modo Deus.
+
+DI_FULL_EQUIP = conseguiu Todos os Equipamentos
+DII_FULL_EQUIP = Voce ganhou Todos os Equipamentos!
+DIH_FULL_EQUIP = %s conseguiu Todos os Equipamentos!
+
+DI_SCORPIONS = conseguiu alguns Escorpioes!
+DII_SCORPIONS = O seu corpo foi infestado com Escorpioes!
+DII_SCORPIONS_OFF = Os Escorpioes cairam foram do seu corpo.
+DIH_SCORPIONS = %s estah arremessando Escorpioes!
+
+DI_DEMONS = foi possuido por Demonios
+DII_DEMONS = Voce estah possuido por Demonios!
+DII_DEMONS_OFF = Voce acabou de ser curado!
+DIH_DEMONS = %s estah possuido por Demonios!
+
+DI_MOONWALK = ganhou o Andar Lunar
+DII_MOONWALK = Agora voce pode pular mais alto!
+DII_MOONWALK_OFF = Voce nao pode mais pular mais alto.
+DIH_MOONWALK = %s ganhou o Andar Lunar
+
+DI_HARDWALK = ganhou a Dança Dificil
+DII_HARDWALK = A gravidade eh mais forte com este aqui...
+DII_HARDWALK_OFF = Voce pode pular mais uma vez!
+DIH_HARDWALK = %s agora sente a força da gravidade!
+
+DI_BANKRUPT = foi a falencia
+DII_BANKRUPT = Voce perdeu todo o seu dinheiro!
+DIH_BANKRUPT = %s perdeu todo o dinheiro que tinha!
+
+DI_MONEY = ganhou algum dinheiro
+DII_MONEY = Voce ganhou R$ %i!
+DIH_MONEY = %s ganhou R$ %i!
+
+DI_OLD_MAN = eh agora um Velhote
+DII_OLD_MAN = Agora voce eh um Velhote!
+DII_OLD_MAN_OFF = Voce pode correr como um pia novamente!
+DIH_OLD_MAN = %s eh agora um Velhote!
+
+DI_JET_PLANE = ganhou o modo Aviao-a-Jato
+DII_JET_PLANE = Agora voce eh um Aviao-a-Jato!
+DII_JET_PLANE_OFF = Por mais um vez, voce nao eh mais rapido do que a velocidade da luz.
+DIH_JET_PLANE = %s ganhou o modo Aviao-a-Jato!
+
+DI_BOMBER = ganhou um monte de Granadas Altamente Explosivas
+DII_BOMBER = Voce ganhou %i Granadas Altamente Explosivas!
+DIH_BOMBER = %s ganhou %i Granadas Altamente Explosivas!
+
+DI_LIGHTNING = foi atingido por um raio
+DII_LIGHTNING = Voce foi atingido por um raio %i vez(es)!
+DIH_LIGHTNING = %s foi atingido por um raio %i vez(es)!
+
+DI_DISCO = agora estah na maior FESTA!
+DII_DISCO = Bem vindo ao Clube do Disco!
+DII_DISCO_OFF = Voce esqueceu o disco!
+DIH_DISCO = %s eh um maluco Membro do Clube do Disco!
+
+DI_MADNESS = ganhou a Maluquice da submetralhadora Uzi
+DII_MADNESS = Mate todo mundo!
+DII_MADNESS_OFF = Voce acalmou-se.
+DIH_MADNESS = %s foi infectado pela Maluquice da submetralhadora Uzi!
+
+DI_SHADOW = eh agora invisivel
+DII_SHADOW = Agora voce eh invisivel!
+DII_SHADOW_OFF = Voce nao eh mais invisivel!
+DIH_SHADOW = %s ficou invisivel!
+
+DI_NOCLIP = ganhou o Modo Fantasma
+DII_NOCLIP = Agora voce pode atravessar paredes!
+DII_NOCLIP_OFF = Voce nao pode mais atravessar paredes!
+DIH_NOCLIP = %s pensa que eh um fantasma!
+
+DI_BURY = foi interrado
+DII_BURY = Voce ficou interrado!
+DII_BURY_OFF = Voce estah livre!
+DIH_BURY = %s ficou interrado!
+
+DI_MOLE = foi teletransportado para a Base Inimiga
+DII_MOLE = Seja bem vindo a Base Inimiga!
+DIH_MOLE = %s foi teletransportado para a Base Inimiga!
+
+DI_WILD_RIDE = estah partindo para um Passeio Selvagem
+DII_WILD_RIDE = Melhor encontrar um bom lugar para aterrizar, camarada!
+DII_WILD_RIDE_OFF = Tenha uma boa viajem!
+DIH_WILD_RIDE = %s estah partindo para um Passeio Selvagem!
+
+DI_RANDOM_WEAPON = ganhou uma Arma Aleatoria
+DII_RANDOM_WEAPON = Divirta-se com a %s com %i balas!
+DIH_RANDOM_WEAPON = %s ganhou a arma: %s (%i balas).
+
+DI_CAMERA = ganhou um Angulo de Camera Distorcido
+DII_CAMERA = O angulo da sua camera foi distorcido!
+DII_CAMERA_OFF = O angulo da sua camera voltou ao normal!
+DIH_CAMERA = %s ganhou um Angulo de Camera Distorcido!
+
+DI_DISARM = perdeu todas as suas armas
+DII_DISARM = Voce acabou de perdeu todas as suas armas!
+DIH_DISARM = %s perdeu todas as suas armas!
+
+DI_TOXINS = teve seu sangue envenenado
+DII_TOXINS = O seu sangue acabou de ser envenenado!
+DII_TOXINS_OFF = Voce sobreviveu ao envenenamento do seu sangue!
+DIH_TOXINS = %s teve seu sangue envenenado!
+
+DI_ZEUS = ganhou o MODO ZEUS
+DII_ZEUS = Voce ganhou o MODO ZEUS!!!
+DII_ZEUS_OFF = Voce esta de volta ao normal!
+DIH_ZEUS = %s possui o MODO ZEUS!!!
+
+[es]
+DICE_CANTROLL_DISABLED = El sistema está desactivado.
+DICE_CANTROLL_NOITEMS = No hay ningun tipo de dado disponible.
+DICE_CANTROLL_FLAG = No puedes tirar el dado.
+DICE_CANTROLL_TEAM = Tu equipo no puede tirar dados.
+DICE_CANTROLL_INTERVAL = Por favor espera !g%i segundo(s) !nantes de tirar el dado otra vez.
+DICE_CANTROLL_BUSY = El sistema de dados está ocupado con !t%s!n. Por favor espera tu turno.
+DICE_CANTROLL_COOLDOWN = Necesitas esperar para lanzar el dado otra vez.
+DICE_CANTROLL_DEAD = ¡Los jugadores muertos no pueden tirar dados!
+DICE_CANTROLL_FREEZE = Por favor espera a que la ronda comience. 
+DICE_CANTROLL_DELAY = Este dado se puede tirar despues de !g%i segundos !ndesde el inicio de la ronda.
+DICE_CANTROLL_COST = Tirar el dado requiere !g%i$
+DICE_DELAY_OVER = Ya puedes tirar el dado. ¡Buena suerte!
+DICE_ROLLED = ¡!t%s !nha tirado el dado y !g%L!n!
+DICE_REMAINING = segundos(s) restantes
+DICE_INTERRUPTED = fue interrumpido
+DICE_DIED = %s murió mientras tiraba los dados...
+DICE_LEFT = %s abandonó la partida mientras tiraba los dados...
+DICE_ROUND_END = La ronda ha terminado.
+DICE_LOADED = ¡La configuración fue cargada satisfactoriamente!
+DICE_FORCE = !g%s !nobligó a !n%s !na tirar los dados.
+
+DI_INSTANT_HEALTH = y obtuvo puntos de vida. 
+DII_INSTANT_HEALTH = Obtuviste %i puntos de vida.
+DIH_INSTANT_HEALTH = ¡%s ganó y ahora tiene %i HP!
+
+DI_GODMODE = obtuvo MODO DIOS
+DII_GODMODE = ¡Ahora eres inmortal!
+DII_GODMODE_OFF = Eres mortal otra vez.
+DIH_GODMODE = ¡%s obtuvo MODO DIOS!
+
+DI_FULL_EQUIP = obtuvo Equipamento Completo
+DII_FULL_EQUIP = ¡Obtuviste Equipamento Completo!
+DIH_FULL_EQUIP = ¡%s obtuvo Equipamento Completo!
+
+DI_SCORPIONS = obtuvo algunos escorpiones!
+DII_SCORPIONS = ¡Tu cuerpo ha sido infectado por escorpiones!
+DII_SCORPIONS_OFF = Los escorpiones dejaron tu cuerpo.
+DIH_SCORPIONS = ¡%s está tirando escorpiones!
+
+DI_DEMONS = fue poseido por Demonios.
+DII_DEMONS = ¡Fuiste poseido por Demonios!
+DII_DEMONS_OFF = ¡Fuiste curado!
+DIH_DEMONS = ¡%s está siendo poseído por Demonios!
+
+DI_MOONWALK = ganó Paso Lunar!
+DII_MOONWALK = ¡Ahora puedes saltar más alto!
+DII_MOONWALK_OFF = Ya no puedes saltar alto.
+DIH_MOONWALK = ¡%s ganó Paso Lunar!
+
+DI_HARDWALK = ganó Paso Pesado
+DII_HARDWALK = Sientes a la gravedad no te deja saltar...
+DII_HARDWALK_OFF = ¡Puedes saltar otra vez!
+DIH_HARDWALK = ¡%s siente la fuerza de la gravedad!
+
+DI_BANKRUPT = quedó en bancarrota. 
+DII_BANKRUPT = ¡Perdiste todo tu dinero!
+DIH_BANKRUPT = ¡%s perdió todo su dinero!
+
+DI_MONEY = obtuvo DINERO
+DII_MONEY = ¡Ganaste %i$!
+DIH_MONEY = ¡%s ganó %i$!
+
+DI_OLD_MAN = se volvió un Anciano.
+DII_OLD_MAN = ¡Te volviste un Anciano!
+DII_OLD_MAN_OFF = ¡Puedes correr como una persona joven otra vez!
+DIH_OLD_MAN = ¡%s se volvió un Anciano!
+
+DI_JET_PLANE = ganó el modo Jet!
+DII_JET_PLANE = ¡Eres un Jet!
+DII_JET_PLANE_OFF = Ya no eres tan rápido como la velocidad del sonido.
+DIH_JET_PLANE = ¡%s ganó el modo Jet!
+
+DI_BOMBER = recibió un monton de Granadas Explosivas!
+DII_BOMBER = ¡Recibiste %i Granadas Explosivas!
+DIH_BOMBER = ¡%s recibió %i Granadas Explosivas!
+
+DI_LIGHTNING = le cayó un rayo!
+DII_LIGHTNING = ¡%i rayo(s) de acaban de caer!
+DIH_LIGHTNING = ¡A %s le cayeron %i rayo(s)!
+
+DI_DISCO = está de FIESTA
+DII_DISCO = ¡Bienvenido(a) al Club Disco!
+DII_DISCO_OFF = ¡Abandonaste el Club Disco!
+DIH_DISCO = ¡%s es un alocado miembro del Club Disco!
+
+DI_MADNESS = obtuvo la Manía de la UZI.
+DII_MADNESS = ¡Matalos a todos!
+DII_MADNESS_OFF = Te has calmado.
+DIH_MADNESS = ¡%s fue infectado con la Mania de la UZI!
+
+DI_SHADOW = ahora es invisible.
+DII_SHADOW = ¡Eres invisible!
+DII_SHADOW_OFF = ¡Ya no eres invisible!
+DIH_SHADOW = ¡%s es invisible!
+
+DI_NOCLIP = obtuvo NOCLIP.
+DII_NOCLIP = ¡Puedes atravezar las paredes!
+DII_NOCLIP_OFF = ¡Ya no puedes atravezar las paredes!
+DIH_NOCLIP = ¡%s cree que es un fantasma!
+
+DI_BURY = fue enterrado(a)
+DII_BURY = ¡Fuiste enterrado(a)!
+DII_BURY_OFF = ¡Ya eres libre!
+DIH_BURY = ¡%s fue enterrado(a)!
+
+DI_MOLE = se teletransportó a la Base Enemiga!
+DII_MOLE = ¡Bienvenido(a) a la Base Enemiga!
+DIH_MOLE = ¡%s se teletransportó a la Base Enemiga!
+
+DI_WILD_RIDE = está siendo azotado!
+DII_WILD_RIDE = ¡Tienes que encontrar un buen punto de aterrizaje!
+DII_WILD_RIDE_OFF = ¡Que tengas un buen viaje!
+DIH_WILD_RIDE = ¡%s está siendo azotado!
+
+DI_RANDOM_WEAPON = obtuvo un Arma al Azar.
+DII_RANDOM_WEAPON = ¡Diviertete con esta %s con %i balas!
+DIH_RANDOM_WEAPON = %s obtuvo un arma: %s (%i balas).
+
+DI_CAMERA = tiene su camara distorcionada
+DII_CAMERA = ¡Tu camara fue distorcionada!
+DII_CAMERA_OFF = ¡Tu camara volvió a la normalidad!
+DIH_CAMERA = ¡%s tiene su camara distorcionada!
+
+DI_DISARM = perdió todas sus armas
+DII_DISARM = ¡Perdiste todas tus armas!
+DIH_DISARM = ¡%s perdió todas sus armas!
+
+DI_TOXINS = tiene veneno en su sangre
+DII_TOXINS = ¡Tu sangre tiene veneno!
+DII_TOXINS_OFF = ¡Sobreviviste a tu envenenamiento!
+DIH_TOXINS = ¡%s tiene veneno en su sangre!

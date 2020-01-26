@@ -1,0 +1,10 @@
+Error:Failed to load dialog file Resource/UI/ClassMenu.res
+
+
+Function trace:
+CGameUI::Start
+CGameUI::Initialize
+CBaseUI::Start
+CBaseUI::Initialize
+Host_Init
+CFileSystem_Stdio::Mount()

@@ -1,0 +1,50 @@
+"AMX Ejaculate: WARNING! Sound file ^"%s^" doesn't exist on the server."
+fr:"Ejaculer AMX : ATTENTION ! Le fichier son ^"%s^" n'existe pas sur le serveur."
+
+"AMX Ejaculate"
+fr:"Ejaculer AMX"
+
+"- ejaculates on a dead body or anywhere"
+fr:"- ejacule sur un corps mort ou de partout"
+
+"- displays ejaculate help"
+fr:"- affiche l'aide pour ejaculer"
+
+"You are already in ejaculating."
+fr:"Vous etes deja en train d'ejaculer."
+
+"The plugin ^"AMX Ejaculate^" is disabled."
+fr:"Le plugin ^"Ejaculer AMX^" est inactif."
+
+"Only admins can ejaculate on a dead body."
+fr:"Seulement les admins peuvent ejaculer sur un corps mort."
+
+"Only admins can ejaculate."
+fr:"Seulement les admins peuvent ejaculer."
+
+"You can't ejaculate when you are dead."
+fr:"Vous ne pouvez pas ejaculer lorsque vous etes mort."
+
+"You can't ejaculate more than %d time(s) per each spawning."
+fr:"Vous ne pouvez pas ejaculer plus de %d fois par apparition."
+
+"Player ^"%s^" has immunity."
+fr:"Le joueur ^"%s^" a l'immunite."
+
+"%s Is Ejaculating On %s's Dead Body!! MuHaHaHaHa!!"
+fr:"%s Est En Train D'Ejaculer Sur Le Cadavre De %s !! MuHaHaHaHa !!"
+
+"There is no dead body around you."
+fr:"Il n'y a aucun corps mort autour de vous."
+
+"%s Is Ejaculating!"
+fr:"%s Est En Train D'Ejaculer !"
+
+"To ejaculate on a dead body or anywhere you have to bind a key to ^"ejaculate^"."
+fr:"Pour ejaculer sur un corps mort ou de partout il est conseille de binder une touche sur ^"ejaculate^"."
+
+"Open your console and write: bind ^"key^" ^"ejaculate^""
+fr:"Ouvrez votre console et ecrivez : bind ^"key^" ^"ejaculate^""
+
+"Example: bind ^"x^" ^"ejaculate^""
+fr:"Exemple : bind ^"x^" ^"ejaculate^""

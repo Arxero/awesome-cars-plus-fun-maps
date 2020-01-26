@@ -1,0 +1,79 @@
+[en]
+WALKGUARD_KILL_MESSAGE = you have entered a zone which is marked as cheat-zone
+WALKGUARD_CAMPING_INIT = -= camper-zone - some seconds left =-
+WALKGUARD_CAMPING_DAMG = -= camper-zone - you get damage =-
+WALKGUARD_CAMPING_TIME = -= camper-zone - %i seconds left =-
+ZONE_FILE_SAVED = zone-file saved to '%s'
+ZONE_FULL = zones are full, remove older or unused zones
+WGM_ZONE_FOUND = %s^n%i zones found
+WGM_ZONE_CURRENT_CAMP = %s (current %i -> '\d%s\w' [damage after '\d%i\w' seconds])
+WGM_ZONE_CURRENT_NONE = %s (current %i -> '\d%s\w')
+WGM_ZONE_EDIT = %s^n1 - edit current zone
+WGM_ZONE_CHANGE = %s^n      2 <- previous     3 -> next
+WGM_ZONE_CREATE = %s^n4 - create new zone
+WGM_ZONE_DELETE = %s^n6 - \rdelete\w current zone
+WGM_ZONE_SAVE = %s^n9 - save all zones
+WGM_ZONE_EXIT = %s^n0 - quit
+WGE_ZONE_CURRENT_CAMP = %s^n1 - change zone-mode -> '\d%s\w', damage after '\d%i\w' seconds
+WGE_ZONE_CURRENT_NONE = %s^n1 - change zone-mode -> '\d%s\w'
+WGE_ZONE_CURRENT_CHANGE = %s^n      2 <- less      3 -> more
+WGE_ZONE_SIZE_INIT = %s^n4 - change size over '\d%s\w'
+WGE_ZONE_SIZE_MINS = %s^n      \r5 <- strip       6 -> wider\w
+WGE_ZONE_SIZE_MAXS = %s^n      \y7 <- strip       8 -> wider\w
+WGE_ZONE_SIZE_STEP = %s^n      9 - increment \d%i\w units
+WGE_ZONE_SIZE_QUIT = %s^n0 - back
+TRANSLATE_X_KOORD = x-coordinates
+TRANSLATE_Y_KOORD = y-coordinates
+TRANSLATE_Z_KOORD = z-coordinates
+ZONE_MODE_NONE = no function
+ZONE_MODE_CAMPER = camper-zone
+ZONE_MODE_CAMPER_T1 = camper-zone for team 1 (e.g. terrorist)
+ZONE_MODE_CAMPER_T2 = camper-zone for team 2 (e.g. counter-terrorist)
+ZONE_MODE_BLOCKING = block all player
+ZONE_MODE_CHEATER = cheater-zone, kill
+ZONE_MODE_CHEATER_T1 = cheater-zone (team 1 [e.g. terrorist]), kill
+ZONE_MODE_CHEATER_T2 = cheater-zone (team 2 [e.g. counter-terrorist]), kill
+ZONE_KILL_INIT = \yATTENTION!\w Delete current zone?
+ZONE_KILL_ASK = %s^n^n^n1 - no^n^n0 - \ryes, delete\w
+ZONE_KILL_YES = zone deleted
+ZONE_KILL_NO = zone NOT deleted
+
+[de]
+WALKGUARD_KILL_MESSAGE = Du hast eine Zone erreicht die als Cheaten betrachtet wird
+WALKGUARD_CAMPING_INIT = -= Camper-Zone - einige Sekunden zum campen =-
+WALKGUARD_CAMPING_DAMG = -= Camper-Zone - hoer mit dem Camping auf! =-
+WALKGUARD_CAMPING_TIME = -= Camper-Zone - %i Sekunden uebrig =-
+ZONE_FILE_SAVED = gesichert nach '%s'
+ZONE_FULL = Zonen sind voll, alte Zonen loeschen oder zusammen fuehren
+WGM_ZONE_FOUND = %s^n%i Zonen gefunden
+WGM_ZONE_CURRENT_CAMP = %s (aktuell %i -> '\d%s\w' [Schaden nach '\d%i\w' Sekunden])
+WGM_ZONE_CURRENT_NONE = %s (aktuell %i -> '\d%s\w')
+WGM_ZONE_EDIT = %s^n1 - aktuelle Zone bearbeiten
+WGM_ZONE_CHANGE = %s^n      2 <- vorherige    3 -> naechste
+WGM_ZONE_CREATE = %s^n4 - neue Zone erstellen
+WGM_ZONE_DELETE = %s^n6 - aktuelle Zone \rloeschen\w
+WGM_ZONE_SAVE = %s^n9 - alle Zonen speichern
+WGM_ZONE_EXIT = %s^n0 - beenden
+WGE_ZONE_CURRENT_CAMP = %s^n1 - Zonen-Mode aendern -> '\d%s\w', Schaden nach '\d%i\w' Sekunden
+WGE_ZONE_CURRENT_NONE = %s^n1 - Zonen-Mode aendern -> '\d%s\w'
+WGE_ZONE_CURRENT_CHANGE = %s^n      2 <- weniger     3 -> mehr
+WGE_ZONE_SIZE_INIT = %s^n4 - Groesse aendern ueber '\d%s\w'
+WGE_ZONE_SIZE_MINS = %s^n      \r5 <- schmaler    6 -> breiter\w
+WGE_ZONE_SIZE_MAXS = %s^n      \y7 <- schmaler    8 -> breiter\w
+WGE_ZONE_SIZE_STEP = %s^n      9 - Schrittweite \d%i\w Einheiten
+WGE_ZONE_SIZE_QUIT = %s^n0 - zurueck
+TRANSLATE_X_KOORD = X-Koordinaten
+TRANSLATE_Y_KOORD = Y-Koordinaten
+TRANSLATE_Z_KOORD = Z-Koordinaten
+ZONE_MODE_NONE = ohne Funktion
+ZONE_MODE_CAMPER = Camper-Zone
+ZONE_MODE_CAMPER_T1 = Camper-Zone fuer Team 1 (z.B. Terroristen)
+ZONE_MODE_CAMPER_T2 = Camper-Zone fuer Team 2 (z.B. Antiterror-Einheit)
+ZONE_MODE_BLOCKING = alle Spieler blockieren
+ZONE_MODE_CHEATER = Cheater-Zone, kill
+ZONE_MODE_CHEATER_T1 = Cheater-Zone (Team 1 [z.B. Terroristen]), kill
+ZONE_MODE_CHEATER_T2 = Cheater-Zone (Team 2 [z.B. Antiterror-Einheit]), kill
+ZONE_KILL_INIT = \yACHTUNG!\w Die aktuelle Zone wirklich loeschen?
+ZONE_KILL_ASK = %s^n^n^n1 - nein^n^n0 - \rja, loeschen\w
+ZONE_KILL_YES = Zone wurde geloescht
+ZONE_KILL_NO = Zone wurde nicht geloescht

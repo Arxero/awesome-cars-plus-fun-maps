@@ -1,0 +1,87 @@
+[pl]
+SUCC_ADD = [Present] Prezent stworzony na koordynatach X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Present] Prezent usuniety. Zapisz teraz koordynaty za pomoca komendy !save
+SUCC_SAVE = [Present] Zapisano prezenty (%d) dla mapy %s!
+SUCC_ROTATE = [Present] Prezent obrocony. Teraz zapisz koordynaty za pomoca komendy !save
+SAVE_INFO = [Present] Teraz zapisz koordynaty za pomoca komendy !save
+LOCATION_UN = [Present] Sorry, nie mozesz tam stworzyc prezentu!
+PRESENT_AIM = [Present] Sorry, musisz nakierowac celownik na prezent!
+NO_PRESENT = [Present] Dla Ciebie nie ma prezentu, zly graczu!
+REMOVE_ALL = [Present] Usunieto %d prezentow z mapy!
+
+[en]
+SUCC_ADD = [Present] Succesfully created present at origins X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Present] Present succesfully removed. Now save the origins with command !save
+SUCC_SAVE = [Present] Successfuly saved all presents origins (%d) for map %s!
+SUCC_ROTATE = [Present] Successfuly, you rotated present! Now save the origins with command !save.
+SAVE_INFO = [Present] Now save the origins with command !save
+LOCATION_UN = [Present] Sorry, that location isn't avaiable!
+PRESENT_AIM = [Present] Sorry, you must aim at present!
+NO_PRESENT = [Present] No present for you :( !
+REMOVE_ALL = [Present] All %d presents removed!
+
+[nl]
+SUCC_ADD = [Cadeau] Het cadeau is succesvol gemaakt op de coördinaten X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Cadeau] Cadeau succesvol verwijderd. Slaag de coördinaten nu op met het commando !save
+SUCC_SAVE = [Cadeau] De coördinaten van alle cadeaus zijn succesvol opgeslagen (%d) voor de map %s!
+SUCC_ROTATE = [Cadeau] Je hebt een cadeau succesvol gedraait! Sla de coördinaten van dit cadeau nu op met het commando !save.
+SAVE_INFO = [Cadeau] Slaag de coördinaten van een cadeau op met het commando !save
+LOCATION_UN = [Cadeau] Sorry, die locatie is niet ter beschikking!
+PRESENT_AIM = [Cadeau] Sorry, je moet naar een cadeau richten!
+NO_PRESENT = [Cadeau] Geen cadeaus voor jouw !
+REMOVE_ALL = [Cadeau] Alle %d cadeau(s) verwijderd!
+
+[ru]
+SUCC_ADD = [Podarok] Sozdali Podarok na kordinatah X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Podarok] Podarok byl udalen. Sohranite podarki komandoj !save.
+SUCC_SAVE = [Podarok] Vy sohranili Podaroki (%d) dlja karty %s!
+SUCC_ROTATE = [Podarok] Vy povernuli Podarok! Sohranite podarki komandoj !save.
+SAVE_INFO = [Podarok] Sohranite podarki komandoj !save
+LOCATION_UN = [Podarok] Izvinite, no tam nel'zja pomestit' podarok!
+Podarok_AIM = [Podarok] Izvinite, no vy dolzhny navesti na podarok!
+NO_Podarok = [Podarok] Dlja vas podarka net :( !
+REMOVE_ALL = [Podarok] Vse %d Podarokov byli udaleny!
+
+[fin]
+SUCC_ADD = [Present] Loit lahjan onnistuneesti koordinaatteihin X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Present] Lahja poistettiin onnistuneesti. Nyt tallenna kordinaatit komennolla !save
+SUCC_SAVE = [Present] Tallensit onnistuneesti kaikki koordinaatit (%d) kentassa %s!
+SUCC_ROTATE = [Present] Kaansit lahjan onnistuneesti! Nyt tallenna koordinaatit komennolla !save.
+SAVE_INFO = [Present] Tallenna koordinaatit komennolla !save
+LOCATION_UN = [Present] Et voi luoda lahjaa tuohon!
+PRESENT_AIM = [Present] Sinun pitaa tahdata lahjaa!
+NO_PRESENT = [Present] Ei lahjaa sinulle :( !
+REMOVE_ALL = [Present] Kaikki %d lahjaa poistettu!
+
+[es]
+SUCC_ADD = [Present] Succesfully created present at origins X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Present] Present succesfully removed. Now save the origins with command !save
+SUCC_SAVE = [Present] Se guardaron correctamente todos los regalos (%d) en el mapa%s!
+SUCC_ROTATE = [Present] Rotaste el regalo! Ahora guarda los regalos con el comando !save.
+SAVE_INFO = [Present] Guarda los regalos con el comando !save
+LOCATION_UN = [Present] Ese lugar no esta disponible!
+PRESENT_AIM = [Present] Tenes que apuntar al regalo!
+NO_PRESENT = [Present] No hay regalos para vos !
+REMOVE_ALL = [Present] Todos los regalos %d fueron removidos!
+
+[bp]
+SUCC_ADD = [Presente] Presente criado com sucesso no local X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Presente] Presente removido com sucesso. Salve agora o local com o comando !save
+SUCC_SAVE = [Presente] Foram salvos com sucesso %d presentes no mapa %s!
+SUCC_ROTATE = [Presente] Sucesso, voce girou o presente! Salve agora o local com o comando !save.
+SAVE_INFO = [Presente] Salve agora o local com o comando !save
+LOCATION_UN = [Presente] Desculpe, esta localizao nao esta disponivel!
+PRESENT_AIM = [Presente] Desculpe, voce deve apontar um presente!
+NO_PRESENT = [Presente] Nao tem presente para voce :( !
+REMOVE_ALL = [Presente] Numero de presentes removidos: %d
+
+[ro]
+SUCC_ADD = [Cadou] Cadou a fost creat cu succes la origine X:%d, Y:%d, Z:%d!
+SUCC_REMOVE = [Cadou] Cadou a fost sters. Acum salveaza originile prin comanda !save.
+SUCC_SAVE = [Cadou] Originile a fost salvate cu succes (%d) pentru harta %s!
+SUCC_ROTATE = [Cadou] Ai rotit cadoul cu succes! Acum salveaza originile prin comanda !save.
+SAVE_INFO = [Cadou] Acum salveaza originile prin comanda !save
+LOCATION_UN = [Cadou] Scuze, acea locatie este incorecta!
+PRESENT_AIM = [Cadou Scuze, trebuie sa tintesti cadourile!
+NO_PRESENT = [Cadou] Nici un cadou pentru tine !
+REMOVE_ALL = [Cadou] Toate cele %d cadouri au fost sterse!

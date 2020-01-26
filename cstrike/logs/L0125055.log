@@ -1,0 +1,410 @@
+L 01/25/2020 - 17:46:00: Log file started (file "logs/L0125055.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/25/2020 - 17:46:00: Loading map "crazytank"
+L 01/25/2020 - 17:46:00: Server cvars start
+L 01/25/2020 - 17:46:00: Server cvar "@BunnyHopper" = "3.x"
+L 01/25/2020 - 17:46:00: Server cvar "@CRXGoSpec" = "1.1"
+L 01/25/2020 - 17:46:00: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "@D.I.C.E." = "1.1"
+L 01/25/2020 - 17:46:00: Server cvar "@MOTDCommands" = "1.2"
+L 01/25/2020 - 17:46:00: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/25/2020 - 17:46:00: Server cvar "AdvancedMute" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "aesp_version" = "1.3"
+L 01/25/2020 - 17:46:00: Server cvar "allow_spectators" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "amx_client_languages" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "amx_language" = "en"
+L 01/25/2020 - 17:46:00: Server cvar "amx_nextmap" = "crazytank"
+L 01/25/2020 - 17:46:00: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/25/2020 - 17:46:00: Server cvar "amx_timeleft" = "11:17"
+L 01/25/2020 - 17:46:00: Server cvar "amxmodx_version" = "1.8.2"
+L 01/25/2020 - 17:46:00: Server cvar "amxxbg_vip" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "asp_version" = "4.5.1"
+L 01/25/2020 - 17:46:00: Server cvar "atac_version" = "3.0.1"
+L 01/25/2020 - 17:46:00: Server cvar "badcamper_version" = "1.4 beta"
+L 01/25/2020 - 17:46:00: Server cvar "blockmaker" = "4.01"
+L 01/25/2020 - 17:46:00: Server cvar "c4 timer" = "1.1"
+L 01/25/2020 - 17:46:00: Server cvar "coop" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "CRXAdminGroups" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "CRXFastKnife" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "CRXGametracker" = "2.0"
+L 01/25/2020 - 17:46:00: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/25/2020 - 17:46:00: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "CustomShop" = "4.2"
+L 01/25/2020 - 17:46:00: Server cvar "deathmatch" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "decalfrequency" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "edgefriction" = "2"
+L 01/25/2020 - 17:46:00: Server cvar "ers_version" = "2.3c"
+L 01/25/2020 - 17:46:00: Server cvar "gagsystem_shoko" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/25/2020 - 17:46:00: Server cvar "gal_version" = "v5.9.1-926"
+L 01/25/2020 - 17:46:00: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/25/2020 - 17:46:00: Server cvar "humans_join_team" = "any"
+L 01/25/2020 - 17:46:00: Server cvar "jtp10181" = "chute,gore"
+L 01/25/2020 - 17:46:00: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/25/2020 - 17:46:00: Server cvar "LetitSnow" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/25/2020 - 17:46:00: Server cvar "max_queries_sec" = "3"
+L 01/25/2020 - 17:46:00: Server cvar "max_queries_sec_global" = "150"
+L 01/25/2020 - 17:46:00: Server cvar "max_queries_window" = "60"
+L 01/25/2020 - 17:46:00: Server cvar "mdbBans" = "4.8"
+L 01/25/2020 - 17:46:00: Server cvar "metamod_version" = "1.21p37"
+L 01/25/2020 - 17:46:00: Server cvar "mp_autokick" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_autokick_timeout" = "-1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_autoteambalance" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_buytime" = "0.25"
+L 01/25/2020 - 17:46:00: Server cvar "mp_c4timer" = "35"
+L 01/25/2020 - 17:46:00: Server cvar "mp_chattime" = "10.000000"
+L 01/25/2020 - 17:46:00: Server cvar "mp_consistency" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_fadetoblack" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_flashlight" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_footsteps" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_forcecamera" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_forcechasecam" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_forcerespawn" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_fraglimit" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_fragsleft" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_freeforall" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_freezetime" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_friendlyfire" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_hostage_hurtable" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_hostagepenalty" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_item_staytime" = "300"
+L 01/25/2020 - 17:46:00: Server cvar "mp_kickpercent" = "0.66"
+L 01/25/2020 - 17:46:00: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_limitteams" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_logdetail" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_logfile" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_logmessages" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/25/2020 - 17:46:00: Server cvar "mp_maxmoney" = "999999"
+L 01/25/2020 - 17:46:00: Server cvar "mp_maxrounds" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_mirrordamage" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_playerid" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_round_infinite" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_round_restart_delay" = "5"
+L 01/25/2020 - 17:46:00: Server cvar "mp_roundover" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_roundtime" = "2.3"
+L 01/25/2020 - 17:46:00: Server cvar "mp_show_radioicon" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_startmoney" = "850"
+L 01/25/2020 - 17:46:00: Server cvar "mp_timeleft" = "11:17"
+L 01/25/2020 - 17:46:00: Server cvar "mp_timelimit" = "20"
+L 01/25/2020 - 17:46:00: Server cvar "mp_tkpunish" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "mp_windifference" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "mp_winlimit" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/25/2020 - 17:46:00: Server cvar "pausable" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "present_version" = "2.01"
+L 01/25/2020 - 17:46:00: Server cvar "RandomHP" = "2.2"
+L 01/25/2020 - 17:46:00: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/25/2020 - 17:46:00: Server cvar "reconnect_features" = "0.3.1"
+L 01/25/2020 - 17:46:00: Server cvar "report_system_version" = "3.1"
+L 01/25/2020 - 17:46:00: Server cvar "resemiclip_version" = "2.3.9"
+L 01/25/2020 - 17:46:00: Server cvar "reu_version" = "0.1.0.130"
+L 01/25/2020 - 17:46:00: Server cvar "revoice_version" = "0.1.0.30"
+L 01/25/2020 - 17:46:00: Server cvar "RRWM" = "2.0"
+L 01/25/2020 - 17:46:00: Server cvar "sanksounds_version" = "1.8.6"
+L 01/25/2020 - 17:46:00: Server cvar "SimpleMenu" = "1.1"
+L 01/25/2020 - 17:46:00: Server cvar "SNAC_Version" = "1.1"
+L 01/25/2020 - 17:46:00: Server cvar "SpecList" = "1.2a"
+L 01/25/2020 - 17:46:00: Server cvar "sr_version" = "1.6"
+L 01/25/2020 - 17:46:00: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/25/2020 - 17:46:00: Server cvar "StyleC4Timer" = "2.1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_accelerate" = "5"
+L 01/25/2020 - 17:46:00: Server cvar "sv_aim" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_airaccelerate" = "100"
+L 01/25/2020 - 17:46:00: Server cvar "sv_allowupload" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_alltalk" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_bounce" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_cheats" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "sv_clienttrace" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/25/2020 - 17:46:00: Server cvar "sv_friction" = "4"
+L 01/25/2020 - 17:46:00: Server cvar "sv_gravity" = "800"
+L 01/25/2020 - 17:46:00: Server cvar "sv_logblocks" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "sv_maxrate" = "50000"
+L 01/25/2020 - 17:46:00: Server cvar "sv_maxspeed" = "900.000000"
+L 01/25/2020 - 17:46:00: Server cvar "sv_minrate" = "10000"
+L 01/25/2020 - 17:46:00: Server cvar "sv_password" = ""
+L 01/25/2020 - 17:46:00: Server cvar "sv_proxies" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_restart" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "sv_restartround" = "0"
+L 01/25/2020 - 17:46:00: Server cvar "sv_stepsize" = "18"
+L 01/25/2020 - 17:46:00: Server cvar "sv_stopspeed" = "75"
+L 01/25/2020 - 17:46:00: Server cvar "sv_uploadmax" = "0.5"
+L 01/25/2020 - 17:46:00: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/25/2020 - 17:46:00: Server cvar "sv_voiceenable" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "sv_wateraccelerate" = "10"
+L 01/25/2020 - 17:46:00: Server cvar "sv_waterfriction" = "1"
+L 01/25/2020 - 17:46:00: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/25/2020 - 17:46:00: Server cvar "vehicle_real_killer" = "1.1"
+L 01/25/2020 - 17:46:00: Server cvar "WalkGuard" = "1.3.2"
+L 01/25/2020 - 17:46:00: Server cvar "we_grenades" = "Huehue"
+L 01/25/2020 - 17:46:00: Server cvar "we_player_models" = "Huehue"
+L 01/25/2020 - 17:46:00: Server cvar "whb_version" = "1.5.692"
+L 01/25/2020 - 17:46:00: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/25/2020 - 17:46:00: Server cvars end
+L 01/25/2020 - 17:46:00: Server cvar "sv_maxspeed" = "900"
+L 01/25/2020 - 17:46:00: Server cvar "mp_autoteambalance" = "1"
+L 01/25/2020 - 17:46:01: Server cvar "models_menu" = "1.2"
+L 01/25/2020 - 17:46:01: Server cvar "mp_autoteambalance" = "0"
+L 01/25/2020 - 17:46:01: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/25/2020 - 17:46:02: Started map "crazytank" (CRC "1544341285")
+L 01/25/2020 - 17:46:04: World triggered "Round_Start"
+L 01/25/2020 - 17:46:06: "Maverick<13><STEAM_0:0:37264973><>" entered the game
+L 01/25/2020 - 17:46:07: "jesse_pinkman<22><STEAM_0:1:526796648><>" connected, address "91.148.164.81:27005"
+L 01/25/2020 - 17:46:07: "jesse_pinkman<22><STEAM_0:1:526796648><>" STEAM USERID validated
+L 01/25/2020 - 17:46:10: "jesse_pinkman<22><STEAM_0:1:526796648><>" entered the game
+L 01/25/2020 - 17:46:11: [REUNION]: XxXgeorgiXxx :) (93.155.192.142) authorized as NoSteam47
+L 01/25/2020 - 17:46:11: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><>" connected, address "93.155.192.142:27005"
+L 01/25/2020 - 17:46:12: "jesse_pinkman<22><STEAM_0:1:526796648><>" joined team "TERRORIST"
+L 01/25/2020 - 17:46:19: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><>" entered the game
+L 01/25/2020 - 17:46:20: "Maverick<13><STEAM_0:0:37264973><>" joined team "CT"
+L 01/25/2020 - 17:46:20: World triggered "Game_Commencing"
+L 01/25/2020 - 17:46:20: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/25/2020 - 17:46:20: World triggered "Round_End"
+L 01/25/2020 - 17:46:22: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 01/25/2020 - 17:46:22: [REUNION]: .＃TrueGaming l $cotty (77.29.165.119) authorized as RevEmu
+L 01/25/2020 - 17:46:22: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><>" connected, address "77.29.165.119:27005"
+L 01/25/2020 - 17:46:24: World triggered "Round_Start"
+L 01/25/2020 - 17:46:26: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><>" entered the game
+L 01/25/2020 - 17:46:28: [REUNION]: cala221 (87.245.69.13) authorized as RevEmu
+L 01/25/2020 - 17:46:28: "cala221<25><STEAM_1:1:110586922><>" connected, address "87.245.69.13:27005"
+L 01/25/2020 - 17:46:28: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><>" joined team "TERRORIST"
+L 01/25/2020 - 17:46:32: [REUNION]: .＃TrueGaming l MoWa (79.126.230.144) authorized as RevEmu
+L 01/25/2020 - 17:46:32: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><>" connected, address "79.126.230.144:27005"
+L 01/25/2020 - 17:46:32: "cala221<25><STEAM_1:1:110586922><>" entered the game
+L 01/25/2020 - 17:46:37: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><>" entered the game
+L 01/25/2020 - 17:46:38: [REUNION]: Florin (86.122.79.1) authorized as RevEmu
+L 01/25/2020 - 17:46:38: "Florin<27><STEAM_1:1:464508280><>" connected, address "86.122.79.1:27005"
+L 01/25/2020 - 17:46:42: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><>" joined team "CT"
+L 01/25/2020 - 17:46:42: "Florin<27><STEAM_1:1:464508280><>" entered the game
+L 01/25/2020 - 17:46:48: "Florin<27><STEAM_1:1:464508280><>" joined team "CT"
+L 01/25/2020 - 17:47:07: [REUNION]: lol (176.122.114.213) authorized as RevEmu
+L 01/25/2020 - 17:47:07: "lol<28><STEAM_2:0:1214014100><>" connected, address "176.122.114.213:27005"
+L 01/25/2020 - 17:47:07: "jesse_pinkman<22><STEAM_0:1:526796648><TERRORIST>" killed "Maverick<13><STEAM_0:0:37264973><CT>" with "deagle"
+L 01/25/2020 - 17:47:15: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "deagle"
+L 01/25/2020 - 17:47:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/25/2020 - 17:47:15: World triggered "Round_End"
+L 01/25/2020 - 17:47:21: World triggered "Round_Start"
+L 01/25/2020 - 17:47:29: "cala221<25><STEAM_1:1:110586922><>" joined team "SPECTATOR"
+L 01/25/2020 - 17:47:39: [REUNION]: lol (176.122.114.213) authorized as RevEmu
+L 01/25/2020 - 17:47:39: "lol<29><STEAM_2:0:1214014100><>" connected, address "176.122.114.213:27005"
+L 01/25/2020 - 17:47:42: "cala221<25><STEAM_1:1:110586922><SPECTATOR>" joined team "CT"
+L 01/25/2020 - 17:47:48: "lol<29><STEAM_2:0:1214014100><>" entered the game
+L 01/25/2020 - 17:47:59: "lol<29><STEAM_2:0:1214014100><>" joined team "CT"
+L 01/25/2020 - 17:48:03: "jesse_pinkman<22><STEAM_0:1:526796648><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "ak47"
+L 01/25/2020 - 17:48:11: "lol<29><STEAM_2:0:1214014100><CT>" disconnected
+L 01/25/2020 - 17:48:11: [REUNION]: lol (176.122.114.213) authorized as RevEmu
+L 01/25/2020 - 17:48:11: "lol<30><STEAM_2:0:1214014100><>" connected, address "176.122.114.213:27005"
+L 01/25/2020 - 17:48:11: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "ak47"
+L 01/25/2020 - 17:48:15: "lol<30><STEAM_2:0:1214014100><>" entered the game
+L 01/25/2020 - 17:48:20: "lol<30><STEAM_2:0:1214014100><>" joined team "TERRORIST"
+L 01/25/2020 - 17:49:17: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><TERRORIST>" killed "Maverick<13><STEAM_0:0:37264973><CT>" with "sg552"
+L 01/25/2020 - 17:49:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 01/25/2020 - 17:49:17: World triggered "Round_End"
+L 01/25/2020 - 17:49:22: "jesse_pinkman<22><STEAM_0:1:526796648><TERRORIST>" joined team "CT"
+L 01/25/2020 - 17:49:22: "<><><>" triggered "amx_chat" (text "[PTB] Transfered jesse_pinkman to CT")
+L 01/25/2020 - 17:49:23: World triggered "Round_Start"
+L 01/25/2020 - 17:49:51: "lol<30><STEAM_2:0:1214014100><TERRORIST>" committed suicide with "tracktrain"
+L 01/25/2020 - 17:50:07: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "ak47"
+L 01/25/2020 - 17:50:12: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "sg552"
+L 01/25/2020 - 17:50:20: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" with "ak47"
+L 01/25/2020 - 17:50:29: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><TERRORIST>" with "ak47"
+L 01/25/2020 - 17:50:29: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 01/25/2020 - 17:50:29: World triggered "Round_End"
+L 01/25/2020 - 17:50:35: World triggered "Round_Start"
+L 01/25/2020 - 17:50:39: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><TERRORIST>" killed "lol<30><STEAM_2:0:1214014100><TERRORIST>" with "tracktrain"
+L 01/25/2020 - 17:50:45: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><TERRORIST>" committed suicide with "world"
+L 01/25/2020 - 17:51:01: "Lady marmalade<31><STEAM_0:0:93225415><>" connected, address "213.214.68.136:27005"
+L 01/25/2020 - 17:51:02: "Lady marmalade<31><STEAM_0:0:93225415><>" STEAM USERID validated
+L 01/25/2020 - 17:51:10: "Lady marmalade<32><STEAM_0:0:93225415><>" connected, address "213.214.68.136:27005"
+L 01/25/2020 - 17:51:11: "Lady marmalade<32><STEAM_0:0:93225415><>" STEAM USERID validated
+L 01/25/2020 - 17:51:19: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "deagle"
+L 01/25/2020 - 17:51:24: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "g3sg1"
+L 01/25/2020 - 17:51:26: Kick: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 01/25/2020 - 17:51:27: ".＃TrueGaming l $cotty<24><STEAM_1:1:794573339><TERRORIST>" disconnected
+L 01/25/2020 - 17:51:30: [REUNION]: .＃TrueGaming l $cotty (77.29.165.119) authorized as RevEmu
+L 01/25/2020 - 17:51:30: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><>" connected, address "77.29.165.119:27005"
+L 01/25/2020 - 17:51:32: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "g3sg1"
+L 01/25/2020 - 17:51:33: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><>" entered the game
+L 01/25/2020 - 17:51:36: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Touched_A_Hostage"
+L 01/25/2020 - 17:51:36: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Rescued_A_Hostage"
+L 01/25/2020 - 17:51:36: Team "CT" triggered "All_Hostages_Rescued" (CT "2") (T "2")
+L 01/25/2020 - 17:51:36: World triggered "Round_End"
+L 01/25/2020 - 17:51:36: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><>" joined team "TERRORIST"
+L 01/25/2020 - 17:51:42: World triggered "Round_Start"
+L 01/25/2020 - 17:51:43: "Lady marmalade<32><STEAM_0:0:93225415><>" entered the game
+L 01/25/2020 - 17:51:55: "Lady marmalade<32><STEAM_0:0:93225415><>" joined team "TERRORIST"
+L 01/25/2020 - 17:52:26: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "fiveseven"
+L 01/25/2020 - 17:52:31: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "fiveseven"
+L 01/25/2020 - 17:52:41: "Florin<27><STEAM_1:1:464508280><CT>" killed ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><TERRORIST>" with "fiveseven"
+L 01/25/2020 - 17:52:45: "cala221<25><STEAM_1:1:110586922><CT>" killed "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" with "scout"
+L 01/25/2020 - 17:52:53: "cala221<25><STEAM_1:1:110586922><CT>" killed "lol<30><STEAM_2:0:1214014100><TERRORIST>" with "scout"
+L 01/25/2020 - 17:52:55: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "Maverick<13><STEAM_0:0:37264973><CT>" with "fiveseven"
+L 01/25/2020 - 17:53:13: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Touched_A_Hostage"
+L 01/25/2020 - 17:53:13: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Rescued_A_Hostage"
+L 01/25/2020 - 17:53:13: Team "CT" triggered "All_Hostages_Rescued" (CT "3") (T "2")
+L 01/25/2020 - 17:53:13: World triggered "Round_End"
+L 01/25/2020 - 17:53:19: World triggered "Round_Start"
+L 01/25/2020 - 17:53:55: "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" killed "Maverick<13><STEAM_0:0:37264973><CT>" with "ak47"
+L 01/25/2020 - 17:53:56: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:54:10: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "sg552"
+L 01/25/2020 - 17:54:12: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed "lol<30><STEAM_2:0:1214014100><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:54:12: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "sg552"
+L 01/25/2020 - 17:54:12: "Florin<27><STEAM_1:1:464508280><CT>" committed suicide with "tracktrain"
+L 01/25/2020 - 17:54:17: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Touched_A_Hostage"
+L 01/25/2020 - 17:54:17: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Rescued_A_Hostage"
+L 01/25/2020 - 17:54:17: Team "CT" triggered "All_Hostages_Rescued" (CT "4") (T "2")
+L 01/25/2020 - 17:54:17: World triggered "Round_End"
+L 01/25/2020 - 17:54:22: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "cala221<25><STEAM_1:1:110586922><CT>" with "fiveseven"
+L 01/25/2020 - 17:54:22: Kick: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 01/25/2020 - 17:54:22: ".＃TrueGaming l $cotty<33><STEAM_1:1:794573339><TERRORIST>" disconnected
+L 01/25/2020 - 17:54:23: World triggered "Round_Start"
+L 01/25/2020 - 17:54:25: [REUNION]: .＃TrueGaming l $cotty (77.29.165.119) authorized as RevEmu
+L 01/25/2020 - 17:54:25: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><>" connected, address "77.29.165.119:27005"
+L 01/25/2020 - 17:54:28: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><>" entered the game
+L 01/25/2020 - 17:54:30: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><>" joined team "TERRORIST"
+L 01/25/2020 - 17:55:00: "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" killed "cala221<25><STEAM_1:1:110586922><CT>" with "ak47"
+L 01/25/2020 - 17:55:15: "Maverick<13><STEAM_0:0:37264973><CT>" committed suicide with "world"
+L 01/25/2020 - 17:55:16: "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "ak47"
+L 01/25/2020 - 17:55:30: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "ak47"
+L 01/25/2020 - 17:55:43: "lol<30><STEAM_2:0:1214014100><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "ak47"
+L 01/25/2020 - 17:55:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 01/25/2020 - 17:55:43: World triggered "Round_End"
+L 01/25/2020 - 17:55:48: "lol<30><STEAM_2:0:1214014100><TERRORIST>" joined team "CT"
+L 01/25/2020 - 17:55:48: "<><><>" triggered "amx_chat" (text "[PTB] Transfered lol to CT")
+L 01/25/2020 - 17:55:49: World triggered "Round_Start"
+L 01/25/2020 - 17:56:21: "cala221<25><STEAM_1:1:110586922><CT>" killed "lol<30><STEAM_2:0:1214014100><CT>" with "tracktrain"
+L 01/25/2020 - 17:56:26: "cala221<25><STEAM_1:1:110586922><CT>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "tracktrain"
+L 01/25/2020 - 17:56:30: "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" killed "Maverick<13><STEAM_0:0:37264973><CT>" with "ak47"
+L 01/25/2020 - 17:56:31: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "ak47"
+L 01/25/2020 - 17:56:33: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "ak47"
+L 01/25/2020 - 17:56:39: "cala221<25><STEAM_1:1:110586922><CT>" killed "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" with "usp"
+L 01/25/2020 - 17:56:40: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "cala221<25><STEAM_1:1:110586922><CT>" with "ak47"
+L 01/25/2020 - 17:56:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 01/25/2020 - 17:56:40: World triggered "Round_End"
+L 01/25/2020 - 17:56:44: "Maverick<13><STEAM_0:0:37264973><CT>" joined team "TERRORIST"
+L 01/25/2020 - 17:56:44: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to TERRORIST")
+L 01/25/2020 - 17:56:44: "Lady marmalade<32><STEAM_0:0:93225415><TERRORIST>" joined team "CT"
+L 01/25/2020 - 17:56:44: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Lady marmalade to CT")
+L 01/25/2020 - 17:56:46: World triggered "Round_Start"
+L 01/25/2020 - 17:57:27: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:57:31: "Lady marmalade<32><STEAM_0:0:93225415><CT>" killed ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:57:38: "lol<30><STEAM_2:0:1214014100><CT>" committed suicide with "world"
+L 01/25/2020 - 17:57:43: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Touched_A_Hostage"
+L 01/25/2020 - 17:57:43: "cala221<25><STEAM_1:1:110586922><CT>" triggered "Rescued_A_Hostage"
+L 01/25/2020 - 17:57:43: Team "CT" triggered "All_Hostages_Rescued" (CT "5") (T "4")
+L 01/25/2020 - 17:57:43: World triggered "Round_End"
+L 01/25/2020 - 17:57:43: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed "Maverick<13><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:57:49: World triggered "Round_Start"
+L 01/25/2020 - 17:58:30: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed "Maverick<13><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:58:34: "Florin<27><STEAM_1:1:464508280><CT>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/25/2020 - 17:58:48: "cala221<25><STEAM_1:1:110586922><CT>" killed ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" with "awp"
+L 01/25/2020 - 17:58:48: Team "CT" triggered "CTs_Win" (CT "6") (T "4")
+L 01/25/2020 - 17:58:48: World triggered "Round_End"
+L 01/25/2020 - 17:58:52: "cala221<25><STEAM_1:1:110586922><CT>" joined team "TERRORIST"
+L 01/25/2020 - 17:58:52: "<><><>" triggered "amx_chat" (text "[PTB] Transfered cala221 to TERRORIST")
+L 01/25/2020 - 17:58:54: World triggered "Round_Start"
+L 01/25/2020 - 17:59:21: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed "cala221<25><STEAM_1:1:110586922><TERRORIST>" with "awp"
+L 01/25/2020 - 17:59:29: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "Lady marmalade<32><STEAM_0:0:93225415><CT>" with "g3sg1"
+L 01/25/2020 - 17:59:29: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "sg552"
+L 01/25/2020 - 17:59:30: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "g3sg1"
+L 01/25/2020 - 17:59:32: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "g3sg1"
+L 01/25/2020 - 17:59:41: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "lol<30><STEAM_2:0:1214014100><CT>" with "sg552"
+L 01/25/2020 - 17:59:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "5")
+L 01/25/2020 - 17:59:41: World triggered "Round_End"
+L 01/25/2020 - 17:59:47: World triggered "Round_Start"
+L 01/25/2020 - 18:00:00: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" with "tracktrain"
+L 01/25/2020 - 18:00:00: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" committed suicide with "tracktrain"
+L 01/25/2020 - 18:00:11: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "awp"
+L 01/25/2020 - 18:00:22: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed "cala221<25><STEAM_1:1:110586922><TERRORIST>" with "m4a1"
+L 01/25/2020 - 18:00:35: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed "Maverick<13><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 01/25/2020 - 18:00:35: Team "CT" triggered "CTs_Win" (CT "7") (T "5")
+L 01/25/2020 - 18:00:35: World triggered "Round_End"
+L 01/25/2020 - 18:00:41: World triggered "Round_Start"
+L 01/25/2020 - 18:00:49: "Lady marmalade<32><STEAM_0:0:93225415><CT>" disconnected
+L 01/25/2020 - 18:01:11: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "ak47"
+L 01/25/2020 - 18:01:11: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "lol<30><STEAM_2:0:1214014100><CT>" with "sg552"
+L 01/25/2020 - 18:01:14: "Florin<27><STEAM_1:1:464508280><CT>" killed "Maverick<13><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 01/25/2020 - 18:01:23: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/25/2020 - 18:01:25: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "sg552"
+L 01/25/2020 - 18:01:56: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "ak47"
+L 01/25/2020 - 18:01:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "6")
+L 01/25/2020 - 18:01:56: World triggered "Round_End"
+L 01/25/2020 - 18:02:00: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/25/2020 - 18:02:00: "<><><>" triggered "amx_chat" (text "[PTB] Transfered XxXgeorgiXxx :) to CT")
+L 01/25/2020 - 18:02:02: World triggered "Round_Start"
+L 01/25/2020 - 18:02:36: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><CT>" with "ak47"
+L 01/25/2020 - 18:02:38: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "sg552"
+L 01/25/2020 - 18:02:38: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "Florin<27><STEAM_1:1:464508280><CT>" with "ak47"
+L 01/25/2020 - 18:02:38: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 01/25/2020 - 18:02:50: "Maverick<13><STEAM_0:0:37264973><TERRORIST>" committed suicide with "world"
+L 01/25/2020 - 18:02:51: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" with "m4a1"
+L 01/25/2020 - 18:03:17: [REUNION]: DzIBy (178.223.102.81) authorized as RevEmu
+L 01/25/2020 - 18:03:17: "DzIBy<35><STEAM_1:0:1326514608><>" connected, address "178.223.102.81:27005"
+L 01/25/2020 - 18:03:22: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "lol<30><STEAM_2:0:1214014100><CT>" with "ak47"
+L 01/25/2020 - 18:03:25: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" with "ak47"
+L 01/25/2020 - 18:03:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 01/25/2020 - 18:03:25: World triggered "Round_End"
+L 01/25/2020 - 18:03:30: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><TERRORIST>" joined team "CT"
+L 01/25/2020 - 18:03:30: "<><><>" triggered "amx_chat" (text "[PTB] Transfered .＃TrueGaming l $cotty to CT")
+L 01/25/2020 - 18:03:31: World triggered "Round_Start"
+L 01/25/2020 - 18:03:43: Server cvar "amx_nextmap" = "awesome_cars"
+L 01/25/2020 - 18:03:51: [REUNION]: DzIBy (178.223.102.81) authorized as RevEmu
+L 01/25/2020 - 18:03:51: "DzIBy<36><STEAM_1:0:1326514608><>" connected, address "178.223.102.81:27005"
+L 01/25/2020 - 18:04:01: "DzIBy<36><STEAM_1:0:1326514608><>" entered the game
+L 01/25/2020 - 18:04:07: "DzIBy<36><STEAM_1:0:1326514608><>" joined team "CT"
+L 01/25/2020 - 18:04:14: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "ak47"
+L 01/25/2020 - 18:04:23: "Maverick<13><STEAM_0:0:37264973><TERRORIST>" committed suicide with "world"
+L 01/25/2020 - 18:04:42: "Florin<27><STEAM_1:1:464508280><CT>" committed suicide with "world"
+L 01/25/2020 - 18:04:49: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "lol<30><STEAM_2:0:1214014100><CT>" with "ak47"
+L 01/25/2020 - 18:04:53: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed "cala221<25><STEAM_1:1:110586922><TERRORIST>" with "m4a1"
+L 01/25/2020 - 18:05:00: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><CT>" triggered "Touched_A_Hostage"
+L 01/25/2020 - 18:05:00: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><CT>" triggered "Rescued_A_Hostage"
+L 01/25/2020 - 18:05:00: Team "CT" triggered "All_Hostages_Rescued" (CT "8") (T "7")
+L 01/25/2020 - 18:05:00: World triggered "Round_End"
+L 01/25/2020 - 18:05:06: World triggered "Round_Start"
+L 01/25/2020 - 18:05:06: Server cvar "sv_maxspeed" = "0.000000"
+L 01/25/2020 - 18:05:06: Server cvar "mp_friendlyfire" = "1"
+L 01/25/2020 - 18:05:11: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><CT>" killed "lol<30><STEAM_2:0:1214014100><CT>" with "awp"
+L 01/25/2020 - 18:05:12: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" killed "jesse_pinkman<22><STEAM_0:1:526796648><CT>" with "awp"
+L 01/25/2020 - 18:05:12: "cala221<25><STEAM_1:1:110586922><TERRORIST>" killed "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" with "awp"
+L 01/25/2020 - 18:05:13: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><CT>" killed "DzIBy<36><STEAM_1:0:1326514608><CT>" with "awp"
+L 01/25/2020 - 18:05:14: "cala221<25><STEAM_1:1:110586922><TERRORIST>" committed suicide with "world"
+L 01/25/2020 - 18:05:15: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" committed suicide with "world"
+L 01/25/2020 - 18:05:18: Server cvar "sv_maxspeed" = "900.000000"
+L 01/25/2020 - 18:05:18: Server cvar "mp_friendlyfire" = "0"
+L 01/25/2020 - 18:05:18: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: AMX Mod X
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: Reunion
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: ReAuthCheck
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: WHBlocker
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: ReSemiclip
+L 01/25/2020 - 18:05:18: [META] ini: Read plugin config for: Revoice
+L 01/25/2020 - 18:05:18: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/25/2020 - 18:05:18: [META] dll: Updating plugins...
+L 01/25/2020 - 18:05:18: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/25/2020 - 18:05:18: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/25/2020 - 18:05:18: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/25/2020 - 18:05:18: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/25/2020 - 18:05:18: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/25/2020 - 18:05:18: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/25/2020 - 18:05:18: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/25/2020 - 18:05:18: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/25/2020 - 18:05:18: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/25/2020 - 18:05:18: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/25/2020 - 18:05:18: "jesse_pinkman<22><STEAM_0:1:526796648><CT>" disconnected
+L 01/25/2020 - 18:05:18: "Maverick<13><STEAM_0:0:37264973><TERRORIST>" disconnected
+L 01/25/2020 - 18:05:18: Team "CT" triggered "CTs_Win" (CT "9") (T "7")
+L 01/25/2020 - 18:05:18: World triggered "Round_End"
+L 01/25/2020 - 18:05:18: ".＃TrueGaming l MoWa<26><STEAM_1:0:1304638082><CT>" disconnected
+L 01/25/2020 - 18:05:18: "Florin<27><STEAM_1:1:464508280><CT>" disconnected
+L 01/25/2020 - 18:05:18: ".＃TrueGaming l $cotty<34><STEAM_1:1:794573339><CT>" disconnected
+L 01/25/2020 - 18:05:18: "cala221<25><STEAM_1:1:110586922><TERRORIST>" disconnected
+L 01/25/2020 - 18:05:18: "XxXgeorgiXxx :)<23><VALVE_ID_LAN><TERRORIST>" disconnected
+L 01/25/2020 - 18:05:18: "lol<30><STEAM_2:0:1214014100><CT>" disconnected
+L 01/25/2020 - 18:05:18: "DzIBy<36><STEAM_1:0:1326514608><CT>" disconnected
+L 01/25/2020 - 18:05:18: Log file closed

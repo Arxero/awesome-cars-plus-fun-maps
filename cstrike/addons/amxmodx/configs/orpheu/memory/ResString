@@ -1,0 +1,6 @@
+{
+    "name"        : "ResString",
+    "library"     : "mod",
+    "type"        : "string",
+    "memoryType"  : "data"
+}

@@ -1,0 +1,11 @@
+[en]
+RANDOM_HEALTH = &x01[&x04Random HP&x01] &x03%s &x01was randomly chosen to get &x04%i HP &x01this round.
+
+[mk]
+RANDOM_HEALTH = &x01[&x04Random HP&x01] &x03%s &x01beshe proizvolno izbran da dobie &x04%i HP &x01ovaa runda.
+
+[bg]
+RANDOM_HEALTH = &x01[&x04Random HP&x01] &x03%s &x01be proizvolno izbran da poluchi &x04%i HP &x01tozi rund.
+
+[sr]
+RANDOM_HEALTH = &x01[&x04Random HP&x01] &x03%s &x01je bio slucajno izabran da dobie &x04%i HP &x01ova runda.

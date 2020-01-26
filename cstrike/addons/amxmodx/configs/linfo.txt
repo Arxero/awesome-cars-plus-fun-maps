@@ -1,0 +1,12 @@
+﻿<html>
+<body>-=Lag Optimize Menu by The Pro=-<br>
+1. Very Low Rates: rate 2500, cl_updaterate 15, cl_cmdrate 15, fps_max 101, fps_modem 0<br>
+2. Low Rates: rate 5000, cl_updaterate 25, cl_cmdrate 25, fps_max 101, fps_modem 0<br>
+3. Semi Low Rates: rate 7500, cl_updaterate 30, cl_cmdrate 30, fps_max 101, fps_modem 0<br>
+4. Medium Rates: rate 10000, cl_updaterate 40, cl_cmdrate 40, fps_max 101, fps_modem 0<br>
+5. Semi High Rates: rate 12500, cl_updaterate 55, cl_cmdrate 55, fps_max 101, fps_modem 0<br>
+6. High Rates: rate 15000, cl_updaterate 70, cl_cmdrate 70, fps_max 101, fps_modem 0<br>
+7. Very High Rates: rate 20000, cl_updaterate 85, cl_cmdrate 85, fps_max 101, fps_modem 0<br>
+8. Uber High Rates - recommended: rate 25000, cl_updaterate 101, cl_cmdrate 101, fps_max 101, fps_modem 0
+</body>
+</html>

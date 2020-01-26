@@ -1,0 +1,494 @@
+L 12/09/2019 - 20:12:16: Log file started (file "logs/L1209201.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/09/2019 - 20:12:16: Loading map "most_wanted"
+L 12/09/2019 - 20:12:16: Server cvars start
+L 12/09/2019 - 20:12:16: Server cvar "@BunnyHopper" = "3.x"
+L 12/09/2019 - 20:12:16: Server cvar "@CRXGoSpec" = "1.1"
+L 12/09/2019 - 20:12:16: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "@D.I.C.E." = "1.1"
+L 12/09/2019 - 20:12:16: Server cvar "@MOTDCommands" = "1.2"
+L 12/09/2019 - 20:12:16: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/09/2019 - 20:12:16: Server cvar "AdvancedMute" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "aesp_version" = "1.3"
+L 12/09/2019 - 20:12:16: Server cvar "allow_spectators" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "amx_client_languages" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "amx_language" = "en"
+L 12/09/2019 - 20:12:16: Server cvar "amx_nextmap" = "most_wanted"
+L 12/09/2019 - 20:12:16: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/09/2019 - 20:12:16: Server cvar "amx_timeleft" = "00:00"
+L 12/09/2019 - 20:12:16: Server cvar "amxmodx_version" = "1.8.2"
+L 12/09/2019 - 20:12:16: Server cvar "amxxbg_vip" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "asp_version" = "4.5.1"
+L 12/09/2019 - 20:12:16: Server cvar "atac_version" = "3.0.1"
+L 12/09/2019 - 20:12:16: Server cvar "badcamper_version" = "1.4 beta"
+L 12/09/2019 - 20:12:16: Server cvar "blockmaker" = "4.01"
+L 12/09/2019 - 20:12:16: Server cvar "c4 timer" = "1.1"
+L 12/09/2019 - 20:12:16: Server cvar "coop" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "CRXAdminGroups" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "CRXFastKnife" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "CRXGametracker" = "2.0"
+L 12/09/2019 - 20:12:16: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/09/2019 - 20:12:16: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "CustomShop" = "4.2"
+L 12/09/2019 - 20:12:16: Server cvar "deathmatch" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "decalfrequency" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "edgefriction" = "2"
+L 12/09/2019 - 20:12:16: Server cvar "ers_version" = "2.3c"
+L 12/09/2019 - 20:12:16: Server cvar "gagsystem_shoko" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/09/2019 - 20:12:16: Server cvar "gal_version" = "v5.9.1-926"
+L 12/09/2019 - 20:12:16: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/09/2019 - 20:12:16: Server cvar "humans_join_team" = "any"
+L 12/09/2019 - 20:12:16: Server cvar "jtp10181" = "chute,gore"
+L 12/09/2019 - 20:12:16: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/09/2019 - 20:12:16: Server cvar "LetitSnow" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/09/2019 - 20:12:16: Server cvar "max_queries_sec" = "3"
+L 12/09/2019 - 20:12:16: Server cvar "max_queries_sec_global" = "150"
+L 12/09/2019 - 20:12:16: Server cvar "max_queries_window" = "60"
+L 12/09/2019 - 20:12:16: Server cvar "mdbBans" = "4.8"
+L 12/09/2019 - 20:12:16: Server cvar "metamod_version" = "1.21p37"
+L 12/09/2019 - 20:12:16: Server cvar "mp_autokick" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_autokick_timeout" = "-1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_autoteambalance" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_buytime" = "0.25"
+L 12/09/2019 - 20:12:16: Server cvar "mp_c4timer" = "35"
+L 12/09/2019 - 20:12:16: Server cvar "mp_chattime" = "10"
+L 12/09/2019 - 20:12:16: Server cvar "mp_consistency" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_fadetoblack" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_flashlight" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_footsteps" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_forcecamera" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_forcechasecam" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_forcerespawn" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_fraglimit" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_fragsleft" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_freeforall" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_freezetime" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_friendlyfire" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_hostage_hurtable" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_hostagepenalty" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_item_staytime" = "300"
+L 12/09/2019 - 20:12:16: Server cvar "mp_kickpercent" = "0.66"
+L 12/09/2019 - 20:12:16: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_limitteams" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_logdetail" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_logfile" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_logmessages" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/09/2019 - 20:12:16: Server cvar "mp_maxmoney" = "999999"
+L 12/09/2019 - 20:12:16: Server cvar "mp_maxrounds" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_mirrordamage" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_playerid" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_round_infinite" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_round_restart_delay" = "5"
+L 12/09/2019 - 20:12:16: Server cvar "mp_roundover" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_roundtime" = "2.3"
+L 12/09/2019 - 20:12:16: Server cvar "mp_show_radioicon" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_startmoney" = "850"
+L 12/09/2019 - 20:12:16: Server cvar "mp_timeleft" = "00:00"
+L 12/09/2019 - 20:12:16: Server cvar "mp_timelimit" = "20.000000"
+L 12/09/2019 - 20:12:16: Server cvar "mp_tkpunish" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "mp_windifference" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "mp_winlimit" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/09/2019 - 20:12:16: Server cvar "pausable" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "present_version" = "2.01"
+L 12/09/2019 - 20:12:16: Server cvar "RandomHP" = "2.2"
+L 12/09/2019 - 20:12:16: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/09/2019 - 20:12:16: Server cvar "reconnect_features" = "0.3.1"
+L 12/09/2019 - 20:12:16: Server cvar "report_system_version" = "3.1"
+L 12/09/2019 - 20:12:16: Server cvar "resemiclip_version" = "2.3.9"
+L 12/09/2019 - 20:12:16: Server cvar "reu_version" = "0.1.0.130"
+L 12/09/2019 - 20:12:16: Server cvar "revoice_version" = "0.1.0.30"
+L 12/09/2019 - 20:12:16: Server cvar "RRWM" = "2.0"
+L 12/09/2019 - 20:12:16: Server cvar "sanksounds_version" = "1.8.6"
+L 12/09/2019 - 20:12:16: Server cvar "SimpleMenu" = "1.1"
+L 12/09/2019 - 20:12:16: Server cvar "SNAC_Version" = "1.1"
+L 12/09/2019 - 20:12:16: Server cvar "SpecList" = "1.2a"
+L 12/09/2019 - 20:12:16: Server cvar "sr_version" = "1.6"
+L 12/09/2019 - 20:12:16: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/09/2019 - 20:12:16: Server cvar "StyleC4Timer" = "2.1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_accelerate" = "5"
+L 12/09/2019 - 20:12:16: Server cvar "sv_aim" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_airaccelerate" = "100"
+L 12/09/2019 - 20:12:16: Server cvar "sv_allowupload" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_alltalk" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_bounce" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_cheats" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "sv_clienttrace" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/09/2019 - 20:12:16: Server cvar "sv_friction" = "4"
+L 12/09/2019 - 20:12:16: Server cvar "sv_gravity" = "800"
+L 12/09/2019 - 20:12:16: Server cvar "sv_logblocks" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "sv_maxrate" = "50000"
+L 12/09/2019 - 20:12:16: Server cvar "sv_maxspeed" = "900.000000"
+L 12/09/2019 - 20:12:16: Server cvar "sv_minrate" = "10000"
+L 12/09/2019 - 20:12:16: Server cvar "sv_password" = ""
+L 12/09/2019 - 20:12:16: Server cvar "sv_proxies" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_restart" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "sv_restartround" = "0"
+L 12/09/2019 - 20:12:16: Server cvar "sv_stepsize" = "18"
+L 12/09/2019 - 20:12:16: Server cvar "sv_stopspeed" = "75"
+L 12/09/2019 - 20:12:16: Server cvar "sv_uploadmax" = "0.5"
+L 12/09/2019 - 20:12:16: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/09/2019 - 20:12:16: Server cvar "sv_voiceenable" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "sv_wateraccelerate" = "10"
+L 12/09/2019 - 20:12:16: Server cvar "sv_waterfriction" = "1"
+L 12/09/2019 - 20:12:16: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/09/2019 - 20:12:16: Server cvar "vehicle_real_killer" = "1.1"
+L 12/09/2019 - 20:12:16: Server cvar "WalkGuard" = "1.3.2"
+L 12/09/2019 - 20:12:16: Server cvar "we_grenades" = "Huehue"
+L 12/09/2019 - 20:12:16: Server cvar "we_player_models" = "Huehue"
+L 12/09/2019 - 20:12:16: Server cvar "whb_version" = "1.5.692"
+L 12/09/2019 - 20:12:16: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/09/2019 - 20:12:16: Server cvars end
+L 12/09/2019 - 20:12:19: Server cvar "sv_maxspeed" = "900"
+L 12/09/2019 - 20:12:19: Server cvar "mp_autoteambalance" = "1"
+L 12/09/2019 - 20:12:19: Server cvar "mp_timelimit" = "20"
+L 12/09/2019 - 20:12:19: Server cvar "mp_autoteambalance" = "0"
+L 12/09/2019 - 20:12:19: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/09/2019 - 20:12:21: Started map "most_wanted" (CRC "-659697026")
+L 12/09/2019 - 20:12:22: World triggered "Round_Start"
+L 12/09/2019 - 20:12:23: "Maverick<9><STEAM_0:0:37264973><>" entered the game
+L 12/09/2019 - 20:12:24: [REUNION]: X EKO X (151.237.70.16) authorized as RevEmu
+L 12/09/2019 - 20:12:24: "X EKO X<29><STEAM_1:0:700894237><>" connected, address "151.237.70.16:27005"
+L 12/09/2019 - 20:12:24: [REUNION]: xXMr.ONurXx_YT (79.132.14.117) authorized as RevEmu
+L 12/09/2019 - 20:12:24: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><>" connected, address "79.132.14.117:27005"
+L 12/09/2019 - 20:12:26: "JOKERA E TUK<27><STEAM_2:1:74324064><>" entered the game
+L 12/09/2019 - 20:12:28: "Maverick<9><STEAM_0:0:37264973><>" joined team "CT"
+L 12/09/2019 - 20:12:29: [REUNION]: $$$ S.W.A.T BQSNOTO Volvo $$$ (77.71.22.75) authorized as RevEmu
+L 12/09/2019 - 20:12:29: "$$$ S.W.A.T BQSNOTO Volvo $$$<31><STEAM_2:1:232564246><>" connected, address "77.71.22.75:27005"
+L 12/09/2019 - 20:12:30: "X EKO X<29><STEAM_1:0:700894237><>" entered the game
+L 12/09/2019 - 20:12:35: "JOKERA E TUK<27><STEAM_2:1:74324064><>" joined team "TERRORIST"
+L 12/09/2019 - 20:12:36: World triggered "Game_Commencing"
+L 12/09/2019 - 20:12:36: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/09/2019 - 20:12:36: World triggered "Round_End"
+L 12/09/2019 - 20:12:39: "X EKO X<29><STEAM_1:0:700894237><>" joined team "TERRORIST"
+L 12/09/2019 - 20:12:40: World triggered "Round_Start"
+L 12/09/2019 - 20:12:42: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><>" entered the game
+L 12/09/2019 - 20:12:43: [REUNION]: XxXgeorgiXxX :) (93.155.192.142) authorized as RevEmu
+L 12/09/2019 - 20:12:43: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><>" connected, address "93.155.192.142:27005"
+L 12/09/2019 - 20:12:44: [REUNION]: BuguMo_HeBuguM_ (95.111.39.249) authorized as RevEmu
+L 12/09/2019 - 20:12:44: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><>" connected, address "95.111.39.249:27005"
+L 12/09/2019 - 20:12:45: [REUNION]: MANQKA 325 PRO (77.85.64.160) authorized as NoSteam47
+L 12/09/2019 - 20:12:45: "MANQKA 325 PRO<34><VALVE_ID_LAN><>" connected, address "77.85.64.160:27005"
+L 12/09/2019 - 20:12:51: "Maverick<9><STEAM_0:0:37264973><CT>" killed "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" with "knife"
+L 12/09/2019 - 20:13:02: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><>" entered the game
+L 12/09/2019 - 20:13:05: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><>" joined team "TERRORIST"
+L 12/09/2019 - 20:13:05: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><>" entered the game
+L 12/09/2019 - 20:13:06: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "Maverick<9><STEAM_0:0:37264973><CT>" with "knife"
+L 12/09/2019 - 20:13:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/09/2019 - 20:13:06: World triggered "Round_End"
+L 12/09/2019 - 20:13:08: [REUNION]: canm ben EL PATRON (85.96.223.188) authorized as RevEmu
+L 12/09/2019 - 20:13:08: "canm ben EL PATRON<35><STEAM_1:1:748561017><>" connected, address "85.96.223.188:55819"
+L 12/09/2019 - 20:13:11: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><>" joined team "CT"
+L 12/09/2019 - 20:13:12: World triggered "Round_Start"
+L 12/09/2019 - 20:13:21: "MANQKA 325 PRO<34><VALVE_ID_LAN><>" entered the game
+L 12/09/2019 - 20:13:24: "MANQKA 325 PRO<34><VALVE_ID_LAN><>" joined team "CT"
+L 12/09/2019 - 20:13:31: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" with "knife"
+L 12/09/2019 - 20:13:35: [REUNION]: canm ben EL PATRON (85.96.223.188) authorized as RevEmu
+L 12/09/2019 - 20:13:35: "canm ben EL PATRON<36><STEAM_1:1:748561017><>" connected, address "85.96.223.188:55819"
+L 12/09/2019 - 20:13:37: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "tracktrain"
+L 12/09/2019 - 20:13:38: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><>" joined team "SPECTATOR"
+L 12/09/2019 - 20:13:46: "Maverick<9><STEAM_0:0:37264973><CT>" killed "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" with "knife"
+L 12/09/2019 - 20:13:47: "canm ben EL PATRON<36><STEAM_1:1:748561017><>" entered the game
+L 12/09/2019 - 20:13:49: "canm ben EL PATRON<36><STEAM_1:1:748561017><>" joined team "CT"
+L 12/09/2019 - 20:13:59: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "tracktrain"
+L 12/09/2019 - 20:13:59: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 12/09/2019 - 20:13:59: World triggered "Round_End"
+L 12/09/2019 - 20:14:04: "Maverick<9><STEAM_0:0:37264973><CT>" joined team "TERRORIST"
+L 12/09/2019 - 20:14:04: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to TERRORIST")
+L 12/09/2019 - 20:14:05: World triggered "Round_Start"
+L 12/09/2019 - 20:14:12: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:14:13: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:14:16: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "tracktrain"
+L 12/09/2019 - 20:14:18: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 326)
+L 12/09/2019 - 20:14:27: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" with "knife"
+L 12/09/2019 - 20:14:36: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" with "knife"
+L 12/09/2019 - 20:14:57: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:14:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 12/09/2019 - 20:14:57: World triggered "Round_End"
+L 12/09/2019 - 20:15:03: World triggered "Round_Start"
+L 12/09/2019 - 20:15:04: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><SPECTATOR>" joined team "CT"
+L 12/09/2019 - 20:15:14: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:15:15: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" committed suicide with "trigger_hurt" (world)
+L 12/09/2019 - 20:15:15: "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "tracktrain"
+L 12/09/2019 - 20:15:17: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "knife"
+L 12/09/2019 - 20:15:22: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" with "knife"
+L 12/09/2019 - 20:15:40: [REUNION]: $$$ S.W.A.T BQSNOTO Volvo $$$ (77.71.22.75) authorized as RevEmu
+L 12/09/2019 - 20:15:40: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><>" connected, address "77.71.22.75:27005"
+L 12/09/2019 - 20:15:45: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:16:14: [REUNION]: Florin (188.241.70.184) authorized as RevEmu
+L 12/09/2019 - 20:16:14: "Florin<38><STEAM_1:1:2079496364><>" connected, address "188.241.70.184:27005"
+L 12/09/2019 - 20:16:25: [REUNION]: Florin (188.241.70.184) authorized as RevEmu
+L 12/09/2019 - 20:16:25: "Florin<39><STEAM_1:1:2079496364><>" connected, address "188.241.70.184:27005"
+L 12/09/2019 - 20:16:55: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/09/2019 - 20:16:55: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 12/09/2019 - 20:16:55: World triggered "Round_End"
+L 12/09/2019 - 20:17:01: World triggered "Round_Start"
+L 12/09/2019 - 20:17:01: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><>" entered the game
+L 12/09/2019 - 20:17:15: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" with "knife"
+L 12/09/2019 - 20:17:22: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><>" joined team "CT"
+L 12/09/2019 - 20:17:31: "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:17:31: "X EKO X<29><STEAM_1:0:700894237><TERRORIST>" joined team "CT"
+L 12/09/2019 - 20:17:35: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:17:37: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "tracktrain"
+L 12/09/2019 - 20:18:10: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:18:51: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:18:58: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "knife"
+L 12/09/2019 - 20:18:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 12/09/2019 - 20:18:58: World triggered "Round_End"
+L 12/09/2019 - 20:19:04: World triggered "Round_Start"
+L 12/09/2019 - 20:19:19: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/09/2019 - 20:19:23: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:19:23: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:19:33: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" with "knife"
+L 12/09/2019 - 20:19:33: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 12/09/2019 - 20:19:33: World triggered "Round_End"
+L 12/09/2019 - 20:19:39: World triggered "Round_Start"
+L 12/09/2019 - 20:19:49: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" with "tracktrain"
+L 12/09/2019 - 20:19:50: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "tracktrain"
+L 12/09/2019 - 20:19:53: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:20:24: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/09/2019 - 20:20:32: [REUNION]: cala221 (87.245.69.13) authorized as RevEmu
+L 12/09/2019 - 20:20:32: "cala221<40><STEAM_1:1:997480938><>" connected, address "87.245.69.13:27005"
+L 12/09/2019 - 20:20:35: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:20:48: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" with "knife"
+L 12/09/2019 - 20:20:48: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 12/09/2019 - 20:20:48: World triggered "Round_End"
+L 12/09/2019 - 20:20:52: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" joined team "TERRORIST"
+L 12/09/2019 - 20:20:54: World triggered "Round_Start"
+L 12/09/2019 - 20:21:01: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:21:04: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:21:17: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "knife"
+L 12/09/2019 - 20:21:18: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/09/2019 - 20:21:27: [REUNION]: IGOR (109.104.220.73) authorized as RevEmu
+L 12/09/2019 - 20:21:27: "IGOR<41><STEAM_1:1:1542272842><>" connected, address "109.104.220.73:26402"
+L 12/09/2019 - 20:21:30: [REUNION]: DON TONITO (87.126.239.174) authorized as RevEmu
+L 12/09/2019 - 20:21:30: "DON TONITO<42><STEAM_2:0:484508196><>" connected, address "87.126.239.174:27005"
+L 12/09/2019 - 20:21:32: [REUNION]: IGOR (109.104.220.73) authorized as RevEmu
+L 12/09/2019 - 20:21:32: "IGOR<43><STEAM_1:1:1542272842><>" connected, address "109.104.220.73:26402"
+L 12/09/2019 - 20:21:53: [REUNION]: cala221 (87.245.69.13) authorized as RevEmu
+L 12/09/2019 - 20:21:53: "cala221<44><STEAM_1:1:997480938><>" connected, address "87.245.69.13:27005"
+L 12/09/2019 - 20:21:54: "IGOR<43><STEAM_1:1:1542272842><>" entered the game
+L 12/09/2019 - 20:21:59: "IGOR<43><STEAM_1:1:1542272842><>" joined team "TERRORIST"
+L 12/09/2019 - 20:22:16: "SkR1LL3X<45><STEAM_0:0:509830088><>" connected, address "212.21.152.199:27005"
+L 12/09/2019 - 20:22:16: "SkR1LL3X<45><STEAM_0:0:509830088><>" STEAM USERID validated
+L 12/09/2019 - 20:22:23: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:22:31: [REUNION]: DON TONITO (87.126.239.174) authorized as RevEmu
+L 12/09/2019 - 20:22:31: "DON TONITO<46><STEAM_2:0:484508196><>" connected, address "87.126.239.174:27005"
+L 12/09/2019 - 20:22:39: "SkR1LL3X<47><STEAM_0:0:509830088><>" connected, address "212.21.152.199:27005"
+L 12/09/2019 - 20:22:40: "cala221<44><STEAM_1:1:997480938><>" entered the game
+L 12/09/2019 - 20:22:46: "DON TONITO<46><STEAM_2:0:484508196><>" entered the game
+L 12/09/2019 - 20:22:50: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:22:52: "DON TONITO<46><STEAM_2:0:484508196><>" joined team "TERRORIST"
+L 12/09/2019 - 20:22:53: "SkR1LL3X<47><STEAM_0:0:509830088><>" entered the game
+L 12/09/2019 - 20:22:58: "SkR1LL3X<47><STEAM_0:0:509830088><>" joined team "CT"
+L 12/09/2019 - 20:23:00: "SkR1LL3X<47><STEAM_0:0:509830088><>" STEAM USERID validated
+L 12/09/2019 - 20:23:08: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "knife"
+L 12/09/2019 - 20:23:12: "X EKO X<29><STEAM_1:0:700894237><CT>" committed suicide with "world"
+L 12/09/2019 - 20:23:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 12/09/2019 - 20:23:12: World triggered "Round_End"
+L 12/09/2019 - 20:23:12: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:23:18: World triggered "Round_Start"
+L 12/09/2019 - 20:23:34: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "tracktrain"
+L 12/09/2019 - 20:23:36: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" killed "SkR1LL3X<47><STEAM_0:0:509830088><CT>" with "knife"
+L 12/09/2019 - 20:23:37: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "knife"
+L 12/09/2019 - 20:23:38: "cala221<44><STEAM_1:1:997480938><>" joined team "SPECTATOR"
+L 12/09/2019 - 20:23:38: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "tracktrain"
+L 12/09/2019 - 20:23:41: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" with "knife"
+L 12/09/2019 - 20:23:45: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><TERRORIST>" with "tracktrain"
+L 12/09/2019 - 20:23:51: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:23:54: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:23:56: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "knife"
+L 12/09/2019 - 20:24:10: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:24:32: "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" joined team "SPECTATOR"
+L 12/09/2019 - 20:25:34: "cala221<44><STEAM_1:1:997480938><SPECTATOR>" joined team "TERRORIST"
+L 12/09/2019 - 20:25:36: "X EKO X<29><STEAM_1:0:700894237><CT>" committed suicide with "world"
+L 12/09/2019 - 20:25:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 12/09/2019 - 20:25:36: World triggered "Round_End"
+L 12/09/2019 - 20:25:36: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:25:40: "JOKERA E TUK<27><STEAM_2:1:74324064><TERRORIST>" joined team "CT"
+L 12/09/2019 - 20:25:40: "<><><>" triggered "amx_chat" (text "[PTB] Transfered JOKERA E TUK to CT")
+L 12/09/2019 - 20:25:42: World triggered "Round_Start"
+L 12/09/2019 - 20:25:44: "Jihadista :[]<48><STEAM_0:1:441461344><>" connected, address "85.187.35.132:27005"
+L 12/09/2019 - 20:25:45: "Jihadista :[]<48><STEAM_0:1:441461344><>" STEAM USERID validated
+L 12/09/2019 - 20:25:49: "DON TONITO<46><STEAM_2:0:484508196><SPECTATOR>" joined team "TERRORIST"
+L 12/09/2019 - 20:25:50: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "X EKO X<29><STEAM_1:0:700894237><CT>" with "tracktrain"
+L 12/09/2019 - 20:25:56: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:25:57: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "tracktrain"
+L 12/09/2019 - 20:25:57: "Jihadista :[]<49><STEAM_0:1:441461344><>" connected, address "85.187.35.132:27005"
+L 12/09/2019 - 20:25:58: "Jihadista :[]<49><STEAM_0:1:441461344><>" STEAM USERID validated
+L 12/09/2019 - 20:26:01: "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "knife"
+L 12/09/2019 - 20:26:06: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:26:08: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 12/09/2019 - 20:26:12: "Jihadista :[]<49><STEAM_0:1:441461344><>" entered the game
+L 12/09/2019 - 20:26:15: "Jihadista :[]<49><STEAM_0:1:441461344><>" joined team "TERRORIST"
+L 12/09/2019 - 20:26:18: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" with "knife"
+L 12/09/2019 - 20:26:26: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "cala221<44><STEAM_1:1:997480938><TERRORIST>" with "tracktrain"
+L 12/09/2019 - 20:26:26: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "SkR1LL3X<47><STEAM_0:0:509830088><CT>" with "tracktrain"
+L 12/09/2019 - 20:26:26: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" with "tracktrain"
+L 12/09/2019 - 20:26:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 12/09/2019 - 20:26:26: World triggered "Round_End"
+L 12/09/2019 - 20:26:31: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><TERRORIST>" joined team "CT"
+L 12/09/2019 - 20:26:31: "<><><>" triggered "amx_chat" (text "[PTB] Transfered $$$ S.W.A.T BQSNOTO Volvo $$$ to CT")
+L 12/09/2019 - 20:26:32: World triggered "Round_Start"
+L 12/09/2019 - 20:26:40: [REUNION]: 2Pacalypse (130.185.211.206) authorized as NoSteam47
+L 12/09/2019 - 20:26:40: "2Pacalypse<50><VALVE_ID_LAN><>" connected, address "130.185.211.206:27005"
+L 12/09/2019 - 20:26:41: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:26:43: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:26:44: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" killed "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" with "knife"
+L 12/09/2019 - 20:26:50: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" with "knife"
+L 12/09/2019 - 20:26:51: [REUNION]: 2Pacalypse (130.185.211.206) authorized as NoSteam47
+L 12/09/2019 - 20:26:51: "2Pacalypse<51><VALVE_ID_LAN><>" connected, address "130.185.211.206:27005"
+L 12/09/2019 - 20:26:57: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" with "knife"
+L 12/09/2019 - 20:26:58: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:05: "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:09: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "cala221<44><STEAM_1:1:997480938><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:09: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 12/09/2019 - 20:27:09: World triggered "Round_End"
+L 12/09/2019 - 20:27:10: "2Pacalypse<51><VALVE_ID_LAN><>" entered the game
+L 12/09/2019 - 20:27:15: World triggered "Round_Start"
+L 12/09/2019 - 20:27:19: "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:27:19: "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" joined team "TERRORIST"
+L 12/09/2019 - 20:27:25: "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" killed "cala221<44><STEAM_1:1:997480938><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:26: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" killed "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:27: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" killed "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:28: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" committed suicide with "world"
+L 12/09/2019 - 20:27:28: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" joined team "SPECTATOR"
+L 12/09/2019 - 20:27:35: "canm ben EL PATRON<36><STEAM_1:1:748561017><SPECTATOR>" joined team "CT"
+L 12/09/2019 - 20:27:36: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" with "knife"
+L 12/09/2019 - 20:27:41: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:41: "2Pacalypse<51><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 12/09/2019 - 20:27:42: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:42: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 12/09/2019 - 20:27:42: World triggered "Round_End"
+L 12/09/2019 - 20:27:47: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><CT>" joined team "TERRORIST"
+L 12/09/2019 - 20:27:47: "<><><>" triggered "amx_chat" (text "[PTB] Transfered BuguMo_HeBuguM_ to TERRORIST")
+L 12/09/2019 - 20:27:48: World triggered "Round_Start"
+L 12/09/2019 - 20:27:55: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:27:59: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" with "knife"
+L 12/09/2019 - 20:27:59: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:05: "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" committed suicide with "trigger_hurt" (world)
+L 12/09/2019 - 20:28:07: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 12/09/2019 - 20:28:09: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" killed "cala221<44><STEAM_1:1:997480938><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:13: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" killed "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:16: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:19: "X EKO X<29><STEAM_1:0:700894237><CT>" committed suicide with "worldspawn" (world)
+L 12/09/2019 - 20:28:23: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:27: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" committed suicide with "trigger_hurt" (world)
+L 12/09/2019 - 20:28:30: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:30: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 12/09/2019 - 20:28:30: World triggered "Round_End"
+L 12/09/2019 - 20:28:36: World triggered "Round_Start"
+L 12/09/2019 - 20:28:48: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" committed suicide with "worldspawn" (world)
+L 12/09/2019 - 20:28:51: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:28:57: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" with "knife"
+L 12/09/2019 - 20:28:57: "$$$ S.W.A.T BQSNOTO Volvo $$$<37><STEAM_2:1:232564246><CT>" disconnected
+L 12/09/2019 - 20:29:06: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:29:07: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:29:14: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "X EKO X<29><STEAM_1:0:700894237><CT>" with "knife"
+L 12/09/2019 - 20:29:15: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "SkR1LL3X<47><STEAM_0:0:509830088><CT>" with "knife"
+L 12/09/2019 - 20:29:17: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "knife"
+L 12/09/2019 - 20:29:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 12/09/2019 - 20:29:17: World triggered "Round_End"
+L 12/09/2019 - 20:29:22: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><TERRORIST>" joined team "CT"
+L 12/09/2019 - 20:29:22: "<><><>" triggered "amx_chat" (text "[PTB] Transfered XxXgeorgiXxX :) to CT")
+L 12/09/2019 - 20:29:23: World triggered "Round_Start"
+L 12/09/2019 - 20:29:30: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" killed "X EKO X<29><STEAM_1:0:700894237><CT>" with "knife"
+L 12/09/2019 - 20:29:31: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:29:32: "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "knife"
+L 12/09/2019 - 20:29:42: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:29:44: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:29:46: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><CT>" killed "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" with "knife"
+L 12/09/2019 - 20:29:47: "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" killed "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" with "knife"
+L 12/09/2019 - 20:29:47: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" killed "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" with "knife"
+L 12/09/2019 - 20:30:02: "X EKO X<29><STEAM_1:0:700894237><CT>" disconnected
+L 12/09/2019 - 20:30:05: "JOKERA E TUK<27><STEAM_2:1:74324064><CT>" disconnected
+L 12/09/2019 - 20:30:05: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><CT>" killed "cala221<44><STEAM_1:1:997480938><TERRORIST>" with "knife"
+L 12/09/2019 - 20:30:12: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" killed "SkR1LL3X<47><STEAM_0:0:509830088><CT>" with "knife"
+L 12/09/2019 - 20:30:22: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><CT>" with "knife"
+L 12/09/2019 - 20:30:23: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" killed "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/09/2019 - 20:30:48: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "knife"
+L 12/09/2019 - 20:30:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "8")
+L 12/09/2019 - 20:30:48: World triggered "Round_End"
+L 12/09/2019 - 20:30:52: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 334)
+L 12/09/2019 - 20:30:54: World triggered "Round_Start"
+L 12/09/2019 - 20:31:04: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><CT>" with "knife"
+L 12/09/2019 - 20:31:04: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:31:09: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:31:34: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "knife"
+L 12/09/2019 - 20:31:39: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/09/2019 - 20:31:46: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" killed "SkR1LL3X<47><STEAM_0:0:509830088><CT>" with "knife"
+L 12/09/2019 - 20:32:15: Server cvar "amx_nextmap" = "GM_StarWars"
+L 12/09/2019 - 20:32:18: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" killed "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" with "knife"
+L 12/09/2019 - 20:32:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "9")
+L 12/09/2019 - 20:32:18: World triggered "Round_End"
+L 12/09/2019 - 20:32:20: Server cvar "mp_timelimit" = "0.000000"
+L 12/09/2019 - 20:32:22: "Jihadista :[]<49><STEAM_0:1:441461344><TERRORIST>" joined team "CT"
+L 12/09/2019 - 20:32:22: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Jihadista :[] to CT")
+L 12/09/2019 - 20:32:24: World triggered "Round_Start"
+L 12/09/2019 - 20:32:31: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/09/2019 - 20:32:33: "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" killed "Jihadista :[]<49><STEAM_0:1:441461344><CT>" with "tracktrain"
+L 12/09/2019 - 20:32:40: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" with "knife"
+L 12/09/2019 - 20:32:44: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "knife"
+L 12/09/2019 - 20:32:45: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" killed "SkR1LL3X<47><STEAM_0:0:509830088><CT>" with "knife"
+L 12/09/2019 - 20:32:51: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><CT>" with "knife"
+L 12/09/2019 - 20:32:52: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" killed "cala221<44><STEAM_1:1:997480938><TERRORIST>" with "knife"
+L 12/09/2019 - 20:32:54: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" killed "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" with "knife"
+L 12/09/2019 - 20:32:57: "SkR1LL3X<47><STEAM_0:0:509830088><CT>" disconnected
+L 12/09/2019 - 20:33:12: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" with "tracktrain"
+L 12/09/2019 - 20:33:17: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" killed "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/09/2019 - 20:33:29: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" committed suicide with "tracktrain"
+L 12/09/2019 - 20:33:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "10")
+L 12/09/2019 - 20:33:29: World triggered "Round_End"
+L 12/09/2019 - 20:33:35: World triggered "Round_Start"
+L 12/09/2019 - 20:33:35: Server cvar "sv_maxspeed" = "0.000000"
+L 12/09/2019 - 20:33:35: Server cvar "mp_friendlyfire" = "1"
+L 12/09/2019 - 20:33:38: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" with "grenade"
+L 12/09/2019 - 20:33:38: "cala221<44><STEAM_1:1:997480938><TERRORIST>" killed "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" with "grenade"
+L 12/09/2019 - 20:33:38: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" killed "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" with "grenade"
+L 12/09/2019 - 20:33:39: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" committed suicide with "grenade"
+L 12/09/2019 - 20:33:39: "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" killed "Maverick<9><STEAM_0:0:37264973><TERRORIST>" with "grenade"
+L 12/09/2019 - 20:33:41: "Jihadista :[]<49><STEAM_0:1:441461344><CT>" committed suicide with "worldspawn" (world)
+L 12/09/2019 - 20:33:44: "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" committed suicide with "world"
+L 12/09/2019 - 20:33:46: Server cvar "sv_maxspeed" = "900.000000"
+L 12/09/2019 - 20:33:46: Server cvar "mp_friendlyfire" = "0"
+L 12/09/2019 - 20:33:46: Server cvar "mp_timelimit" = "20.000000"
+L 12/09/2019 - 20:33:46: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: AMX Mod X
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: Reunion
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: ReAuthCheck
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: WHBlocker
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: ReSemiclip
+L 12/09/2019 - 20:33:46: [META] ini: Read plugin config for: Revoice
+L 12/09/2019 - 20:33:46: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/09/2019 - 20:33:46: [META] dll: Updating plugins...
+L 12/09/2019 - 20:33:46: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/09/2019 - 20:33:46: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/09/2019 - 20:33:46: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/09/2019 - 20:33:46: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/09/2019 - 20:33:46: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/09/2019 - 20:33:46: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/09/2019 - 20:33:46: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/09/2019 - 20:33:46: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/09/2019 - 20:33:46: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/09/2019 - 20:33:46: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/09/2019 - 20:33:46: "Maverick<9><STEAM_0:0:37264973><TERRORIST>" disconnected
+L 12/09/2019 - 20:33:46: "MANQKA 325 PRO<34><VALVE_ID_LAN><CT>" disconnected
+L 12/09/2019 - 20:33:46: "XxXgeorgiXxX :)<32><STEAM_1:1:1289710602><CT>" disconnected
+L 12/09/2019 - 20:33:46: "xXMr.ONurXx_YT<30><STEAM_2:1:935252518><CT>" disconnected
+L 12/09/2019 - 20:33:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "11")
+L 12/09/2019 - 20:33:46: World triggered "Round_End"
+L 12/09/2019 - 20:33:46: "BuguMo_HeBuguM_<33><STEAM_1:1:1139589714><TERRORIST>" disconnected
+L 12/09/2019 - 20:33:46: "canm ben EL PATRON<36><STEAM_1:1:748561017><CT>" disconnected
+L 12/09/2019 - 20:33:46: "IGOR<43><STEAM_1:1:1542272842><TERRORIST>" disconnected
+L 12/09/2019 - 20:33:46: "cala221<44><STEAM_1:1:997480938><TERRORIST>" disconnected
+L 12/09/2019 - 20:33:46: "DON TONITO<46><STEAM_2:0:484508196><TERRORIST>" disconnected
+L 12/09/2019 - 20:33:46: "Jihadista :[]<49><STEAM_0:1:441461344><CT>" disconnected
+L 12/09/2019 - 20:33:46: "2Pacalypse<51><VALVE_ID_LAN><TERRORIST>" disconnected
+L 12/09/2019 - 20:33:46: Log file closed

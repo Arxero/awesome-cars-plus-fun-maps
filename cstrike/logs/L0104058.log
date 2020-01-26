@@ -1,0 +1,477 @@
+L 01/04/2020 - 16:18:22: Log file started (file "logs/L0104058.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/04/2020 - 16:18:22: Loading map "awp_snowfun2"
+L 01/04/2020 - 16:18:22: Server cvars start
+L 01/04/2020 - 16:18:22: Server cvar "@BunnyHopper" = "3.x"
+L 01/04/2020 - 16:18:22: Server cvar "@CRXGoSpec" = "1.1"
+L 01/04/2020 - 16:18:22: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "@D.I.C.E." = "1.1"
+L 01/04/2020 - 16:18:22: Server cvar "@MOTDCommands" = "1.2"
+L 01/04/2020 - 16:18:22: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/04/2020 - 16:18:22: Server cvar "AdvancedMute" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "aesp_version" = "1.3"
+L 01/04/2020 - 16:18:22: Server cvar "allow_spectators" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "amx_client_languages" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "amx_language" = "en"
+L 01/04/2020 - 16:18:22: Server cvar "amx_nextmap" = "awp_snowfun2"
+L 01/04/2020 - 16:18:22: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/04/2020 - 16:18:22: Server cvar "amx_timeleft" = "00:00"
+L 01/04/2020 - 16:18:22: Server cvar "amxmodx_version" = "1.8.2"
+L 01/04/2020 - 16:18:22: Server cvar "amxxbg_vip" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "asp_version" = "4.5.1"
+L 01/04/2020 - 16:18:22: Server cvar "atac_version" = "3.0.1"
+L 01/04/2020 - 16:18:22: Server cvar "badcamper_version" = "1.4 beta"
+L 01/04/2020 - 16:18:22: Server cvar "blockmaker" = "4.01"
+L 01/04/2020 - 16:18:22: Server cvar "c4 timer" = "1.1"
+L 01/04/2020 - 16:18:22: Server cvar "coop" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "CRXAdminGroups" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "CRXFastKnife" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "CRXGametracker" = "2.0"
+L 01/04/2020 - 16:18:22: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/04/2020 - 16:18:22: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "CustomShop" = "4.2"
+L 01/04/2020 - 16:18:22: Server cvar "deathmatch" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "decalfrequency" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "edgefriction" = "2"
+L 01/04/2020 - 16:18:22: Server cvar "ers_version" = "2.3c"
+L 01/04/2020 - 16:18:22: Server cvar "gagsystem_shoko" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/04/2020 - 16:18:22: Server cvar "gal_version" = "v5.9.1-926"
+L 01/04/2020 - 16:18:22: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/04/2020 - 16:18:22: Server cvar "humans_join_team" = "any"
+L 01/04/2020 - 16:18:22: Server cvar "jtp10181" = "chute,gore"
+L 01/04/2020 - 16:18:22: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/04/2020 - 16:18:22: Server cvar "LetitSnow" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/04/2020 - 16:18:22: Server cvar "max_queries_sec" = "3"
+L 01/04/2020 - 16:18:22: Server cvar "max_queries_sec_global" = "150"
+L 01/04/2020 - 16:18:22: Server cvar "max_queries_window" = "60"
+L 01/04/2020 - 16:18:22: Server cvar "mdbBans" = "4.8"
+L 01/04/2020 - 16:18:22: Server cvar "metamod_version" = "1.21p37"
+L 01/04/2020 - 16:18:22: Server cvar "mp_autokick" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_autokick_timeout" = "-1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_autoteambalance" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_buytime" = "0.25"
+L 01/04/2020 - 16:18:22: Server cvar "mp_c4timer" = "35"
+L 01/04/2020 - 16:18:22: Server cvar "mp_chattime" = "10.000000"
+L 01/04/2020 - 16:18:22: Server cvar "mp_consistency" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_fadetoblack" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_flashlight" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_footsteps" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_forcecamera" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_forcechasecam" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_forcerespawn" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_fraglimit" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_fragsleft" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_freeforall" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_freezetime" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_hostage_hurtable" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_hostagepenalty" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_item_staytime" = "300"
+L 01/04/2020 - 16:18:22: Server cvar "mp_kickpercent" = "0.66"
+L 01/04/2020 - 16:18:22: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_limitteams" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_logdetail" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_logfile" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_logmessages" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/04/2020 - 16:18:22: Server cvar "mp_maxmoney" = "999999"
+L 01/04/2020 - 16:18:22: Server cvar "mp_maxrounds" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_mirrordamage" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_playerid" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_round_infinite" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_round_restart_delay" = "5"
+L 01/04/2020 - 16:18:22: Server cvar "mp_roundover" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_roundtime" = "2.3"
+L 01/04/2020 - 16:18:22: Server cvar "mp_show_radioicon" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_startmoney" = "850"
+L 01/04/2020 - 16:18:22: Server cvar "mp_timeleft" = "00:00"
+L 01/04/2020 - 16:18:22: Server cvar "mp_timelimit" = "20"
+L 01/04/2020 - 16:18:22: Server cvar "mp_tkpunish" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "mp_windifference" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "mp_winlimit" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/04/2020 - 16:18:22: Server cvar "pausable" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "present_version" = "2.01"
+L 01/04/2020 - 16:18:22: Server cvar "RandomHP" = "2.2"
+L 01/04/2020 - 16:18:22: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/04/2020 - 16:18:22: Server cvar "reconnect_features" = "0.3.1"
+L 01/04/2020 - 16:18:22: Server cvar "report_system_version" = "3.1"
+L 01/04/2020 - 16:18:22: Server cvar "resemiclip_version" = "2.3.9"
+L 01/04/2020 - 16:18:22: Server cvar "reu_version" = "0.1.0.130"
+L 01/04/2020 - 16:18:22: Server cvar "revoice_version" = "0.1.0.30"
+L 01/04/2020 - 16:18:22: Server cvar "RRWM" = "2.0"
+L 01/04/2020 - 16:18:22: Server cvar "sanksounds_version" = "1.8.6"
+L 01/04/2020 - 16:18:22: Server cvar "SimpleMenu" = "1.1"
+L 01/04/2020 - 16:18:22: Server cvar "SNAC_Version" = "1.1"
+L 01/04/2020 - 16:18:22: Server cvar "SpecList" = "1.2a"
+L 01/04/2020 - 16:18:22: Server cvar "sr_version" = "1.6"
+L 01/04/2020 - 16:18:22: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/04/2020 - 16:18:22: Server cvar "StyleC4Timer" = "2.1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_accelerate" = "5"
+L 01/04/2020 - 16:18:22: Server cvar "sv_aim" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_airaccelerate" = "100"
+L 01/04/2020 - 16:18:22: Server cvar "sv_allowupload" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_alltalk" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_bounce" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_cheats" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "sv_clienttrace" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/04/2020 - 16:18:22: Server cvar "sv_friction" = "4"
+L 01/04/2020 - 16:18:22: Server cvar "sv_gravity" = "800"
+L 01/04/2020 - 16:18:22: Server cvar "sv_logblocks" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "sv_maxrate" = "50000"
+L 01/04/2020 - 16:18:22: Server cvar "sv_maxspeed" = "900"
+L 01/04/2020 - 16:18:22: Server cvar "sv_minrate" = "10000"
+L 01/04/2020 - 16:18:22: Server cvar "sv_password" = ""
+L 01/04/2020 - 16:18:22: Server cvar "sv_proxies" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_restart" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "sv_restartround" = "0"
+L 01/04/2020 - 16:18:22: Server cvar "sv_stepsize" = "18"
+L 01/04/2020 - 16:18:22: Server cvar "sv_stopspeed" = "75"
+L 01/04/2020 - 16:18:22: Server cvar "sv_uploadmax" = "0.5"
+L 01/04/2020 - 16:18:22: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/04/2020 - 16:18:22: Server cvar "sv_voiceenable" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "sv_wateraccelerate" = "10"
+L 01/04/2020 - 16:18:22: Server cvar "sv_waterfriction" = "1"
+L 01/04/2020 - 16:18:22: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/04/2020 - 16:18:22: Server cvar "vehicle_real_killer" = "1.1"
+L 01/04/2020 - 16:18:22: Server cvar "WalkGuard" = "1.3.2"
+L 01/04/2020 - 16:18:22: Server cvar "we_grenades" = "Huehue"
+L 01/04/2020 - 16:18:22: Server cvar "we_player_models" = "Huehue"
+L 01/04/2020 - 16:18:22: Server cvar "whb_version" = "1.5.692"
+L 01/04/2020 - 16:18:22: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/04/2020 - 16:18:22: Server cvars end
+L 01/04/2020 - 16:18:25: Server cvar "mp_autoteambalance" = "1"
+L 01/04/2020 - 16:18:25: Server cvar "mp_autoteambalance" = "0"
+L 01/04/2020 - 16:18:25: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/04/2020 - 16:18:27: Started map "awp_snowfun2" (CRC "1799787328")
+L 01/04/2020 - 16:18:29: World triggered "Round_Start"
+L 01/04/2020 - 16:19:26: Server cvar "amx_nextmap" = "chopper_attack"
+L 01/04/2020 - 16:20:26: [REUNION]: IP 79.132.25.20 banned for 10 minutes for query flooding (PPS: 330)
+L 01/04/2020 - 16:20:47: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 01/04/2020 - 16:20:47: World triggered "Round_End"
+L 01/04/2020 - 16:20:53: World triggered "Round_Start"
+L 01/04/2020 - 16:23:11: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 01/04/2020 - 16:23:11: World triggered "Round_End"
+L 01/04/2020 - 16:23:17: World triggered "Round_Start"
+L 01/04/2020 - 16:25:35: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 01/04/2020 - 16:25:35: World triggered "Round_End"
+L 01/04/2020 - 16:25:41: World triggered "Round_Start"
+L 01/04/2020 - 16:27:59: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 01/04/2020 - 16:27:59: World triggered "Round_End"
+L 01/04/2020 - 16:28:05: World triggered "Round_Start"
+L 01/04/2020 - 16:30:23: Team "CT" triggered "Target_Saved" (CT "5") (T "0")
+L 01/04/2020 - 16:30:23: World triggered "Round_End"
+L 01/04/2020 - 16:30:29: World triggered "Round_Start"
+L 01/04/2020 - 16:32:47: Team "CT" triggered "Target_Saved" (CT "6") (T "0")
+L 01/04/2020 - 16:32:47: World triggered "Round_End"
+L 01/04/2020 - 16:32:53: World triggered "Round_Start"
+L 01/04/2020 - 16:35:11: Team "CT" triggered "Target_Saved" (CT "7") (T "0")
+L 01/04/2020 - 16:35:11: World triggered "Round_End"
+L 01/04/2020 - 16:35:17: World triggered "Round_Start"
+L 01/04/2020 - 16:36:26: [REUNION]: NE MI SE PRAVI NA PRO (87.126.88.56) authorized as RevEmu
+L 01/04/2020 - 16:36:26: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><>" connected, address "87.126.88.56:27005"
+L 01/04/2020 - 16:36:54: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><>" entered the game
+L 01/04/2020 - 16:37:00: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><>" joined team "TERRORIST"
+L 01/04/2020 - 16:37:00: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:37:35: Team "CT" triggered "Target_Saved" (CT "7") (T "0")
+L 01/04/2020 - 16:37:35: World triggered "Round_End"
+L 01/04/2020 - 16:37:40: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:37:41: World triggered "Round_Start"
+L 01/04/2020 - 16:37:52: [REUNION]: canm ben EL PATRON (85.96.218.51) authorized as RevEmu
+L 01/04/2020 - 16:37:52: "canm ben EL PATRON<80><STEAM_1:1:748561017><>" connected, address "85.96.218.51:16615"
+L 01/04/2020 - 16:37:56: Server cvar "mp_timelimit" = "0.000000"
+L 01/04/2020 - 16:38:26: "canm ben EL PATRON<80><STEAM_1:1:748561017><>" entered the game
+L 01/04/2020 - 16:38:28: "canm ben EL PATRON<80><STEAM_1:1:748561017><>" joined team "CT"
+L 01/04/2020 - 16:38:28: World triggered "Game_Commencing"
+L 01/04/2020 - 16:38:28: World triggered "Game_Commencing" (CT "7") (T "0")
+L 01/04/2020 - 16:38:28: World triggered "Round_End"
+L 01/04/2020 - 16:38:31: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:38:32: World triggered "Round_Start"
+L 01/04/2020 - 16:38:33: Server cvar "mp_timelimit" = "20.000000"
+L 01/04/2020 - 16:38:56: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "usp"
+L 01/04/2020 - 16:38:56: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/04/2020 - 16:38:56: World triggered "Round_End"
+L 01/04/2020 - 16:39:01: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:39:02: World triggered "Round_Start"
+L 01/04/2020 - 16:39:17: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "galil"
+L 01/04/2020 - 16:39:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 01/04/2020 - 16:39:17: World triggered "Round_End"
+L 01/04/2020 - 16:39:22: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:39:23: World triggered "Round_Start"
+L 01/04/2020 - 16:40:01: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "galil"
+L 01/04/2020 - 16:40:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 01/04/2020 - 16:40:01: World triggered "Round_End"
+L 01/04/2020 - 16:40:06: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:40:07: World triggered "Round_Start"
+L 01/04/2020 - 16:40:28: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "galil"
+L 01/04/2020 - 16:40:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 01/04/2020 - 16:40:28: World triggered "Round_End"
+L 01/04/2020 - 16:40:33: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:40:34: World triggered "Round_Start"
+L 01/04/2020 - 16:40:54: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "aug"
+L 01/04/2020 - 16:40:54: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 01/04/2020 - 16:40:54: World triggered "Round_End"
+L 01/04/2020 - 16:40:59: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:41:00: World triggered "Round_Start"
+L 01/04/2020 - 16:41:20: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "aug"
+L 01/04/2020 - 16:41:20: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 01/04/2020 - 16:41:20: World triggered "Round_End"
+L 01/04/2020 - 16:41:25: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:41:26: World triggered "Round_Start"
+L 01/04/2020 - 16:41:57: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "ak47"
+L 01/04/2020 - 16:41:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 01/04/2020 - 16:41:57: World triggered "Round_End"
+L 01/04/2020 - 16:42:02: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:42:03: World triggered "Round_Start"
+L 01/04/2020 - 16:42:06: [REUNION]: MARTI (188.26.220.178) authorized as RevEmu
+L 01/04/2020 - 16:42:06: "MARTI<81><STEAM_1:0:1064418867><>" connected, address "188.26.220.178:27005"
+L 01/04/2020 - 16:42:40: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "scout"
+L 01/04/2020 - 16:42:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 01/04/2020 - 16:42:40: World triggered "Round_End"
+L 01/04/2020 - 16:42:45: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:42:46: World triggered "Round_Start"
+L 01/04/2020 - 16:43:09: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "glock18"
+L 01/04/2020 - 16:43:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 01/04/2020 - 16:43:09: World triggered "Round_End"
+L 01/04/2020 - 16:43:14: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:43:15: World triggered "Round_Start"
+L 01/04/2020 - 16:43:28: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "sg552"
+L 01/04/2020 - 16:43:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "7")
+L 01/04/2020 - 16:43:28: World triggered "Round_End"
+L 01/04/2020 - 16:43:33: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:43:34: World triggered "Round_Start"
+L 01/04/2020 - 16:44:10: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 16:44:10: Team "CT" triggered "CTs_Win" (CT "4") (T "7")
+L 01/04/2020 - 16:44:10: World triggered "Round_End"
+L 01/04/2020 - 16:44:15: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:44:16: World triggered "Round_Start"
+L 01/04/2020 - 16:44:41: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/04/2020 - 16:44:59: [REUNION]: Chane (79.100.223.176) authorized as RevEmu
+L 01/04/2020 - 16:44:59: "Chane<82><STEAM_2:1:1034716719><>" connected, address "79.100.223.176:19416"
+L 01/04/2020 - 16:45:03: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg552"
+L 01/04/2020 - 16:45:05: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 01/04/2020 - 16:45:15: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" triggered "Defused_The_Bomb"
+L 01/04/2020 - 16:45:15: Team "CT" triggered "Bomb_Defused" (CT "5") (T "7")
+L 01/04/2020 - 16:45:15: World triggered "Round_End"
+L 01/04/2020 - 16:45:20: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:45:21: World triggered "Round_Start"
+L 01/04/2020 - 16:45:33: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg552"
+L 01/04/2020 - 16:45:33: Team "CT" triggered "CTs_Win" (CT "6") (T "7")
+L 01/04/2020 - 16:45:33: World triggered "Round_End"
+L 01/04/2020 - 16:45:38: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:45:39: World triggered "Round_Start"
+L 01/04/2020 - 16:45:52: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg552"
+L 01/04/2020 - 16:45:52: Team "CT" triggered "CTs_Win" (CT "7") (T "7")
+L 01/04/2020 - 16:45:52: World triggered "Round_End"
+L 01/04/2020 - 16:45:57: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:45:58: World triggered "Round_Start"
+L 01/04/2020 - 16:46:15: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "usp"
+L 01/04/2020 - 16:46:15: Team "CT" triggered "CTs_Win" (CT "8") (T "7")
+L 01/04/2020 - 16:46:15: World triggered "Round_End"
+L 01/04/2020 - 16:46:20: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:46:21: World triggered "Round_Start"
+L 01/04/2020 - 16:46:40: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "ak47"
+L 01/04/2020 - 16:46:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "8")
+L 01/04/2020 - 16:46:40: World triggered "Round_End"
+L 01/04/2020 - 16:46:45: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:46:46: World triggered "Round_Start"
+L 01/04/2020 - 16:47:01: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "m4a1"
+L 01/04/2020 - 16:47:01: Team "CT" triggered "CTs_Win" (CT "9") (T "8")
+L 01/04/2020 - 16:47:01: World triggered "Round_End"
+L 01/04/2020 - 16:47:06: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:47:07: World triggered "Round_Start"
+L 01/04/2020 - 16:47:22: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "knife"
+L 01/04/2020 - 16:47:22: Team "CT" triggered "CTs_Win" (CT "10") (T "8")
+L 01/04/2020 - 16:47:22: World triggered "Round_End"
+L 01/04/2020 - 16:47:27: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:47:28: World triggered "Round_Start"
+L 01/04/2020 - 16:48:22: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "m4a1"
+L 01/04/2020 - 16:48:22: Team "CT" triggered "CTs_Win" (CT "11") (T "8")
+L 01/04/2020 - 16:48:22: World triggered "Round_End"
+L 01/04/2020 - 16:48:27: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:48:28: World triggered "Round_Start"
+L 01/04/2020 - 16:48:30: [REUNION]: *Mr.Bombastic* (77.29.211.54) authorized as RevEmu
+L 01/04/2020 - 16:48:30: "*Mr.Bombastic*<83><STEAM_1:1:25228615><>" connected, address "77.29.211.54:27005"
+L 01/04/2020 - 16:48:38: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "m4a1"
+L 01/04/2020 - 16:48:38: Team "CT" triggered "CTs_Win" (CT "12") (T "8")
+L 01/04/2020 - 16:48:38: World triggered "Round_End"
+L 01/04/2020 - 16:48:43: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:48:44: World triggered "Round_Start"
+L 01/04/2020 - 16:48:57: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "awp"
+L 01/04/2020 - 16:48:57: Team "CT" triggered "CTs_Win" (CT "13") (T "8")
+L 01/04/2020 - 16:48:57: World triggered "Round_End"
+L 01/04/2020 - 16:49:01: "*Mr.Bombastic*<83><STEAM_1:1:25228615><>" entered the game
+L 01/04/2020 - 16:49:02: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:49:03: World triggered "Round_Start"
+L 01/04/2020 - 16:49:27: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "scout"
+L 01/04/2020 - 16:49:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "9")
+L 01/04/2020 - 16:49:27: World triggered "Round_End"
+L 01/04/2020 - 16:49:29: "*Mr.Bombastic*<83><STEAM_1:1:25228615><>" joined team "CT"
+L 01/04/2020 - 16:49:32: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:49:33: World triggered "Round_Start"
+L 01/04/2020 - 16:49:53: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:49:53: Team "CT" triggered "CTs_Win" (CT "14") (T "9")
+L 01/04/2020 - 16:49:53: World triggered "Round_End"
+L 01/04/2020 - 16:49:58: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:49:59: World triggered "Round_Start"
+L 01/04/2020 - 16:50:13: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:50:13: Team "CT" triggered "CTs_Win" (CT "15") (T "9")
+L 01/04/2020 - 16:50:13: World triggered "Round_End"
+L 01/04/2020 - 16:50:18: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:50:19: World triggered "Round_Start"
+L 01/04/2020 - 16:50:30: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:50:30: Team "CT" triggered "CTs_Win" (CT "16") (T "9")
+L 01/04/2020 - 16:50:30: World triggered "Round_End"
+L 01/04/2020 - 16:50:35: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:50:36: World triggered "Round_Start"
+L 01/04/2020 - 16:50:40: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:50:40: Team "CT" triggered "CTs_Win" (CT "17") (T "9")
+L 01/04/2020 - 16:50:40: World triggered "Round_End"
+L 01/04/2020 - 16:50:45: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:50:46: World triggered "Round_Start"
+L 01/04/2020 - 16:51:01: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:51:01: Team "CT" triggered "CTs_Win" (CT "18") (T "9")
+L 01/04/2020 - 16:51:01: World triggered "Round_End"
+L 01/04/2020 - 16:51:06: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:51:07: World triggered "Round_Start"
+L 01/04/2020 - 16:51:19: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:51:19: Team "CT" triggered "CTs_Win" (CT "19") (T "9")
+L 01/04/2020 - 16:51:19: World triggered "Round_End"
+L 01/04/2020 - 16:51:24: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:51:25: World triggered "Round_Start"
+L 01/04/2020 - 16:51:37: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:51:37: Team "CT" triggered "CTs_Win" (CT "20") (T "9")
+L 01/04/2020 - 16:51:37: World triggered "Round_End"
+L 01/04/2020 - 16:51:42: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:51:42: [REUNION]: s1mpleee (84.20.230.46) authorized as RevEmu
+L 01/04/2020 - 16:51:42: "s1mpleee<84><STEAM_2:0:57948857><>" connected, address "84.20.230.46:27005"
+L 01/04/2020 - 16:51:43: World triggered "Round_Start"
+L 01/04/2020 - 16:52:26: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "fiveseven"
+L 01/04/2020 - 16:52:26: Team "CT" triggered "CTs_Win" (CT "21") (T "9")
+L 01/04/2020 - 16:52:26: World triggered "Round_End"
+L 01/04/2020 - 16:52:31: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:52:32: World triggered "Round_Start"
+L 01/04/2020 - 16:52:52: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "fiveseven"
+L 01/04/2020 - 16:52:52: Team "CT" triggered "CTs_Win" (CT "22") (T "9")
+L 01/04/2020 - 16:52:52: World triggered "Round_End"
+L 01/04/2020 - 16:52:57: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:52:58: World triggered "Round_Start"
+L 01/04/2020 - 16:53:16: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "sg550"
+L 01/04/2020 - 16:53:16: Team "CT" triggered "CTs_Win" (CT "23") (T "9")
+L 01/04/2020 - 16:53:16: World triggered "Round_End"
+L 01/04/2020 - 16:53:18: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" committed suicide with "world"
+L 01/04/2020 - 16:53:18: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" joined team "TERRORIST"
+L 01/04/2020 - 16:53:21: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:53:22: World triggered "Round_Start"
+L 01/04/2020 - 16:54:04: [REUNION]: ne me gagvai (85.91.157.186) authorized as NoSteam47
+L 01/04/2020 - 16:54:04: "ne me gagvai<85><VALVE_ID_LAN><>" connected, address "85.91.157.186:27005"
+L 01/04/2020 - 16:54:09: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "*Mr.Bombastic*<83><STEAM_1:1:25228615><TERRORIST>" with "ump45"
+L 01/04/2020 - 16:54:12: [REUNION]: ne me gagvai (85.91.157.186) authorized as NoSteam47
+L 01/04/2020 - 16:54:12: "ne me gagvai<86><VALVE_ID_LAN><>" connected, address "85.91.157.186:27005"
+L 01/04/2020 - 16:54:15: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" with "ump45"
+L 01/04/2020 - 16:54:15: Team "CT" triggered "CTs_Win" (CT "24") (T "9")
+L 01/04/2020 - 16:54:15: World triggered "Round_End"
+L 01/04/2020 - 16:54:20: "*Mr.Bombastic*<83><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:54:21: World triggered "Round_Start"
+L 01/04/2020 - 16:54:25: "xXMr.ONurXx_YT<87><STEAM_0:0:526678195><>" connected, address "79.132.25.20:27005"
+L 01/04/2020 - 16:54:25: "xXMr.ONurXx_YT<87><STEAM_0:0:526678195><>" STEAM USERID validated
+L 01/04/2020 - 16:54:45: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "elite"
+L 01/04/2020 - 16:54:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "10")
+L 01/04/2020 - 16:54:45: World triggered "Round_End"
+L 01/04/2020 - 16:54:50: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:54:50: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><>" connected, address "79.132.25.20:27005"
+L 01/04/2020 - 16:54:51: World triggered "Round_Start"
+L 01/04/2020 - 16:54:51: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><>" STEAM USERID validated
+L 01/04/2020 - 16:55:01: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" killed "*Mr.Bombastic*<83><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/04/2020 - 16:55:03: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "ump45"
+L 01/04/2020 - 16:55:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "11")
+L 01/04/2020 - 16:55:03: World triggered "Round_End"
+L 01/04/2020 - 16:55:08: "*Mr.Bombastic*<83><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:55:09: World triggered "Round_Start"
+L 01/04/2020 - 16:55:35: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "ump45"
+L 01/04/2020 - 16:55:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "12")
+L 01/04/2020 - 16:55:35: World triggered "Round_End"
+L 01/04/2020 - 16:55:37: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><>" entered the game
+L 01/04/2020 - 16:55:40: "*Mr.Bombastic*<83><STEAM_1:1:25228615><TERRORIST>" joined team "CT"
+L 01/04/2020 - 16:55:40: "<><><>" triggered "amx_chat" (text "[PTB] Transfered *Mr.Bombastic* to CT")
+L 01/04/2020 - 16:55:40: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:55:41: World triggered "Round_Start"
+L 01/04/2020 - 16:55:44: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><>" joined team "TERRORIST"
+L 01/04/2020 - 16:56:11: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" with "deagle"
+L 01/04/2020 - 16:56:16: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" killed "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" with "mac10"
+L 01/04/2020 - 16:56:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "13")
+L 01/04/2020 - 16:56:16: World triggered "Round_End"
+L 01/04/2020 - 16:56:21: "canm ben EL PATRON<80><STEAM_1:1:748561017><CT>" joined team "TERRORIST"
+L 01/04/2020 - 16:56:21: "<><><>" triggered "amx_chat" (text "[PTB] Transfered canm ben EL PATRON to TERRORIST")
+L 01/04/2020 - 16:56:21: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:56:22: World triggered "Round_Start"
+L 01/04/2020 - 16:56:38: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" killed "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" with "m4a1"
+L 01/04/2020 - 16:56:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "14")
+L 01/04/2020 - 16:56:38: World triggered "Round_End"
+L 01/04/2020 - 16:56:43: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><TERRORIST>" joined team "CT"
+L 01/04/2020 - 16:56:43: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to CT")
+L 01/04/2020 - 16:56:43: "canm ben EL PATRON<80><STEAM_1:1:748561017><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:56:44: World triggered "Round_Start"
+L 01/04/2020 - 16:57:03: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><CT>" killed "canm ben EL PATRON<80><STEAM_1:1:748561017><TERRORIST>" with "sg552"
+L 01/04/2020 - 16:57:10: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" with "sg552"
+L 01/04/2020 - 16:57:10: Team "CT" triggered "CTs_Win" (CT "25") (T "14")
+L 01/04/2020 - 16:57:10: World triggered "Round_End"
+L 01/04/2020 - 16:57:11: "canm ben EL PATRON<80><STEAM_1:1:748561017><TERRORIST>" disconnected
+L 01/04/2020 - 16:57:15: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:57:16: World triggered "Round_Start"
+L 01/04/2020 - 16:57:25: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" killed "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" with "sg552"
+L 01/04/2020 - 16:57:25: Team "CT" triggered "CTs_Win" (CT "26") (T "14")
+L 01/04/2020 - 16:57:25: World triggered "Round_End"
+L 01/04/2020 - 16:57:30: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:57:31: World triggered "Round_Start"
+L 01/04/2020 - 16:57:42: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" killed "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/04/2020 - 16:57:43: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><CT>" killed "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" with "scout"
+L 01/04/2020 - 16:57:43: Team "CT" triggered "CTs_Win" (CT "27") (T "14")
+L 01/04/2020 - 16:57:43: World triggered "Round_End"
+L 01/04/2020 - 16:57:48: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:57:49: World triggered "Round_Start"
+L 01/04/2020 - 16:57:59: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/04/2020 - 16:58:06: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><CT>" killed "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" with "fiveseven"
+L 01/04/2020 - 16:58:11: Server cvar "mp_timelimit" = "0.000000"
+L 01/04/2020 - 16:58:14: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 01/04/2020 - 16:58:24: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" triggered "Defused_The_Bomb"
+L 01/04/2020 - 16:58:24: Team "CT" triggered "Bomb_Defused" (CT "28") (T "14")
+L 01/04/2020 - 16:58:24: World triggered "Round_End"
+L 01/04/2020 - 16:58:29: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 16:58:30: World triggered "Round_Start"
+L 01/04/2020 - 16:58:30: Server cvar "sv_maxspeed" = "0.000000"
+L 01/04/2020 - 16:58:30: Server cvar "mp_friendlyfire" = "1"
+L 01/04/2020 - 16:58:41: Server cvar "sv_maxspeed" = "900.000000"
+L 01/04/2020 - 16:58:41: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 16:58:41: Server cvar "mp_timelimit" = "20.000000"
+L 01/04/2020 - 16:58:41: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: AMX Mod X
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: Reunion
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: ReAuthCheck
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: WHBlocker
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: ReSemiclip
+L 01/04/2020 - 16:58:41: [META] ini: Read plugin config for: Revoice
+L 01/04/2020 - 16:58:41: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/04/2020 - 16:58:41: [META] dll: Updating plugins...
+L 01/04/2020 - 16:58:41: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 16:58:41: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/04/2020 - 16:58:41: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/04/2020 - 16:58:41: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 16:58:41: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/04/2020 - 16:58:41: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/04/2020 - 16:58:41: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 16:58:41: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/04/2020 - 16:58:41: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/04/2020 - 16:58:41: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/04/2020 - 16:58:41: "*Mr.Bombastic*<83><STEAM_1:1:25228615><CT>" disconnected
+L 01/04/2020 - 16:58:41: "xXMr.ONurXx_YT<88><STEAM_0:0:526678195><TERRORIST>" disconnected
+L 01/04/2020 - 16:58:41: "NE MI SE PRAVI NA PRO<79><STEAM_2:1:1478724606><CT>" disconnected
+L 01/04/2020 - 16:58:41: World triggered "Round_Draw" (CT "28") (T "14")
+L 01/04/2020 - 16:58:41: World triggered "Round_End"
+L 01/04/2020 - 16:58:41: Log file closed

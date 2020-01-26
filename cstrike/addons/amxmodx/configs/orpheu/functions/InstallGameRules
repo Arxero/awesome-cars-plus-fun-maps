@@ -1,0 +1,22 @@
+{
+	"name" : "InstallGameRules",
+	"library" : "mod",
+	
+	"return" :
+	{
+		"type" : "CGameRules *"
+	},
+	"identifiers":
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : [0x68,"*","*","*","*",0xFF,"*","*","*","*","*",0x83,"*","*",0xFF,"*","*","*","*","*",0xA1,"*","*","*","*",0xD9,"*","*",0xD8,"*","*","*","*","*",0xDF]
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : "_Z16InstallGameRulesv"
+		}
+	]
+}

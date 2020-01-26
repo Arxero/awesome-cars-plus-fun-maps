@@ -1,0 +1,47 @@
+[en]
+ERS_CMD_DISABLED            =  This command has been !tdisabled!n by an admin!
+ERS_SOUND_DISABLED          =  Sounds !tDisabled!n! You should not hear end round sounds anymore.
+ERS_SOUND_ENABLED           =  Sounds !tEnabled!n! You should hear the end round sounds again.
+ERS_DISPLAY_ADS             =  Say !t%s!n to enable or disable the end round sounds for you.
+
+ERS_LOG_LOADING             =  Loading File: "%s"
+ERS_LOG_UNKNOW_EXTENSION    =  Error - Unknow Extension: "%s"
+ERS_LOG_INEXISTENT_FILE     =  Error - Inexistent File: "%s"
+ERS_LOG_NO_TEAM_SOUND       =  Error - You have to specify a team ("T" or "CT") for this sound: "%s"
+ERS_LOG_NO_FILES_FOUND      =  No files found.
+
+[fr]
+ERS_CMD_DISABLED            =  Cette fonctionnalitee a ete rendu !tinactif!n par un admin !
+ERS_SOUND_DISABLED          =  Sons !tinactifs!n ! Tu ne devrais plus entendre les sons de fin de de round.
+ERS_SOUND_ENABLED           =  Sons !tactifs!n ! Tu devrais pouvoir entendre de nouveau les sons de fin de de round.
+ERS_DISPLAY_ADS             =  Tape dans le chat !t%s!n pour activer ou desactiver les sons de fin de round pour toi.
+
+ERS_LOG_LOADING             =  Chargement du fichier : "%s"
+ERS_LOG_UNKNOW_EXTENSION    =  Erreur - Extension inconnue : "%s"
+ERS_LOG_INEXISTENT_FILE     =  Erreur - Fichier inexistant : "%s"
+ERS_LOG_NO_TEAM_SOUND       =  Erreur - Il est obligatoire de specifier un nom d'equipe ("T" ou "CT") pour ce son : "%s"
+ERS_LOG_NO_FILES_FOUND      =  Aucun fichiers a ete trouves.
+
+[es]
+ERS_CMD_DISABLED            =  Este comando fue! Tdesactivado!n por un administrador!
+ERS_SOUND_DISABLED          =  Sonidos !tDesactivados!n no escucharas sonidos al final de la ronda. 
+ERS_SOUND_ENABLED           =  Sonidos !tActivados!n! se debera escuchar sonidos al final de la ronda.
+ERS_DISPLAY_ADS             =  say !t%s!n Para activar o desactivar los sonidos al final de la ronda.
+
+ERS_LOG_LOADING             =  Cargando archivo: "%s"
+ERS_LOG_UNKNOW_EXTENSION    =  Error - Archivo desconocido: "%s"
+ERS_LOG_INEXISTENT_FILE     =  Error - No existe el archivo: "%s"
+ERS_LOG_NO_TEAM_SOUND       =  Error - Nesecitas especificar un equipo ("T" or "CT") Para este sonido: "%s"
+ERS_LOG_NO_FILES_FOUND      =  No se encontro ningun archivo
+
+[de]
+ERS_CMD_DISABLED            =  Dieser Befehl wurde durch einen Admin !tabgeschaltet!n!
+ERS_SOUND_DISABLED          =  Sounds !tabgeschaltet!n! Du solltest nun keine Endroundsounds mehr hoeren.
+ERS_SOUND_ENABLED           =  Sounds !taktiviert!n! Du solltest nun Endroundsounds hoeren.
+ERS_DISPLAY_ADS             =  Schreibe !t%s!n um die Endroundsounds fuer dich an/ab zu schalten.
+
+ERS_LOG_LOADING             =  Lade Datei: "%s"
+ERS_LOG_UNKNOW_EXTENSION    =  Fehler - Unbekannter Dateityp: "%s"
+ERS_LOG_INEXISTENT_FILE     =  Fehler - Datei fehlt: "%s"
+ERS_LOG_NO_TEAM_SOUND       =  Fehler - Du musst ein Team angeben ("T" oder "CT") fuer diesen Sound: "%s"
+ERS_LOG_NO_FILES_FOUND      =  Keine Dateien gefunden.

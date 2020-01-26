@@ -1,0 +1,1561 @@
+L 01/16/2020 - 00:02:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:02:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:04:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:04:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:07:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:07:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:09:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:09:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:11:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:11:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:13:24: Start of error session.
+L 01/16/2020 - 00:13:24: Info (map "woohoo_cars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 00:13:24: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 00:13:25: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 00:13:25: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 00:13:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:14:45: Start of error session.
+L 01/16/2020 - 00:14:45: Info (map "GM_StarWars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 00:14:45: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 00:14:46: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 00:14:46: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 00:14:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:16:17: Start of error session.
+L 01/16/2020 - 00:16:17: Info (map "big_city") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 00:16:17: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 00:16:18: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 00:16:18: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 00:16:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:17:31: Start of error session.
+L 01/16/2020 - 00:17:31: Info (map "most_wanted") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 00:17:31: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 00:17:32: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 00:17:32: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 00:17:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:18:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:18:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:28:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:28:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:28:38: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:28:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:29:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:29:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:31:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:31:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:33:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:33:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:34:06: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:34:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:37:38: Start of error session.
+L 01/16/2020 - 00:37:38: Info (map "as_crazytank3") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 00:37:38: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 00:37:39: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 00:37:39: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 00:37:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:40:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:42:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:42:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:44:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:47:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:47:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:49:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:49:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:52:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:52:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:54:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:54:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:56:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 00:56:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 00:57:45: Start of error session.
+L 01/16/2020 - 00:57:45: Info (map "big_city") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 00:57:45: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 00:57:45: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 00:57:45: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 00:57:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:00:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:00:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:02:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:02:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:04:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:04:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:07:19: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:09:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:09:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:12:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:12:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:14:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:14:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:16:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:16:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:17:51: Start of error session.
+L 01/16/2020 - 01:17:51: Info (map "de_airninja") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 01:17:51: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 01:17:52: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 01:17:52: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 01:17:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:20:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:20:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:22:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:22:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:25:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:25:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:27:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:27:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:29:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:29:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:32:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:32:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:34:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:34:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:37:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:37:58: Start of error session.
+L 01/16/2020 - 01:37:58: Info (map "de_lidl") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 01:37:58: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 01:37:59: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 01:37:59: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 01:37:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:40:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:40:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:42:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:42:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:45:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:45:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:47:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:47:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:49:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:49:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:52:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:52:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:54:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:54:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:57:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 01:57:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 01:58:05: Start of error session.
+L 01/16/2020 - 01:58:05: Info (map "Cb_Tanks") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 01:58:05: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 01:58:05: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 01:58:05: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 01:58:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:18:11: Start of error session.
+L 01/16/2020 - 02:18:11: Info (map "de_tesco") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 02:18:11: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 02:18:12: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 02:18:12: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 02:18:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:20:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:20:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:22:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:22:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:25:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:25:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:27:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:27:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:30:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:32:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:32:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:34:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:34:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:37:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:37:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:38:18: Start of error session.
+L 01/16/2020 - 02:38:18: Info (map "awesome_cars2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 02:38:18: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 02:38:19: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 02:38:19: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 02:38:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:48:24: Start of error session.
+L 01/16/2020 - 02:48:24: Info (map "gijoehq_de") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 02:48:24: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 02:48:25: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 02:48:25: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 02:48:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:50:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:53:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:53:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:55:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:55:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 02:57:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 02:57:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:00:23: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:00:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:02:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:02:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:05:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:05:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:07:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:07:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:08:31: Start of error session.
+L 01/16/2020 - 03:08:31: Info (map "as_crazytank3") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 03:08:31: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 03:08:32: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 03:08:32: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 03:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:10:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:10:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:13:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:13:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:15:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:15:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:18:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:18:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:20:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:20:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:22:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:22:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:25:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:25:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:27:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 03:27:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:28:38: Start of error session.
+L 01/16/2020 - 03:28:38: Info (map "car_fight") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 03:28:38: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 03:28:39: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 03:28:39: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 03:28:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 03:48:45: Start of error session.
+L 01/16/2020 - 03:48:45: Info (map "air_fight2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 03:48:45: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 03:48:45: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 03:48:45: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 03:48:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:08:51: Start of error session.
+L 01/16/2020 - 04:08:51: Info (map "shipwreck") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 04:08:51: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 04:08:52: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 04:08:52: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 04:08:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:28:58: Start of error session.
+L 01/16/2020 - 04:28:58: Info (map "awp_snowfun2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 04:28:58: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 04:28:58: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 04:28:58: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 04:28:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:31:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:31:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:33:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:33:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:36:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:36:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:38:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:38:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:40:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:40:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:43:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:43:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:45:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:45:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:48:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:48:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:49:04: Start of error session.
+L 01/16/2020 - 04:49:04: Info (map "chopper_attack") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 04:49:04: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 04:49:05: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 04:49:05: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 04:49:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:51:26: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:51:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:53:50: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:53:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:56:14: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:56:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 04:58:39: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 04:58:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:01:03: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:01:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:03:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:03:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:05:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:05:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:08:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:08:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:09:11: Start of error session.
+L 01/16/2020 - 05:09:11: Info (map "crazytank") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 05:09:11: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 05:09:12: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 05:09:12: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 05:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:11:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:11:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:13:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:13:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:16:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:16:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:18:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:18:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:21:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:21:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:23:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:25:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:25:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:28:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 05:28:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:29:18: Start of error session.
+L 01/16/2020 - 05:29:18: Info (map "starwars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 05:29:18: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 05:29:18: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 05:29:18: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 05:29:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 05:49:24: Start of error session.
+L 01/16/2020 - 05:49:24: Info (map "bridge") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 05:49:24: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 05:49:25: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 05:49:25: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 05:49:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:09:31: Start of error session.
+L 01/16/2020 - 06:09:31: Info (map "nw_gasstation") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 06:09:31: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 06:09:32: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 06:09:32: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 06:09:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:29:38: Start of error session.
+L 01/16/2020 - 06:29:38: Info (map "nipperhouse") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 06:29:38: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 06:29:38: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 06:29:38: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 06:29:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:32:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:32:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:34:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:34:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:36:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:36:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:39:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:39:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:41:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:44:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:44:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:46:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:46:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:48:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:48:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:49:44: Start of error session.
+L 01/16/2020 - 06:49:44: Info (map "cs_jeep_rally2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 06:49:44: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 06:49:45: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 06:49:45: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 06:49:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:52:06: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:52:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:54:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:54:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:56:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:56:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 06:59:18: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 06:59:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:01:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:01:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:04:06: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:04:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:06:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:06:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:08:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:08:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:09:51: Start of error session.
+L 01/16/2020 - 07:09:51: Info (map "big_city2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 07:09:51: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 07:09:52: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 07:09:52: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 07:09:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:12:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:12:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:14:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:14:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:17:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:17:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:19:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:19:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:21:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:21:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:24:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:24:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:26:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:26:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:29:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:29:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:29:58: Start of error session.
+L 01/16/2020 - 07:29:58: Info (map "big_city") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 07:29:58: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 07:29:58: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 07:29:58: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 07:29:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:32:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:32:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:34:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:34:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:37:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:39:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:39:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:41:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:41:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:44:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:44:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:46:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:46:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:49:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:49:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:50:05: Start of error session.
+L 01/16/2020 - 07:50:05: Info (map "de_airninja") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 07:50:05: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 07:50:05: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 07:50:05: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 07:50:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:52:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:52:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:54:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:54:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:57:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:57:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 07:59:39: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 07:59:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:02:03: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:02:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:04:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:04:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:06:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:06:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:09:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:09:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:10:11: Start of error session.
+L 01/16/2020 - 08:10:11: Info (map "de_lidl") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 08:10:11: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 08:10:12: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 08:10:12: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 08:10:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:12:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:12:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:14:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:14:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:17:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:17:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:19:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:19:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:22:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:22:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:24:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:24:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:26:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:26:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:29:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:29:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:30:18: Start of error session.
+L 01/16/2020 - 08:30:18: Info (map "Cb_Tanks") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 08:30:18: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 08:30:19: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 08:30:19: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 08:30:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:50:25: Start of error session.
+L 01/16/2020 - 08:50:25: Info (map "de_tesco") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 08:50:25: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 08:50:26: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 08:50:26: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 08:50:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:52:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:52:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:55:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:55:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:57:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:57:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 08:59:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 08:59:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:02:23: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:02:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:04:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:04:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:07:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:07:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:09:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:09:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:10:32: Start of error session.
+L 01/16/2020 - 09:10:32: Info (map "awesome_cars2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 09:10:32: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 09:10:32: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 09:10:32: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 09:10:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:20:38: Start of error session.
+L 01/16/2020 - 09:20:38: Info (map "gijoehq_de") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 09:20:38: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 09:20:39: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 09:20:39: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 09:20:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:23:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:25:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:25:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:27:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:27:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:30:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:30:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:32:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:32:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:35:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:35:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:37:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:37:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:39:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:39:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:40:45: Start of error session.
+L 01/16/2020 - 09:40:45: Info (map "as_crazytank3") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 09:40:45: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 09:40:46: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 09:40:46: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 09:40:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:43:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:43:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:45:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:45:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:47:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:47:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:50:19: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:50:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:52:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:52:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:55:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:55:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:57:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:57:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 09:59:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 09:59:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 10:00:52: Start of error session.
+L 01/16/2020 - 10:00:52: Info (map "car_fight") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 10:00:52: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 10:00:52: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 10:00:52: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 10:00:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 10:20:58: Start of error session.
+L 01/16/2020 - 10:20:58: Info (map "air_fight2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 10:20:58: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 10:20:59: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 10:20:59: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 10:20:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 10:41:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 10:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 10:41:46: Start of error session.
+L 01/16/2020 - 10:41:46: Info (map "shipwreck") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 10:41:46: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 10:41:47: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 10:41:47: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 10:41:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:01:53: Start of error session.
+L 01/16/2020 - 11:01:53: Info (map "awp_snowfun2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 11:01:53: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 11:01:53: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 11:01:53: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 11:01:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:04:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:04:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:06:39: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:06:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:09:03: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:09:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:11:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:11:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:13:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:13:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:16:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:16:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:18:39: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:18:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:21:03: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:21:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:21:59: Start of error session.
+L 01/16/2020 - 11:21:59: Info (map "chopper_attack") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 11:21:59: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 11:22:00: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 11:22:00: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:24:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:24:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:26:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:26:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:29:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:29:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:31:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:31:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:33:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:33:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:36:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:36:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:38:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:38:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:41:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:41:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:42:06: Start of error session.
+L 01/16/2020 - 11:42:06: Info (map "crazytank") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 11:42:06: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 11:42:07: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 11:42:07: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 11:42:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:44:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:44:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:46:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:46:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:49:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:49:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:51:40: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:51:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:54:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:54:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:56:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:56:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 11:58:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 11:58:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:01:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:01:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:02:13: Start of error session.
+L 01/16/2020 - 12:02:13: Info (map "starwars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 12:02:13: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 12:02:13: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 12:02:13: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 12:02:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:20:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:20:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:22:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:22:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:23:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:23:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:23:21: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 12:23:21: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 12:23:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:23:23: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 12:23:23: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 12:23:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:24:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:24:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:25:26: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:25:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:25:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 12:25:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 12:42:04: Start of error session.
+L 01/16/2020 - 12:42:04: Info (map "bridge") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 12:42:04: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 12:42:05: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 12:42:05: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 12:42:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:02:11: Start of error session.
+L 01/16/2020 - 13:02:11: Info (map "nw_gasstation") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 13:02:11: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 13:02:12: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 13:02:12: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 13:02:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:22:18: Start of error session.
+L 01/16/2020 - 13:22:18: Info (map "nipperhouse") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 13:22:18: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 13:22:18: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 13:22:18: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 13:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:24:40: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:24:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:27:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:27:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:29:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:29:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:31:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:31:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:34:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:34:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:36:40: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:36:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:39:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:41:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:41:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:42:24: Start of error session.
+L 01/16/2020 - 13:42:24: Info (map "cs_jeep_rally2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 13:42:24: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 13:42:25: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 13:42:25: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 13:42:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:44:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:44:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:47:10: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:47:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:49:34: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:49:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:51:58: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:51:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:54:22: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:54:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:56:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:56:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 13:59:10: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 13:59:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:01:34: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:01:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:02:31: Start of error session.
+L 01/16/2020 - 14:02:31: Info (map "big_city2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 14:02:31: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 14:02:32: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 14:02:32: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 14:02:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:04:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:04:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:07:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:07:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:09:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:09:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:12:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:12:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:14:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:14:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:16:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:16:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:19:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:19:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:21:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:21:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:22:38: Start of error session.
+L 01/16/2020 - 14:22:38: Info (map "big_city") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 14:22:38: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 14:22:38: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 14:22:38: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 14:22:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:25:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:27:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:27:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:29:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:29:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:32:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:32:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:34:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:34:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:37:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:37:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:39:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:39:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:41:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:41:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:42:44: Start of error session.
+L 01/16/2020 - 14:42:44: Info (map "de_airninja") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 14:42:44: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 14:42:45: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 14:42:45: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 14:42:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:45:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:45:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:47:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:47:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:49:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:49:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:52:19: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:52:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:54:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:54:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:57:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 14:59:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 14:59:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:01:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:01:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:02:51: Start of error session.
+L 01/16/2020 - 15:02:51: Info (map "de_lidl") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 15:02:51: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 15:02:52: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 15:02:52: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 15:02:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:05:14: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:05:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:07:38: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:07:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:09:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:09:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:10:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:10:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:11:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:11:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:13:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:14:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:14:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:15:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:15:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:15:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:15:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:16:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:16:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:17:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:17:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:18:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:18:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:18:31: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 15:18:31: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 15:18:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:18:32: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 15:18:32: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 15:18:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:18:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:18:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:20:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:20:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:21:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:21:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:22:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:22:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:24:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:24:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:25:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:25:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:25:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:25:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:26:03: Start of error session.
+L 01/16/2020 - 15:26:03: Info (map "fun_gta") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 15:26:03: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 15:26:03: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 15:26:03: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 15:26:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:28:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:28:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:46:10: Start of error session.
+L 01/16/2020 - 15:46:10: Info (map "ow_cc_crazytank") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 15:46:10: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 15:46:10: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 15:46:10: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 15:46:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:48:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:48:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:50:13: Start of error session.
+L 01/16/2020 - 15:50:13: Info (map "de_tesco") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 15:50:13: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 15:50:14: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 15:50:14: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 15:50:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:52:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:52:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:54:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:54:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:57:23: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:57:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 15:59:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 15:59:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:02:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:02:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:04:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:04:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:06:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:06:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:09:23: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:09:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:10:20: Start of error session.
+L 01/16/2020 - 16:10:20: Info (map "awesome_cars2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 16:10:20: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 16:10:21: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 16:10:21: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 16:10:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:20:27: Start of error session.
+L 01/16/2020 - 16:20:27: Info (map "gijoehq_de") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 16:20:27: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 16:20:28: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 16:20:28: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 16:20:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:22:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:22:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:25:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:25:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:27:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:27:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:30:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:30:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:32:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:32:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:34:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:34:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:37:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:37:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:39:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:39:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:40:34: Start of error session.
+L 01/16/2020 - 16:40:34: Info (map "as_crazytank3") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 16:40:34: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 16:40:35: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 16:40:35: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 16:40:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:42:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:42:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:45:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:45:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:47:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:47:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:50:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:50:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:52:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:52:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:54:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:54:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:57:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:57:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 16:59:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 16:59:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 17:00:41: Start of error session.
+L 01/16/2020 - 17:00:41: Info (map "car_fight") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 17:00:41: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 17:00:41: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 17:00:41: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 17:00:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 17:20:47: Start of error session.
+L 01/16/2020 - 17:20:47: Info (map "air_fight2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 17:20:47: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 17:20:48: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 17:20:48: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 17:20:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 17:40:54: Start of error session.
+L 01/16/2020 - 17:40:54: Info (map "shipwreck") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 17:40:54: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 17:40:55: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 17:40:55: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 17:40:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:01:01: Start of error session.
+L 01/16/2020 - 18:01:01: Info (map "awp_snowfun2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 18:01:01: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 18:01:01: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 18:01:01: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 18:01:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:03:23: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:03:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:05:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:05:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:05:53: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 18:05:53: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 18:05:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:06:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:06:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:09:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:11:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:14:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:14:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:16:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:16:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:18:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:18:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:21:07: Start of error session.
+L 01/16/2020 - 18:21:07: Info (map "chopper_attack") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 18:21:07: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 18:21:08: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 18:21:08: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 18:21:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:23:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:23:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:26:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:26:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:26:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:26:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:27:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:27:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:28:23: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:28:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:29:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:29:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:30:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:30:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:32:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:32:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:33:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:33:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:34:10: Start of error session.
+L 01/16/2020 - 18:34:10: Info (map "cs_carzzz") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 18:34:10: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 18:34:11: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 18:34:11: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 18:34:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:34:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:34:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:35:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:35:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:36:14: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:36:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:36:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:36:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:37:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:37:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:38:10: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:38:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:39:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:39:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:40:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:40:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:41:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:41:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:42:04: Start of error session.
+L 01/16/2020 - 18:42:04: Info (map "cs_whiteXmas") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 18:42:04: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 18:42:04: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 18:42:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:42:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:42:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:45:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:45:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:45:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:45:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:46:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:46:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:47:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:47:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:48:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:48:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:49:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:49:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:49:23: Start of error session.
+L 01/16/2020 - 18:49:23: Info (map "crazytank_x") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 18:49:23: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 18:49:23: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 18:49:23: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 18:49:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:50:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:50:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:51:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:51:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:54:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:54:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:55:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:55:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:57:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 18:57:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 18:57:17: Start of error session.
+L 01/16/2020 - 18:57:17: Info (map "fy_jeepbattle") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 18:57:17: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 18:57:17: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 18:57:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:23:03: Start of error session.
+L 01/16/2020 - 19:23:03: Info (map "GM_StarWars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 19:23:03: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 19:23:03: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 19:23:03: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 19:23:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:23:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:23:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:27:06: Start of error session.
+L 01/16/2020 - 19:27:06: Info (map "crazytank") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 19:27:06: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 19:27:07: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 19:27:07: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 19:27:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:29:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:29:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:31:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:31:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:34:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:34:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:36:40: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:36:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:39:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:41:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:41:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:43:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:43:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:46:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 19:46:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 19:47:13: Start of error session.
+L 01/16/2020 - 19:47:13: Info (map "starwars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 19:47:13: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 19:47:14: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 19:47:14: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 19:47:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:02:26: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:02:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:03:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:03:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:03:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:03:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:04:02: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:04:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:04:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:04:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:05:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:05:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:05:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:05:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:06:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:06:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:06:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:06:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:07:19: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:08:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:08:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:08:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:08:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:09:10: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:09:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:09:24: Start of error session.
+L 01/16/2020 - 20:09:24: Info (map "gijoe_cars") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 20:09:24: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 20:09:25: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 20:09:25: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 20:09:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:10:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:10:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:11:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:11:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:12:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:12:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:13:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:13:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:13:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:13:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:14:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:14:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:15:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:15:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:17:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:17:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:18:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:18:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:18:50: Start of error session.
+L 01/16/2020 - 20:18:50: Info (map "fy_buzzkill") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 20:18:50: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 20:18:51: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 20:18:51: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 20:18:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:19:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:19:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:19:40: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:19:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:20:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:20:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:20:34: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:20:34: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:20:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:20:34: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:20:34: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:20:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:20:35: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:20:35: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:20:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:20:36: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:20:36: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:20:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:20:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:20:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:21:24: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:21:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:21:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:21:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:22:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:22:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:23:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:23:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:23:18: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:23:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:23:38: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:23:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:24:02: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:24:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:24:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:24:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:24:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:24:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:25:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:25:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:25:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:25:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:26:22: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:26:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:27:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:27:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:27:19: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:27:19: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:27:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:27:19: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:27:19: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:27:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:27:20: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:27:20: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:27:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:27:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:27:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:28:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:28:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:28:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:28:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:29:18: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:29:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:29:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:29:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:30:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:30:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:31:00: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:31:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:31:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:31:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:31:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:31:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:32:13: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:32:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:32:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:32:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:33:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:33:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:34:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:34:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:34:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:34:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:34:37: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:34:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:35:02: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:35:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:35:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:35:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:35:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:36:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:36:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:37:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:37:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:37:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:37:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:37:37: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 20:37:37: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:37:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:37:37: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 20:37:37: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:37:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:37:38: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 20:37:38: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:37:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:38:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:38:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:38:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:39:10: Start of error session.
+L 01/16/2020 - 20:39:10: Info (map "cs_rio") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 20:39:10: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 20:39:10: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 20:39:10: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 20:39:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:39:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:39:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:40:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:40:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:41:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:41:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:41:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:41:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:42:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:42:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:43:14: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:43:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:43:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:43:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:43:48: [HAMSANDWICH] Invalid player 0 (not in-game)
+L 01/16/2020 - 20:43:48: [AMXX] Run time error 10 (plugin "napalm_nades.amxx") (native "get_pdata_cbase") - debug not enabled!
+L 01/16/2020 - 20:43:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:44:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:44:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:44:39: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:44:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:45:06: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:45:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:46:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:46:50: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:46:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:46:57: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:46:57: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:46:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:46:57: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:46:57: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:46:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:46:58: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 20:46:58: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 20:46:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:47:04: Start of error session.
+L 01/16/2020 - 20:47:04: Info (map "isengard_battle") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 20:47:04: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 20:47:05: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 20:47:05: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 20:47:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:48:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:48:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:49:28: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:49:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:50:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:51:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:51:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:52:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:52:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:54:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:54:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:54:47: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:54:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:55:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:55:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:57:46: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:57:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:58:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:58:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:58:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:58:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:59:14: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:59:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 20:59:36: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 20:59:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:00:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:00:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:00:11: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 21:00:11: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 21:00:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:00:11: [FUN] Item "weapon_weapon_elite" failed to create
+L 01/16/2020 - 21:00:11: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 21:00:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:00:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:00:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:00:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:00:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:01:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:01:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:01:48: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:01:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:02:02: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:02:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:03:03: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:03:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:03:09: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 21:03:09: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 21:03:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:03:10: [FUN] Item "weapon_weapon_p90" failed to create
+L 01/16/2020 - 21:03:10: [AMXX] Run time error 10 (plugin "rrwm2.amxx") (native "give_item") - debug not enabled!
+L 01/16/2020 - 21:03:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:03:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:03:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:03:38: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:03:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:05:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:05:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:06:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:06:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:06:34: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:06:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:07:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:07:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:07:43: Start of error session.
+L 01/16/2020 - 21:07:43: Info (map "supercrazytank") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 21:07:43: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 21:07:44: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 21:07:44: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 21:07:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:08:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:08:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:09:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:09:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:09:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:09:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:10:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:10:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:11:49: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:11:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:12:53: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:12:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:15:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:15:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:15:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:15:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:16:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:16:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:17:22: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:17:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:18:34: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:18:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:19:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:19:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:20:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:20:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:21:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:21:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:23:01: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:23:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:24:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:24:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:26:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:26:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:27:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:27:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:27:32: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:27:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:28:55: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:28:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:30:11: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:30:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:32:35: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:32:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:33:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:33:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:34:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:34:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:34:24: Start of error session.
+L 01/16/2020 - 21:34:24: Info (map "as_crazytank2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 21:34:24: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 21:34:24: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 21:34:24: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 21:34:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:34:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:34:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:35:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:35:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:37:29: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:37:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:38:27: Start of error session.
+L 01/16/2020 - 21:38:27: Info (map "nw_gasstation") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 21:38:27: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 21:38:28: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 21:38:28: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 21:38:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:53:05: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 21:53:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 21:58:34: Start of error session.
+L 01/16/2020 - 21:58:34: Info (map "nipperhouse") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 21:58:34: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 21:58:35: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 21:58:35: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 21:58:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:00:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:00:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:03:20: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:03:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:05:44: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:05:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:08:08: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:08:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:10:10: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:12:34: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:12:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:14:58: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:14:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:17:22: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:17:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:18:41: Start of error session.
+L 01/16/2020 - 22:18:41: Info (map "cs_jeep_rally2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 22:18:41: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 22:18:41: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 22:18:41: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 22:18:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:21:03: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:21:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:23:27: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:25:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:25:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:28:15: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:28:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:28:51: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:28:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:28:56: Start of error session.
+L 01/16/2020 - 22:28:56: Info (map "big_city2") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 22:28:56: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 22:28:57: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 22:28:57: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 22:28:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:31:18: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:31:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:33:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:33:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:36:06: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:36:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:38:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:38:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:40:54: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:40:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:44:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:44:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:46:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:46:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:48:17: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:48:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:49:56: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:49:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:51:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:51:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:51:52: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:51:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:53:12: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:53:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:53:41: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:53:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:53:59: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:53:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:54:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:54:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:55:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:55:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:56:25: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:56:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:56:42: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:56:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 22:59:06: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 22:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:01:30: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:01:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:03:43: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:03:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:06:07: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:06:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:08:31: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:08:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:10:40: Start of error session.
+L 01/16/2020 - 23:10:40: Info (map "big_city") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 23:10:40: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 23:10:41: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 23:10:41: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 23:10:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:13:02: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:13:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:15:26: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:15:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:17:50: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:17:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:20:14: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:20:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:22:38: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:22:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:25:02: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:25:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:27:26: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:27:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:29:50: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:29:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:30:47: Start of error session.
+L 01/16/2020 - 23:30:47: Info (map "de_airninja") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 23:30:47: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 23:30:48: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 23:30:48: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 23:30:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:33:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:33:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:35:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:35:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:37:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:37:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:40:21: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:40:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:42:45: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:42:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:45:09: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:45:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:47:33: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:47:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:49:57: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:49:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:50:54: Start of error session.
+L 01/16/2020 - 23:50:54: Info (map "de_lidl") (file "addons/amxmodx/logs/error_20200116.log")
+L 01/16/2020 - 23:50:54: [AMXX] Invalid Plugin (plugin "rainysnowy.amxx")
+L 01/16/2020 - 23:50:55: [admin_money.amxx] Could not find file: addons/amxmodx/data/amxmod-lang/admin_money.txt
+L 01/16/2020 - 23:50:55: [AMXX] Run time error 10 (plugin "admin_money.amxx") (native "abort") - debug not enabled!
+L 01/16/2020 - 23:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:53:16: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:53:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:55:40: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:55:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2020 - 23:58:04: [AMXX] Run time error 4 (plugin "amx_advanced_hp_ap.amxx") - debug not enabled!
+L 01/16/2020 - 23:58:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

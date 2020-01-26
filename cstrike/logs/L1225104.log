@@ -1,0 +1,439 @@
+L 12/25/2019 - 21:51:29: Log file started (file "logs/L1225104.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/25/2019 - 21:51:29: Loading map "cs_carzzz"
+L 12/25/2019 - 21:51:29: Server cvars start
+L 12/25/2019 - 21:51:29: Server cvar "@BunnyHopper" = "3.x"
+L 12/25/2019 - 21:51:29: Server cvar "@CRXGoSpec" = "1.1"
+L 12/25/2019 - 21:51:29: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "@D.I.C.E." = "1.1"
+L 12/25/2019 - 21:51:29: Server cvar "@MOTDCommands" = "1.2"
+L 12/25/2019 - 21:51:29: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/25/2019 - 21:51:29: Server cvar "AdvancedMute" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "aesp_version" = "1.3"
+L 12/25/2019 - 21:51:29: Server cvar "allow_spectators" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "amx_client_languages" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "amx_language" = "en"
+L 12/25/2019 - 21:51:29: Server cvar "amx_nextmap" = "cs_carzzz"
+L 12/25/2019 - 21:51:29: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/25/2019 - 21:51:29: Server cvar "amx_timeleft" = "08:00"
+L 12/25/2019 - 21:51:29: Server cvar "amxmodx_version" = "1.8.2"
+L 12/25/2019 - 21:51:29: Server cvar "amxxbg_vip" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "asp_version" = "4.5.1"
+L 12/25/2019 - 21:51:29: Server cvar "atac_version" = "3.0.1"
+L 12/25/2019 - 21:51:29: Server cvar "badcamper_version" = "1.4 beta"
+L 12/25/2019 - 21:51:29: Server cvar "blockmaker" = "4.01"
+L 12/25/2019 - 21:51:29: Server cvar "c4 timer" = "1.1"
+L 12/25/2019 - 21:51:29: Server cvar "coop" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "CRXAdminGroups" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "CRXFastKnife" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "CRXGametracker" = "2.0"
+L 12/25/2019 - 21:51:29: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/25/2019 - 21:51:29: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "CustomShop" = "4.2"
+L 12/25/2019 - 21:51:29: Server cvar "deathmatch" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "decalfrequency" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "edgefriction" = "2"
+L 12/25/2019 - 21:51:29: Server cvar "ers_version" = "2.3c"
+L 12/25/2019 - 21:51:29: Server cvar "gagsystem_shoko" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/25/2019 - 21:51:29: Server cvar "gal_version" = "v5.9.1-926"
+L 12/25/2019 - 21:51:29: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/25/2019 - 21:51:29: Server cvar "humans_join_team" = "any"
+L 12/25/2019 - 21:51:29: Server cvar "jtp10181" = "chute,gore"
+L 12/25/2019 - 21:51:29: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/25/2019 - 21:51:29: Server cvar "LetitSnow" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/25/2019 - 21:51:29: Server cvar "max_queries_sec" = "3"
+L 12/25/2019 - 21:51:29: Server cvar "max_queries_sec_global" = "150"
+L 12/25/2019 - 21:51:29: Server cvar "max_queries_window" = "60"
+L 12/25/2019 - 21:51:29: Server cvar "mdbBans" = "4.8"
+L 12/25/2019 - 21:51:29: Server cvar "metamod_version" = "1.21p37"
+L 12/25/2019 - 21:51:29: Server cvar "mp_autokick" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_autokick_timeout" = "-1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_autoteambalance" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_buytime" = "0.25"
+L 12/25/2019 - 21:51:29: Server cvar "mp_c4timer" = "35"
+L 12/25/2019 - 21:51:29: Server cvar "mp_chattime" = "10"
+L 12/25/2019 - 21:51:29: Server cvar "mp_consistency" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_fadetoblack" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_flashlight" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_footsteps" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_forcecamera" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_forcechasecam" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_forcerespawn" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_fraglimit" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_fragsleft" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_freeforall" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_freezetime" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_friendlyfire" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_hostage_hurtable" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_hostagepenalty" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_item_staytime" = "300"
+L 12/25/2019 - 21:51:29: Server cvar "mp_kickpercent" = "0.66"
+L 12/25/2019 - 21:51:29: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_limitteams" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_logdetail" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_logfile" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_logmessages" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/25/2019 - 21:51:29: Server cvar "mp_maxmoney" = "999999"
+L 12/25/2019 - 21:51:29: Server cvar "mp_maxrounds" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_mirrordamage" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_playerid" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_round_infinite" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_round_restart_delay" = "5"
+L 12/25/2019 - 21:51:29: Server cvar "mp_roundover" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_roundtime" = "2.3"
+L 12/25/2019 - 21:51:29: Server cvar "mp_show_radioicon" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_startmoney" = "850"
+L 12/25/2019 - 21:51:29: Server cvar "mp_timeleft" = "07:59"
+L 12/25/2019 - 21:51:29: Server cvar "mp_timelimit" = "20"
+L 12/25/2019 - 21:51:29: Server cvar "mp_tkpunish" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "mp_windifference" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "mp_winlimit" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/25/2019 - 21:51:29: Server cvar "pausable" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "present_version" = "2.01"
+L 12/25/2019 - 21:51:29: Server cvar "RandomHP" = "2.2"
+L 12/25/2019 - 21:51:29: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/25/2019 - 21:51:29: Server cvar "reconnect_features" = "0.3.1"
+L 12/25/2019 - 21:51:29: Server cvar "report_system_version" = "3.1"
+L 12/25/2019 - 21:51:29: Server cvar "resemiclip_version" = "2.3.9"
+L 12/25/2019 - 21:51:29: Server cvar "reu_version" = "0.1.0.130"
+L 12/25/2019 - 21:51:29: Server cvar "revoice_version" = "0.1.0.30"
+L 12/25/2019 - 21:51:29: Server cvar "RRWM" = "2.0"
+L 12/25/2019 - 21:51:29: Server cvar "sanksounds_version" = "1.8.6"
+L 12/25/2019 - 21:51:29: Server cvar "SimpleMenu" = "1.1"
+L 12/25/2019 - 21:51:29: Server cvar "SNAC_Version" = "1.1"
+L 12/25/2019 - 21:51:29: Server cvar "SpecList" = "1.2a"
+L 12/25/2019 - 21:51:29: Server cvar "sr_version" = "1.6"
+L 12/25/2019 - 21:51:29: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/25/2019 - 21:51:29: Server cvar "StyleC4Timer" = "2.1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_accelerate" = "5"
+L 12/25/2019 - 21:51:29: Server cvar "sv_aim" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_airaccelerate" = "100"
+L 12/25/2019 - 21:51:29: Server cvar "sv_allowupload" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_alltalk" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_bounce" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_cheats" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "sv_clienttrace" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/25/2019 - 21:51:29: Server cvar "sv_friction" = "4"
+L 12/25/2019 - 21:51:29: Server cvar "sv_gravity" = "800"
+L 12/25/2019 - 21:51:29: Server cvar "sv_logblocks" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "sv_maxrate" = "50000"
+L 12/25/2019 - 21:51:29: Server cvar "sv_maxspeed" = "900.000000"
+L 12/25/2019 - 21:51:29: Server cvar "sv_minrate" = "10000"
+L 12/25/2019 - 21:51:29: Server cvar "sv_password" = ""
+L 12/25/2019 - 21:51:29: Server cvar "sv_proxies" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_restart" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "sv_restartround" = "0"
+L 12/25/2019 - 21:51:29: Server cvar "sv_stepsize" = "18"
+L 12/25/2019 - 21:51:29: Server cvar "sv_stopspeed" = "75"
+L 12/25/2019 - 21:51:29: Server cvar "sv_uploadmax" = "0.5"
+L 12/25/2019 - 21:51:29: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/25/2019 - 21:51:29: Server cvar "sv_voiceenable" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "sv_wateraccelerate" = "10"
+L 12/25/2019 - 21:51:29: Server cvar "sv_waterfriction" = "1"
+L 12/25/2019 - 21:51:29: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/25/2019 - 21:51:29: Server cvar "vehicle_real_killer" = "1.1"
+L 12/25/2019 - 21:51:29: Server cvar "WalkGuard" = "1.3.2"
+L 12/25/2019 - 21:51:29: Server cvar "we_grenades" = "Huehue"
+L 12/25/2019 - 21:51:29: Server cvar "we_player_models" = "Huehue"
+L 12/25/2019 - 21:51:29: Server cvar "whb_version" = "1.5.692"
+L 12/25/2019 - 21:51:29: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/25/2019 - 21:51:29: Server cvars end
+L 12/25/2019 - 21:51:32: Server cvar "sv_maxspeed" = "900"
+L 12/25/2019 - 21:51:32: Server cvar "mp_autoteambalance" = "1"
+L 12/25/2019 - 21:51:32: Server cvar "mp_autoteambalance" = "0"
+L 12/25/2019 - 21:51:32: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/25/2019 - 21:51:33: Started map "cs_carzzz" (CRC "-1880719593")
+L 12/25/2019 - 21:51:35: World triggered "Round_Start"
+L 12/25/2019 - 21:51:37: "Maverick<28><STEAM_0:0:37264973><>" entered the game
+L 12/25/2019 - 21:51:37: "petyo1234554321<41><STEAM_0:0:455590617><>" connected, address "93.123.43.236:27005"
+L 12/25/2019 - 21:51:37: "petyo1234554321<41><STEAM_0:0:455590617><>" STEAM USERID validated
+L 12/25/2019 - 21:51:40: "jesse_pinkman<7><STEAM_1:0:1973059967><>" entered the game
+L 12/25/2019 - 21:51:40: "Viru<33><STEAM_1:0:1632616421><>" entered the game
+L 12/25/2019 - 21:51:40: "Player<42><STEAM_0:0:455403572><>" connected, address "89.25.69.121:27005"
+L 12/25/2019 - 21:51:40: "Foxcon<39><STEAM_1:1:41823316><>" entered the game
+L 12/25/2019 - 21:51:40: "Player<42><STEAM_0:0:455403572><>" STEAM USERID validated
+L 12/25/2019 - 21:51:42: "jesse_pinkman<7><STEAM_1:0:1973059967><>" joined team "TERRORIST"
+L 12/25/2019 - 21:51:42: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><>" entered the game
+L 12/25/2019 - 21:51:43: "petyo1234554321<41><STEAM_0:0:455590617><>" entered the game
+L 12/25/2019 - 21:51:44: "Foxcon<39><STEAM_1:1:41823316><>" joined team "TERRORIST"
+L 12/25/2019 - 21:51:45: "Viru<33><STEAM_1:0:1632616421><>" joined team "CT"
+L 12/25/2019 - 21:51:45: World triggered "Game_Commencing"
+L 12/25/2019 - 21:51:45: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/25/2019 - 21:51:45: World triggered "Round_End"
+L 12/25/2019 - 21:51:47: "Saad<19><STEAM_0:1:113405507><>" entered the game
+L 12/25/2019 - 21:51:48: "petyo1234554321<41><STEAM_0:0:455590617><>" joined team "CT"
+L 12/25/2019 - 21:51:49: World triggered "Round_Start"
+L 12/25/2019 - 21:51:56: "Maverick<28><STEAM_0:0:37264973><>" joined team "CT"
+L 12/25/2019 - 21:51:57: [REUNION]: pencho lydiq (78.108.248.252) authorized as RevEmu
+L 12/25/2019 - 21:51:57: "pencho lydiq<43><STEAM_1:0:760868375><>" connected, address "78.108.248.252:1024"
+L 12/25/2019 - 21:51:57: "Player<42><STEAM_0:0:455403572><>" entered the game
+L 12/25/2019 - 21:51:58: "SoC Killerman<44><STEAM_0:0:753285><>" connected, address "174.138.195.116:27005"
+L 12/25/2019 - 21:51:59: "SoC Killerman<44><STEAM_0:0:753285><>" STEAM USERID validated
+L 12/25/2019 - 21:51:59: "SoC *My Anus Is Endless *<45><STEAM_0:0:13014189><>" connected, address "99.252.234.47:27005"
+L 12/25/2019 - 21:51:59: "SoC *My Anus Is Endless *<45><STEAM_0:0:13014189><>" STEAM USERID validated
+L 12/25/2019 - 21:52:05: "Player<42><STEAM_0:0:455403572><>" joined team "CT"
+L 12/25/2019 - 21:52:14: "Saad<19><STEAM_0:1:113405507><>" joined team "TERRORIST"
+L 12/25/2019 - 21:52:25: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "Viru<33><STEAM_1:0:1632616421><CT>" with "tracktrain"
+L 12/25/2019 - 21:52:29: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "petyo1234554321<41><STEAM_0:0:455590617><CT>" with "m249"
+L 12/25/2019 - 21:52:29: "Player<42><STEAM_0:0:455403572><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "usp"
+L 12/25/2019 - 21:52:31: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Player<42><STEAM_0:0:455403572><CT>" with "tracktrain"
+L 12/25/2019 - 21:52:37: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Maverick<28><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 12/25/2019 - 21:52:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/25/2019 - 21:52:37: World triggered "Round_End"
+L 12/25/2019 - 21:52:40: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><>" joined team "SPECTATOR"
+L 12/25/2019 - 21:52:43: World triggered "Round_Start"
+L 12/25/2019 - 21:52:46: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" triggered "Killed_A_Hostage"
+L 12/25/2019 - 21:53:00: [REUNION]: pencho lydiq (78.108.248.252) authorized as RevEmu
+L 12/25/2019 - 21:53:00: "pencho lydiq<46><STEAM_1:0:760868375><>" connected, address "78.108.248.252:1024"
+L 12/25/2019 - 21:53:01: "petyo1234554321<41><STEAM_0:0:455590617><CT>" disconnected
+L 12/25/2019 - 21:53:07: "Viru<33><STEAM_1:0:1632616421><CT>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" with "famas"
+L 12/25/2019 - 21:53:09: "petyo1234554321<47><STEAM_0:0:455590617><>" connected, address "93.123.43.236:27005"
+L 12/25/2019 - 21:53:09: "petyo1234554321<47><STEAM_0:0:455590617><>" STEAM USERID validated
+L 12/25/2019 - 21:53:11: "Maverick<28><STEAM_0:0:37264973><CT>" killed "Saad<19><STEAM_0:1:113405507><TERRORIST>" with "usp"
+L 12/25/2019 - 21:53:13: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><SPECTATOR>" joined team "CT"
+L 12/25/2019 - 21:53:14: "petyo1234554321<47><STEAM_0:0:455590617><>" entered the game
+L 12/25/2019 - 21:53:18: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "Maverick<28><STEAM_0:0:37264973><CT>" with "m249"
+L 12/25/2019 - 21:53:23: "petyo1234554321<47><STEAM_0:0:455590617><>" joined team "CT"
+L 12/25/2019 - 21:53:28: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "Viru<33><STEAM_1:0:1632616421><CT>" with "sg552"
+L 12/25/2019 - 21:54:15: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "Player<42><STEAM_0:0:455403572><CT>" with "sg552"
+L 12/25/2019 - 21:54:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 12/25/2019 - 21:54:15: World triggered "Round_End"
+L 12/25/2019 - 21:54:20: "Viru<33><STEAM_1:0:1632616421><CT>" joined team "TERRORIST"
+L 12/25/2019 - 21:54:20: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Viru to TERRORIST")
+L 12/25/2019 - 21:54:20: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" joined team "CT"
+L 12/25/2019 - 21:54:20: "<><><>" triggered "amx_chat" (text "[PTB] Transfered jesse_pinkman to CT")
+L 12/25/2019 - 21:54:21: World triggered "Round_Start"
+L 12/25/2019 - 21:54:29: "pencho lydiq<46><STEAM_1:0:760868375><>" entered the game
+L 12/25/2019 - 21:54:33: "pencho lydiq<46><STEAM_1:0:760868375><>" joined team "TERRORIST"
+L 12/25/2019 - 21:54:37: "Player<42><STEAM_0:0:455403572><CT>" killed "petyo1234554321<47><STEAM_0:0:455590617><CT>" with "tracktrain"
+L 12/25/2019 - 21:54:43: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 12/25/2019 - 21:55:05: "Viru<33><STEAM_1:0:1632616421><TERRORIST>" killed "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" with "glock18"
+L 12/25/2019 - 21:55:09: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Saad<19><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/25/2019 - 21:55:09: "Viru<33><STEAM_1:0:1632616421><TERRORIST>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" with "glock18"
+L 12/25/2019 - 21:55:24: Kick: "Saad<19><STEAM_0:1:113405507><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 12/25/2019 - 21:55:24: "Saad<19><STEAM_0:1:113405507><TERRORIST>" disconnected
+L 12/25/2019 - 21:56:16: "Maverick<28><STEAM_0:0:37264973><CT>" killed "Viru<33><STEAM_1:0:1632616421><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 21:56:16: "Maverick<28><STEAM_0:0:37264973><CT>" killed "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 21:56:16: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 12/25/2019 - 21:56:16: World triggered "Round_End"
+L 12/25/2019 - 21:56:22: World triggered "Round_Start"
+L 12/25/2019 - 21:56:37: "Player<42><STEAM_0:0:455403572><CT>" killed "Maverick<28><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 12/25/2019 - 21:56:46: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" with "galil"
+L 12/25/2019 - 21:56:55: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" killed "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" with "galil"
+L 12/25/2019 - 21:56:59: "petyo1234554321<47><STEAM_0:0:455590617><CT>" killed "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" with "usp"
+L 12/25/2019 - 21:57:06: "Player<42><STEAM_0:0:455403572><CT>" killed "Viru<33><STEAM_1:0:1632616421><TERRORIST>" with "p90"
+L 12/25/2019 - 21:57:41: "petyo1234554321<47><STEAM_0:0:455590617><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "usp"
+L 12/25/2019 - 21:57:41: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 12/25/2019 - 21:57:41: World triggered "Round_End"
+L 12/25/2019 - 21:57:46: "Maverick<28><STEAM_0:0:37264973><CT>" joined team "TERRORIST"
+L 12/25/2019 - 21:57:46: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to TERRORIST")
+L 12/25/2019 - 21:57:47: World triggered "Round_Start"
+L 12/25/2019 - 21:58:10: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Viru<33><STEAM_1:0:1632616421><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 21:58:13: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" killed "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" with "m4a1"
+L 12/25/2019 - 21:58:20: [REUNION]: ms.InD.Ro [18] (93.87.234.25) authorized as RevEmu
+L 12/25/2019 - 21:58:20: "ms.InD.Ro [18]<48><STEAM_2:0:1969496562><>" connected, address "93.87.234.25:16969"
+L 12/25/2019 - 21:58:24: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 21:58:26: [REUNION]: ms.InD.Ro [18] (93.87.234.25) authorized as RevEmu
+L 12/25/2019 - 21:58:26: "ms.InD.Ro [18]<49><STEAM_2:0:1969496562><>" connected, address "93.87.234.25:16969"
+L 12/25/2019 - 21:58:34: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 21:58:34: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 12/25/2019 - 21:58:34: World triggered "Round_End"
+L 12/25/2019 - 21:58:36: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" committed suicide with "tracktrain"
+L 12/25/2019 - 21:58:40: World triggered "Round_Start"
+L 12/25/2019 - 21:58:53: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" killed "Player<42><STEAM_0:0:455403572><CT>" with "tracktrain"
+L 12/25/2019 - 21:58:57: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" killed "petyo1234554321<47><STEAM_0:0:455590617><CT>" with "tracktrain"
+L 12/25/2019 - 21:59:08: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 21:59:10: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" killed "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" with "glock18"
+L 12/25/2019 - 21:59:21: "Viru<33><STEAM_1:0:1632616421><TERRORIST>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" with "ak47"
+L 12/25/2019 - 21:59:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 12/25/2019 - 21:59:21: World triggered "Round_End"
+L 12/25/2019 - 21:59:27: World triggered "Round_Start"
+L 12/25/2019 - 21:59:41: [REUNION]: ms.InD.Ro [18] (93.87.234.25) authorized as RevEmu
+L 12/25/2019 - 21:59:41: "ms.InD.Ro [18]<50><STEAM_2:0:1969496562><>" connected, address "93.87.234.25:16642"
+L 12/25/2019 - 21:59:51: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" with "tracktrain"
+L 12/25/2019 - 22:00:02: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" committed suicide with "world"
+L 12/25/2019 - 22:00:14: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "petyo1234554321<47><STEAM_0:0:455590617><CT>" with "scout"
+L 12/25/2019 - 22:00:16: "Player<42><STEAM_0:0:455403572><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "xm1014"
+L 12/25/2019 - 22:00:23: "Maverick<28><STEAM_0:0:37264973><TERRORIST>" killed "Viru<33><STEAM_1:0:1632616421><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:00:25: "Maverick<28><STEAM_0:0:37264973><TERRORIST>" committed suicide with "tracktrain"
+L 12/25/2019 - 22:01:00: [REUNION]: ms.InD.Ro [18] (93.87.234.25) authorized as RevEmu
+L 12/25/2019 - 22:01:00: "ms.InD.Ro [18]<51><STEAM_2:0:1969496562><>" connected, address "93.87.234.25:16642"
+L 12/25/2019 - 22:01:12: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" killed "Player<42><STEAM_0:0:455403572><CT>" with "xm1014"
+L 12/25/2019 - 22:01:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 12/25/2019 - 22:01:12: World triggered "Round_End"
+L 12/25/2019 - 22:01:17: "xXMr.ONurXx_YT<40><STEAM_2:1:935252518><CT>" changed name to "TeRmOnAlIst"
+L 12/25/2019 - 22:01:18: World triggered "Round_Start"
+L 12/25/2019 - 22:01:35: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Viru<33><STEAM_1:0:1632616421><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:02:09: "TeRmOnAlIst<40><STEAM_2:1:935252518><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 12/25/2019 - 22:02:12: [REUNION]: ms.InD.Ro [18] (93.87.234.25) authorized as RevEmu
+L 12/25/2019 - 22:02:12: "ms.InD.Ro [18]<52><STEAM_2:0:1969496562><>" connected, address "93.87.234.25:17286"
+L 12/25/2019 - 22:02:16: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" with "xm1014"
+L 12/25/2019 - 22:02:27: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" killed "petyo1234554321<47><STEAM_0:0:455590617><CT>" with "xm1014"
+L 12/25/2019 - 22:02:29: "Player<42><STEAM_0:0:455403572><CT>" killed "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" with "usp"
+L 12/25/2019 - 22:03:01: "Player<42><STEAM_0:0:455403572><CT>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "usp"
+L 12/25/2019 - 22:03:01: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 12/25/2019 - 22:03:01: World triggered "Round_End"
+L 12/25/2019 - 22:03:05: "TeRmOnAlIst<40><STEAM_2:1:935252518><CT>" committed suicide with "tracktrain"
+L 12/25/2019 - 22:03:07: World triggered "Round_Start"
+L 12/25/2019 - 22:03:33: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "famas"
+L 12/25/2019 - 22:03:48: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:03:59: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" committed suicide with "world"
+L 12/25/2019 - 22:03:59: "Viru<33><STEAM_1:0:1632616421><TERRORIST>" committed suicide with "world"
+L 12/25/2019 - 22:03:59: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 12/25/2019 - 22:03:59: World triggered "Round_End"
+L 12/25/2019 - 22:04:05: World triggered "Round_Start"
+L 12/25/2019 - 22:04:10: "TeRmOnAlIst<40><STEAM_2:1:935252518><CT>" killed "petyo1234554321<47><STEAM_0:0:455590617><CT>" with "tracktrain"
+L 12/25/2019 - 22:04:11: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" committed suicide with "world"
+L 12/25/2019 - 22:04:11: "pencho lydiq<46><STEAM_1:0:760868375><TERRORIST>" joined team "SPECTATOR"
+L 12/25/2019 - 22:04:11: "Viru<33><STEAM_1:0:1632616421><TERRORIST>" committed suicide with "world"
+L 12/25/2019 - 22:04:11: "Viru<33><STEAM_1:0:1632616421><TERRORIST>" joined team "SPECTATOR"
+L 12/25/2019 - 22:04:20: "Player<42><STEAM_0:0:455403572><CT>" killed "TeRmOnAlIst<40><STEAM_2:1:935252518><CT>" with "tracktrain"
+L 12/25/2019 - 22:04:43: "Maverick<28><STEAM_0:0:37264973><TERRORIST>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" with "deagle"
+L 12/25/2019 - 22:04:57: [REUNION]: Ove3rd0se (85.118.77.101) authorized as RevEmu
+L 12/25/2019 - 22:04:57: "Ove3rd0se<53><STEAM_2:1:630252266><>" connected, address "85.118.77.101:5890"
+L 12/25/2019 - 22:05:01: [REUNION]: Ove3rd0se (85.118.77.101) authorized as RevEmu
+L 12/25/2019 - 22:05:01: "Ove3rd0se<54><STEAM_2:1:630252266><>" connected, address "85.118.77.101:5890"
+L 12/25/2019 - 22:05:09: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" killed "Player<42><STEAM_0:0:455403572><CT>" with "famas"
+L 12/25/2019 - 22:05:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 12/25/2019 - 22:05:09: World triggered "Round_End"
+L 12/25/2019 - 22:05:13: "jesse_pinkman<7><STEAM_1:0:1973059967><CT>" joined team "TERRORIST"
+L 12/25/2019 - 22:05:13: "<><><>" triggered "amx_chat" (text "[PTB] Transfered jesse_pinkman to TERRORIST")
+L 12/25/2019 - 22:05:15: World triggered "Round_Start"
+L 12/25/2019 - 22:05:46: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "TeRmOnAlIst<40><STEAM_2:1:935252518><CT>" with "ak47"
+L 12/25/2019 - 22:05:52: "TeRmOnAlIst<40><STEAM_2:1:935252518><CT>" disconnected
+L 12/25/2019 - 22:05:52: [REUNION]: xXMr.ONurXx_YT (79.132.29.147) authorized as RevEmu
+L 12/25/2019 - 22:05:52: "xXMr.ONurXx_YT<55><STEAM_2:1:935252518><>" connected, address "79.132.29.147:27005"
+L 12/25/2019 - 22:05:56: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:05:56: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:05:57: "xXMr.ONurXx_YT<55><STEAM_2:1:935252518><>" entered the game
+L 12/25/2019 - 22:05:59: "xXMr.ONurXx_YT<55><STEAM_2:1:935252518><>" joined team "CT"
+L 12/25/2019 - 22:06:05: "petyo1234554321<47><STEAM_0:0:455590617><CT>" disconnected
+L 12/25/2019 - 22:06:06: "Player<42><STEAM_0:0:455403572><CT>" disconnected
+L 12/25/2019 - 22:06:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 12/25/2019 - 22:06:06: World triggered "Round_End"
+L 12/25/2019 - 22:06:10: "Foxcon<39><STEAM_1:1:41823316><TERRORIST>" joined team "CT"
+L 12/25/2019 - 22:06:10: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Foxcon to CT")
+L 12/25/2019 - 22:06:12: World triggered "Round_Start"
+L 12/25/2019 - 22:06:22: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" committed suicide with "world"
+L 12/25/2019 - 22:06:35: "xXMr.ONurXx_YT<55><STEAM_2:1:935252518><CT>" changed name to "xXMr.ONurXx_Yt"
+L 12/25/2019 - 22:06:38: "HeaD|RolleR<56><STEAM_0:1:161838116><>" connected, address "212.200.101.206:27005"
+L 12/25/2019 - 22:06:38: "HeaD|RolleR<56><STEAM_0:1:161838116><>" STEAM USERID validated
+L 12/25/2019 - 22:06:51: "Foxcon<39><STEAM_1:1:41823316><CT>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "deagle"
+L 12/25/2019 - 22:06:51: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 12/25/2019 - 22:06:51: World triggered "Round_End"
+L 12/25/2019 - 22:06:55: "HeaD|RolleR<56><STEAM_0:1:161838116><>" entered the game
+L 12/25/2019 - 22:06:57: World triggered "Round_Start"
+L 12/25/2019 - 22:06:57: "HeaD|RolleR<56><STEAM_0:1:161838116><>" joined team "CT"
+L 12/25/2019 - 22:06:59: "xXMr.ONurXx_Yt<55><STEAM_2:1:935252518><CT>" changed name to "XxmR.oNuRxX"
+L 12/25/2019 - 22:07:15: "XxmR.oNuRxX<55><STEAM_2:1:935252518><CT>" changed name to "XxmR.oNuRxX_yT"
+L 12/25/2019 - 22:07:25: Kick: "XxmR.oNuRxX_yT<55><STEAM_2:1:935252518><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 12/25/2019 - 22:07:25: "XxmR.oNuRxX_yT<55><STEAM_2:1:935252518><CT>" disconnected
+L 12/25/2019 - 22:07:27: [REUNION]: XxmR.oNuRxX_yT (79.132.29.147) authorized as RevEmu
+L 12/25/2019 - 22:07:27: "XxmR.oNuRxX_yT<57><STEAM_2:1:935252518><>" connected, address "79.132.29.147:27005"
+L 12/25/2019 - 22:07:32: "XxmR.oNuRxX_yT<57><STEAM_2:1:935252518><>" entered the game
+L 12/25/2019 - 22:07:33: "XxmR.oNuRxX_yT<57><STEAM_2:1:935252518><>" joined team "TERRORIST"
+L 12/25/2019 - 22:07:51: "HeaD|RolleR<56><STEAM_0:1:161838116><CT>" committed suicide with "tracktrain"
+L 12/25/2019 - 22:08:03: "Maverick<28><STEAM_0:0:37264973><TERRORIST>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:08:13: "Foxcon<39><STEAM_1:1:41823316><CT>" killed "Maverick<28><STEAM_0:0:37264973><TERRORIST>" with "elite"
+L 12/25/2019 - 22:08:13: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 12/25/2019 - 22:08:13: World triggered "Round_End"
+L 12/25/2019 - 22:08:17: "Maverick<28><STEAM_0:0:37264973><TERRORIST>" joined team "CT"
+L 12/25/2019 - 22:08:17: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to CT")
+L 12/25/2019 - 22:08:19: World triggered "Round_Start"
+L 12/25/2019 - 22:08:24: "XxmR.oNuRxX_yT<57><STEAM_2:1:935252518><TERRORIST>" changed name to "XXMR.ONURXX_YT"
+L 12/25/2019 - 22:08:26: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "hi")
+L 12/25/2019 - 22:08:36: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "hey roller")
+L 12/25/2019 - 22:08:43: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "i cant open models")
+L 12/25/2019 - 22:08:45: [REUNION]: NOOB :D (109.104.221.53) authorized as RevEmu
+L 12/25/2019 - 22:08:45: "NOOB :D<58><STEAM_2:1:1392295388><>" connected, address "109.104.221.53:1024"
+L 12/25/2019 - 22:08:46: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "nice models bwt")
+L 12/25/2019 - 22:08:47: [REUNION]: NOOB :D (109.104.221.53) authorized as RevEmu
+L 12/25/2019 - 22:08:47: "NOOB :D<59><STEAM_2:1:1392295388><>" connected, address "109.104.221.53:1024"
+L 12/25/2019 - 22:08:48: "HeaD|RolleR<56><STEAM_0:1:161838116><CT>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:08:54: "NOOB :D<59><STEAM_2:1:1392295388><>" entered the game
+L 12/25/2019 - 22:08:56: "XXMR.ONURXX_YT<57><STEAM_2:1:935252518><TERRORIST>" changed name to "xxmr.Onurxx_YT"
+L 12/25/2019 - 22:08:59: "NOOB :D<59><STEAM_2:1:1392295388><>" joined team "TERRORIST"
+L 12/25/2019 - 22:09:01: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "no models for the winter")
+L 12/25/2019 - 22:09:13: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "you really outdid yourself")
+L 12/25/2019 - 22:09:16: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "that plugin is stopped")
+L 12/25/2019 - 22:09:18: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "with the winter update")
+L 12/25/2019 - 22:09:31: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "thanks you ")
+L 12/25/2019 - 22:10:12: "Foxcon<39><STEAM_1:1:41823316><CT>" killed "xxmr.Onurxx_YT<57><STEAM_2:1:935252518><TERRORIST>" with "m4a1"
+L 12/25/2019 - 22:10:12: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 12/25/2019 - 22:10:12: World triggered "Round_End"
+L 12/25/2019 - 22:10:18: World triggered "Round_Start"
+L 12/25/2019 - 22:11:01: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "xxmr.Onurxx_YT<57><STEAM_2:1:935252518><TERRORIST>" with "tracktrain"
+L 12/25/2019 - 22:11:06: [REUNION]: Sebastian Smith (46.40.60.231) authorized as RevEmu
+L 12/25/2019 - 22:11:06: "Sebastian Smith<60><STEAM_1:1:1141231493><>" connected, address "46.40.60.231:27005"
+L 12/25/2019 - 22:11:13: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "you came to visit us :D")
+L 12/25/2019 - 22:11:16: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" committed suicide with "world"
+L 12/25/2019 - 22:11:17: "Sebastian Smith<60><STEAM_1:1:1141231493><>" entered the game
+L 12/25/2019 - 22:11:18: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "I am very happy")
+L 12/25/2019 - 22:11:25: "HeaD|RolleR<56><STEAM_0:1:161838116><CT>" killed "NOOB :D<59><STEAM_2:1:1392295388><TERRORIST>" with "galil"
+L 12/25/2019 - 22:11:25: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 12/25/2019 - 22:11:25: World triggered "Round_End"
+L 12/25/2019 - 22:11:28: "Sebastian Smith<60><STEAM_1:1:1141231493><>" joined team "TERRORIST"
+L 12/25/2019 - 22:11:31: World triggered "Round_Start"
+L 12/25/2019 - 22:11:33: Server cvar "mp_timelimit" = "0.000000"
+L 12/25/2019 - 22:11:34: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "but really")
+L 12/25/2019 - 22:11:37: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "i like everything")
+L 12/25/2019 - 22:11:39: Server cvar "amx_nextmap" = "GM_StarWars"
+L 12/25/2019 - 22:11:41: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "too bad no ppl")
+L 12/25/2019 - 22:11:44: "HeaD|RolleR<1><STEAM_0:1:161838116><>" triggered "amx_chat" (text "to see this cool stuff")
+L 12/25/2019 - 22:11:53: "xxmr.Onurxx_YT<57><STEAM_2:1:935252518><TERRORIST>" changed name to "Xxmr.onurxX_YT"
+L 12/25/2019 - 22:12:00: "Foxcon<39><STEAM_1:1:41823316><CT>" killed "Xxmr.onurxX_YT<57><STEAM_2:1:935252518><TERRORIST>" with "famas"
+L 12/25/2019 - 22:12:02: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "HeaD|RolleR<56><STEAM_0:1:161838116><CT>" with "ak47"
+L 12/25/2019 - 22:12:02: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Foxcon<39><STEAM_1:1:41823316><CT>" with "ak47"
+L 12/25/2019 - 22:12:05: "NOOB :D<59><STEAM_2:1:1392295388><TERRORIST>" killed "Maverick<28><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/25/2019 - 22:12:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "7")
+L 12/25/2019 - 22:12:05: World triggered "Round_End"
+L 12/25/2019 - 22:12:11: World triggered "Round_Start"
+L 12/25/2019 - 22:12:11: Server cvar "sv_maxspeed" = "0.000000"
+L 12/25/2019 - 22:12:11: Server cvar "mp_friendlyfire" = "1"
+L 12/25/2019 - 22:12:14: "Viru<33><STEAM_1:0:1632616421><SPECTATOR>" joined team "CT"
+L 12/25/2019 - 22:12:14: "NOOB :D<59><STEAM_2:1:1392295388><TERRORIST>" killed "Sebastian Smith<60><STEAM_1:1:1141231493><TERRORIST>" with "grenade"
+L 12/25/2019 - 22:12:15: "Maverick<5><STEAM_0:0:37264973><>" triggered "amx_chat" (text "yeah most of the time it is like that, but when I join they come too")
+L 12/25/2019 - 22:12:21: "Xxmr.onurxX_YT<57><STEAM_2:1:935252518><TERRORIST>" changed name to "xXmR.oNuRxX_yT"
+L 12/25/2019 - 22:12:21: "Foxcon<39><STEAM_1:1:41823316><CT>" killed "HeaD|RolleR<56><STEAM_0:1:161838116><CT>" with "scout"
+L 12/25/2019 - 22:12:22: Server cvar "sv_maxspeed" = "900.000000"
+L 12/25/2019 - 22:12:22: Server cvar "mp_friendlyfire" = "0"
+L 12/25/2019 - 22:12:22: Server cvar "mp_timelimit" = "20.000000"
+L 12/25/2019 - 22:12:23: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: AMX Mod X
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: Reunion
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: ReAuthCheck
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: WHBlocker
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: ReSemiclip
+L 12/25/2019 - 22:12:23: [META] ini: Read plugin config for: Revoice
+L 12/25/2019 - 22:12:23: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/25/2019 - 22:12:23: [META] dll: Updating plugins...
+L 12/25/2019 - 22:12:23: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/25/2019 - 22:12:23: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/25/2019 - 22:12:23: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/25/2019 - 22:12:23: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/25/2019 - 22:12:23: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/25/2019 - 22:12:23: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/25/2019 - 22:12:23: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/25/2019 - 22:12:23: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/25/2019 - 22:12:23: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/25/2019 - 22:12:23: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/25/2019 - 22:12:23: "HeaD|RolleR<56><STEAM_0:1:161838116><CT>" disconnected
+L 12/25/2019 - 22:12:23: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" disconnected
+L 12/25/2019 - 22:12:23: "xXmR.oNuRxX_yT<57><STEAM_2:1:935252518><TERRORIST>" disconnected
+L 12/25/2019 - 22:12:23: "NOOB :D<59><STEAM_2:1:1392295388><TERRORIST>" disconnected
+L 12/25/2019 - 22:12:23: Team "CT" triggered "CTs_Win" (CT "10") (T "7")
+L 12/25/2019 - 22:12:23: World triggered "Round_End"
+L 12/25/2019 - 22:12:23: "Maverick<28><STEAM_0:0:37264973><CT>" disconnected
+L 12/25/2019 - 22:12:23: "pencho lydiq<46><STEAM_1:0:760868375><SPECTATOR>" disconnected
+L 12/25/2019 - 22:12:23: "Viru<33><STEAM_1:0:1632616421><CT>" disconnected
+L 12/25/2019 - 22:12:23: "Sebastian Smith<60><STEAM_1:1:1141231493><TERRORIST>" disconnected
+L 12/25/2019 - 22:12:23: "Foxcon<39><STEAM_1:1:41823316><CT>" disconnected
+L 12/25/2019 - 22:12:23: Log file closed

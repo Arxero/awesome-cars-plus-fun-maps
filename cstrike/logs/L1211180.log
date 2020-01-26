@@ -1,0 +1,444 @@
+L 12/11/2019 - 18:08:08: Log file started (file "logs/L1211180.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/11/2019 - 18:08:08: Loading map "cherryclan_hq"
+L 12/11/2019 - 18:08:08: Server cvars start
+L 12/11/2019 - 18:08:08: Server cvar "@BunnyHopper" = "3.x"
+L 12/11/2019 - 18:08:08: Server cvar "@CRXGoSpec" = "1.1"
+L 12/11/2019 - 18:08:08: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "@D.I.C.E." = "1.1"
+L 12/11/2019 - 18:08:08: Server cvar "@MOTDCommands" = "1.2"
+L 12/11/2019 - 18:08:08: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/11/2019 - 18:08:08: Server cvar "AdvancedMute" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "aesp_version" = "1.3"
+L 12/11/2019 - 18:08:08: Server cvar "allow_spectators" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "amx_client_languages" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "amx_language" = "en"
+L 12/11/2019 - 18:08:08: Server cvar "amx_nextmap" = "Cb_Tanks"
+L 12/11/2019 - 18:08:08: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/11/2019 - 18:08:08: Server cvar "amx_timeleft" = "19:57"
+L 12/11/2019 - 18:08:08: Server cvar "amxmodx_version" = "1.8.2"
+L 12/11/2019 - 18:08:08: Server cvar "amxxbg_vip" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "asp_version" = "4.5.1"
+L 12/11/2019 - 18:08:08: Server cvar "atac_version" = "3.0.1"
+L 12/11/2019 - 18:08:08: Server cvar "badcamper_version" = "1.4 beta"
+L 12/11/2019 - 18:08:08: Server cvar "blockmaker" = "4.01"
+L 12/11/2019 - 18:08:08: Server cvar "c4 timer" = "1.1"
+L 12/11/2019 - 18:08:08: Server cvar "coop" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "CRXAdminGroups" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "CRXFastKnife" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "CRXGametracker" = "2.0"
+L 12/11/2019 - 18:08:08: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/11/2019 - 18:08:08: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "CustomShop" = "4.2"
+L 12/11/2019 - 18:08:08: Server cvar "deathmatch" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "decalfrequency" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "edgefriction" = "2"
+L 12/11/2019 - 18:08:08: Server cvar "ers_version" = "2.3c"
+L 12/11/2019 - 18:08:08: Server cvar "gagsystem_shoko" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/11/2019 - 18:08:08: Server cvar "gal_version" = "v5.9.1-926"
+L 12/11/2019 - 18:08:08: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/11/2019 - 18:08:08: Server cvar "humans_join_team" = "any"
+L 12/11/2019 - 18:08:08: Server cvar "jtp10181" = "chute,gore"
+L 12/11/2019 - 18:08:08: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/11/2019 - 18:08:08: Server cvar "LetitSnow" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/11/2019 - 18:08:08: Server cvar "max_queries_sec" = "3"
+L 12/11/2019 - 18:08:08: Server cvar "max_queries_sec_global" = "150"
+L 12/11/2019 - 18:08:08: Server cvar "max_queries_window" = "60"
+L 12/11/2019 - 18:08:08: Server cvar "mdbBans" = "4.8"
+L 12/11/2019 - 18:08:08: Server cvar "metamod_version" = "1.21p37"
+L 12/11/2019 - 18:08:08: Server cvar "mp_autokick" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_autokick_timeout" = "-1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_autoteambalance" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_buytime" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_c4timer" = "35"
+L 12/11/2019 - 18:08:08: Server cvar "mp_chattime" = "10"
+L 12/11/2019 - 18:08:08: Server cvar "mp_consistency" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_fadetoblack" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_flashlight" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_footsteps" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_forcecamera" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_forcechasecam" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_forcerespawn" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_fraglimit" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_fragsleft" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_freeforall" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_freezetime" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_friendlyfire" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_hostage_hurtable" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_hostagepenalty" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_item_staytime" = "300"
+L 12/11/2019 - 18:08:08: Server cvar "mp_kickpercent" = "0.66"
+L 12/11/2019 - 18:08:08: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_limitteams" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_logdetail" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_logfile" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_logmessages" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/11/2019 - 18:08:08: Server cvar "mp_maxmoney" = "999999"
+L 12/11/2019 - 18:08:08: Server cvar "mp_maxrounds" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_mirrordamage" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_playerid" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_round_infinite" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_round_restart_delay" = "5"
+L 12/11/2019 - 18:08:08: Server cvar "mp_roundover" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_roundtime" = "2.3"
+L 12/11/2019 - 18:08:08: Server cvar "mp_show_radioicon" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_startmoney" = "850"
+L 12/11/2019 - 18:08:08: Server cvar "mp_timeleft" = "19:56"
+L 12/11/2019 - 18:08:08: Server cvar "mp_timelimit" = "20"
+L 12/11/2019 - 18:08:08: Server cvar "mp_tkpunish" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "mp_windifference" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "mp_winlimit" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/11/2019 - 18:08:08: Server cvar "pausable" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "present_version" = "2.01"
+L 12/11/2019 - 18:08:08: Server cvar "RandomHP" = "2.2"
+L 12/11/2019 - 18:08:08: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/11/2019 - 18:08:08: Server cvar "reconnect_features" = "0.3.1"
+L 12/11/2019 - 18:08:08: Server cvar "report_system_version" = "3.1"
+L 12/11/2019 - 18:08:08: Server cvar "resemiclip_version" = "2.3.9"
+L 12/11/2019 - 18:08:08: Server cvar "reu_version" = "0.1.0.130"
+L 12/11/2019 - 18:08:08: Server cvar "revoice_version" = "0.1.0.30"
+L 12/11/2019 - 18:08:08: Server cvar "sanksounds_version" = "1.8.6"
+L 12/11/2019 - 18:08:08: Server cvar "SimpleMenu" = "1.1"
+L 12/11/2019 - 18:08:08: Server cvar "SNAC_Version" = "1.1"
+L 12/11/2019 - 18:08:08: Server cvar "SpecList" = "1.2a"
+L 12/11/2019 - 18:08:08: Server cvar "sr_version" = "1.6"
+L 12/11/2019 - 18:08:08: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/11/2019 - 18:08:08: Server cvar "StyleC4Timer" = "2.1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_accelerate" = "5"
+L 12/11/2019 - 18:08:08: Server cvar "sv_aim" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_airaccelerate" = "100"
+L 12/11/2019 - 18:08:08: Server cvar "sv_allowupload" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_alltalk" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_bounce" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_cheats" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "sv_clienttrace" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/11/2019 - 18:08:08: Server cvar "sv_friction" = "4"
+L 12/11/2019 - 18:08:08: Server cvar "sv_gravity" = "800"
+L 12/11/2019 - 18:08:08: Server cvar "sv_logblocks" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "sv_maxrate" = "50000"
+L 12/11/2019 - 18:08:08: Server cvar "sv_maxspeed" = "320"
+L 12/11/2019 - 18:08:08: Server cvar "sv_minrate" = "10000"
+L 12/11/2019 - 18:08:08: Server cvar "sv_password" = ""
+L 12/11/2019 - 18:08:08: Server cvar "sv_proxies" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_restart" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "sv_restartround" = "0"
+L 12/11/2019 - 18:08:08: Server cvar "sv_stepsize" = "18"
+L 12/11/2019 - 18:08:08: Server cvar "sv_stopspeed" = "75"
+L 12/11/2019 - 18:08:08: Server cvar "sv_uploadmax" = "0.5"
+L 12/11/2019 - 18:08:08: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/11/2019 - 18:08:08: Server cvar "sv_voiceenable" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "sv_wateraccelerate" = "10"
+L 12/11/2019 - 18:08:08: Server cvar "sv_waterfriction" = "1"
+L 12/11/2019 - 18:08:08: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/11/2019 - 18:08:08: Server cvar "vehicle_real_killer" = "1.1"
+L 12/11/2019 - 18:08:08: Server cvar "WalkGuard" = "1.3.2"
+L 12/11/2019 - 18:08:08: Server cvar "we_grenades" = "Huehue"
+L 12/11/2019 - 18:08:08: Server cvar "we_player_models" = "Huehue"
+L 12/11/2019 - 18:08:08: Server cvar "whb_version" = "1.5.692"
+L 12/11/2019 - 18:08:08: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/11/2019 - 18:08:08: Server cvars end
+L 12/11/2019 - 18:08:11: Server cvar "sv_maxspeed" = "900"
+L 12/11/2019 - 18:08:11: Server cvar "mp_autoteambalance" = "1"
+L 12/11/2019 - 18:08:11: Server cvar "mp_buytime" = "0.25"
+L 12/11/2019 - 18:08:11: Server cvar "RRWM" = "2.0"
+L 12/11/2019 - 18:08:11: Server cvar "mp_autoteambalance" = "0"
+L 12/11/2019 - 18:08:11: Server cvar "mp_limitteams" = "0"
+L 12/11/2019 - 18:08:11: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/11/2019 - 18:08:12: Started map "cherryclan_hq" (CRC "460005990")
+L 12/11/2019 - 18:08:12: [REUNION]: [DEA].AIM.PALESTINE (199.250.150.40) authorized as RevEmu
+L 12/11/2019 - 18:08:12: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><>" connected, address "199.250.150.40:11625"
+L 12/11/2019 - 18:08:14: World triggered "Round_Start"
+L 12/11/2019 - 18:08:21: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><>" entered the game
+L 12/11/2019 - 18:08:26: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><>" joined team "TERRORIST"
+L 12/11/2019 - 18:08:26: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:08:56: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/11/2019 - 18:09:31: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "0")
+L 12/11/2019 - 18:09:31: World triggered "Round_End"
+L 12/11/2019 - 18:09:36: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:09:37: World triggered "Round_Start"
+L 12/11/2019 - 18:10:15: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/11/2019 - 18:10:50: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "0")
+L 12/11/2019 - 18:10:50: World triggered "Round_End"
+L 12/11/2019 - 18:10:55: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:10:56: World triggered "Round_Start"
+L 12/11/2019 - 18:11:31: [REUNION]: JOKERA E TUK (212.75.22.245) authorized as RevEmu
+L 12/11/2019 - 18:11:31: "JOKERA E TUK<2><STEAM_2:1:74324064><>" connected, address "212.75.22.245:27005"
+L 12/11/2019 - 18:11:31: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/11/2019 - 18:11:39: [REUNION]: X EKO X (151.237.70.16) authorized as RevEmu
+L 12/11/2019 - 18:11:39: "X EKO X<3><STEAM_1:0:700894237><>" connected, address "151.237.70.16:27005"
+L 12/11/2019 - 18:12:03: [REUNION]: X EKO X (151.237.70.16) authorized as RevEmu
+L 12/11/2019 - 18:12:03: "X EKO X<4><STEAM_1:0:700894237><>" connected, address "151.237.70.16:27005"
+L 12/11/2019 - 18:12:06: "JOKERA E TUK<2><STEAM_2:1:74324064><>" entered the game
+L 12/11/2019 - 18:12:06: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "0")
+L 12/11/2019 - 18:12:06: World triggered "Round_End"
+L 12/11/2019 - 18:12:11: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:12:12: World triggered "Round_Start"
+L 12/11/2019 - 18:12:16: "JOKERA E TUK<2><STEAM_2:1:74324064><>" joined team "CT"
+L 12/11/2019 - 18:12:16: World triggered "Game_Commencing"
+L 12/11/2019 - 18:12:16: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/11/2019 - 18:12:16: World triggered "Round_End"
+L 12/11/2019 - 18:12:19: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:12:20: World triggered "Round_Start"
+L 12/11/2019 - 18:12:48: "JOKERA E TUK<2><STEAM_2:1:74324064><CT>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" with "usp"
+L 12/11/2019 - 18:12:48: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/11/2019 - 18:12:48: World triggered "Round_End"
+L 12/11/2019 - 18:12:53: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:12:54: World triggered "Round_Start"
+L 12/11/2019 - 18:13:07: "X EKO X<4><STEAM_1:0:700894237><>" entered the game
+L 12/11/2019 - 18:13:14: "X EKO X<4><STEAM_1:0:700894237><>" joined team "CT"
+L 12/11/2019 - 18:13:20: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><CT>" with "knife"
+L 12/11/2019 - 18:13:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/11/2019 - 18:13:20: World triggered "Round_End"
+L 12/11/2019 - 18:13:24: "Jason Statham<5><STEAM_0:1:65160151><>" connected, address "46.160.40.89:27005"
+L 12/11/2019 - 18:13:24: "Jason Statham<5><STEAM_0:1:65160151><>" STEAM USERID validated
+L 12/11/2019 - 18:13:25: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:13:26: World triggered "Round_Start"
+L 12/11/2019 - 18:13:29: "Jason Statham<6><STEAM_0:1:65160151><>" connected, address "46.160.40.89:27005"
+L 12/11/2019 - 18:13:30: "Jason Statham<6><STEAM_0:1:65160151><>" STEAM USERID validated
+L 12/11/2019 - 18:13:50: "Jason Statham<6><STEAM_0:1:65160151><>" entered the game
+L 12/11/2019 - 18:13:53: "Jason Statham<6><STEAM_0:1:65160151><>" joined team "CT"
+L 12/11/2019 - 18:13:55: [REUNION]: LEOPARD (151.237.37.93) authorized as RevEmu
+L 12/11/2019 - 18:13:55: "LEOPARD<7><STEAM_1:0:681183515><>" connected, address "151.237.37.93:27005"
+L 12/11/2019 - 18:14:05: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" killed "X EKO X<4><STEAM_1:0:700894237><CT>" with "ak47"
+L 12/11/2019 - 18:14:05: "LEOPARD<7><STEAM_1:0:681183515><>" entered the game
+L 12/11/2019 - 18:14:09: "LEOPARD<7><STEAM_1:0:681183515><>" joined team "CT"
+L 12/11/2019 - 18:14:18: "JOKERA E TUK<2><STEAM_2:1:74324064><CT>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:14:18: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/11/2019 - 18:14:18: World triggered "Round_End"
+L 12/11/2019 - 18:14:23: "JOKERA E TUK<2><STEAM_2:1:74324064><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:14:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered JOKERA E TUK to TERRORIST")
+L 12/11/2019 - 18:14:23: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:14:24: World triggered "Round_Start"
+L 12/11/2019 - 18:14:37: [REUNION]: AMG (77.71.31.32) authorized as RevEmu
+L 12/11/2019 - 18:14:37: "AMG<8><STEAM_1:0:854456699><>" connected, address "77.71.31.32:27005"
+L 12/11/2019 - 18:14:50: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" killed "X EKO X<4><STEAM_1:0:700894237><CT>" with "mac10"
+L 12/11/2019 - 18:14:51: Kick: "AMG<8><STEAM_1:0:854456699><>" was kicked by "Console" (message "Error! Idle Timeout (2).")
+L 12/11/2019 - 18:14:54: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 335)
+L 12/11/2019 - 18:14:56: [REUNION]: LEO (151.237.37.93) authorized as RevEmu
+L 12/11/2019 - 18:14:56: "LEO<9><STEAM_1:0:603964278><>" connected, address "151.237.37.93:1024"
+L 12/11/2019 - 18:14:57: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "LEOPARD<7><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/11/2019 - 18:15:02: "LEO<9><STEAM_1:0:603964278><>" entered the game
+L 12/11/2019 - 18:15:10: "LEO<9><STEAM_1:0:603964278><>" joined team "CT"
+L 12/11/2019 - 18:15:10: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "Jason Statham<6><STEAM_0:1:65160151><CT>" with "m4a1"
+L 12/11/2019 - 18:15:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 12/11/2019 - 18:15:10: World triggered "Round_End"
+L 12/11/2019 - 18:15:15: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:15:16: World triggered "Round_Start"
+L 12/11/2019 - 18:15:36: "LEO<9><STEAM_1:0:603964278><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "famas"
+L 12/11/2019 - 18:15:37: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" killed "X EKO X<4><STEAM_1:0:700894237><CT>" with "ak47"
+L 12/11/2019 - 18:15:43: "X EKO X<4><STEAM_1:0:700894237><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:15:48: "LEO<9><STEAM_1:0:603964278><CT>" changed name to "BABAITA"
+L 12/11/2019 - 18:16:27: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "ak47"
+L 12/11/2019 - 18:16:27: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" with "deagle"
+L 12/11/2019 - 18:16:27: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 12/11/2019 - 18:16:27: World triggered "Round_End"
+L 12/11/2019 - 18:16:32: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:16:33: World triggered "Round_Start"
+L 12/11/2019 - 18:16:55: "Jason Statham<6><STEAM_0:1:65160151><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "deagle"
+L 12/11/2019 - 18:17:01: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:17:01: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:17:05: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:17:05: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 12/11/2019 - 18:17:05: World triggered "Round_End"
+L 12/11/2019 - 18:17:10: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:17:11: World triggered "Round_Start"
+L 12/11/2019 - 18:17:30: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "ak47"
+L 12/11/2019 - 18:17:30: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:17:32: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "ak47"
+L 12/11/2019 - 18:17:36: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" killed "LEOPARD<7><STEAM_1:0:681183515><CT>" with "mp5navy"
+L 12/11/2019 - 18:17:40: [REUNION]: $$$ S.W.A.T BQSNOTO Volvo $$$ (77.71.22.75) authorized as RevEmu
+L 12/11/2019 - 18:17:40: "$$$ S.W.A.T BQSNOTO Volvo $$$<10><STEAM_2:1:232564246><>" connected, address "77.71.22.75:27005"
+L 12/11/2019 - 18:17:46: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:17:46: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 12/11/2019 - 18:17:46: World triggered "Round_End"
+L 12/11/2019 - 18:17:51: "BABAITA<9><STEAM_1:0:603964278><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:17:51: "<><><>" triggered "amx_chat" (text "[PTB] Transfered BABAITA to TERRORIST")
+L 12/11/2019 - 18:17:51: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:17:52: World triggered "Round_Start"
+L 12/11/2019 - 18:17:52: [REUNION]: $$$ S.W.A.T BQSNOTO Volvo $$$ (77.71.22.75) authorized as RevEmu
+L 12/11/2019 - 18:17:52: "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><>" connected, address "77.71.22.75:27005"
+L 12/11/2019 - 18:18:13: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:18:26: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/11/2019 - 18:18:30: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "awp"
+L 12/11/2019 - 18:18:41: "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><>" entered the game
+L 12/11/2019 - 18:18:47: "LEOPARD<7><STEAM_1:0:681183515><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 12/11/2019 - 18:18:54: "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><>" joined team "CT"
+L 12/11/2019 - 18:19:01: Team "TERRORIST" triggered "Target_Bombed" (CT "5") (T "3")
+L 12/11/2019 - 18:19:01: World triggered "Round_End"
+L 12/11/2019 - 18:19:05: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" committed suicide with "world"
+L 12/11/2019 - 18:19:05: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" joined team "CT"
+L 12/11/2019 - 18:19:05: "LEOPARD<7><STEAM_1:0:681183515><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:19:05: "<><><>" triggered "amx_chat" (text "[PTB] Transfered LEOPARD to TERRORIST")
+L 12/11/2019 - 18:19:06: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:19:07: World triggered "Round_Start"
+L 12/11/2019 - 18:19:19: "Jason Statham<6><STEAM_0:1:65160151><CT>" killed "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" with "awp"
+L 12/11/2019 - 18:19:24: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "awp"
+L 12/11/2019 - 18:19:26: [REUNION]: AMG (77.71.31.32) authorized as RevEmu
+L 12/11/2019 - 18:19:26: "AMG<12><STEAM_1:0:854456699><>" connected, address "77.71.31.32:27005"
+L 12/11/2019 - 18:19:26: [REUNION]: AMG (77.71.31.32) authorized as RevEmu
+L 12/11/2019 - 18:19:26: "AMG<13><STEAM_1:0:854456699><>" connected, address "77.71.31.32:27005"
+L 12/11/2019 - 18:19:28: "Jason Statham<6><STEAM_0:1:65160151><CT>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" with "awp"
+L 12/11/2019 - 18:19:30: "Jason Statham<6><STEAM_0:1:65160151><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "awp"
+L 12/11/2019 - 18:19:32: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><TERRORIST>" joined team "CT"
+L 12/11/2019 - 18:19:33: "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "awp"
+L 12/11/2019 - 18:19:33: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 12/11/2019 - 18:19:33: World triggered "Round_End"
+L 12/11/2019 - 18:19:37: "Jason Statham<6><STEAM_0:1:65160151><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:19:37: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Jason Statham to TERRORIST")
+L 12/11/2019 - 18:19:38: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:19:39: World triggered "Round_Start"
+L 12/11/2019 - 18:19:58: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:20:00: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:20:07: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:20:07: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:20:42: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" triggered "Got_The_Bomb"
+L 12/11/2019 - 18:20:43: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:20:43: Team "CT" triggered "CTs_Win" (CT "7") (T "3")
+L 12/11/2019 - 18:20:43: World triggered "Round_End"
+L 12/11/2019 - 18:20:48: "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:20:49: World triggered "Round_Start"
+L 12/11/2019 - 18:21:02: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><CT>" with "aug"
+L 12/11/2019 - 18:21:17: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "aug"
+L 12/11/2019 - 18:21:37: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><CT>" with "aug"
+L 12/11/2019 - 18:21:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "4")
+L 12/11/2019 - 18:21:37: World triggered "Round_End"
+L 12/11/2019 - 18:21:42: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:21:43: World triggered "Round_Start"
+L 12/11/2019 - 18:22:05: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><CT>" with "aug"
+L 12/11/2019 - 18:22:05: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><CT>" killed "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:22:18: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><CT>" with "aug"
+L 12/11/2019 - 18:22:19: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/11/2019 - 18:22:26: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "aug"
+L 12/11/2019 - 18:22:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "5")
+L 12/11/2019 - 18:22:26: World triggered "Round_End"
+L 12/11/2019 - 18:22:31: "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" joined team "CT"
+L 12/11/2019 - 18:22:31: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Jason Statham to CT")
+L 12/11/2019 - 18:22:31: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:22:32: World triggered "Round_Start"
+L 12/11/2019 - 18:22:47: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><CT>" with "ak47"
+L 12/11/2019 - 18:22:47: "[DEA].AIM.PALESTINE<1><STEAM_1:1:1316058917><CT>" disconnected
+L 12/11/2019 - 18:22:56: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "ak47"
+L 12/11/2019 - 18:23:00: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "Jason Statham<6><STEAM_0:1:65160151><CT>" with "m4a1"
+L 12/11/2019 - 18:23:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "6")
+L 12/11/2019 - 18:23:00: World triggered "Round_End"
+L 12/11/2019 - 18:23:05: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:23:06: World triggered "Round_Start"
+L 12/11/2019 - 18:23:21: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:23:21: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><CT>" with "m4a1"
+L 12/11/2019 - 18:23:27: "$$$ S.W.A.T BQSNOTO Volvo $$$<11><STEAM_2:1:232564246><CT>" disconnected
+L 12/11/2019 - 18:23:34: "Jason Statham<6><STEAM_0:1:65160151><CT>" committed suicide with "world"
+L 12/11/2019 - 18:23:34: "Jason Statham<6><STEAM_0:1:65160151><CT>" joined team "SPECTATOR"
+L 12/11/2019 - 18:23:40: "Jason Statham<6><STEAM_0:1:65160151><SPECTATOR>" joined team "CT"
+L 12/11/2019 - 18:23:56: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:23:56: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:23:56: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "m4a1"
+L 12/11/2019 - 18:23:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 12/11/2019 - 18:23:56: World triggered "Round_End"
+L 12/11/2019 - 18:23:59: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Got_The_Bomb"
+L 12/11/2019 - 18:24:00: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" joined team "CT"
+L 12/11/2019 - 18:24:01: "BABAITA<9><STEAM_1:0:603964278><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:24:01: "<><><>" triggered "amx_chat" (text "[PTB] Transfered BABAITA to TERRORIST")
+L 12/11/2019 - 18:24:01: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:24:02: World triggered "Round_Start"
+L 12/11/2019 - 18:24:25: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" with "awp"
+L 12/11/2019 - 18:24:25: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:24:28: "BABAITA<9><STEAM_1:0:603964278><TERRORIST>" joined team "CT"
+L 12/11/2019 - 18:24:30: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "awp"
+L 12/11/2019 - 18:24:40: "Jason Statham<6><STEAM_0:1:65160151><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:24:40: Team "CT" triggered "CTs_Win" (CT "8") (T "7")
+L 12/11/2019 - 18:24:40: World triggered "Round_End"
+L 12/11/2019 - 18:24:45: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:24:46: World triggered "Round_Start"
+L 12/11/2019 - 18:25:03: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "tracktrain"
+L 12/11/2019 - 18:25:03: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:25:13: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" committed suicide with "world"
+L 12/11/2019 - 18:25:13: Team "CT" triggered "CTs_Win" (CT "9") (T "7")
+L 12/11/2019 - 18:25:13: World triggered "Round_End"
+L 12/11/2019 - 18:25:18: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:25:19: World triggered "Round_Start"
+L 12/11/2019 - 18:25:43: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "awp"
+L 12/11/2019 - 18:25:45: "Jason Statham<6><STEAM_0:1:65160151><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "fiveseven"
+L 12/11/2019 - 18:25:45: Team "CT" triggered "CTs_Win" (CT "10") (T "7")
+L 12/11/2019 - 18:25:45: World triggered "Round_End"
+L 12/11/2019 - 18:25:49: "LEOPARD<7><STEAM_1:0:681183515><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:25:49: "<><><>" triggered "amx_chat" (text "[PTB] Transfered LEOPARD to TERRORIST")
+L 12/11/2019 - 18:25:50: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:25:51: World triggered "Round_Start"
+L 12/11/2019 - 18:26:11: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" killed "Jason Statham<6><STEAM_0:1:65160151><CT>" with "awp"
+L 12/11/2019 - 18:26:35: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:26:36: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "deagle"
+L 12/11/2019 - 18:26:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "8")
+L 12/11/2019 - 18:26:36: World triggered "Round_End"
+L 12/11/2019 - 18:26:40: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" committed suicide with "world"
+L 12/11/2019 - 18:26:40: "LEOPARD<7><STEAM_1:0:681183515><TERRORIST>" joined team "CT"
+L 12/11/2019 - 18:26:41: "Jason Statham<6><STEAM_0:1:65160151><CT>" joined team "TERRORIST"
+L 12/11/2019 - 18:26:41: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Jason Statham to TERRORIST")
+L 12/11/2019 - 18:26:41: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:26:42: World triggered "Round_Start"
+L 12/11/2019 - 18:27:09: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "awp"
+L 12/11/2019 - 18:27:09: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/11/2019 - 18:27:13: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "deagle"
+L 12/11/2019 - 18:27:26: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:27:26: Team "CT" triggered "CTs_Win" (CT "11") (T "8")
+L 12/11/2019 - 18:27:26: World triggered "Round_End"
+L 12/11/2019 - 18:27:31: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:27:32: World triggered "Round_Start"
+L 12/11/2019 - 18:27:53: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "LEOPARD<7><STEAM_1:0:681183515><CT>" with "p90"
+L 12/11/2019 - 18:28:08: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/11/2019 - 18:28:17: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:28:18: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "p90"
+L 12/11/2019 - 18:28:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "9")
+L 12/11/2019 - 18:28:18: World triggered "Round_End"
+L 12/11/2019 - 18:28:19: Server cvar "amx_nextmap" = "de_westwood"
+L 12/11/2019 - 18:28:23: "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:28:24: World triggered "Round_Start"
+L 12/11/2019 - 18:28:43: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:28:52: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" killed "LEOPARD<7><STEAM_1:0:681183515><CT>" with "ak47"
+L 12/11/2019 - 18:28:54: "BABAITA<9><STEAM_1:0:603964278><CT>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "m4a1"
+L 12/11/2019 - 18:28:55: "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "deagle"
+L 12/11/2019 - 18:28:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "10")
+L 12/11/2019 - 18:28:55: World triggered "Round_End"
+L 12/11/2019 - 18:29:00: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/11/2019 - 18:29:01: World triggered "Round_Start"
+L 12/11/2019 - 18:29:01: Server cvar "sv_maxspeed" = "0.000000"
+L 12/11/2019 - 18:29:01: Server cvar "mp_friendlyfire" = "1"
+L 12/11/2019 - 18:29:04: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" killed "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" with "ak47"
+L 12/11/2019 - 18:29:05: "LEOPARD<7><STEAM_1:0:681183515><CT>" killed "BABAITA<9><STEAM_1:0:603964278><CT>" with "scout"
+L 12/11/2019 - 18:29:08: "LEOPARD<7><STEAM_1:0:681183515><CT>" committed suicide with "world"
+L 12/11/2019 - 18:29:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "11")
+L 12/11/2019 - 18:29:08: World triggered "Round_End"
+L 12/11/2019 - 18:29:13: Server cvar "sv_maxspeed" = "900.000000"
+L 12/11/2019 - 18:29:13: Server cvar "mp_friendlyfire" = "0"
+L 12/11/2019 - 18:29:13: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: AMX Mod X
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: Reunion
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: ReAuthCheck
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: WHBlocker
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: ReSemiclip
+L 12/11/2019 - 18:29:13: [META] ini: Read plugin config for: Revoice
+L 12/11/2019 - 18:29:13: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/11/2019 - 18:29:13: [META] dll: Updating plugins...
+L 12/11/2019 - 18:29:13: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/11/2019 - 18:29:13: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/11/2019 - 18:29:13: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/11/2019 - 18:29:13: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/11/2019 - 18:29:13: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/11/2019 - 18:29:13: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/11/2019 - 18:29:13: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/11/2019 - 18:29:13: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/11/2019 - 18:29:13: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/11/2019 - 18:29:13: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/11/2019 - 18:29:13: "JOKERA E TUK<2><STEAM_2:1:74324064><TERRORIST>" disconnected
+L 12/11/2019 - 18:29:13: "X EKO X<4><STEAM_1:0:700894237><TERRORIST>" disconnected
+L 12/11/2019 - 18:29:13: "Jason Statham<6><STEAM_0:1:65160151><TERRORIST>" disconnected
+L 12/11/2019 - 18:29:13: "LEOPARD<7><STEAM_1:0:681183515><CT>" disconnected
+L 12/11/2019 - 18:29:13: "BABAITA<9><STEAM_1:0:603964278><CT>" disconnected
+L 12/11/2019 - 18:29:13: Log file closed

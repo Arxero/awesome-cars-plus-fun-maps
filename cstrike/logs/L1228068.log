@@ -1,0 +1,457 @@
+L 12/28/2019 - 19:24:03: Log file started (file "logs/L1228068.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/28/2019 - 19:24:03: Loading map "awp_snowfun2"
+L 12/28/2019 - 19:24:03: Server cvars start
+L 12/28/2019 - 19:24:03: Server cvar "@BunnyHopper" = "3.x"
+L 12/28/2019 - 19:24:03: Server cvar "@CRXGoSpec" = "1.1"
+L 12/28/2019 - 19:24:03: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "@D.I.C.E." = "1.1"
+L 12/28/2019 - 19:24:03: Server cvar "@MOTDCommands" = "1.2"
+L 12/28/2019 - 19:24:03: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/28/2019 - 19:24:03: Server cvar "AdvancedMute" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "aesp_version" = "1.3"
+L 12/28/2019 - 19:24:03: Server cvar "allow_spectators" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "amx_client_languages" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "amx_language" = "en"
+L 12/28/2019 - 19:24:03: Server cvar "amx_nextmap" = "awp_snowfun2"
+L 12/28/2019 - 19:24:03: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/28/2019 - 19:24:03: Server cvar "amx_timeleft" = "15:58"
+L 12/28/2019 - 19:24:03: Server cvar "amxmodx_version" = "1.8.2"
+L 12/28/2019 - 19:24:03: Server cvar "amxxbg_vip" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "asp_version" = "4.5.1"
+L 12/28/2019 - 19:24:03: Server cvar "atac_version" = "3.0.1"
+L 12/28/2019 - 19:24:03: Server cvar "badcamper_version" = "1.4 beta"
+L 12/28/2019 - 19:24:03: Server cvar "blockmaker" = "4.01"
+L 12/28/2019 - 19:24:03: Server cvar "c4 timer" = "1.1"
+L 12/28/2019 - 19:24:03: Server cvar "coop" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "CRXAdminGroups" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "CRXFastKnife" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "CRXGametracker" = "2.0"
+L 12/28/2019 - 19:24:03: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/28/2019 - 19:24:03: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "CustomShop" = "4.2"
+L 12/28/2019 - 19:24:03: Server cvar "deathmatch" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "decalfrequency" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "edgefriction" = "2"
+L 12/28/2019 - 19:24:03: Server cvar "ers_version" = "2.3c"
+L 12/28/2019 - 19:24:03: Server cvar "gagsystem_shoko" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/28/2019 - 19:24:03: Server cvar "gal_version" = "v5.9.1-926"
+L 12/28/2019 - 19:24:03: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/28/2019 - 19:24:03: Server cvar "humans_join_team" = "any"
+L 12/28/2019 - 19:24:03: Server cvar "jtp10181" = "chute,gore"
+L 12/28/2019 - 19:24:03: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/28/2019 - 19:24:03: Server cvar "LetitSnow" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/28/2019 - 19:24:03: Server cvar "max_queries_sec" = "3"
+L 12/28/2019 - 19:24:03: Server cvar "max_queries_sec_global" = "150"
+L 12/28/2019 - 19:24:03: Server cvar "max_queries_window" = "60"
+L 12/28/2019 - 19:24:03: Server cvar "mdbBans" = "4.8"
+L 12/28/2019 - 19:24:03: Server cvar "metamod_version" = "1.21p37"
+L 12/28/2019 - 19:24:03: Server cvar "mp_autokick" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_autokick_timeout" = "-1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_autoteambalance" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_buytime" = "0.25"
+L 12/28/2019 - 19:24:03: Server cvar "mp_c4timer" = "35"
+L 12/28/2019 - 19:24:03: Server cvar "mp_chattime" = "5.000000"
+L 12/28/2019 - 19:24:03: Server cvar "mp_consistency" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_fadetoblack" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_flashlight" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_footsteps" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_forcecamera" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_forcechasecam" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_forcerespawn" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_fraglimit" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_fragsleft" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_freeforall" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_freezetime" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_friendlyfire" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_hostage_hurtable" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_hostagepenalty" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_item_staytime" = "300"
+L 12/28/2019 - 19:24:03: Server cvar "mp_kickpercent" = "0.66"
+L 12/28/2019 - 19:24:03: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_limitteams" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_logdetail" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_logfile" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_logmessages" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/28/2019 - 19:24:03: Server cvar "mp_maxmoney" = "999999"
+L 12/28/2019 - 19:24:03: Server cvar "mp_maxrounds" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_mirrordamage" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_playerid" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_round_infinite" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_round_restart_delay" = "5"
+L 12/28/2019 - 19:24:03: Server cvar "mp_roundover" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_roundtime" = "2.3"
+L 12/28/2019 - 19:24:03: Server cvar "mp_show_radioicon" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_startmoney" = "850"
+L 12/28/2019 - 19:24:03: Server cvar "mp_timeleft" = "15:58"
+L 12/28/2019 - 19:24:03: Server cvar "mp_timelimit" = "20"
+L 12/28/2019 - 19:24:03: Server cvar "mp_tkpunish" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "mp_windifference" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "mp_winlimit" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/28/2019 - 19:24:03: Server cvar "pausable" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "present_version" = "2.01"
+L 12/28/2019 - 19:24:03: Server cvar "RandomHP" = "2.2"
+L 12/28/2019 - 19:24:03: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/28/2019 - 19:24:03: Server cvar "reconnect_features" = "0.3.1"
+L 12/28/2019 - 19:24:03: Server cvar "report_system_version" = "3.1"
+L 12/28/2019 - 19:24:03: Server cvar "resemiclip_version" = "2.3.9"
+L 12/28/2019 - 19:24:03: Server cvar "reu_version" = "0.1.0.130"
+L 12/28/2019 - 19:24:03: Server cvar "revoice_version" = "0.1.0.30"
+L 12/28/2019 - 19:24:03: Server cvar "RRWM" = "2.0"
+L 12/28/2019 - 19:24:03: Server cvar "sanksounds_version" = "1.8.6"
+L 12/28/2019 - 19:24:03: Server cvar "SimpleMenu" = "1.1"
+L 12/28/2019 - 19:24:03: Server cvar "SNAC_Version" = "1.1"
+L 12/28/2019 - 19:24:03: Server cvar "SpecList" = "1.2a"
+L 12/28/2019 - 19:24:03: Server cvar "sr_version" = "1.6"
+L 12/28/2019 - 19:24:03: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/28/2019 - 19:24:03: Server cvar "StyleC4Timer" = "2.1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_accelerate" = "5"
+L 12/28/2019 - 19:24:03: Server cvar "sv_aim" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_airaccelerate" = "100"
+L 12/28/2019 - 19:24:03: Server cvar "sv_allowupload" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_alltalk" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_bounce" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_cheats" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "sv_clienttrace" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/28/2019 - 19:24:03: Server cvar "sv_friction" = "4"
+L 12/28/2019 - 19:24:03: Server cvar "sv_gravity" = "800"
+L 12/28/2019 - 19:24:03: Server cvar "sv_logblocks" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "sv_maxrate" = "50000"
+L 12/28/2019 - 19:24:03: Server cvar "sv_maxspeed" = "900"
+L 12/28/2019 - 19:24:03: Server cvar "sv_minrate" = "10000"
+L 12/28/2019 - 19:24:03: Server cvar "sv_password" = ""
+L 12/28/2019 - 19:24:03: Server cvar "sv_proxies" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_restart" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "sv_restartround" = "0"
+L 12/28/2019 - 19:24:03: Server cvar "sv_stepsize" = "18"
+L 12/28/2019 - 19:24:03: Server cvar "sv_stopspeed" = "75"
+L 12/28/2019 - 19:24:03: Server cvar "sv_uploadmax" = "0.5"
+L 12/28/2019 - 19:24:03: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/28/2019 - 19:24:03: Server cvar "sv_voiceenable" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "sv_wateraccelerate" = "10"
+L 12/28/2019 - 19:24:03: Server cvar "sv_waterfriction" = "1"
+L 12/28/2019 - 19:24:03: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/28/2019 - 19:24:03: Server cvar "vehicle_real_killer" = "1.1"
+L 12/28/2019 - 19:24:03: Server cvar "WalkGuard" = "1.3.2"
+L 12/28/2019 - 19:24:03: Server cvar "we_grenades" = "Huehue"
+L 12/28/2019 - 19:24:03: Server cvar "we_player_models" = "Huehue"
+L 12/28/2019 - 19:24:03: Server cvar "whb_version" = "1.5.692"
+L 12/28/2019 - 19:24:03: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/28/2019 - 19:24:03: Server cvars end
+L 12/28/2019 - 19:24:06: Server cvar "mp_autoteambalance" = "1"
+L 12/28/2019 - 19:24:06: Server cvar "mp_autoteambalance" = "0"
+L 12/28/2019 - 19:24:06: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/28/2019 - 19:24:08: Started map "awp_snowfun2" (CRC "1799787328")
+L 12/28/2019 - 19:24:10: World triggered "Round_Start"
+L 12/28/2019 - 19:25:07: Server cvar "amx_nextmap" = "chopper_attack"
+L 12/28/2019 - 19:26:28: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 12/28/2019 - 19:26:28: World triggered "Round_End"
+L 12/28/2019 - 19:26:34: World triggered "Round_Start"
+L 12/28/2019 - 19:28:52: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 12/28/2019 - 19:28:52: World triggered "Round_End"
+L 12/28/2019 - 19:28:58: World triggered "Round_Start"
+L 12/28/2019 - 19:29:47: ">SwEeT.oF.DeATh<<176><STEAM_0:0:56483659><>" connected, address "213.194.152.83:32811"
+L 12/28/2019 - 19:29:47: ">SwEeT.oF.DeATh<<176><STEAM_0:0:56483659><>" STEAM USERID validated
+L 12/28/2019 - 19:29:58: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><>" connected, address "213.194.152.83:32811"
+L 12/28/2019 - 19:29:58: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><>" STEAM USERID validated
+L 12/28/2019 - 19:30:08: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><>" entered the game
+L 12/28/2019 - 19:30:12: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><>" joined team "CT"
+L 12/28/2019 - 19:30:18: ">DeViL.oF.DeATh<<178><STEAM_0:1:94768270><>" connected, address "185.240.189.25:27005"
+L 12/28/2019 - 19:30:19: ">DeViL.oF.DeATh<<178><STEAM_0:1:94768270><>" STEAM USERID validated
+L 12/28/2019 - 19:30:22: "Life brings smiles and memories<179><STEAM_0:0:60260467><>" connected, address "87.252.178.100:27005"
+L 12/28/2019 - 19:30:22: "Life brings smiles and memories<179><STEAM_0:0:60260467><>" STEAM USERID validated
+L 12/28/2019 - 19:30:25: "Life brings smiles and memories<180><STEAM_0:0:60260467><>" connected, address "87.252.178.100:27005"
+L 12/28/2019 - 19:30:26: "Life brings smiles and memories<180><STEAM_0:0:60260467><>" STEAM USERID validated
+L 12/28/2019 - 19:30:26: [REUNION]: Arashira (94.51.210.164) authorized as RevEmu
+L 12/28/2019 - 19:30:26: "Arashira<181><STEAM_2:0:1001780501><>" connected, address "94.51.210.164:1358"
+L 12/28/2019 - 19:30:28: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><>" connected, address "185.240.189.25:27005"
+L 12/28/2019 - 19:30:28: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><>" STEAM USERID validated
+L 12/28/2019 - 19:30:31: "Life brings smiles and memories<180><STEAM_0:0:60260467><>" entered the game
+L 12/28/2019 - 19:30:33: "Life brings smiles and memories<180><STEAM_0:0:60260467><>" joined team "TERRORIST"
+L 12/28/2019 - 19:30:33: World triggered "Game_Commencing"
+L 12/28/2019 - 19:30:33: World triggered "Game_Commencing" (CT "2") (T "0")
+L 12/28/2019 - 19:30:33: World triggered "Round_End"
+L 12/28/2019 - 19:30:35: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><>" entered the game
+L 12/28/2019 - 19:30:36: "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:30:37: World triggered "Round_Start"
+L 12/28/2019 - 19:30:39: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><>" joined team "CT"
+L 12/28/2019 - 19:30:53: [REUNION]: K.A.R.T.O.N. (5.140.68.103) authorized as RevEmu
+L 12/28/2019 - 19:30:53: "K.A.R.T.O.N.<183><STEAM_1:1:507654978><>" connected, address "5.140.68.103:1188"
+L 12/28/2019 - 19:30:54: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" with "knife"
+L 12/28/2019 - 19:30:54: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/28/2019 - 19:30:54: World triggered "Round_End"
+L 12/28/2019 - 19:30:59: "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:31:00: World triggered "Round_Start"
+L 12/28/2019 - 19:31:07: [REUNION]: 2Pacalypse (130.185.211.206) authorized as NoSteam47
+L 12/28/2019 - 19:31:07: "2Pacalypse<184><VALVE_ID_LAN><>" connected, address "130.185.211.206:27005"
+L 12/28/2019 - 19:31:22: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" with "scout"
+L 12/28/2019 - 19:31:22: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 12/28/2019 - 19:31:22: World triggered "Round_End"
+L 12/28/2019 - 19:31:24: "2Pacalypse<184><VALVE_ID_LAN><>" entered the game
+L 12/28/2019 - 19:31:27: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:31:27: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >SwEeT.oF.DeATh< to TERRORIST")
+L 12/28/2019 - 19:31:27: "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:31:28: World triggered "Round_Start"
+L 12/28/2019 - 19:31:30: "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 19:31:30: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" triggered "Got_The_Bomb"
+L 12/28/2019 - 19:31:33: "2Pacalypse<184><VALVE_ID_LAN><>" joined team "CT"
+L 12/28/2019 - 19:31:50: "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" committed suicide with "world"
+L 12/28/2019 - 19:31:50: "Life brings smiles and memories<180><STEAM_0:0:60260467><TERRORIST>" joined team "SPECTATOR"
+L 12/28/2019 - 19:31:55: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 12/28/2019 - 19:31:55: "HuNt3r<185><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/28/2019 - 19:32:00: "HuNt3r<185><STEAM_1:1:1071071391><>" entered the game
+L 12/28/2019 - 19:32:03: "HuNt3r<185><STEAM_1:1:1071071391><>" joined team "TERRORIST"
+L 12/28/2019 - 19:32:07: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" with "usp"
+L 12/28/2019 - 19:32:07: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 12/28/2019 - 19:32:07: World triggered "Round_End"
+L 12/28/2019 - 19:32:09: [REUNION]: K.A.R.T.O.N. (5.140.68.103) authorized as RevEmu
+L 12/28/2019 - 19:32:09: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><>" connected, address "5.140.68.103:1188"
+L 12/28/2019 - 19:32:10: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" committed suicide with "world"
+L 12/28/2019 - 19:32:10: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:32:12: "HuNt3r<185><STEAM_1:1:1071071391><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:32:13: World triggered "Round_Start"
+L 12/28/2019 - 19:32:18: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><>" entered the game
+L 12/28/2019 - 19:32:25: "Life brings smiles and memories<180><STEAM_0:0:60260467><SPECTATOR>" disconnected
+L 12/28/2019 - 19:32:25: "Life brings smiles and memories<187><STEAM_0:0:60260467><>" connected, address "87.252.178.100:27005"
+L 12/28/2019 - 19:32:25: "Life brings smiles and memories<187><STEAM_0:0:60260467><>" STEAM USERID validated
+L 12/28/2019 - 19:32:26: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "galil"
+L 12/28/2019 - 19:32:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 12/28/2019 - 19:32:26: World triggered "Round_End"
+L 12/28/2019 - 19:32:27: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><>" joined team "TERRORIST"
+L 12/28/2019 - 19:32:27: "Life brings smiles and memories<187><STEAM_0:0:60260467><>" entered the game
+L 12/28/2019 - 19:32:28: "Life brings smiles and memories<187><STEAM_0:0:60260467><>" joined team "CT"
+L 12/28/2019 - 19:32:31: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:32:32: World triggered "Round_Start"
+L 12/28/2019 - 19:32:43: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" killed "Life brings smiles and memories<187><STEAM_0:0:60260467><CT>" with "galil"
+L 12/28/2019 - 19:32:46: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "HuNt3r<185><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:32:47: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "galil"
+L 12/28/2019 - 19:32:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 12/28/2019 - 19:32:47: World triggered "Round_End"
+L 12/28/2019 - 19:32:52: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:32:52: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >SwEeT.oF.DeATh< to CT")
+L 12/28/2019 - 19:32:52: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:32:53: World triggered "Round_Start"
+L 12/28/2019 - 19:32:55: "HuNt3r<185><STEAM_1:1:1071071391><TERRORIST>" disconnected
+L 12/28/2019 - 19:33:05: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "knife"
+L 12/28/2019 - 19:33:11: [REUNION]: Arashira (94.51.210.164) authorized as RevEmu
+L 12/28/2019 - 19:33:11: "Arashira<188><STEAM_2:0:1001780501><>" connected, address "94.51.210.164:1358"
+L 12/28/2019 - 19:33:23: "Arashira<188><STEAM_2:0:1001780501><>" entered the game
+L 12/28/2019 - 19:33:26: "Life brings smiles and memories<187><STEAM_0:0:60260467><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "knife"
+L 12/28/2019 - 19:33:28: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "knife"
+L 12/28/2019 - 19:33:28: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 12/28/2019 - 19:33:28: World triggered "Round_End"
+L 12/28/2019 - 19:33:29: "Arashira<188><STEAM_2:0:1001780501><>" joined team "TERRORIST"
+L 12/28/2019 - 19:33:33: "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:33:34: World triggered "Round_Start"
+L 12/28/2019 - 19:33:44: "Life brings smiles and memories<187><STEAM_0:0:60260467><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "m249"
+L 12/28/2019 - 19:33:52: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "m249"
+L 12/28/2019 - 19:33:53: "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "m249"
+L 12/28/2019 - 19:33:58: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" with "m249"
+L 12/28/2019 - 19:33:58: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 12/28/2019 - 19:33:58: World triggered "Round_End"
+L 12/28/2019 - 19:34:03: "Life brings smiles and memories<187><STEAM_0:0:60260467><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:34:03: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Life brings smiles and memories to TERRORIST")
+L 12/28/2019 - 19:34:03: "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:34:04: World triggered "Round_Start"
+L 12/28/2019 - 19:34:12: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "ak47"
+L 12/28/2019 - 19:34:24: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "ak47"
+L 12/28/2019 - 19:34:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 12/28/2019 - 19:34:24: World triggered "Round_End"
+L 12/28/2019 - 19:34:29: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:34:29: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >DeViL.oF.DeATh< to CT")
+L 12/28/2019 - 19:34:29: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:34:30: World triggered "Round_Start"
+L 12/28/2019 - 19:34:40: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "ak47"
+L 12/28/2019 - 19:34:46: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "ak47"
+L 12/28/2019 - 19:34:50: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" killed "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:34:59: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:35:14: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" killed "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:35:14: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 12/28/2019 - 19:35:14: World triggered "Round_End"
+L 12/28/2019 - 19:35:19: "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:35:20: World triggered "Round_Start"
+L 12/28/2019 - 19:35:35: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" with "ak47"
+L 12/28/2019 - 19:35:44: "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "ak47"
+L 12/28/2019 - 19:35:47: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" with "ak47"
+L 12/28/2019 - 19:35:50: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" with "ak47"
+L 12/28/2019 - 19:35:51: "Arashira<188><STEAM_2:0:1001780501><TERRORIST>" disconnected
+L 12/28/2019 - 19:35:57: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "ak47"
+L 12/28/2019 - 19:35:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 12/28/2019 - 19:35:57: World triggered "Round_End"
+L 12/28/2019 - 19:36:01: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:36:01: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >SwEeT.oF.DeATh< to TERRORIST")
+L 12/28/2019 - 19:36:02: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:36:03: World triggered "Round_Start"
+L 12/28/2019 - 19:36:14: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" with "ak47"
+L 12/28/2019 - 19:36:15: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:36:15: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 19:36:23: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:36:39: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:36:39: Team "CT" triggered "CTs_Win" (CT "7") (T "4")
+L 12/28/2019 - 19:36:39: World triggered "Round_End"
+L 12/28/2019 - 19:36:43: "Life brings smiles and memories<187><STEAM_0:0:60260467><TERRORIST>" disconnected
+L 12/28/2019 - 19:36:44: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:36:45: World triggered "Round_Start"
+L 12/28/2019 - 19:37:00: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" with "mp5navy"
+L 12/28/2019 - 19:37:18: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "mp5navy"
+L 12/28/2019 - 19:37:18: Team "CT" triggered "CTs_Win" (CT "8") (T "4")
+L 12/28/2019 - 19:37:18: World triggered "Round_End"
+L 12/28/2019 - 19:37:23: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:37:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >DeViL.oF.DeATh< to TERRORIST")
+L 12/28/2019 - 19:37:23: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:37:24: World triggered "Round_Start"
+L 12/28/2019 - 19:37:39: [REUNION]: Player (5.178.87.52) authorized as RevEmu
+L 12/28/2019 - 19:37:39: "Player<189><STEAM_2:1:1822192329><>" connected, address "5.178.87.52:56988"
+L 12/28/2019 - 19:37:39: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "ak47"
+L 12/28/2019 - 19:37:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "5")
+L 12/28/2019 - 19:37:39: World triggered "Round_End"
+L 12/28/2019 - 19:37:44: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:37:44: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >SwEeT.oF.DeATh< to CT")
+L 12/28/2019 - 19:37:44: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:37:45: World triggered "Round_Start"
+L 12/28/2019 - 19:37:55: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "sg550"
+L 12/28/2019 - 19:38:04: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "sg550"
+L 12/28/2019 - 19:38:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "6")
+L 12/28/2019 - 19:38:04: World triggered "Round_End"
+L 12/28/2019 - 19:38:09: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:38:10: World triggered "Round_Start"
+L 12/28/2019 - 19:38:22: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "famas"
+L 12/28/2019 - 19:38:59: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "sg550"
+L 12/28/2019 - 19:39:06: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:39:06: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 12/28/2019 - 19:39:06: World triggered "Round_End"
+L 12/28/2019 - 19:39:11: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:39:12: World triggered "Round_Start"
+L 12/28/2019 - 19:39:32: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:39:32: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 19:39:34: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:39:34: Team "CT" triggered "CTs_Win" (CT "10") (T "6")
+L 12/28/2019 - 19:39:34: World triggered "Round_End"
+L 12/28/2019 - 19:39:39: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:39:40: World triggered "Round_Start"
+L 12/28/2019 - 19:39:47: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:39:47: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 19:39:51: "K.A.R.T.O.N.<186><STEAM_1:1:507654978><TERRORIST>" disconnected
+L 12/28/2019 - 19:39:52: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:39:52: Team "CT" triggered "CTs_Win" (CT "11") (T "6")
+L 12/28/2019 - 19:39:52: World triggered "Round_End"
+L 12/28/2019 - 19:39:57: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:39:58: World triggered "Round_Start"
+L 12/28/2019 - 19:40:18: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "famas"
+L 12/28/2019 - 19:40:19: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:40:26: [REUNION]: ＃AB`Arar (82.205.55.177) authorized as RevEmu
+L 12/28/2019 - 19:40:26: "＃AB`Arar<190><STEAM_1:1:1316058917><>" connected, address "82.205.55.177:21480"
+L 12/28/2019 - 19:40:33: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "famas"
+L 12/28/2019 - 19:40:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "7")
+L 12/28/2019 - 19:40:33: World triggered "Round_End"
+L 12/28/2019 - 19:40:34: "＃AB`Arar<190><STEAM_1:1:1316058917><>" entered the game
+L 12/28/2019 - 19:40:37: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:40:37: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >DeViL.oF.DeATh< to CT")
+L 12/28/2019 - 19:40:38: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:40:39: World triggered "Round_Start"
+L 12/28/2019 - 19:40:39: "＃AB`Arar<190><STEAM_1:1:1316058917><>" joined team "TERRORIST"
+L 12/28/2019 - 19:40:52: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" with "knife"
+L 12/28/2019 - 19:40:54: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:41:06: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/28/2019 - 19:41:06: Team "CT" triggered "CTs_Win" (CT "12") (T "7")
+L 12/28/2019 - 19:41:06: World triggered "Round_End"
+L 12/28/2019 - 19:41:11: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:41:12: World triggered "Round_Start"
+L 12/28/2019 - 19:41:34: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:41:34: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 19:41:42: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" with "ak47"
+L 12/28/2019 - 19:41:44: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:41:44: Team "CT" triggered "CTs_Win" (CT "13") (T "7")
+L 12/28/2019 - 19:41:44: World triggered "Round_End"
+L 12/28/2019 - 19:41:49: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:41:50: World triggered "Round_Start"
+L 12/28/2019 - 19:42:00: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:42:00: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 19:42:09: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" with "knife"
+L 12/28/2019 - 19:42:09: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:42:09: Team "CT" triggered "CTs_Win" (CT "14") (T "7")
+L 12/28/2019 - 19:42:09: World triggered "Round_End"
+L 12/28/2019 - 19:42:14: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:42:14: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >DeViL.oF.DeATh< to TERRORIST")
+L 12/28/2019 - 19:42:14: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:42:15: World triggered "Round_Start"
+L 12/28/2019 - 19:42:30: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "m4a1"
+L 12/28/2019 - 19:42:32: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" killed "2Pacalypse<184><VALVE_ID_LAN><CT>" with "ak47"
+L 12/28/2019 - 19:42:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "8")
+L 12/28/2019 - 19:42:32: World triggered "Round_End"
+L 12/28/2019 - 19:42:36: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:42:36: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >SwEeT.oF.DeATh< to CT")
+L 12/28/2019 - 19:42:37: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:42:38: World triggered "Round_Start"
+L 12/28/2019 - 19:42:49: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "ak47"
+L 12/28/2019 - 19:42:51: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" with "ak47"
+L 12/28/2019 - 19:42:51: Team "CT" triggered "CTs_Win" (CT "15") (T "8")
+L 12/28/2019 - 19:42:51: World triggered "Round_End"
+L 12/28/2019 - 19:42:56: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:42:57: World triggered "Round_Start"
+L 12/28/2019 - 19:43:15: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "ak47"
+L 12/28/2019 - 19:43:15: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" with "famas"
+L 12/28/2019 - 19:43:18: "2Pacalypse<184><VALVE_ID_LAN><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "famas"
+L 12/28/2019 - 19:43:18: Team "CT" triggered "CTs_Win" (CT "16") (T "8")
+L 12/28/2019 - 19:43:18: World triggered "Round_End"
+L 12/28/2019 - 19:43:19: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:43:23: "2Pacalypse<184><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:43:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 2Pacalypse to TERRORIST")
+L 12/28/2019 - 19:43:23: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:43:24: World triggered "Round_Start"
+L 12/28/2019 - 19:43:37: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" killed ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" with "knife"
+L 12/28/2019 - 19:43:46: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "knife"
+L 12/28/2019 - 19:44:22: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><CT>" with "knife"
+L 12/28/2019 - 19:44:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "9")
+L 12/28/2019 - 19:44:22: World triggered "Round_End"
+L 12/28/2019 - 19:44:27: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:44:27: Server cvar "amx_nextmap" = "fy_buzzkill"
+L 12/28/2019 - 19:44:28: World triggered "Round_Start"
+L 12/28/2019 - 19:44:42: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" killed ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" with "ak47"
+L 12/28/2019 - 19:44:45: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><CT>" with "ak47"
+L 12/28/2019 - 19:44:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "10")
+L 12/28/2019 - 19:44:45: World triggered "Round_End"
+L 12/28/2019 - 19:44:49: "＃AB`Arar<190><STEAM_1:1:1316058917><CT>" joined team "TERRORIST"
+L 12/28/2019 - 19:44:50: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><TERRORIST>" joined team "CT"
+L 12/28/2019 - 19:44:50: "<><><>" triggered "amx_chat" (text "[PTB] Transfered >DeViL.oF.DeATh< to CT")
+L 12/28/2019 - 19:44:50: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 19:44:51: World triggered "Round_Start"
+L 12/28/2019 - 19:44:51: Server cvar "sv_maxspeed" = "0.000000"
+L 12/28/2019 - 19:44:51: Server cvar "mp_friendlyfire" = "1"
+L 12/28/2019 - 19:44:54: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" killed "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" with "ak47"
+L 12/28/2019 - 19:44:57: Server cvar "sv_maxspeed" = "900.000000"
+L 12/28/2019 - 19:44:57: Server cvar "mp_friendlyfire" = "0"
+L 12/28/2019 - 19:44:57: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: AMX Mod X
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: Reunion
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: ReAuthCheck
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: WHBlocker
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: ReSemiclip
+L 12/28/2019 - 19:44:57: [META] ini: Read plugin config for: Revoice
+L 12/28/2019 - 19:44:57: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/28/2019 - 19:44:57: [META] dll: Updating plugins...
+L 12/28/2019 - 19:44:57: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/28/2019 - 19:44:57: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/28/2019 - 19:44:57: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/28/2019 - 19:44:57: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/28/2019 - 19:44:57: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/28/2019 - 19:44:57: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/28/2019 - 19:44:57: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/28/2019 - 19:44:57: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/28/2019 - 19:44:57: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/28/2019 - 19:44:57: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/28/2019 - 19:44:57: ">SwEeT.oF.DeATh<<177><STEAM_0:0:56483659><CT>" disconnected
+L 12/28/2019 - 19:44:57: "＃AB`Arar<190><STEAM_1:1:1316058917><TERRORIST>" disconnected
+L 12/28/2019 - 19:44:57: "2Pacalypse<184><VALVE_ID_LAN><TERRORIST>" disconnected
+L 12/28/2019 - 19:44:57: ">DeViL.oF.DeATh<<182><STEAM_0:1:94768270><CT>" disconnected
+L 12/28/2019 - 19:44:57: World triggered "Round_Draw" (CT "16") (T "10")
+L 12/28/2019 - 19:44:57: World triggered "Round_End"
+L 12/28/2019 - 19:44:57: Log file closed

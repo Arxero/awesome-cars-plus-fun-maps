@@ -1,0 +1,391 @@
+L 01/19/2020 - 22:59:57: Log file started (file "logs/L0119072.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/19/2020 - 22:59:57: Loading map "nw_gasstation"
+L 01/19/2020 - 22:59:57: Server cvars start
+L 01/19/2020 - 22:59:57: Server cvar "@BunnyHopper" = "3.x"
+L 01/19/2020 - 22:59:57: Server cvar "@CRXGoSpec" = "1.1"
+L 01/19/2020 - 22:59:57: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "@D.I.C.E." = "1.1"
+L 01/19/2020 - 22:59:57: Server cvar "@MOTDCommands" = "1.2"
+L 01/19/2020 - 22:59:57: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/19/2020 - 22:59:57: Server cvar "AdvancedMute" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "aesp_version" = "1.3"
+L 01/19/2020 - 22:59:57: Server cvar "allow_spectators" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "amx_client_languages" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "amx_language" = "en"
+L 01/19/2020 - 22:59:57: Server cvar "amx_nextmap" = "nw_gasstation"
+L 01/19/2020 - 22:59:57: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/19/2020 - 22:59:57: Server cvar "amx_timeleft" = "01:49"
+L 01/19/2020 - 22:59:57: Server cvar "amxmodx_version" = "1.8.2"
+L 01/19/2020 - 22:59:57: Server cvar "amxxbg_vip" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "asp_version" = "4.5.1"
+L 01/19/2020 - 22:59:57: Server cvar "atac_version" = "3.0.1"
+L 01/19/2020 - 22:59:57: Server cvar "badcamper_version" = "1.4 beta"
+L 01/19/2020 - 22:59:57: Server cvar "blockmaker" = "4.01"
+L 01/19/2020 - 22:59:57: Server cvar "c4 timer" = "1.1"
+L 01/19/2020 - 22:59:57: Server cvar "coop" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "CRXAdminGroups" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "CRXFastKnife" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "CRXGametracker" = "2.0"
+L 01/19/2020 - 22:59:57: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/19/2020 - 22:59:57: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "CustomShop" = "4.2"
+L 01/19/2020 - 22:59:57: Server cvar "deathmatch" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "decalfrequency" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "edgefriction" = "2"
+L 01/19/2020 - 22:59:57: Server cvar "ers_version" = "2.3c"
+L 01/19/2020 - 22:59:57: Server cvar "gagsystem_shoko" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/19/2020 - 22:59:57: Server cvar "gal_version" = "v5.9.1-926"
+L 01/19/2020 - 22:59:57: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/19/2020 - 22:59:57: Server cvar "humans_join_team" = "any"
+L 01/19/2020 - 22:59:57: Server cvar "jtp10181" = "chute,gore"
+L 01/19/2020 - 22:59:57: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/19/2020 - 22:59:57: Server cvar "LetitSnow" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/19/2020 - 22:59:57: Server cvar "max_queries_sec" = "3"
+L 01/19/2020 - 22:59:57: Server cvar "max_queries_sec_global" = "150"
+L 01/19/2020 - 22:59:57: Server cvar "max_queries_window" = "60"
+L 01/19/2020 - 22:59:57: Server cvar "mdbBans" = "4.8"
+L 01/19/2020 - 22:59:57: Server cvar "metamod_version" = "1.21p37"
+L 01/19/2020 - 22:59:57: Server cvar "mp_autokick" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_autokick_timeout" = "-1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_autoteambalance" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_buytime" = "0.25"
+L 01/19/2020 - 22:59:57: Server cvar "mp_c4timer" = "35"
+L 01/19/2020 - 22:59:57: Server cvar "mp_chattime" = "10.000000"
+L 01/19/2020 - 22:59:57: Server cvar "mp_consistency" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_fadetoblack" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_flashlight" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_footsteps" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_forcecamera" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_forcechasecam" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_forcerespawn" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_fraglimit" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_fragsleft" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_freeforall" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_freezetime" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_friendlyfire" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_hostage_hurtable" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_hostagepenalty" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_item_staytime" = "300"
+L 01/19/2020 - 22:59:57: Server cvar "mp_kickpercent" = "0.66"
+L 01/19/2020 - 22:59:57: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_limitteams" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_logdetail" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_logfile" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_logmessages" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/19/2020 - 22:59:57: Server cvar "mp_maxmoney" = "999999"
+L 01/19/2020 - 22:59:57: Server cvar "mp_maxrounds" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_mirrordamage" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_playerid" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_round_infinite" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_round_restart_delay" = "5"
+L 01/19/2020 - 22:59:57: Server cvar "mp_roundover" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_roundtime" = "2.3"
+L 01/19/2020 - 22:59:57: Server cvar "mp_show_radioicon" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_startmoney" = "850"
+L 01/19/2020 - 22:59:57: Server cvar "mp_timeleft" = "01:49"
+L 01/19/2020 - 22:59:57: Server cvar "mp_timelimit" = "20"
+L 01/19/2020 - 22:59:57: Server cvar "mp_tkpunish" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "mp_windifference" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "mp_winlimit" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/19/2020 - 22:59:57: Server cvar "pausable" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "present_version" = "2.01"
+L 01/19/2020 - 22:59:57: Server cvar "RandomHP" = "2.2"
+L 01/19/2020 - 22:59:57: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/19/2020 - 22:59:57: Server cvar "reconnect_features" = "0.3.1"
+L 01/19/2020 - 22:59:57: Server cvar "report_system_version" = "3.1"
+L 01/19/2020 - 22:59:57: Server cvar "resemiclip_version" = "2.3.9"
+L 01/19/2020 - 22:59:57: Server cvar "reu_version" = "0.1.0.130"
+L 01/19/2020 - 22:59:57: Server cvar "revoice_version" = "0.1.0.30"
+L 01/19/2020 - 22:59:57: Server cvar "RRWM" = "2.0"
+L 01/19/2020 - 22:59:57: Server cvar "sanksounds_version" = "1.8.6"
+L 01/19/2020 - 22:59:57: Server cvar "SimpleMenu" = "1.1"
+L 01/19/2020 - 22:59:57: Server cvar "SNAC_Version" = "1.1"
+L 01/19/2020 - 22:59:57: Server cvar "SpecList" = "1.2a"
+L 01/19/2020 - 22:59:57: Server cvar "sr_version" = "1.6"
+L 01/19/2020 - 22:59:57: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/19/2020 - 22:59:57: Server cvar "StyleC4Timer" = "2.1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_accelerate" = "5"
+L 01/19/2020 - 22:59:57: Server cvar "sv_aim" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_airaccelerate" = "100"
+L 01/19/2020 - 22:59:57: Server cvar "sv_allowupload" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_alltalk" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_bounce" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_cheats" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "sv_clienttrace" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/19/2020 - 22:59:57: Server cvar "sv_friction" = "4"
+L 01/19/2020 - 22:59:57: Server cvar "sv_gravity" = "800"
+L 01/19/2020 - 22:59:57: Server cvar "sv_logblocks" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "sv_maxrate" = "50000"
+L 01/19/2020 - 22:59:57: Server cvar "sv_maxspeed" = "900.000000"
+L 01/19/2020 - 22:59:57: Server cvar "sv_minrate" = "10000"
+L 01/19/2020 - 22:59:57: Server cvar "sv_password" = ""
+L 01/19/2020 - 22:59:57: Server cvar "sv_proxies" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_restart" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "sv_restartround" = "0"
+L 01/19/2020 - 22:59:57: Server cvar "sv_stepsize" = "18"
+L 01/19/2020 - 22:59:57: Server cvar "sv_stopspeed" = "75"
+L 01/19/2020 - 22:59:57: Server cvar "sv_uploadmax" = "0.5"
+L 01/19/2020 - 22:59:57: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/19/2020 - 22:59:57: Server cvar "sv_voiceenable" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "sv_wateraccelerate" = "10"
+L 01/19/2020 - 22:59:57: Server cvar "sv_waterfriction" = "1"
+L 01/19/2020 - 22:59:57: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/19/2020 - 22:59:57: Server cvar "vehicle_real_killer" = "1.1"
+L 01/19/2020 - 22:59:57: Server cvar "WalkGuard" = "1.3.2"
+L 01/19/2020 - 22:59:57: Server cvar "we_grenades" = "Huehue"
+L 01/19/2020 - 22:59:57: Server cvar "we_player_models" = "Huehue"
+L 01/19/2020 - 22:59:57: Server cvar "whb_version" = "1.5.692"
+L 01/19/2020 - 22:59:57: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/19/2020 - 22:59:57: Server cvars end
+L 01/19/2020 - 22:59:59: Server cvar "sv_maxspeed" = "900"
+L 01/19/2020 - 22:59:59: Server cvar "mp_autoteambalance" = "1"
+L 01/19/2020 - 23:00:00: Server cvar "mp_autoteambalance" = "0"
+L 01/19/2020 - 23:00:00: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/19/2020 - 23:00:01: Started map "nw_gasstation" (CRC "-1777640014")
+L 01/19/2020 - 23:00:03: World triggered "Round_Start"
+L 01/19/2020 - 23:00:08: [REUNION]: ryu532 (105.138.87.196) authorized as RevEmu
+L 01/19/2020 - 23:00:08: "ryu532<28><STEAM_1:0:1411228516><>" connected, address "105.138.87.196:27005"
+L 01/19/2020 - 23:00:15: "ryu532<28><STEAM_1:0:1411228516><>" entered the game
+L 01/19/2020 - 23:00:18: "ryu532<28><STEAM_1:0:1411228516><>" joined team "CT"
+L 01/19/2020 - 23:00:54: [REUNION]: -Craze- Marte (89.241.50.25) authorized as RevEmu
+L 01/19/2020 - 23:00:54: "-Craze- Marte<29><STEAM_1:0:1178119653><>" connected, address "89.241.50.25:27005"
+L 01/19/2020 - 23:01:01: [REUNION]: -Craze- Marte (89.241.50.25) authorized as RevEmu
+L 01/19/2020 - 23:01:01: "-Craze- Marte<30><STEAM_1:0:1178119653><>" connected, address "89.241.50.25:27005"
+L 01/19/2020 - 23:01:11: "-Craze- Marte<30><STEAM_1:0:1178119653><>" entered the game
+L 01/19/2020 - 23:01:17: "-Craze- Marte<30><STEAM_1:0:1178119653><>" joined team "CT"
+L 01/19/2020 - 23:01:24: "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" committed suicide with "world"
+L 01/19/2020 - 23:01:24: "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" joined team "TERRORIST"
+L 01/19/2020 - 23:01:25: World triggered "Game_Commencing"
+L 01/19/2020 - 23:01:25: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/19/2020 - 23:01:25: World triggered "Round_End"
+L 01/19/2020 - 23:01:29: World triggered "Round_Start"
+L 01/19/2020 - 23:01:57: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:01:57: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/19/2020 - 23:01:57: World triggered "Round_End"
+L 01/19/2020 - 23:02:03: World triggered "Round_Start"
+L 01/19/2020 - 23:02:36: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "deagle"
+L 01/19/2020 - 23:02:36: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/19/2020 - 23:02:36: World triggered "Round_End"
+L 01/19/2020 - 23:02:42: World triggered "Round_Start"
+L 01/19/2020 - 23:03:08: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "knife"
+L 01/19/2020 - 23:03:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 01/19/2020 - 23:03:08: World triggered "Round_End"
+L 01/19/2020 - 23:03:14: World triggered "Round_Start"
+L 01/19/2020 - 23:03:38: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:03:38: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 01/19/2020 - 23:03:38: World triggered "Round_End"
+L 01/19/2020 - 23:03:44: World triggered "Round_Start"
+L 01/19/2020 - 23:04:04: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:04:04: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 01/19/2020 - 23:04:04: World triggered "Round_End"
+L 01/19/2020 - 23:04:10: World triggered "Round_Start"
+L 01/19/2020 - 23:05:07: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:05:07: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 01/19/2020 - 23:05:07: World triggered "Round_End"
+L 01/19/2020 - 23:05:13: World triggered "Round_Start"
+L 01/19/2020 - 23:05:28: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:05:28: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 01/19/2020 - 23:05:28: World triggered "Round_End"
+L 01/19/2020 - 23:05:34: World triggered "Round_Start"
+L 01/19/2020 - 23:05:47: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:05:47: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 01/19/2020 - 23:05:47: World triggered "Round_End"
+L 01/19/2020 - 23:05:53: World triggered "Round_Start"
+L 01/19/2020 - 23:06:22: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:06:22: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 01/19/2020 - 23:06:22: World triggered "Round_End"
+L 01/19/2020 - 23:06:28: World triggered "Round_Start"
+L 01/19/2020 - 23:06:38: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/19/2020 - 23:06:38: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 01/19/2020 - 23:06:38: World triggered "Round_End"
+L 01/19/2020 - 23:06:44: World triggered "Round_Start"
+L 01/19/2020 - 23:07:05: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "knife"
+L 01/19/2020 - 23:07:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "2")
+L 01/19/2020 - 23:07:05: World triggered "Round_End"
+L 01/19/2020 - 23:07:11: World triggered "Round_Start"
+L 01/19/2020 - 23:07:30: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "knife"
+L 01/19/2020 - 23:07:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "3")
+L 01/19/2020 - 23:07:30: World triggered "Round_End"
+L 01/19/2020 - 23:07:36: World triggered "Round_Start"
+L 01/19/2020 - 23:07:52: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:07:52: Team "CT" triggered "CTs_Win" (CT "10") (T "3")
+L 01/19/2020 - 23:07:52: World triggered "Round_End"
+L 01/19/2020 - 23:07:58: World triggered "Round_Start"
+L 01/19/2020 - 23:08:10: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:08:10: Team "CT" triggered "CTs_Win" (CT "11") (T "3")
+L 01/19/2020 - 23:08:10: World triggered "Round_End"
+L 01/19/2020 - 23:08:16: World triggered "Round_Start"
+L 01/19/2020 - 23:08:28: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:08:28: Team "CT" triggered "CTs_Win" (CT "12") (T "3")
+L 01/19/2020 - 23:08:28: World triggered "Round_End"
+L 01/19/2020 - 23:08:34: World triggered "Round_Start"
+L 01/19/2020 - 23:09:09: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "ump45"
+L 01/19/2020 - 23:09:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "4")
+L 01/19/2020 - 23:09:09: World triggered "Round_End"
+L 01/19/2020 - 23:09:15: World triggered "Round_Start"
+L 01/19/2020 - 23:09:32: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "knife"
+L 01/19/2020 - 23:09:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "5")
+L 01/19/2020 - 23:09:32: World triggered "Round_End"
+L 01/19/2020 - 23:09:38: World triggered "Round_Start"
+L 01/19/2020 - 23:10:09: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:10:09: Team "CT" triggered "CTs_Win" (CT "13") (T "5")
+L 01/19/2020 - 23:10:09: World triggered "Round_End"
+L 01/19/2020 - 23:10:15: World triggered "Round_Start"
+L 01/19/2020 - 23:10:39: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:10:39: Team "CT" triggered "CTs_Win" (CT "14") (T "5")
+L 01/19/2020 - 23:10:39: World triggered "Round_End"
+L 01/19/2020 - 23:10:45: World triggered "Round_Start"
+L 01/19/2020 - 23:10:57: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:10:57: Team "CT" triggered "CTs_Win" (CT "15") (T "5")
+L 01/19/2020 - 23:10:57: World triggered "Round_End"
+L 01/19/2020 - 23:11:03: World triggered "Round_Start"
+L 01/19/2020 - 23:11:26: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "knife"
+L 01/19/2020 - 23:11:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "6")
+L 01/19/2020 - 23:11:26: World triggered "Round_End"
+L 01/19/2020 - 23:11:32: World triggered "Round_Start"
+L 01/19/2020 - 23:11:56: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "m4a1"
+L 01/19/2020 - 23:11:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "7")
+L 01/19/2020 - 23:11:56: World triggered "Round_End"
+L 01/19/2020 - 23:12:02: World triggered "Round_Start"
+L 01/19/2020 - 23:12:20: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "galil"
+L 01/19/2020 - 23:12:20: Team "CT" triggered "CTs_Win" (CT "16") (T "7")
+L 01/19/2020 - 23:12:20: World triggered "Round_End"
+L 01/19/2020 - 23:12:26: World triggered "Round_Start"
+L 01/19/2020 - 23:12:44: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "deagle"
+L 01/19/2020 - 23:12:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "8")
+L 01/19/2020 - 23:12:44: World triggered "Round_End"
+L 01/19/2020 - 23:12:50: World triggered "Round_Start"
+L 01/19/2020 - 23:13:18: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "mac10"
+L 01/19/2020 - 23:13:18: Team "CT" triggered "CTs_Win" (CT "17") (T "8")
+L 01/19/2020 - 23:13:18: World triggered "Round_End"
+L 01/19/2020 - 23:13:24: World triggered "Round_Start"
+L 01/19/2020 - 23:14:14: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "awp"
+L 01/19/2020 - 23:14:14: Team "CT" triggered "CTs_Win" (CT "18") (T "8")
+L 01/19/2020 - 23:14:14: World triggered "Round_End"
+L 01/19/2020 - 23:14:20: World triggered "Round_Start"
+L 01/19/2020 - 23:14:53: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "m4a1"
+L 01/19/2020 - 23:14:53: Team "CT" triggered "CTs_Win" (CT "19") (T "8")
+L 01/19/2020 - 23:14:53: World triggered "Round_End"
+L 01/19/2020 - 23:14:59: World triggered "Round_Start"
+L 01/19/2020 - 23:15:26: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "knife"
+L 01/19/2020 - 23:15:26: Team "CT" triggered "CTs_Win" (CT "20") (T "8")
+L 01/19/2020 - 23:15:26: World triggered "Round_End"
+L 01/19/2020 - 23:15:32: World triggered "Round_Start"
+L 01/19/2020 - 23:15:39: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "sg552"
+L 01/19/2020 - 23:15:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "9")
+L 01/19/2020 - 23:15:39: World triggered "Round_End"
+L 01/19/2020 - 23:15:45: World triggered "Round_Start"
+L 01/19/2020 - 23:16:00: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "sg550"
+L 01/19/2020 - 23:16:00: Team "CT" triggered "CTs_Win" (CT "21") (T "9")
+L 01/19/2020 - 23:16:00: World triggered "Round_End"
+L 01/19/2020 - 23:16:06: World triggered "Round_Start"
+L 01/19/2020 - 23:16:29: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" killed "ryu532<28><STEAM_1:0:1411228516><CT>" with "deagle"
+L 01/19/2020 - 23:16:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "10")
+L 01/19/2020 - 23:16:29: World triggered "Round_End"
+L 01/19/2020 - 23:16:35: World triggered "Round_Start"
+L 01/19/2020 - 23:16:45: "ryu532<28><STEAM_1:0:1411228516><CT>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" with "m4a1"
+L 01/19/2020 - 23:16:45: Team "CT" triggered "CTs_Win" (CT "22") (T "10")
+L 01/19/2020 - 23:16:45: World triggered "Round_End"
+L 01/19/2020 - 23:16:51: World triggered "Round_Start"
+L 01/19/2020 - 23:16:56: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" committed suicide with "world"
+L 01/19/2020 - 23:16:56: "-Craze- Marte<30><STEAM_1:0:1178119653><TERRORIST>" joined team "CT"
+L 01/19/2020 - 23:17:01: "ryu532<28><STEAM_1:0:1411228516><CT>" committed suicide with "world"
+L 01/19/2020 - 23:17:01: World triggered "Round_Draw" (CT "22") (T "10")
+L 01/19/2020 - 23:17:01: World triggered "Round_End"
+L 01/19/2020 - 23:17:01: "ryu532<28><STEAM_1:0:1411228516><CT>" joined team "TERRORIST"
+L 01/19/2020 - 23:17:07: World triggered "Round_Start"
+L 01/19/2020 - 23:17:23: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" with "deagle"
+L 01/19/2020 - 23:17:23: World triggered "Game_Commencing"
+L 01/19/2020 - 23:17:23: World triggered "Game_Commencing" (CT "22") (T "10")
+L 01/19/2020 - 23:17:23: World triggered "Round_End"
+L 01/19/2020 - 23:17:27: World triggered "Round_Start"
+L 01/19/2020 - 23:18:03: "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" killed "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" with "deagle"
+L 01/19/2020 - 23:18:03: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/19/2020 - 23:18:03: World triggered "Round_End"
+L 01/19/2020 - 23:18:09: World triggered "Round_Start"
+L 01/19/2020 - 23:18:31: "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" killed "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" with "deagle"
+L 01/19/2020 - 23:18:31: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/19/2020 - 23:18:31: World triggered "Round_End"
+L 01/19/2020 - 23:18:37: World triggered "Round_Start"
+L 01/19/2020 - 23:18:54: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" with "m3"
+L 01/19/2020 - 23:18:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 01/19/2020 - 23:18:54: World triggered "Round_End"
+L 01/19/2020 - 23:19:00: World triggered "Round_Start"
+L 01/19/2020 - 23:19:13: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" with "m3"
+L 01/19/2020 - 23:19:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 01/19/2020 - 23:19:13: World triggered "Round_End"
+L 01/19/2020 - 23:19:19: World triggered "Round_Start"
+L 01/19/2020 - 23:19:53: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" with "m3"
+L 01/19/2020 - 23:19:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 01/19/2020 - 23:19:53: World triggered "Round_End"
+L 01/19/2020 - 23:19:59: World triggered "Round_Start"
+L 01/19/2020 - 23:20:19: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" with "knife"
+L 01/19/2020 - 23:20:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 01/19/2020 - 23:20:19: World triggered "Round_End"
+L 01/19/2020 - 23:20:25: World triggered "Round_Start"
+L 01/19/2020 - 23:21:18: "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" committed suicide with "world"
+L 01/19/2020 - 23:21:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 01/19/2020 - 23:21:18: World triggered "Round_End"
+L 01/19/2020 - 23:21:24: World triggered "Round_Start"
+L 01/19/2020 - 23:21:56: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" killed "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" with "m3"
+L 01/19/2020 - 23:21:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 01/19/2020 - 23:21:56: World triggered "Round_End"
+L 01/19/2020 - 23:22:02: World triggered "Round_Start"
+L 01/19/2020 - 23:22:46: "-Craze- Marte<30><STEAM_1:0:1178119653><CT>" disconnected
+L 01/19/2020 - 23:23:00: "ryu532<28><STEAM_1:0:1411228516><TERRORIST>" disconnected
+L 01/19/2020 - 23:23:00: World triggered "Round_Draw" (CT "2") (T "6")
+L 01/19/2020 - 23:23:00: World triggered "Round_End"
+L 01/19/2020 - 23:23:06: World triggered "Round_Start"
+L 01/19/2020 - 23:23:32: [REUNION]: ryu532 (105.138.87.196) authorized as RevEmu
+L 01/19/2020 - 23:23:32: "ryu532<31><STEAM_1:0:1411228516><>" connected, address "105.138.87.196:27005"
+L 01/19/2020 - 23:23:39: "ryu532<31><STEAM_1:0:1411228516><>" entered the game
+L 01/19/2020 - 23:24:38: "ryu532<31><STEAM_1:0:1411228516><>" joined team "SPECTATOR"
+L 01/19/2020 - 23:25:06: "OdorbobDayn<32><STEAM_0:1:219565788><>" connected, address "95.47.111.105:57852"
+L 01/19/2020 - 23:25:06: "OdorbobDayn<32><STEAM_0:1:219565788><>" STEAM USERID validated
+L 01/19/2020 - 23:25:13: "OdorbobDayn<33><STEAM_0:1:219565788><>" connected, address "95.47.111.105:57852"
+L 01/19/2020 - 23:25:14: "OdorbobDayn<33><STEAM_0:1:219565788><>" STEAM USERID validated
+L 01/19/2020 - 23:25:24: "OdorbobDayn<33><STEAM_0:1:219565788><>" entered the game
+L 01/19/2020 - 23:25:26: "ryu532<31><STEAM_1:0:1411228516><SPECTATOR>" joined team "CT"
+L 01/19/2020 - 23:25:30: "ryu532<31><STEAM_1:0:1411228516><CT>" disconnected
+L 01/19/2020 - 23:25:30: World triggered "Round_Draw" (CT "2") (T "6")
+L 01/19/2020 - 23:25:30: World triggered "Round_End"
+L 01/19/2020 - 23:25:35: "OdorbobDayn<33><STEAM_0:1:219565788><>" joined team "TERRORIST"
+L 01/19/2020 - 23:25:36: World triggered "Round_Start"
+L 01/19/2020 - 23:26:34: "OdorbobDayn<33><STEAM_0:1:219565788><TERRORIST>" disconnected
+L 01/19/2020 - 23:26:34: World triggered "Round_Draw" (CT "2") (T "6")
+L 01/19/2020 - 23:26:34: World triggered "Round_End"
+L 01/19/2020 - 23:26:40: World triggered "Round_Start"
+L 01/19/2020 - 23:37:26: Server cvar "mp_chattime" = "12.000000"
+L 01/19/2020 - 23:37:26: Server cvar "amx_nextmap" = "space_battle_beta"
+L 01/19/2020 - 23:37:26: Team "CT" scored "2" with "0" players
+L 01/19/2020 - 23:37:26: Team "TERRORIST" scored "6" with "0" players
+L 01/19/2020 - 23:37:36: Server cvar "mp_chattime" = "10.000000"
+L 01/19/2020 - 23:37:36: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: AMX Mod X
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: Reunion
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: ReAuthCheck
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: WHBlocker
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: ReSemiclip
+L 01/19/2020 - 23:37:36: [META] ini: Read plugin config for: Revoice
+L 01/19/2020 - 23:37:36: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/19/2020 - 23:37:36: [META] dll: Updating plugins...
+L 01/19/2020 - 23:37:36: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/19/2020 - 23:37:36: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/19/2020 - 23:37:36: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/19/2020 - 23:37:36: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/19/2020 - 23:37:36: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/19/2020 - 23:37:36: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/19/2020 - 23:37:36: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/19/2020 - 23:37:36: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/19/2020 - 23:37:36: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/19/2020 - 23:37:36: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/19/2020 - 23:37:36: Log file closed

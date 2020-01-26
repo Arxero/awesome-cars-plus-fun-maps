@@ -1,0 +1,540 @@
+L 01/14/2020 - 17:43:02: Log file started (file "logs/L0114056.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/14/2020 - 17:43:02: Loading map "Cb_Tanks"
+L 01/14/2020 - 17:43:02: Server cvars start
+L 01/14/2020 - 17:43:02: Server cvar "@BunnyHopper" = "3.x"
+L 01/14/2020 - 17:43:02: Server cvar "@CRXGoSpec" = "1.1"
+L 01/14/2020 - 17:43:02: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "@D.I.C.E." = "1.1"
+L 01/14/2020 - 17:43:02: Server cvar "@MOTDCommands" = "1.2"
+L 01/14/2020 - 17:43:02: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/14/2020 - 17:43:02: Server cvar "AdvancedMute" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "aesp_version" = "1.3"
+L 01/14/2020 - 17:43:02: Server cvar "allow_spectators" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "amx_client_languages" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "amx_language" = "en"
+L 01/14/2020 - 17:43:02: Server cvar "amx_nextmap" = "Cb_Tanks"
+L 01/14/2020 - 17:43:02: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/14/2020 - 17:43:02: Server cvar "amx_timeleft" = "00:00"
+L 01/14/2020 - 17:43:02: Server cvar "amxmodx_version" = "1.8.2"
+L 01/14/2020 - 17:43:02: Server cvar "amxxbg_vip" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "asp_version" = "4.5.1"
+L 01/14/2020 - 17:43:02: Server cvar "atac_version" = "3.0.1"
+L 01/14/2020 - 17:43:02: Server cvar "badcamper_version" = "1.4 beta"
+L 01/14/2020 - 17:43:02: Server cvar "blockmaker" = "4.01"
+L 01/14/2020 - 17:43:02: Server cvar "c4 timer" = "1.1"
+L 01/14/2020 - 17:43:02: Server cvar "coop" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "CRXAdminGroups" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "CRXFastKnife" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "CRXGametracker" = "2.0"
+L 01/14/2020 - 17:43:02: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/14/2020 - 17:43:02: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "CustomShop" = "4.2"
+L 01/14/2020 - 17:43:02: Server cvar "deathmatch" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "decalfrequency" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "edgefriction" = "2"
+L 01/14/2020 - 17:43:02: Server cvar "ers_version" = "2.3c"
+L 01/14/2020 - 17:43:02: Server cvar "gagsystem_shoko" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/14/2020 - 17:43:02: Server cvar "gal_version" = "v5.9.1-926"
+L 01/14/2020 - 17:43:02: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/14/2020 - 17:43:02: Server cvar "humans_join_team" = "any"
+L 01/14/2020 - 17:43:02: Server cvar "jtp10181" = "chute,gore"
+L 01/14/2020 - 17:43:02: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/14/2020 - 17:43:02: Server cvar "LetitSnow" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/14/2020 - 17:43:02: Server cvar "max_queries_sec" = "3"
+L 01/14/2020 - 17:43:02: Server cvar "max_queries_sec_global" = "150"
+L 01/14/2020 - 17:43:02: Server cvar "max_queries_window" = "60"
+L 01/14/2020 - 17:43:02: Server cvar "mdbBans" = "4.8"
+L 01/14/2020 - 17:43:02: Server cvar "metamod_version" = "1.21p37"
+L 01/14/2020 - 17:43:02: Server cvar "mp_autokick" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_autokick_timeout" = "-1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_autoteambalance" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_buytime" = "0.25"
+L 01/14/2020 - 17:43:02: Server cvar "mp_c4timer" = "35"
+L 01/14/2020 - 17:43:02: Server cvar "mp_chattime" = "5.000000"
+L 01/14/2020 - 17:43:02: Server cvar "mp_consistency" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_fadetoblack" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_flashlight" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_footsteps" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_forcecamera" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_forcechasecam" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_forcerespawn" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_fraglimit" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_fragsleft" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_freeforall" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_freezetime" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_friendlyfire" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_hostage_hurtable" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_hostagepenalty" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_item_staytime" = "300"
+L 01/14/2020 - 17:43:02: Server cvar "mp_kickpercent" = "0.66"
+L 01/14/2020 - 17:43:02: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_limitteams" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_logdetail" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_logfile" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_logmessages" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/14/2020 - 17:43:02: Server cvar "mp_maxmoney" = "999999"
+L 01/14/2020 - 17:43:02: Server cvar "mp_maxrounds" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_mirrordamage" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_playerid" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_round_infinite" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_round_restart_delay" = "5"
+L 01/14/2020 - 17:43:02: Server cvar "mp_roundover" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_roundtime" = "2.3"
+L 01/14/2020 - 17:43:02: Server cvar "mp_show_radioicon" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_startmoney" = "850"
+L 01/14/2020 - 17:43:02: Server cvar "mp_timeleft" = "00:00"
+L 01/14/2020 - 17:43:02: Server cvar "mp_timelimit" = "20"
+L 01/14/2020 - 17:43:02: Server cvar "mp_tkpunish" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "mp_windifference" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "mp_winlimit" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/14/2020 - 17:43:02: Server cvar "pausable" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "present_version" = "2.01"
+L 01/14/2020 - 17:43:02: Server cvar "RandomHP" = "2.2"
+L 01/14/2020 - 17:43:02: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/14/2020 - 17:43:02: Server cvar "reconnect_features" = "0.3.1"
+L 01/14/2020 - 17:43:02: Server cvar "report_system_version" = "3.1"
+L 01/14/2020 - 17:43:02: Server cvar "resemiclip_version" = "2.3.9"
+L 01/14/2020 - 17:43:02: Server cvar "reu_version" = "0.1.0.130"
+L 01/14/2020 - 17:43:02: Server cvar "revoice_version" = "0.1.0.30"
+L 01/14/2020 - 17:43:02: Server cvar "RRWM" = "2.0"
+L 01/14/2020 - 17:43:02: Server cvar "sanksounds_version" = "1.8.6"
+L 01/14/2020 - 17:43:02: Server cvar "SimpleMenu" = "1.1"
+L 01/14/2020 - 17:43:02: Server cvar "SNAC_Version" = "1.1"
+L 01/14/2020 - 17:43:02: Server cvar "SpecList" = "1.2a"
+L 01/14/2020 - 17:43:02: Server cvar "sr_version" = "1.6"
+L 01/14/2020 - 17:43:02: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/14/2020 - 17:43:02: Server cvar "StyleC4Timer" = "2.1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_accelerate" = "5"
+L 01/14/2020 - 17:43:02: Server cvar "sv_aim" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_airaccelerate" = "100"
+L 01/14/2020 - 17:43:02: Server cvar "sv_allowupload" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_alltalk" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_bounce" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_cheats" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "sv_clienttrace" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/14/2020 - 17:43:02: Server cvar "sv_friction" = "4"
+L 01/14/2020 - 17:43:02: Server cvar "sv_gravity" = "800"
+L 01/14/2020 - 17:43:02: Server cvar "sv_logblocks" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "sv_maxrate" = "50000"
+L 01/14/2020 - 17:43:02: Server cvar "sv_maxspeed" = "900"
+L 01/14/2020 - 17:43:02: Server cvar "sv_minrate" = "10000"
+L 01/14/2020 - 17:43:02: Server cvar "sv_password" = ""
+L 01/14/2020 - 17:43:02: Server cvar "sv_proxies" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_restart" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "sv_restartround" = "0"
+L 01/14/2020 - 17:43:02: Server cvar "sv_stepsize" = "18"
+L 01/14/2020 - 17:43:02: Server cvar "sv_stopspeed" = "75"
+L 01/14/2020 - 17:43:02: Server cvar "sv_uploadmax" = "0.5"
+L 01/14/2020 - 17:43:02: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/14/2020 - 17:43:02: Server cvar "sv_voiceenable" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "sv_wateraccelerate" = "10"
+L 01/14/2020 - 17:43:02: Server cvar "sv_waterfriction" = "1"
+L 01/14/2020 - 17:43:02: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/14/2020 - 17:43:02: Server cvar "vehicle_real_killer" = "1.1"
+L 01/14/2020 - 17:43:02: Server cvar "WalkGuard" = "1.3.2"
+L 01/14/2020 - 17:43:02: Server cvar "we_grenades" = "Huehue"
+L 01/14/2020 - 17:43:02: Server cvar "we_player_models" = "Huehue"
+L 01/14/2020 - 17:43:02: Server cvar "whb_version" = "1.5.692"
+L 01/14/2020 - 17:43:02: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/14/2020 - 17:43:02: Server cvars end
+L 01/14/2020 - 17:43:04: Server cvar "mp_autoteambalance" = "1"
+L 01/14/2020 - 17:43:04: Server cvar "mp_autoteambalance" = "0"
+L 01/14/2020 - 17:43:04: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/14/2020 - 17:43:06: Started map "Cb_Tanks" (CRC "1486628298")
+L 01/14/2020 - 17:43:08: World triggered "Round_Start"
+L 01/14/2020 - 17:47:05: Server cvar "amx_nextmap" = "de_tesco"
+L 01/14/2020 - 18:00:58: [REUNION]: killer boss (77.78.4.234) authorized as RevEmu
+L 01/14/2020 - 18:00:58: "killer boss<28><STEAM_2:0:1009858630><>" connected, address "77.78.4.234:1053"
+L 01/14/2020 - 18:01:02: [REUNION]: killer boss (77.78.4.234) authorized as RevEmu
+L 01/14/2020 - 18:01:02: "killer boss<29><STEAM_2:0:1009858630><>" connected, address "77.78.4.234:1053"
+L 01/14/2020 - 18:01:12: "killer boss<29><STEAM_2:0:1009858630><>" entered the game
+L 01/14/2020 - 18:01:25: "killer boss<29><STEAM_2:0:1009858630><>" joined team "CT"
+L 01/14/2020 - 18:02:20: [REUNION]: @_Aykut_bOss_＃ (77.78.4.234) authorized as NoSteam47
+L 01/14/2020 - 18:02:20: "@_Aykut_bOss_＃<30><VALVE_ID_LAN><>" connected, address "77.78.4.234:27005"
+L 01/14/2020 - 18:02:23: [REUNION]: @_Aykut_bOss_＃ (77.78.4.234) authorized as NoSteam47
+L 01/14/2020 - 18:02:23: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><>" connected, address "77.78.4.234:27005"
+L 01/14/2020 - 18:02:29: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><>" entered the game
+L 01/14/2020 - 18:02:31: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 01/14/2020 - 18:02:33: World triggered "Game_Commencing"
+L 01/14/2020 - 18:02:33: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/14/2020 - 18:02:33: World triggered "Round_End"
+L 01/14/2020 - 18:02:37: World triggered "Round_Start"
+L 01/14/2020 - 18:02:53: "killer boss<29><STEAM_2:0:1009858630><CT>" committed suicide with "world"
+L 01/14/2020 - 18:02:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/14/2020 - 18:02:53: World triggered "Round_End"
+L 01/14/2020 - 18:02:59: World triggered "Round_Start"
+L 01/14/2020 - 18:03:51: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:03:51: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 01/14/2020 - 18:03:51: World triggered "Round_End"
+L 01/14/2020 - 18:03:57: World triggered "Round_Start"
+L 01/14/2020 - 18:04:19: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:04:19: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 01/14/2020 - 18:04:19: World triggered "Round_End"
+L 01/14/2020 - 18:04:25: World triggered "Round_Start"
+L 01/14/2020 - 18:04:44: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:04:44: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 01/14/2020 - 18:04:44: World triggered "Round_End"
+L 01/14/2020 - 18:04:50: World triggered "Round_Start"
+L 01/14/2020 - 18:05:34: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:05:34: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 01/14/2020 - 18:05:34: World triggered "Round_End"
+L 01/14/2020 - 18:05:40: World triggered "Round_Start"
+L 01/14/2020 - 18:06:39: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "mac10"
+L 01/14/2020 - 18:06:39: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 01/14/2020 - 18:06:39: World triggered "Round_End"
+L 01/14/2020 - 18:06:45: World triggered "Round_Start"
+L 01/14/2020 - 18:07:26: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "usp"
+L 01/14/2020 - 18:07:26: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 01/14/2020 - 18:07:26: World triggered "Round_End"
+L 01/14/2020 - 18:07:32: World triggered "Round_Start"
+L 01/14/2020 - 18:08:16: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "usp"
+L 01/14/2020 - 18:08:16: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 01/14/2020 - 18:08:16: World triggered "Round_End"
+L 01/14/2020 - 18:08:22: World triggered "Round_Start"
+L 01/14/2020 - 18:09:11: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "scout"
+L 01/14/2020 - 18:09:11: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 01/14/2020 - 18:09:11: World triggered "Round_End"
+L 01/14/2020 - 18:09:17: World triggered "Round_Start"
+L 01/14/2020 - 18:09:52: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "scout"
+L 01/14/2020 - 18:09:52: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 01/14/2020 - 18:09:52: World triggered "Round_End"
+L 01/14/2020 - 18:09:58: World triggered "Round_Start"
+L 01/14/2020 - 18:10:15: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "scout"
+L 01/14/2020 - 18:10:15: Team "CT" triggered "CTs_Win" (CT "10") (T "1")
+L 01/14/2020 - 18:10:15: World triggered "Round_End"
+L 01/14/2020 - 18:10:21: World triggered "Round_Start"
+L 01/14/2020 - 18:11:36: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "famas"
+L 01/14/2020 - 18:11:36: Team "CT" triggered "CTs_Win" (CT "11") (T "1")
+L 01/14/2020 - 18:11:36: World triggered "Round_End"
+L 01/14/2020 - 18:11:42: World triggered "Round_Start"
+L 01/14/2020 - 18:14:00: "killer boss<29><STEAM_2:0:1009858630><CT>" committed suicide with "world"
+L 01/14/2020 - 18:14:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "2")
+L 01/14/2020 - 18:14:00: World triggered "Round_End"
+L 01/14/2020 - 18:14:00: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:14:06: World triggered "Round_Start"
+L 01/14/2020 - 18:15:28: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "scout"
+L 01/14/2020 - 18:15:28: Team "CT" triggered "CTs_Win" (CT "12") (T "2")
+L 01/14/2020 - 18:15:28: World triggered "Round_End"
+L 01/14/2020 - 18:15:34: World triggered "Round_Start"
+L 01/14/2020 - 18:16:27: "Redwenace<32><STEAM_0:1:459709824><>" connected, address "212.73.151.57:27005"
+L 01/14/2020 - 18:16:27: "Redwenace<32><STEAM_0:1:459709824><>" STEAM USERID validated
+L 01/14/2020 - 18:16:29: "Redwenace<33><STEAM_0:1:459709824><>" connected, address "212.73.151.57:27005"
+L 01/14/2020 - 18:16:29: "Redwenace<33><STEAM_0:1:459709824><>" STEAM USERID validated
+L 01/14/2020 - 18:16:39: "Redwenace<33><STEAM_0:1:459709824><>" entered the game
+L 01/14/2020 - 18:16:48: "Redwenace<33><STEAM_0:1:459709824><>" joined team "CT"
+L 01/14/2020 - 18:16:49: [REUNION]: Fury/Mumya (93.155.222.106) authorized as RevEmu
+L 01/14/2020 - 18:16:49: "Fury/Mumya<34><STEAM_1:1:81589675><>" connected, address "93.155.222.106:26769"
+L 01/14/2020 - 18:16:58: [REUNION]: Fury/Mumya (93.155.222.106) authorized as RevEmu
+L 01/14/2020 - 18:16:58: "Fury/Mumya<35><STEAM_1:1:81589675><>" connected, address "93.155.222.106:26769"
+L 01/14/2020 - 18:17:12: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "scout"
+L 01/14/2020 - 18:17:12: Team "CT" triggered "CTs_Win" (CT "13") (T "2")
+L 01/14/2020 - 18:17:12: World triggered "Round_End"
+L 01/14/2020 - 18:17:14: "Fury/Mumya<35><STEAM_1:1:81589675><>" entered the game
+L 01/14/2020 - 18:17:16: "killer boss<29><STEAM_2:0:1009858630><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:17:16: "<><><>" triggered "amx_chat" (text "[PTB] Transfered killer boss to TERRORIST")
+L 01/14/2020 - 18:17:18: "Redwenace<33><STEAM_0:1:459709824><CT>" committed suicide with "world"
+L 01/14/2020 - 18:17:18: "Redwenace<33><STEAM_0:1:459709824><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:17:18: World triggered "Round_Start"
+L 01/14/2020 - 18:17:19: "Fury/Mumya<35><STEAM_1:1:81589675><>" joined team "CT"
+L 01/14/2020 - 18:17:19: World triggered "Game_Commencing"
+L 01/14/2020 - 18:17:19: World triggered "Game_Commencing" (CT "13") (T "2")
+L 01/14/2020 - 18:17:19: World triggered "Round_End"
+L 01/14/2020 - 18:17:23: World triggered "Round_Start"
+L 01/14/2020 - 18:17:23: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:17:23: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:18:06: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><>" connected, address "89.153.230.159:27005"
+L 01/14/2020 - 18:18:07: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><>" STEAM USERID validated
+L 01/14/2020 - 18:18:27: "Fury/Mumya<35><STEAM_1:1:81589675><CT>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" with "p90"
+L 01/14/2020 - 18:18:52: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:18:52: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><>" entered the game
+L 01/14/2020 - 18:18:58: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><>" joined team "TERRORIST"
+L 01/14/2020 - 18:19:17: "XxXBadBoyXxX<37><STEAM_0:1:435231343><>" connected, address "87.126.225.175:27005"
+L 01/14/2020 - 18:19:18: "XxXBadBoyXxX<37><STEAM_0:1:435231343><>" STEAM USERID validated
+L 01/14/2020 - 18:19:29: "XxXBadBoyXxX<37><STEAM_0:1:435231343><>" entered the game
+L 01/14/2020 - 18:19:35: "XxXBadBoyXxX<37><STEAM_0:1:435231343><>" joined team "SPECTATOR"
+L 01/14/2020 - 18:19:41: "killer boss<29><STEAM_2:0:1009858630><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:19:41: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/14/2020 - 18:19:41: World triggered "Round_End"
+L 01/14/2020 - 18:19:41: "Fury/Mumya<35><STEAM_1:1:81589675><CT>" committed suicide with "world"
+L 01/14/2020 - 18:19:47: World triggered "Round_Start"
+L 01/14/2020 - 18:19:50: [REUNION]: GAME OVER 6 (31.25.27.212) authorized as RevEmu
+L 01/14/2020 - 18:19:50: "GAME OVER 6<38><STEAM_1:1:636467087><>" connected, address "31.25.27.212:27005"
+L 01/14/2020 - 18:19:59: [REUNION]: GAME OVER 6 (31.25.27.212) authorized as RevEmu
+L 01/14/2020 - 18:19:59: "GAME OVER 6<39><STEAM_1:1:636467087><>" connected, address "31.25.27.212:27005"
+L 01/14/2020 - 18:20:08: "Fury/Mumya<35><STEAM_1:1:81589675><CT>" killed "killer boss<29><STEAM_2:0:1009858630><TERRORIST>" with "g3sg1"
+L 01/14/2020 - 18:20:10: "GAME OVER 6<39><STEAM_1:1:636467087><>" entered the game
+L 01/14/2020 - 18:20:17: "GAME OVER 6<39><STEAM_1:1:636467087><>" joined team "TERRORIST"
+L 01/14/2020 - 18:20:22: "Redwenace<33><STEAM_0:1:459709824><CT>" killed "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><TERRORIST>" with "sg552"
+L 01/14/2020 - 18:20:22: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/14/2020 - 18:20:22: World triggered "Round_End"
+L 01/14/2020 - 18:20:27: "Fury/Mumya<35><STEAM_1:1:81589675><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:20:27: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Fury/Mumya to TERRORIST")
+L 01/14/2020 - 18:20:28: World triggered "Round_Start"
+L 01/14/2020 - 18:20:52: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><TERRORIST>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><CT>" with "ak47"
+L 01/14/2020 - 18:21:00: "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" killed "Redwenace<33><STEAM_0:1:459709824><CT>" with "g3sg1"
+L 01/14/2020 - 18:21:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 01/14/2020 - 18:21:00: World triggered "Round_End"
+L 01/14/2020 - 18:21:06: World triggered "Round_Start"
+L 01/14/2020 - 18:21:29: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><TERRORIST>" killed "@_Aykut_bOss_＃<31><VALVE_ID_LAN><CT>" with "m4a1"
+L 01/14/2020 - 18:21:36: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:21:36: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:21:39: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><TERRORIST>" killed "Redwenace<33><STEAM_0:1:459709824><CT>" with "m4a1"
+L 01/14/2020 - 18:21:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 01/14/2020 - 18:21:39: World triggered "Round_End"
+L 01/14/2020 - 18:21:43: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:21:43: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ک!мþℓعмэи†э么 to CT")
+L 01/14/2020 - 18:21:45: World triggered "Round_Start"
+L 01/14/2020 - 18:22:01: "killer boss<29><STEAM_2:0:1009858630><TERRORIST>" killed "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><CT>" with "ak47"
+L 01/14/2020 - 18:22:05: "ک!мþℓعмэи†э么<36><STEAM_0:1:49983591><CT>" disconnected
+L 01/14/2020 - 18:22:05: "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" killed "Redwenace<33><STEAM_0:1:459709824><CT>" with "g3sg1"
+L 01/14/2020 - 18:22:18: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><CT>" committed suicide with "world"
+L 01/14/2020 - 18:22:18: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><CT>" joined team "SPECTATOR"
+L 01/14/2020 - 18:22:18: "killer boss<29><STEAM_2:0:1009858630><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "ak47"
+L 01/14/2020 - 18:22:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 01/14/2020 - 18:22:18: World triggered "Round_End"
+L 01/14/2020 - 18:22:23: "killer boss<29><STEAM_2:0:1009858630><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:22:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered killer boss to CT")
+L 01/14/2020 - 18:22:24: World triggered "Round_Start"
+L 01/14/2020 - 18:23:02: "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "g3sg1"
+L 01/14/2020 - 18:23:10: "Redwenace<33><STEAM_0:1:459709824><CT>" killed "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:23:10: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 01/14/2020 - 18:23:10: World triggered "Round_End"
+L 01/14/2020 - 18:23:16: World triggered "Round_Start"
+L 01/14/2020 - 18:23:36: "killer boss<29><STEAM_2:0:1009858630><CT>" killed "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" with "ak47"
+L 01/14/2020 - 18:23:36: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 01/14/2020 - 18:23:36: World triggered "Round_End"
+L 01/14/2020 - 18:23:41: "Redwenace<33><STEAM_0:1:459709824><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:23:41: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Redwenace to TERRORIST")
+L 01/14/2020 - 18:23:42: World triggered "Round_Start"
+L 01/14/2020 - 18:23:44: "killer boss<29><STEAM_2:0:1009858630><CT>" disconnected
+L 01/14/2020 - 18:24:01: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:24:07: "XxXBadBoyXxX<37><STEAM_0:1:435231343><SPECTATOR>" disconnected
+L 01/14/2020 - 18:24:26: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "m4a1"
+L 01/14/2020 - 18:24:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 01/14/2020 - 18:24:26: World triggered "Round_End"
+L 01/14/2020 - 18:24:30: "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:24:30: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Fury/Mumya to CT")
+L 01/14/2020 - 18:24:32: World triggered "Round_Start"
+L 01/14/2020 - 18:25:16: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "sg552"
+L 01/14/2020 - 18:25:19: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<35><STEAM_1:1:81589675><CT>" with "m249"
+L 01/14/2020 - 18:25:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 01/14/2020 - 18:25:19: World triggered "Round_End"
+L 01/14/2020 - 18:25:25: World triggered "Round_Start"
+L 01/14/2020 - 18:25:45: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<35><STEAM_1:1:81589675><CT>" with "m249"
+L 01/14/2020 - 18:26:03: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "galil"
+L 01/14/2020 - 18:26:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 01/14/2020 - 18:26:03: World triggered "Round_End"
+L 01/14/2020 - 18:26:09: World triggered "Round_Start"
+L 01/14/2020 - 18:26:45: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "mp5navy"
+L 01/14/2020 - 18:26:45: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 01/14/2020 - 18:26:45: World triggered "Round_End"
+L 01/14/2020 - 18:26:51: World triggered "Round_Start"
+L 01/14/2020 - 18:26:59: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:26:59: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" joined team "TERRORIST"
+L 01/14/2020 - 18:27:00: World triggered "Game_Commencing"
+L 01/14/2020 - 18:27:00: World triggered "Game_Commencing" (CT "5") (T "6")
+L 01/14/2020 - 18:27:00: World triggered "Round_End"
+L 01/14/2020 - 18:27:04: World triggered "Round_Start"
+L 01/14/2020 - 18:27:59: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "mp5navy"
+L 01/14/2020 - 18:27:59: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/14/2020 - 18:27:59: World triggered "Round_End"
+L 01/14/2020 - 18:28:05: World triggered "Round_Start"
+L 01/14/2020 - 18:28:44: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "mp5navy"
+L 01/14/2020 - 18:28:44: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/14/2020 - 18:28:44: World triggered "Round_End"
+L 01/14/2020 - 18:28:48: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:28:48: "<><><>" triggered "amx_chat" (text "[PTB] Transfered GAME OVER 6 to TERRORIST")
+L 01/14/2020 - 18:28:50: World triggered "Round_Start"
+L 01/14/2020 - 18:29:18: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:29:18: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:29:46: "Fury/Mumya<35><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "aug"
+L 01/14/2020 - 18:29:46: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/14/2020 - 18:29:46: World triggered "Round_End"
+L 01/14/2020 - 18:29:51: "Fury/Mumya<35><STEAM_1:1:81589675><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:29:51: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Fury/Mumya to TERRORIST")
+L 01/14/2020 - 18:29:52: World triggered "Round_Start"
+L 01/14/2020 - 18:30:35: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" with "mp5navy"
+L 01/14/2020 - 18:30:49: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "knife"
+L 01/14/2020 - 18:30:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 01/14/2020 - 18:30:49: World triggered "Round_End"
+L 01/14/2020 - 18:30:55: World triggered "Round_Start"
+L 01/14/2020 - 18:31:40: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "ump45"
+L 01/14/2020 - 18:31:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 01/14/2020 - 18:31:40: World triggered "Round_End"
+L 01/14/2020 - 18:31:44: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:31:44: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Redwenace to CT")
+L 01/14/2020 - 18:31:45: "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" killed "Redwenace<33><STEAM_0:1:459709824><CT>" with "knife"
+L 01/14/2020 - 18:31:46: World triggered "Round_Start"
+L 01/14/2020 - 18:32:27: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:32:27: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 01/14/2020 - 18:32:27: World triggered "Round_End"
+L 01/14/2020 - 18:32:32: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:32:32: "<><><>" triggered "amx_chat" (text "[PTB] Transfered GAME OVER 6 to TERRORIST")
+L 01/14/2020 - 18:32:33: World triggered "Round_Start"
+L 01/14/2020 - 18:32:48: Kick: "Fury/Mumya<35><STEAM_1:1:81589675><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 01/14/2020 - 18:32:48: "Fury/Mumya<35><STEAM_1:1:81589675><TERRORIST>" disconnected
+L 01/14/2020 - 18:33:02: [REUNION]: Fury/Mumya (93.155.222.106) authorized as RevEmu
+L 01/14/2020 - 18:33:02: "Fury/Mumya<40><STEAM_1:1:81589675><>" connected, address "93.155.222.106:26769"
+L 01/14/2020 - 18:33:07: "Redwenace<33><STEAM_0:1:459709824><CT>" killed "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" with "m249"
+L 01/14/2020 - 18:33:07: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 01/14/2020 - 18:33:07: World triggered "Round_End"
+L 01/14/2020 - 18:33:09: "Fury/Mumya<40><STEAM_1:1:81589675><>" entered the game
+L 01/14/2020 - 18:33:13: World triggered "Round_Start"
+L 01/14/2020 - 18:33:13: "Fury/Mumya<40><STEAM_1:1:81589675><>" joined team "CT"
+L 01/14/2020 - 18:34:03: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" with "usp"
+L 01/14/2020 - 18:34:03: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 01/14/2020 - 18:34:03: World triggered "Round_End"
+L 01/14/2020 - 18:34:07: "Redwenace<33><STEAM_0:1:459709824><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:34:07: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Redwenace to TERRORIST")
+L 01/14/2020 - 18:34:09: World triggered "Round_Start"
+L 01/14/2020 - 18:34:34: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "awp"
+L 01/14/2020 - 18:34:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "3")
+L 01/14/2020 - 18:34:34: World triggered "Round_End"
+L 01/14/2020 - 18:34:39: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" joined team "CT"
+L 01/14/2020 - 18:34:39: "<><><>" triggered "amx_chat" (text "[PTB] Transfered GAME OVER 6 to CT")
+L 01/14/2020 - 18:34:40: World triggered "Round_Start"
+L 01/14/2020 - 18:35:04: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "awp"
+L 01/14/2020 - 18:35:43: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:35:43: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" joined team "TERRORIST"
+L 01/14/2020 - 18:35:43: World triggered "Game_Commencing"
+L 01/14/2020 - 18:35:43: World triggered "Game_Commencing" (CT "6") (T "3")
+L 01/14/2020 - 18:35:43: World triggered "Round_End"
+L 01/14/2020 - 18:35:47: World triggered "Round_Start"
+L 01/14/2020 - 18:36:58: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "GAME OVER 6<39><STEAM_1:1:636467087><CT>" with "m249"
+L 01/14/2020 - 18:37:23: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "tracktrain"
+L 01/14/2020 - 18:37:23: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/14/2020 - 18:37:23: World triggered "Round_End"
+L 01/14/2020 - 18:37:29: World triggered "Round_Start"
+L 01/14/2020 - 18:37:33: [REUNION]: Imaqtpie (31.155.138.52) authorized as RevEmu
+L 01/14/2020 - 18:37:33: "Imaqtpie<41><STEAM_1:1:149245279><>" connected, address "31.155.138.52:20453"
+L 01/14/2020 - 18:38:18: [REUNION]: Imaqtpie (31.155.138.52) authorized as RevEmu
+L 01/14/2020 - 18:38:18: "Imaqtpie<42><STEAM_1:1:149245279><>" connected, address "31.155.138.52:20453"
+L 01/14/2020 - 18:38:40: "Imaqtpie<42><STEAM_1:1:149245279><>" entered the game
+L 01/14/2020 - 18:38:46: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "famas"
+L 01/14/2020 - 18:38:48: "Imaqtpie<42><STEAM_1:1:149245279><>" joined team "CT"
+L 01/14/2020 - 18:39:46: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "famas"
+L 01/14/2020 - 18:39:46: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/14/2020 - 18:39:46: World triggered "Round_End"
+L 01/14/2020 - 18:39:51: "GAME OVER 6<39><STEAM_1:1:636467087><CT>" joined team "TERRORIST"
+L 01/14/2020 - 18:39:51: "<><><>" triggered "amx_chat" (text "[PTB] Transfered GAME OVER 6 to TERRORIST")
+L 01/14/2020 - 18:39:52: World triggered "Round_Start"
+L 01/14/2020 - 18:40:35: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" killed "Imaqtpie<42><STEAM_1:1:149245279><CT>" with "famas"
+L 01/14/2020 - 18:40:43: "Imaqtpie<42><STEAM_1:1:149245279><CT>" disconnected
+L 01/14/2020 - 18:41:12: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "deagle"
+L 01/14/2020 - 18:41:18: Kick: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><>" was kicked by "Console" (message ""Away From Keyboard (AFK)"")
+L 01/14/2020 - 18:41:18: "@_Aykut_bOss_＃<31><VALVE_ID_LAN><SPECTATOR>" disconnected
+L 01/14/2020 - 18:41:18: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "famas"
+L 01/14/2020 - 18:41:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 01/14/2020 - 18:41:18: World triggered "Round_End"
+L 01/14/2020 - 18:41:24: World triggered "Round_Start"
+L 01/14/2020 - 18:41:49: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:42:03: "GAME OVER 6<39><STEAM_1:1:636467087><TERRORIST>" disconnected
+L 01/14/2020 - 18:42:34: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "m3"
+L 01/14/2020 - 18:42:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 01/14/2020 - 18:42:34: World triggered "Round_End"
+L 01/14/2020 - 18:42:40: World triggered "Round_Start"
+L 01/14/2020 - 18:43:17: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m3"
+L 01/14/2020 - 18:43:17: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 01/14/2020 - 18:43:17: World triggered "Round_End"
+L 01/14/2020 - 18:43:23: World triggered "Round_Start"
+L 01/14/2020 - 18:45:28: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "ak47"
+L 01/14/2020 - 18:45:28: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 01/14/2020 - 18:45:28: World triggered "Round_End"
+L 01/14/2020 - 18:45:34: World triggered "Round_Start"
+L 01/14/2020 - 18:46:50: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "knife"
+L 01/14/2020 - 18:46:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 01/14/2020 - 18:46:50: World triggered "Round_End"
+L 01/14/2020 - 18:46:56: World triggered "Round_Start"
+L 01/14/2020 - 18:48:24: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "p228"
+L 01/14/2020 - 18:48:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 01/14/2020 - 18:48:24: World triggered "Round_End"
+L 01/14/2020 - 18:48:30: World triggered "Round_Start"
+L 01/14/2020 - 18:49:23: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m3"
+L 01/14/2020 - 18:49:23: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 01/14/2020 - 18:49:23: World triggered "Round_End"
+L 01/14/2020 - 18:49:29: World triggered "Round_Start"
+L 01/14/2020 - 18:49:54: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:49:54: Team "CT" triggered "CTs_Win" (CT "6") (T "4")
+L 01/14/2020 - 18:49:54: World triggered "Round_End"
+L 01/14/2020 - 18:50:00: World triggered "Round_Start"
+L 01/14/2020 - 18:50:06: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" committed suicide with "world"
+L 01/14/2020 - 18:50:06: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" joined team "TERRORIST"
+L 01/14/2020 - 18:50:07: World triggered "Game_Commencing"
+L 01/14/2020 - 18:50:07: World triggered "Game_Commencing" (CT "6") (T "4")
+L 01/14/2020 - 18:50:07: World triggered "Round_End"
+L 01/14/2020 - 18:50:11: World triggered "Round_Start"
+L 01/14/2020 - 18:51:07: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:51:07: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/14/2020 - 18:51:07: World triggered "Round_End"
+L 01/14/2020 - 18:51:13: World triggered "Round_Start"
+L 01/14/2020 - 18:51:37: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:51:37: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/14/2020 - 18:51:37: World triggered "Round_End"
+L 01/14/2020 - 18:51:43: World triggered "Round_Start"
+L 01/14/2020 - 18:52:33: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "ak47"
+L 01/14/2020 - 18:52:33: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/14/2020 - 18:52:33: World triggered "Round_End"
+L 01/14/2020 - 18:52:39: World triggered "Round_Start"
+L 01/14/2020 - 18:53:43: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "scout"
+L 01/14/2020 - 18:53:43: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 01/14/2020 - 18:53:43: World triggered "Round_End"
+L 01/14/2020 - 18:53:49: World triggered "Round_Start"
+L 01/14/2020 - 18:54:44: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" killed "Fury/Mumya<40><STEAM_1:1:81589675><CT>" with "ak47"
+L 01/14/2020 - 18:54:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 01/14/2020 - 18:54:44: World triggered "Round_End"
+L 01/14/2020 - 18:54:50: World triggered "Round_Start"
+L 01/14/2020 - 18:55:28: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/14/2020 - 18:55:28: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 01/14/2020 - 18:55:28: World triggered "Round_End"
+L 01/14/2020 - 18:55:34: World triggered "Round_Start"
+L 01/14/2020 - 18:56:06: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:56:06: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 01/14/2020 - 18:56:06: World triggered "Round_End"
+L 01/14/2020 - 18:56:12: World triggered "Round_Start"
+L 01/14/2020 - 18:56:40: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" killed "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" with "m4a1"
+L 01/14/2020 - 18:56:40: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 01/14/2020 - 18:56:40: World triggered "Round_End"
+L 01/14/2020 - 18:56:46: World triggered "Round_Start"
+L 01/14/2020 - 18:57:01: "Redwenace<33><STEAM_0:1:459709824><TERRORIST>" disconnected
+L 01/14/2020 - 18:59:03: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" committed suicide with "world"
+L 01/14/2020 - 18:59:03: World triggered "Round_Draw" (CT "7") (T "1")
+L 01/14/2020 - 18:59:03: World triggered "Round_End"
+L 01/14/2020 - 18:59:03: "Fury/Mumya<40><STEAM_1:1:81589675><CT>" joined team "SPECTATOR"
+L 01/14/2020 - 18:59:09: World triggered "Round_Start"
+L 01/14/2020 - 19:01:58: "Fury/Mumya<40><STEAM_1:1:81589675><SPECTATOR>" disconnected
+L 01/14/2020 - 19:01:58: World triggered "Round_Draw" (CT "7") (T "1")
+L 01/14/2020 - 19:01:58: World triggered "Round_End"
+L 01/14/2020 - 19:02:04: World triggered "Round_Start"
+L 01/14/2020 - 19:10:09: Server cvar "mp_chattime" = "7.000000"
+L 01/14/2020 - 19:10:10: Team "CT" scored "7" with "0" players
+L 01/14/2020 - 19:10:10: Team "TERRORIST" scored "1" with "0" players
+L 01/14/2020 - 19:10:14: Server cvar "mp_chattime" = "5.000000"
+L 01/14/2020 - 19:10:14: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: AMX Mod X
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: Reunion
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: ReAuthCheck
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: WHBlocker
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: ReSemiclip
+L 01/14/2020 - 19:10:14: [META] ini: Read plugin config for: Revoice
+L 01/14/2020 - 19:10:14: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/14/2020 - 19:10:14: [META] dll: Updating plugins...
+L 01/14/2020 - 19:10:14: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/14/2020 - 19:10:14: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/14/2020 - 19:10:14: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/14/2020 - 19:10:14: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/14/2020 - 19:10:14: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/14/2020 - 19:10:14: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/14/2020 - 19:10:14: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/14/2020 - 19:10:14: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/14/2020 - 19:10:14: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/14/2020 - 19:10:14: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/14/2020 - 19:10:14: Log file closed

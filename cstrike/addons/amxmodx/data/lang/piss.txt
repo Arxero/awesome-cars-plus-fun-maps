@@ -1,0 +1,32 @@
+"- Piss on a dead player"
+fr:"Uriner sur un joueur mort"
+
+"- Displays piss help"
+fr:"Affiche l'aide pour uriner"
+
+"[AMX] You have not access to this command."
+fr:"[AMX] Vous n'avez pas acces a cette commande."
+
+"You can only piss on a player %d time(s) in a round !"
+fr:"Tu ne peux uriner sur un joueur que %d fois par round !"
+
+"%s Is Pissing On %s's Dead Body !! HaHaHaHa !!"
+fr:"%s est en train d'uriner sur le corps de %s !! HaHaHaHa !!"
+
+"%s Is Pissing !!"
+fr:"%s est en train d'uriner !!"
+
+"There are no dead bodies around you."
+fr:"Il n'y a aucun joueur mort autour de toi."
+
+"To piss on a dead body you have to bind a key to: piss"
+fr:"Pour uriner sur un corps, vous devez binder ^"piss^" sur une touche."
+
+"Open your console and write: bind ^"key^" ^"piss^""
+fr:"Ouvrez la console et tapez : bind ^"key^" ^"piss^""
+
+"ex: bind ^"x^" ^"piss^""
+fr:"ex: bind ^"x^" ^"piss^""
+
+"[AMXX] For Piss help say /piss"
+fr:"[AMX] Ecrivez /piss dans le chat pour lire l'aide."

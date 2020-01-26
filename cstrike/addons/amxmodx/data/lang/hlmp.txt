@@ -1,0 +1,217 @@
+[en]
+HLMP_CONFIG = Config
+HLMP_STOPMUSIC = Stop Music
+HLMP_CLOSEWINDOW = You may now close this window.
+HLMP_GROUPS = Categories
+HLMP_RADIOS = Radios
+HLMP_REPEAT = Auto Rewind
+HLMP_VOLUME = Volume
+HLMP_ABOUT = About...
+HLMP_CONFIGMENUTIP = Note: Changes will be applied when next song starts.
+HLMP_LISTENING = [HLMP] %s is now listening to %s
+
+[fr]
+HLMP_CONFIG = Configuration
+HLMP_STOPMUSIC = Stopper la Musique
+HLMP_CLOSEWINDOW = Tu peux maintenant fermer cette fenêtre.
+HLMP_GROUPS = Catégories
+HLMP_RADIOS = Radios
+HLMP_REPEAT = Répéter
+HLMP_VOLUME = Volume
+HLMP_ABOUT = À propos
+HLMP_CONFIGMENUTIP = Note: Les changements seront effectifs à la prochaine chanson.
+HLMP_LISTENING = [HLMP] %s écoute maintenant %s
+
+[nl]
+HLMP_CONFIG = Configuratie
+HLMP_STOPMUSIC = Stop de Muziek
+HLMP_CLOSEWINDOW = Je mag het venster nu dichtdoen.
+HLMP_GROUPS = Categorieen
+HLMP_RADIOS = Radio's
+HLMP_REPEAT = Speel AutoMatisch opnieuw
+HLMP_VOLUME = Volume
+HLMP_ABOUT = Over...
+HLMP_CONFIGMENUTIP = Note: Veranderingen zullen veranderen wanneer het volgend liedje start. 
+
+[es]
+HLMP_CONFIG = Configuracion
+HLMP_STOPMUSIC = Detener la Musica
+HLMP_CLOSEWINDOW = Ahora puedes cerrar esta ventana.
+HLMP_GROUPS = Categorias
+HLMP_RADIOS = Radios
+HLMP_REPEAT = Auto Rebobinado
+HLMP_VOLUME = Volumen
+HLMP_ABOUT = Sobre...
+HLMP_CONFIGMENUTIP = Nota: Los cambios se aplicaran cuando la siguiente cancion comienze.
+
+[ro]
+HLMP_CONFIG = Configurare
+HLMP_STOPMUSIC = Opreste muzica
+HLMP_CLOSEWINDOW = Acum poti sa inchizi fereastra.
+HLMP_GROUPS = Categorii
+HLMP_RADIOS = Radiouri
+HLMP_REPEAT = Deruleaza
+HLMP_VOLUME = Volum
+HLMP_ABOUT = Despre...
+HLMP_CONFIGMENUTIP = Nota: schimbarile o sa apara cand melodia urmatoare o sa porneasca.
+HLMP_LISTENING = [HLMP] %s asculta acum %s
+
+[bp]
+HLMP_CONFIG = Configuração
+HLMP_STOPMUSIC = Parar música
+HLMP_CLOSEWINDOW = Podes, agora, fechar esta janela.
+HLMP_GROUPS = Categorias
+HLMP_RADIOS = Rádios
+HLMP_REPEAT = Repetição automática
+HLMP_VOLUME = Volume
+HLMP_ABOUT = Acerca de ...
+HLMP_CONFIGMENUTIP = Nota: As alterações surtirão efeito aquando do início da próxima música.
+
+[de]
+HLMP_CONFIG = Konfiguration
+HLMP_STOPMUSIC = Musik anhalten
+HLMP_CLOSEWINDOW = Du kannst dieses Fenster nun schliessen.
+HLMP_GROUPS = Kategorien
+HLMP_RADIOS = Radios
+HLMP_REPEAT = Endlosschleife
+HLMP_VOLUME = Lautstaerke
+HLMP_ABOUT = Ueber...
+HLMP_CONFIGMENUTIP = Hinweis: Aenderungen werden beim Start des naechsten Liedes uebernommen.
+HLMP_LISTENING = [HLMP] %s hoert jetzt %s 
+
+[fi]
+HLMP_CONFIG = Asetukset
+HLMP_STOPMUSIC = Pysayta musiikki
+HLMP_CLOSEWINDOW = Voit nyt sulkea taman ikkunan
+HLMP_GROUPS = Kategoriat
+HLMP_RADIOS = Radiot
+HLMP_REPEAT = Automaattinen takaisin kelaus
+HLMP_VOLUME = Aanen voimakkuus
+HLMP_ABOUT = Tietoa...
+HLMP_CONFIGMENUTIP = Huomaa: Muutokset tulevat kayttoon kun seuraava kappale alkaa.
+
+[sv]
+HLMP_CONFIG = Config
+HLMP_STOPMUSIC = Stoppa Musiken
+HLMP_CLOSEWINDOW = Du kan nu st'a'nga ner detta f'o'nster.
+HLMP_GROUPS = Kategorier
+HLMP_RADIOS = Radiostationer
+HLMP_REPEAT = Automatisk Upprepning
+HLMP_VOLUME = Volym
+HLMP_ABOUT = Om HLMP...
+HLMP_CONFIGMENUTIP = Notera: Alla 'a'ndringar kommer att bli laddade efter ny lat startat.
+
+[sr]
+HLMP_CONFIG = Konfigurisanje
+HLMP_STOPMUSIC = Zaustavi muziku
+HLMP_CLOSEWINDOW = Sad možeš da zatvoriš ovaj prozor.
+HLMP_GROUPS = Kategorije
+HLMP_RADIOS = Radio
+HLMP_REPEAT = Auto Premotavanje
+HLMP_VOLUME = Jačina zvuka
+HLMP_ABOUT = O pluginu...
+HLMP_CONFIGMENUTIP = Note: Promene ce biti primenjene kad počne sledeća pesma.
+HLMP_LISTENING =[HLMP] %s trenutno sluša %s
+
+[cn]
+HLMP_CONFIG = 配置
+HLMP_STOPMUSIC = 停止音乐
+HLMP_CLOSEWINDOW = 你现在可以关闭此窗口.
+HLMP_GROUPS = 分类
+HLMP_RADIOS = 收音机
+HLMP_REPEAT = 自动重复
+HLMP_VOLUME = 音量
+HLMP_ABOUT = 关于...
+HLMP_CONFIGMENUTIP = 注释: 变化将在下一首歌曲播放时实施.
+
+[tn]
+HLMP_CONFIG = 配置
+HLMP_STOPMUSIC = 停止音樂
+HLMP_CLOSEWINDOW = 你現在可以關閉此窗口.
+HLMP_GROUPS = 分類
+HLMP_RADIOS = 收音機
+HLMP_REPEAT = 自動重複
+HLMP_VOLUME = 音量
+HLMP_ABOUT = 關於...
+HLMP_CONFIGMENUTIP = 注釋: 變化將在下一首歌曲播放時實施.
+
+[ru]
+HLMP_CONFIG = Настройки
+HLMP_STOPMUSIC = Остановить
+HLMP_CLOSEWINDOW = Теперь Вы можете закрыть это окно.
+HLMP_GROUPS = Категории
+HLMP_RADIOS = Радиостанции
+HLMP_REPEAT = Авто повтор
+HLMP_VOLUME = Громкость
+HLMP_ABOUT = О программе ...
+HLMP_CONFIGMENUTIP = Примечание: Изменения вступят в силу со следующей песни.
+HLMP_LISTENING = [HLMP] %s сейчас слушает %s
+
+[sk]
+HLMP_CONFIG = Konfiguracia
+HLMP_STOPMUSIC = Zastavit prehravanie
+HLMP_CLOSEWINDOW = Toto okno mozes zavriet
+HLMP_GROUPS = Kategorie
+HLMP_RADIOS = Radia
+HLMP_REPEAT = Auto opakovanie
+HLMP_VOLUME = Hlasitost
+HLMP_ABOUT = O plugine...
+HLMP_CONFIGMENUTIP = Poznamka: Zmeny budu aplikovane ked zacne dalsia pesnicka.
+
+[cz]
+HLMP_CONFIG = Konfigurace
+HLMP_STOPMUSIC = Zastavit prehravani
+HLMP_CLOSEWINDOW = Tohle okno muzes zavrit
+HLMP_GROUPS = Kategorie
+HLMP_RADIOS = Radia
+HLMP_REPEAT = Auto opakovani
+HLMP_VOLUME = Hlasitost
+HLMP_ABOUT = O plugine...
+HLMP_CONFIGMENUTIP = Poznamka: Zmeny budou aplikovany kdyz zacne dalsi pisnicka.
+
+[lt]
+HLMP_CONFIG = Nustatymai
+HLMP_STOPMUSIC = Sustabditi Muzika
+HLMP_CLOSEWINDOW = Jus galite dabar uzdaryti si langa.
+HLMP_GROUPS = Kategorijos
+HLMP_RADIOS = Radijas
+HLMP_REPEAT = Automatinis Prasukimas
+HLMP_VOLUME = Garsas
+HLMP_ABOUT = Apie...
+HLMP_CONFIGMENUTIP = Pastaba: Pakeitimai bus pritaikyti, kai kita daina prasides.
+
+[lv]
+HLMP_CONFIG = Konfigurācija
+HLMP_STOPMUSIC = Apturēt mūziku
+HLMP_CLOSEWINDOW = Tu tagad vari aizvērt šo logu.
+HLMP_GROUPS = Kategorijas
+HLMP_RADIOS = Radio
+HLMP_REPEAT = Atkārtot
+HLMP_VOLUME = Skaļums
+HLMP_ABOUT = Par...
+HLMP_CONFIGMENUTIP = Piezīme: Izmaiņas būs apstiprinātas kad sāksies nākošā dziesma
+HLMP_LISTENING = [HLMP] %s klausās tagad %s
+
+[bg]
+HLMP_CONFIG = Config
+HLMP_STOPMUSIC = Spri muzikata
+HLMP_CLOSEWINDOW = Sega moje da zatvorite prozoreca.
+HLMP_GROUPS = Categorii
+HLMP_RADIOS = Radio
+HLMP_REPEAT = Auto Rewind
+HLMP_VOLUME = Sila na zvuka
+HLMP_ABOUT = About...
+HLMP_CONFIGMENUTIP = Note: Smqnata 6te bude prieta sled startiraneto na sledva6tata pesen.
+HLMP_LISTENING = [HLMP] %s sega slu6a %s
+
+[tr]
+HLMP_CONFIG = Yapilandirma
+HLMP_STOPMUSIC = Muzigi durdur
+HLMP_CLOSEWINDOW = Simdi bu pencereyi kapatabilirsiniz!
+HLMP_GROUPS = Kategoriler
+HLMP_RADIOS = Radyolar
+HLMP_REPEAT = Otomatik geri sarma
+HLMP_VOLUME = Ses
+HLMP_ABOUT = Hakkinda...
+HLMP_CONFIGMENUTIP = Not: Degisiklikler gelecek sarkidan sonra uygulanacaktir!
+HLMP_LISTENING = [HLMP] %s suanda %s dinliyor!

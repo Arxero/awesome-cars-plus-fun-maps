@@ -1,0 +1,25 @@
+{
+    "name"      : "Cvar_DirectSet",
+    "library"   : "engine",
+    "arguments" :
+    [
+        {
+            "type" : "pointer"
+        },
+        {
+            "type" : "char *"
+        }
+    ],
+    "identifiers" :
+    [
+        {
+            "os"    : "windows",
+            "value" : [0x55,0x8B,"*",0x81,"*","*","*","*","*",0x56,0x8B,"*","*",0x57,0x8B,"*","*",0x85,"*",0x0F]
+
+        },
+        {
+            "os"    : "linux",
+            "value" : "Cvar_DirectSet"
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+L 01/04/2020 - 00:12:39: Log file started (file "logs/L0104001.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/04/2020 - 00:12:39: Loading map "climb"
+L 01/04/2020 - 00:12:39: Server cvars start
+L 01/04/2020 - 00:12:39: Server cvar "@BunnyHopper" = "3.x"
+L 01/04/2020 - 00:12:39: Server cvar "@CRXGoSpec" = "1.1"
+L 01/04/2020 - 00:12:39: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "@D.I.C.E." = "1.1"
+L 01/04/2020 - 00:12:39: Server cvar "@MOTDCommands" = "1.2"
+L 01/04/2020 - 00:12:39: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/04/2020 - 00:12:39: Server cvar "AdvancedMute" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "aesp_version" = "1.3"
+L 01/04/2020 - 00:12:39: Server cvar "allow_spectators" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "amx_client_languages" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "amx_language" = "en"
+L 01/04/2020 - 00:12:39: Server cvar "amx_nextmap" = "climb"
+L 01/04/2020 - 00:12:39: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/04/2020 - 00:12:39: Server cvar "amx_timeleft" = "12:07"
+L 01/04/2020 - 00:12:39: Server cvar "amxmodx_version" = "1.8.2"
+L 01/04/2020 - 00:12:39: Server cvar "amxxbg_vip" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "asp_version" = "4.5.1"
+L 01/04/2020 - 00:12:39: Server cvar "atac_version" = "3.0.1"
+L 01/04/2020 - 00:12:39: Server cvar "badcamper_version" = "1.4 beta"
+L 01/04/2020 - 00:12:39: Server cvar "blockmaker" = "4.01"
+L 01/04/2020 - 00:12:39: Server cvar "c4 timer" = "1.1"
+L 01/04/2020 - 00:12:39: Server cvar "coop" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "CRXAdminGroups" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "CRXFastKnife" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "CRXGametracker" = "2.0"
+L 01/04/2020 - 00:12:39: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/04/2020 - 00:12:39: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "CustomShop" = "4.2"
+L 01/04/2020 - 00:12:39: Server cvar "deathmatch" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "decalfrequency" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "edgefriction" = "2"
+L 01/04/2020 - 00:12:39: Server cvar "ers_version" = "2.3c"
+L 01/04/2020 - 00:12:39: Server cvar "gagsystem_shoko" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/04/2020 - 00:12:39: Server cvar "gal_version" = "v5.9.1-926"
+L 01/04/2020 - 00:12:39: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/04/2020 - 00:12:39: Server cvar "humans_join_team" = "any"
+L 01/04/2020 - 00:12:39: Server cvar "jtp10181" = "chute,gore"
+L 01/04/2020 - 00:12:39: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/04/2020 - 00:12:39: Server cvar "LetitSnow" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/04/2020 - 00:12:39: Server cvar "max_queries_sec" = "3"
+L 01/04/2020 - 00:12:39: Server cvar "max_queries_sec_global" = "150"
+L 01/04/2020 - 00:12:39: Server cvar "max_queries_window" = "60"
+L 01/04/2020 - 00:12:39: Server cvar "mdbBans" = "4.8"
+L 01/04/2020 - 00:12:39: Server cvar "metamod_version" = "1.21p37"
+L 01/04/2020 - 00:12:39: Server cvar "mp_autokick" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_autokick_timeout" = "-1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_autoteambalance" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_buytime" = "0.25"
+L 01/04/2020 - 00:12:39: Server cvar "mp_c4timer" = "35"
+L 01/04/2020 - 00:12:39: Server cvar "mp_chattime" = "10"
+L 01/04/2020 - 00:12:39: Server cvar "mp_consistency" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_fadetoblack" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_flashlight" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_footsteps" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_forcecamera" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_forcechasecam" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_forcerespawn" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_fraglimit" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_fragsleft" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_freeforall" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_freezetime" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_hostage_hurtable" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_hostagepenalty" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_item_staytime" = "300"
+L 01/04/2020 - 00:12:39: Server cvar "mp_kickpercent" = "0.66"
+L 01/04/2020 - 00:12:39: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_limitteams" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_logdetail" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_logfile" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_logmessages" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/04/2020 - 00:12:39: Server cvar "mp_maxmoney" = "999999"
+L 01/04/2020 - 00:12:39: Server cvar "mp_maxrounds" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_mirrordamage" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_playerid" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_round_infinite" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_round_restart_delay" = "5"
+L 01/04/2020 - 00:12:39: Server cvar "mp_roundover" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_roundtime" = "2.3"
+L 01/04/2020 - 00:12:39: Server cvar "mp_show_radioicon" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_startmoney" = "850"
+L 01/04/2020 - 00:12:39: Server cvar "mp_timeleft" = "12:07"
+L 01/04/2020 - 00:12:39: Server cvar "mp_timelimit" = "20"
+L 01/04/2020 - 00:12:39: Server cvar "mp_tkpunish" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "mp_windifference" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "mp_winlimit" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/04/2020 - 00:12:39: Server cvar "pausable" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "present_version" = "2.01"
+L 01/04/2020 - 00:12:39: Server cvar "RandomHP" = "2.2"
+L 01/04/2020 - 00:12:39: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/04/2020 - 00:12:39: Server cvar "reconnect_features" = "0.3.1"
+L 01/04/2020 - 00:12:39: Server cvar "report_system_version" = "3.1"
+L 01/04/2020 - 00:12:39: Server cvar "resemiclip_version" = "2.3.9"
+L 01/04/2020 - 00:12:39: Server cvar "reu_version" = "0.1.0.130"
+L 01/04/2020 - 00:12:39: Server cvar "revoice_version" = "0.1.0.30"
+L 01/04/2020 - 00:12:39: Server cvar "RRWM" = "2.0"
+L 01/04/2020 - 00:12:39: Server cvar "sanksounds_version" = "1.8.6"
+L 01/04/2020 - 00:12:39: Server cvar "SimpleMenu" = "1.1"
+L 01/04/2020 - 00:12:39: Server cvar "SNAC_Version" = "1.1"
+L 01/04/2020 - 00:12:39: Server cvar "SpecList" = "1.2a"
+L 01/04/2020 - 00:12:39: Server cvar "sr_version" = "1.6"
+L 01/04/2020 - 00:12:39: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/04/2020 - 00:12:39: Server cvar "StyleC4Timer" = "2.1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_accelerate" = "5"
+L 01/04/2020 - 00:12:39: Server cvar "sv_aim" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_airaccelerate" = "100"
+L 01/04/2020 - 00:12:39: Server cvar "sv_allowupload" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_alltalk" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_bounce" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_cheats" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "sv_clienttrace" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/04/2020 - 00:12:39: Server cvar "sv_friction" = "4"
+L 01/04/2020 - 00:12:39: Server cvar "sv_gravity" = "800"
+L 01/04/2020 - 00:12:39: Server cvar "sv_logblocks" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "sv_maxrate" = "50000"
+L 01/04/2020 - 00:12:39: Server cvar "sv_maxspeed" = "900.000000"
+L 01/04/2020 - 00:12:39: Server cvar "sv_minrate" = "10000"
+L 01/04/2020 - 00:12:39: Server cvar "sv_password" = ""
+L 01/04/2020 - 00:12:39: Server cvar "sv_proxies" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_restart" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "sv_restartround" = "0"
+L 01/04/2020 - 00:12:39: Server cvar "sv_stepsize" = "18"
+L 01/04/2020 - 00:12:39: Server cvar "sv_stopspeed" = "75"
+L 01/04/2020 - 00:12:39: Server cvar "sv_uploadmax" = "0.5"
+L 01/04/2020 - 00:12:39: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/04/2020 - 00:12:39: Server cvar "sv_voiceenable" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "sv_wateraccelerate" = "10"
+L 01/04/2020 - 00:12:39: Server cvar "sv_waterfriction" = "1"
+L 01/04/2020 - 00:12:39: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/04/2020 - 00:12:39: Server cvar "vehicle_real_killer" = "1.1"
+L 01/04/2020 - 00:12:39: Server cvar "WalkGuard" = "1.3.2"
+L 01/04/2020 - 00:12:39: Server cvar "we_grenades" = "Huehue"
+L 01/04/2020 - 00:12:39: Server cvar "we_player_models" = "Huehue"
+L 01/04/2020 - 00:12:39: Server cvar "whb_version" = "1.5.692"
+L 01/04/2020 - 00:12:39: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/04/2020 - 00:12:39: Server cvars end
+L 01/04/2020 - 00:12:41: Server cvar "sv_maxspeed" = "900"
+L 01/04/2020 - 00:12:41: Server cvar "mp_autoteambalance" = "1"
+L 01/04/2020 - 00:12:42: Server cvar "mp_autoteambalance" = "0"
+L 01/04/2020 - 00:12:42: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/04/2020 - 00:12:43: Started map "climb" (CRC "-725398581")
+L 01/04/2020 - 00:12:44: "Егорь<61><STEAM_0:1:156837511><>" connected, address "2.93.232.196:27005"
+L 01/04/2020 - 00:12:44: "Егорь<61><STEAM_0:1:156837511><>" STEAM USERID validated
+L 01/04/2020 - 00:12:45: World triggered "Round_Start"
+L 01/04/2020 - 00:12:46: [REUNION]: vis2 (83.148.84.199) authorized as RevEmu
+L 01/04/2020 - 00:12:46: "vis2<62><STEAM_1:0:889748961><>" connected, address "83.148.84.199:27005"
+L 01/04/2020 - 00:12:46: "Ludia :D<1><STEAM_1:0:186885685><>" entered the game
+L 01/04/2020 - 00:12:46: [REUNION]: XyZ (79.112.199.105) authorized as RevEmu
+L 01/04/2020 - 00:12:46: "XyZ<63><STEAM_1:1:1666610491><>" connected, address "79.112.199.105:26769"
+L 01/04/2020 - 00:12:46: [REUNION]: 19 Panzerwaffe 14 (77.76.47.141) authorized as NoSteam47
+L 01/04/2020 - 00:12:46: "19 Panzerwaffe 14<64><VALVE_ID_LAN><>" connected, address "77.76.47.141:27005"
+L 01/04/2020 - 00:12:47: "Sco7ch<48><STEAM_0:0:523417429><>" entered the game
+L 01/04/2020 - 00:12:47: "Jason Statham<65><STEAM_0:1:65160151><>" connected, address "46.160.40.89:27005"
+L 01/04/2020 - 00:12:47: "Z1k<66><STEAM_0:1:52698078><>" connected, address "46.160.40.89:1024"
+L 01/04/2020 - 00:12:47: "Jason Statham<65><STEAM_0:1:65160151><>" STEAM USERID validated
+L 01/04/2020 - 00:12:47: [REUNION]: Gametracker---LT (79.233.26.134) authorized as RevEmu
+L 01/04/2020 - 00:12:47: "Gametracker---LT<67><STEAM_1:1:2102834399><>" connected, address "79.233.26.134:27005"
+L 01/04/2020 - 00:12:48: "Z1k<66><STEAM_0:1:52698078><>" STEAM USERID validated
+L 01/04/2020 - 00:12:48: [REUNION]: unnamed (31.13.145.165) authorized as RevEmu
+L 01/04/2020 - 00:12:48: "<68><STEAM_1:1:2140055920><>" connected, address "31.13.145.165:60867"
+L 01/04/2020 - 00:12:48: "Егорь<61><STEAM_0:1:156837511><>" entered the game
+L 01/04/2020 - 00:12:49: "Player<53><STEAM_2:0:1886291632><>" entered the game
+L 01/04/2020 - 00:12:49: "Ludia :D<1><STEAM_1:0:186885685><>" joined team "TERRORIST"
+L 01/04/2020 - 00:12:49: "Sco7ch<48><STEAM_0:0:523417429><>" joined team "TERRORIST"
+L 01/04/2020 - 00:12:50: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:12:51: "19 Panzerwaffe 14<64><VALVE_ID_LAN><>" entered the game
+L 01/04/2020 - 00:12:51: "Егорь<61><STEAM_0:1:156837511><>" joined team "CT"
+L 01/04/2020 - 00:12:51: "Jason Statham<65><STEAM_0:1:65160151><>" entered the game
+L 01/04/2020 - 00:12:51: World triggered "Game_Commencing"
+L 01/04/2020 - 00:12:51: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/04/2020 - 00:12:51: World triggered "Round_End"
+L 01/04/2020 - 00:12:52: "vis2<62><STEAM_1:0:889748961><>" entered the game
+L 01/04/2020 - 00:12:52: "Z1k<66><STEAM_0:1:52698078><>" entered the game
+L 01/04/2020 - 00:12:52: "Player<53><STEAM_2:0:1886291632><>" joined team "CT"
+L 01/04/2020 - 00:12:53: "Gametracker---LT<67><STEAM_1:1:2102834399><>" entered the game
+L 01/04/2020 - 00:12:53: "Jason Statham<65><STEAM_0:1:65160151><>" joined team "CT"
+L 01/04/2020 - 00:12:53: "XyZ<63><STEAM_1:1:1666610491><>" entered the game
+L 01/04/2020 - 00:12:54: "vis2<62><STEAM_1:0:889748961><>" joined team "TERRORIST"
+L 01/04/2020 - 00:12:54: "Sco7ch<48><STEAM_0:0:523417429><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 00:12:54: "Sco7ch<48><STEAM_0:0:523417429><TERRORIST>" joined team "CT"
+L 01/04/2020 - 00:12:54: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:12:55: "2Pacalypse<56><VALVE_ID_LAN><>" entered the game
+L 01/04/2020 - 00:12:55: World triggered "Round_Start"
+L 01/04/2020 - 00:12:56: "unnamed<68><STEAM_1:1:2140055920><>" entered the game
+L 01/04/2020 - 00:12:56: "Z1k<66><STEAM_0:1:52698078><>" joined team "CT"
+L 01/04/2020 - 00:12:56: "XyZ<63><STEAM_1:1:1666610491><>" joined team "CT"
+L 01/04/2020 - 00:12:57: "19 Panzerwaffe 14<64><VALVE_ID_LAN><>" joined team "CT"
+L 01/04/2020 - 00:12:58: "Gametracker---LT<67><STEAM_1:1:2102834399><>" joined team "CT"
+L 01/04/2020 - 00:12:59: "unnamed<68><STEAM_1:1:2140055920><>" joined team "TERRORIST"
+L 01/04/2020 - 00:13:04: "H3ADROOM<69><STEAM_0:0:150924950><>" connected, address "176.105.192.208:53314"
+L 01/04/2020 - 00:13:04: "19 Panzerwaffe 14<64><VALVE_ID_LAN><CT>" committed suicide with "world"
+L 01/04/2020 - 00:13:04: "19 Panzerwaffe 14<64><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 01/04/2020 - 00:13:04: "H3ADROOM<69><STEAM_0:0:150924950><>" STEAM USERID validated
+L 01/04/2020 - 00:13:05: "2Pacalypse<56><VALVE_ID_LAN><>" joined team "CT"
+L 01/04/2020 - 00:13:08: "H3ADROOM<69><STEAM_0:0:150924950><>" entered the game
+L 01/04/2020 - 00:13:14: "Егорь<61><STEAM_0:1:156837511><CT>" killed "vis2<62><STEAM_1:0:889748961><TERRORIST>" with "deagle"
+L 01/04/2020 - 00:13:15: "Егорь<61><STEAM_0:1:156837511><CT>" killed "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" with "deagle"
+L 01/04/2020 - 00:13:15: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/04/2020 - 00:13:15: "H3ADROOM<69><STEAM_0:0:150924950><>" joined team "TERRORIST"
+L 01/04/2020 - 00:13:24: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "deagle"
+L 01/04/2020 - 00:13:24: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/04/2020 - 00:13:24: World triggered "Round_End"
+L 01/04/2020 - 00:13:29: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:13:30: World triggered "Round_Start"
+L 01/04/2020 - 00:13:41: "Егорь<61><STEAM_0:1:156837511><CT>" killed "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" with "deagle"
+L 01/04/2020 - 00:13:41: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/04/2020 - 00:13:42: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "vis2<62><STEAM_1:0:889748961><TERRORIST>" with "scout"
+L 01/04/2020 - 00:13:42: "XyZ<63><STEAM_1:1:1666610491><CT>" killed "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" with "deagle"
+L 01/04/2020 - 00:13:46: "XyZ<63><STEAM_1:1:1666610491><CT>" killed "19 Panzerwaffe 14<64><VALVE_ID_LAN><TERRORIST>" with "galil"
+L 01/04/2020 - 00:13:57: "Player<53><STEAM_2:0:1886291632><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "scout"
+L 01/04/2020 - 00:13:57: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/04/2020 - 00:13:57: World triggered "Round_End"
+L 01/04/2020 - 00:14:00: "Егорь<61><STEAM_0:1:156837511><CT>" committed suicide with "world"
+L 01/04/2020 - 00:14:00: "Егорь<61><STEAM_0:1:156837511><CT>" joined team "TERRORIST"
+L 01/04/2020 - 00:14:02: "vis2<62><STEAM_1:0:889748961><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:14:03: World triggered "Round_Start"
+L 01/04/2020 - 00:14:03: "Player<53><STEAM_2:0:1886291632><CT>" committed suicide with "world"
+L 01/04/2020 - 00:14:03: "Player<53><STEAM_2:0:1886291632><CT>" joined team "TERRORIST"
+L 01/04/2020 - 00:14:14: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "Егорь<61><STEAM_0:1:156837511><TERRORIST>" with "scout"
+L 01/04/2020 - 00:14:19: "Jason Statham<65><STEAM_0:1:65160151><CT>" killed "19 Panzerwaffe 14<64><VALVE_ID_LAN><TERRORIST>" with "scout"
+L 01/04/2020 - 00:14:21: "Jason Statham<65><STEAM_0:1:65160151><CT>" killed "vis2<62><STEAM_1:0:889748961><TERRORIST>" with "scout"
+L 01/04/2020 - 00:14:21: "vis2<62><STEAM_1:0:889748961><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/04/2020 - 00:14:25: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" killed "Gametracker---LT<67><STEAM_1:1:2102834399><CT>" with "ak47"
+L 01/04/2020 - 00:14:27: "Z1k<66><STEAM_0:1:52698078><CT>" killed "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:14:39: "19 Panzerwaffe 14<64><VALVE_ID_LAN><TERRORIST>" disconnected
+L 01/04/2020 - 00:14:39: "vis2<62><STEAM_1:0:889748961><TERRORIST>" joined team "CT"
+L 01/04/2020 - 00:14:43: "Jason Statham<65><STEAM_0:1:65160151><CT>" killed "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" with "scout"
+L 01/04/2020 - 00:15:28: "Jason Statham<65><STEAM_0:1:65160151><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "scout"
+L 01/04/2020 - 00:15:28: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/04/2020 - 00:15:28: World triggered "Round_End"
+L 01/04/2020 - 00:15:33: "Jason Statham<65><STEAM_0:1:65160151><CT>" joined team "TERRORIST"
+L 01/04/2020 - 00:15:33: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Jason Statham to TERRORIST")
+L 01/04/2020 - 00:15:33: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:15:34: World triggered "Round_Start"
+L 01/04/2020 - 00:15:45: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" with "scout"
+L 01/04/2020 - 00:15:47: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" with "scout"
+L 01/04/2020 - 00:15:49: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "Gametracker---LT<67><STEAM_1:1:2102834399><CT>" with "deagle"
+L 01/04/2020 - 00:15:53: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "2Pacalypse<56><VALVE_ID_LAN><CT>" with "scout"
+L 01/04/2020 - 00:16:00: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "vis2<62><STEAM_1:0:889748961><CT>" with "scout"
+L 01/04/2020 - 00:16:13: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:16:13: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/04/2020 - 00:16:17: [REUNION]: RiZerX (188.77.21.109) authorized as RevEmu
+L 01/04/2020 - 00:16:17: "RiZerX<70><STEAM_2:1:1247898037><>" connected, address "188.77.21.109:27005"
+L 01/04/2020 - 00:16:24: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 327)
+L 01/04/2020 - 00:16:25: "Егорь<61><STEAM_0:1:156837511><TERRORIST>" killed "XyZ<63><STEAM_1:1:1666610491><CT>" with "ak47"
+L 01/04/2020 - 00:16:33: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "Z1k<66><STEAM_0:1:52698078><CT>" with "scout"
+L 01/04/2020 - 00:16:44: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "Sco7ch<48><STEAM_0:0:523417429><CT>" with "deagle"
+L 01/04/2020 - 00:16:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 01/04/2020 - 00:16:44: World triggered "Round_End"
+L 01/04/2020 - 00:16:49: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:16:50: World triggered "Round_Start"
+L 01/04/2020 - 00:16:51: [REUNION]: RiZerX (188.77.21.109) authorized as RevEmu
+L 01/04/2020 - 00:16:51: "RiZerX<71><STEAM_2:1:1247898037><>" connected, address "188.77.21.109:27005"
+L 01/04/2020 - 00:17:01: "Gametracker---LT<67><STEAM_1:1:2102834399><CT>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:17:07: "RiZerX<71><STEAM_2:1:1247898037><>" entered the game
+L 01/04/2020 - 00:17:10: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "scout"
+L 01/04/2020 - 00:17:11: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "XyZ<63><STEAM_1:1:1666610491><CT>" with "scout"
+L 01/04/2020 - 00:17:14: "RiZerX<71><STEAM_2:1:1247898037><>" joined team "CT"
+L 01/04/2020 - 00:17:14: [REUNION]: Spocky ;] (145.1.218.11) authorized as NoSteam47
+L 01/04/2020 - 00:17:14: "Spocky ;]<72><VALVE_ID_LAN><>" connected, address "145.1.218.11:27005"
+L 01/04/2020 - 00:17:20: [REUNION]: Spocky ;] (145.1.218.11) authorized as NoSteam47
+L 01/04/2020 - 00:17:20: "Spocky ;]<73><VALVE_ID_LAN><>" connected, address "145.1.218.11:27005"
+L 01/04/2020 - 00:17:24: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "Z1k<66><STEAM_0:1:52698078><CT>" with "sg552"
+L 01/04/2020 - 00:17:31: "Егорь<61><STEAM_0:1:156837511><TERRORIST>" killed "vis2<62><STEAM_1:0:889748961><CT>" with "ak47"
+L 01/04/2020 - 00:17:48: [REUNION]: Spocky ;] (145.1.218.11) authorized as NoSteam47
+L 01/04/2020 - 00:17:48: "Spocky ;]<74><VALVE_ID_LAN><>" connected, address "145.1.218.11:27005"
+L 01/04/2020 - 00:17:49: "vis2<62><STEAM_1:0:889748961><CT>" disconnected
+L 01/04/2020 - 00:17:54: "Spocky ;]<74><VALVE_ID_LAN><>" entered the game
+L 01/04/2020 - 00:18:10: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "Player<53><STEAM_2:0:1886291632><TERRORIST>" with "deagle"
+L 01/04/2020 - 00:18:11: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" killed "Sco7ch<48><STEAM_0:0:523417429><CT>" with "glock18"
+L 01/04/2020 - 00:18:16: "2Pacalypse<56><VALVE_ID_LAN><CT>" killed "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:18:16: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/04/2020 - 00:18:28: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 00:18:33: "2Pacalypse<56><VALVE_ID_LAN><CT>" killed "Егорь<61><STEAM_0:1:156837511><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:18:35: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "2Pacalypse<56><VALVE_ID_LAN><CT>" with "sg552"
+L 01/04/2020 - 00:18:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 01/04/2020 - 00:18:35: World triggered "Round_End"
+L 01/04/2020 - 00:18:39: "Егорь<61><STEAM_0:1:156837511><TERRORIST>" joined team "CT"
+L 01/04/2020 - 00:18:39: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Егорь to CT")
+L 01/04/2020 - 00:18:40: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:18:41: World triggered "Round_Start"
+L 01/04/2020 - 00:18:50: "Spocky ;]<74><VALVE_ID_LAN><>" joined team "SPECTATOR"
+L 01/04/2020 - 00:18:54: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "Sco7ch<48><STEAM_0:0:523417429><CT>" with "scout"
+L 01/04/2020 - 00:18:58: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "Gametracker---LT<67><STEAM_1:1:2102834399><CT>" with "scout"
+L 01/04/2020 - 00:19:00: "Spocky ;]<74><VALVE_ID_LAN><SPECTATOR>" disconnected
+L 01/04/2020 - 00:19:01: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "2Pacalypse<56><VALVE_ID_LAN><CT>" with "scout"
+L 01/04/2020 - 00:19:06: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "Егорь<61><STEAM_0:1:156837511><CT>" with "scout"
+L 01/04/2020 - 00:19:23: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/04/2020 - 00:19:24: "Z1k<66><STEAM_0:1:52698078><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:19:31: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" killed "RiZerX<71><STEAM_2:1:1247898037><CT>" with "ak47"
+L 01/04/2020 - 00:19:35: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" killed "XyZ<63><STEAM_1:1:1666610491><CT>" with "sg552"
+L 01/04/2020 - 00:19:58: Team "TERRORIST" triggered "Target_Bombed" (CT "3") (T "3")
+L 01/04/2020 - 00:19:58: World triggered "Round_End"
+L 01/04/2020 - 00:20:03: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:20:04: World triggered "Round_Start"
+L 01/04/2020 - 00:20:12: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "Егорь<61><STEAM_0:1:156837511><CT>" with "scout"
+L 01/04/2020 - 00:20:18: [REUNION]: Spocky ;] (145.1.218.11) authorized as NoSteam47
+L 01/04/2020 - 00:20:18: "Spocky ;]<75><VALVE_ID_LAN><>" connected, address "145.1.218.11:27005"
+L 01/04/2020 - 00:20:25: "Spocky ;]<75><VALVE_ID_LAN><>" entered the game
+L 01/04/2020 - 00:20:31: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "Sco7ch<48><STEAM_0:0:523417429><CT>" with "scout"
+L 01/04/2020 - 00:20:31: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" killed "Gametracker---LT<67><STEAM_1:1:2102834399><CT>" with "scout"
+L 01/04/2020 - 00:20:31: "XyZ<63><STEAM_1:1:1666610491><CT>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:20:34: "2Pacalypse<56><VALVE_ID_LAN><CT>" killed "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" with "scout"
+L 01/04/2020 - 00:20:37: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" killed "Z1k<66><STEAM_0:1:52698078><CT>" with "scout"
+L 01/04/2020 - 00:20:38: "Spocky ;]<75><VALVE_ID_LAN><>" joined team "CT"
+L 01/04/2020 - 00:20:40: "Ludia :D<1><STEAM_1:0:186885685><TERRORIST>" disconnected
+L 01/04/2020 - 00:20:43: "2Pacalypse<56><VALVE_ID_LAN><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "scout"
+L 01/04/2020 - 00:20:56: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 00:21:02: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "2Pacalypse<56><VALVE_ID_LAN><CT>" with "scout"
+L 01/04/2020 - 00:21:15: "Player<53><STEAM_2:0:1886291632><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:21:38: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "RiZerX<71><STEAM_2:1:1247898037><CT>" with "scout"
+L 01/04/2020 - 00:21:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 01/04/2020 - 00:21:38: World triggered "Round_End"
+L 01/04/2020 - 00:21:43: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:21:44: World triggered "Round_Start"
+L 01/04/2020 - 00:21:51: Server cvar "amx_nextmap" = "nw_gasstation"
+L 01/04/2020 - 00:22:12: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" killed "XyZ<63><STEAM_1:1:1666610491><CT>" with "deagle"
+L 01/04/2020 - 00:22:15: "2Pacalypse<56><VALVE_ID_LAN><CT>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:22:15: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/04/2020 - 00:22:20: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:22:24: "Spocky ;]<75><VALVE_ID_LAN><CT>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:22:24: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "Player<53><STEAM_2:0:1886291632><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:22:30: "Sco7ch<48><STEAM_0:0:523417429><CT>" killed "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" with "m4a1"
+L 01/04/2020 - 00:22:30: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 01/04/2020 - 00:22:30: World triggered "Round_End"
+L 01/04/2020 - 00:22:34: [REUNION]: FaZe_Ryan (92.55.121.60) authorized as NoSteam47
+L 01/04/2020 - 00:22:34: "FaZe_Ryan<76><VALVE_ID_LAN><>" connected, address "92.55.121.60:27005"
+L 01/04/2020 - 00:22:35: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/04/2020 - 00:22:36: World triggered "Round_Start"
+L 01/04/2020 - 00:22:36: Server cvar "sv_maxspeed" = "0.000000"
+L 01/04/2020 - 00:22:36: Server cvar "mp_friendlyfire" = "1"
+L 01/04/2020 - 00:22:37: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" killed "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" with "ak47"
+L 01/04/2020 - 00:22:39: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" with "ak47"
+L 01/04/2020 - 00:22:39: "Player<53><STEAM_2:0:1886291632><TERRORIST>" killed "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" with "ak47"
+L 01/04/2020 - 00:22:40: "RiZerX<71><STEAM_2:1:1247898037><CT>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:22:42: "Z1k<66><STEAM_0:1:52698078><CT>" killed "XyZ<63><STEAM_1:1:1666610491><CT>" with "grenade"
+L 01/04/2020 - 00:22:47: "Z1k<66><STEAM_0:1:52698078><CT>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 00:22:47: Server cvar "sv_maxspeed" = "900.000000"
+L 01/04/2020 - 00:22:47: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 00:22:47: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: AMX Mod X
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: Reunion
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: ReAuthCheck
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: WHBlocker
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: ReSemiclip
+L 01/04/2020 - 00:22:47: [META] ini: Read plugin config for: Revoice
+L 01/04/2020 - 00:22:47: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/04/2020 - 00:22:47: [META] dll: Updating plugins...
+L 01/04/2020 - 00:22:47: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 00:22:47: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/04/2020 - 00:22:47: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/04/2020 - 00:22:47: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 00:22:47: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/04/2020 - 00:22:47: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/04/2020 - 00:22:47: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 00:22:47: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/04/2020 - 00:22:47: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/04/2020 - 00:22:47: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/04/2020 - 00:22:47: "RiZerX<71><STEAM_2:1:1247898037><CT>" disconnected
+L 01/04/2020 - 00:22:47: "Player<53><STEAM_2:0:1886291632><TERRORIST>" disconnected
+L 01/04/2020 - 00:22:47: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 01/04/2020 - 00:22:47: World triggered "Round_End"
+L 01/04/2020 - 00:22:47: "Sco7ch<48><STEAM_0:0:523417429><CT>" disconnected
+L 01/04/2020 - 00:22:47: "unnamed<68><STEAM_1:1:2140055920><TERRORIST>" disconnected
+L 01/04/2020 - 00:22:47: "H3ADROOM<69><STEAM_0:0:150924950><TERRORIST>" disconnected
+L 01/04/2020 - 00:22:47: "Jason Statham<65><STEAM_0:1:65160151><TERRORIST>" disconnected
+L 01/04/2020 - 00:22:47: "2Pacalypse<56><VALVE_ID_LAN><CT>" disconnected
+L 01/04/2020 - 00:22:47: "Z1k<66><STEAM_0:1:52698078><CT>" disconnected
+L 01/04/2020 - 00:22:47: "Егорь<61><STEAM_0:1:156837511><CT>" disconnected
+L 01/04/2020 - 00:22:47: "XyZ<63><STEAM_1:1:1666610491><CT>" disconnected
+L 01/04/2020 - 00:22:47: "Gametracker---LT<67><STEAM_1:1:2102834399><CT>" disconnected
+L 01/04/2020 - 00:22:47: "Spocky ;]<75><VALVE_ID_LAN><CT>" disconnected
+L 01/04/2020 - 00:22:47: Log file closed

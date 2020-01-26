@@ -1,0 +1,411 @@
+L 12/22/2019 - 19:49:46: Log file started (file "logs/L1222081.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/22/2019 - 19:49:46: Loading map "csde_nokia"
+L 12/22/2019 - 19:49:46: Server cvars start
+L 12/22/2019 - 19:49:46: Server cvar "@BunnyHopper" = "3.x"
+L 12/22/2019 - 19:49:46: Server cvar "@CRXGoSpec" = "1.1"
+L 12/22/2019 - 19:49:46: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "@D.I.C.E." = "1.1"
+L 12/22/2019 - 19:49:46: Server cvar "@MOTDCommands" = "1.2"
+L 12/22/2019 - 19:49:46: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/22/2019 - 19:49:46: Server cvar "AdvancedMute" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "aesp_version" = "1.3"
+L 12/22/2019 - 19:49:46: Server cvar "allow_spectators" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "amx_client_languages" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "amx_language" = "en"
+L 12/22/2019 - 19:49:46: Server cvar "amx_nextmap" = "csde_nokia"
+L 12/22/2019 - 19:49:46: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/22/2019 - 19:49:46: Server cvar "amx_timeleft" = "00:00"
+L 12/22/2019 - 19:49:46: Server cvar "amxmodx_version" = "1.8.2"
+L 12/22/2019 - 19:49:46: Server cvar "amxxbg_vip" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "asp_version" = "4.5.1"
+L 12/22/2019 - 19:49:46: Server cvar "atac_version" = "3.0.1"
+L 12/22/2019 - 19:49:46: Server cvar "badcamper_version" = "1.4 beta"
+L 12/22/2019 - 19:49:46: Server cvar "blockmaker" = "4.01"
+L 12/22/2019 - 19:49:46: Server cvar "c4 timer" = "1.1"
+L 12/22/2019 - 19:49:46: Server cvar "coop" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "CRXAdminGroups" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "CRXFastKnife" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "CRXGametracker" = "2.0"
+L 12/22/2019 - 19:49:46: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/22/2019 - 19:49:46: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "CustomShop" = "4.2"
+L 12/22/2019 - 19:49:46: Server cvar "deathmatch" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "decalfrequency" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "edgefriction" = "2"
+L 12/22/2019 - 19:49:46: Server cvar "ers_version" = "2.3c"
+L 12/22/2019 - 19:49:46: Server cvar "gagsystem_shoko" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/22/2019 - 19:49:46: Server cvar "gal_version" = "v5.9.1-926"
+L 12/22/2019 - 19:49:46: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/22/2019 - 19:49:46: Server cvar "humans_join_team" = "any"
+L 12/22/2019 - 19:49:46: Server cvar "jtp10181" = "chute,gore"
+L 12/22/2019 - 19:49:46: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/22/2019 - 19:49:46: Server cvar "LetitSnow" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/22/2019 - 19:49:46: Server cvar "max_queries_sec" = "3"
+L 12/22/2019 - 19:49:46: Server cvar "max_queries_sec_global" = "150"
+L 12/22/2019 - 19:49:46: Server cvar "max_queries_window" = "60"
+L 12/22/2019 - 19:49:46: Server cvar "mdbBans" = "4.8"
+L 12/22/2019 - 19:49:46: Server cvar "metamod_version" = "1.21p37"
+L 12/22/2019 - 19:49:46: Server cvar "mp_autokick" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_autokick_timeout" = "-1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_autoteambalance" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_buytime" = "0.25"
+L 12/22/2019 - 19:49:46: Server cvar "mp_c4timer" = "35"
+L 12/22/2019 - 19:49:46: Server cvar "mp_chattime" = "10.000000"
+L 12/22/2019 - 19:49:46: Server cvar "mp_consistency" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_fadetoblack" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_flashlight" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_footsteps" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_forcecamera" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_forcechasecam" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_forcerespawn" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_fraglimit" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_fragsleft" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_freeforall" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_freezetime" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_friendlyfire" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_hostage_hurtable" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_hostagepenalty" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_item_staytime" = "300"
+L 12/22/2019 - 19:49:46: Server cvar "mp_kickpercent" = "0.66"
+L 12/22/2019 - 19:49:46: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_limitteams" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_logdetail" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_logfile" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_logmessages" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/22/2019 - 19:49:46: Server cvar "mp_maxmoney" = "999999"
+L 12/22/2019 - 19:49:46: Server cvar "mp_maxrounds" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_mirrordamage" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_playerid" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_round_infinite" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_round_restart_delay" = "5"
+L 12/22/2019 - 19:49:46: Server cvar "mp_roundover" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_roundtime" = "2.3"
+L 12/22/2019 - 19:49:46: Server cvar "mp_show_radioicon" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_startmoney" = "850"
+L 12/22/2019 - 19:49:46: Server cvar "mp_timeleft" = "00:00"
+L 12/22/2019 - 19:49:46: Server cvar "mp_timelimit" = "20.000000"
+L 12/22/2019 - 19:49:46: Server cvar "mp_tkpunish" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "mp_windifference" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "mp_winlimit" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/22/2019 - 19:49:46: Server cvar "pausable" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "present_version" = "2.01"
+L 12/22/2019 - 19:49:46: Server cvar "RandomHP" = "2.2"
+L 12/22/2019 - 19:49:46: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/22/2019 - 19:49:46: Server cvar "reconnect_features" = "0.3.1"
+L 12/22/2019 - 19:49:46: Server cvar "report_system_version" = "3.1"
+L 12/22/2019 - 19:49:46: Server cvar "resemiclip_version" = "2.3.9"
+L 12/22/2019 - 19:49:46: Server cvar "reu_version" = "0.1.0.130"
+L 12/22/2019 - 19:49:46: Server cvar "revoice_version" = "0.1.0.30"
+L 12/22/2019 - 19:49:46: Server cvar "RRWM" = "2.0"
+L 12/22/2019 - 19:49:46: Server cvar "sanksounds_version" = "1.8.6"
+L 12/22/2019 - 19:49:46: Server cvar "SimpleMenu" = "1.1"
+L 12/22/2019 - 19:49:46: Server cvar "SNAC_Version" = "1.1"
+L 12/22/2019 - 19:49:46: Server cvar "SpecList" = "1.2a"
+L 12/22/2019 - 19:49:46: Server cvar "sr_version" = "1.6"
+L 12/22/2019 - 19:49:46: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/22/2019 - 19:49:46: Server cvar "StyleC4Timer" = "2.1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_accelerate" = "5"
+L 12/22/2019 - 19:49:46: Server cvar "sv_aim" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_airaccelerate" = "100"
+L 12/22/2019 - 19:49:46: Server cvar "sv_allowupload" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_alltalk" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_bounce" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_cheats" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "sv_clienttrace" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/22/2019 - 19:49:46: Server cvar "sv_friction" = "4"
+L 12/22/2019 - 19:49:46: Server cvar "sv_gravity" = "800"
+L 12/22/2019 - 19:49:46: Server cvar "sv_logblocks" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "sv_maxrate" = "50000"
+L 12/22/2019 - 19:49:46: Server cvar "sv_maxspeed" = "900.000000"
+L 12/22/2019 - 19:49:46: Server cvar "sv_minrate" = "10000"
+L 12/22/2019 - 19:49:46: Server cvar "sv_password" = ""
+L 12/22/2019 - 19:49:46: Server cvar "sv_proxies" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_restart" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "sv_restartround" = "0"
+L 12/22/2019 - 19:49:46: Server cvar "sv_stepsize" = "18"
+L 12/22/2019 - 19:49:46: Server cvar "sv_stopspeed" = "75"
+L 12/22/2019 - 19:49:46: Server cvar "sv_uploadmax" = "0.5"
+L 12/22/2019 - 19:49:46: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/22/2019 - 19:49:46: Server cvar "sv_voiceenable" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "sv_wateraccelerate" = "10"
+L 12/22/2019 - 19:49:46: Server cvar "sv_waterfriction" = "1"
+L 12/22/2019 - 19:49:46: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/22/2019 - 19:49:46: Server cvar "vehicle_real_killer" = "1.1"
+L 12/22/2019 - 19:49:46: Server cvar "WalkGuard" = "1.3.2"
+L 12/22/2019 - 19:49:46: Server cvar "we_grenades" = "Huehue"
+L 12/22/2019 - 19:49:46: Server cvar "we_player_models" = "Huehue"
+L 12/22/2019 - 19:49:46: Server cvar "whb_version" = "1.5.692"
+L 12/22/2019 - 19:49:46: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/22/2019 - 19:49:46: Server cvars end
+L 12/22/2019 - 19:49:48: Server cvar "sv_maxspeed" = "900"
+L 12/22/2019 - 19:49:48: Server cvar "mp_autoteambalance" = "1"
+L 12/22/2019 - 19:49:48: Server cvar "mp_timelimit" = "20"
+L 12/22/2019 - 19:49:49: Server cvar "mp_autoteambalance" = "0"
+L 12/22/2019 - 19:49:49: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/22/2019 - 19:49:50: Started map "csde_nokia" (CRC "1928197400")
+L 12/22/2019 - 19:49:52: World triggered "Round_Start"
+L 12/22/2019 - 19:49:55: "DJOBANANA<121><STEAM_1:0:603964278><>" entered the game
+L 12/22/2019 - 19:50:02: [REUNION]: Risky :) (109.93.98.144) authorized as RevEmu
+L 12/22/2019 - 19:50:02: "Risky :)<129><STEAM_1:0:783231225><>" connected, address "109.93.98.144:27005"
+L 12/22/2019 - 19:50:03: [REUNION]: KanYe WesT (212.200.200.87) authorized as RevEmu
+L 12/22/2019 - 19:50:03: "KanYe WesT<130><STEAM_1:1:1294988909><>" connected, address "212.200.200.87:27005"
+L 12/22/2019 - 19:50:05: "DJOBANANA<121><STEAM_1:0:603964278><>" joined team "CT"
+L 12/22/2019 - 19:50:07: "Risky :)<129><STEAM_1:0:783231225><>" entered the game
+L 12/22/2019 - 19:50:10: "KanYe WesT<130><STEAM_1:1:1294988909><>" entered the game
+L 12/22/2019 - 19:50:14: "Risky :)<129><STEAM_1:0:783231225><>" joined team "CT"
+L 12/22/2019 - 19:50:17: "KanYe WesT<130><STEAM_1:1:1294988909><>" joined team "CT"
+L 12/22/2019 - 19:50:41: [REUNION]: KoLibRi (37.220.68.177) authorized as RevEmu
+L 12/22/2019 - 19:50:41: "KoLibRi<131><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 12/22/2019 - 19:50:41: "DJOBANANA<121><STEAM_1:0:603964278><CT>" committed suicide with "world"
+L 12/22/2019 - 19:50:41: "DJOBANANA<121><STEAM_1:0:603964278><CT>" joined team "TERRORIST"
+L 12/22/2019 - 19:50:41: World triggered "Game_Commencing"
+L 12/22/2019 - 19:50:41: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/22/2019 - 19:50:41: World triggered "Round_End"
+L 12/22/2019 - 19:50:44: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:50:45: World triggered "Round_Start"
+L 12/22/2019 - 19:51:12: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/22/2019 - 19:51:47: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "1")
+L 12/22/2019 - 19:51:47: World triggered "Round_End"
+L 12/22/2019 - 19:51:48: "Risky :)<129><STEAM_1:0:783231225><CT>" committed suicide with "worldspawn" (world)
+L 12/22/2019 - 19:51:52: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:51:53: World triggered "Round_Start"
+L 12/22/2019 - 19:52:01: [REUNION]: KoLibRi (37.220.68.177) authorized as RevEmu
+L 12/22/2019 - 19:52:01: "KoLibRi<132><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 12/22/2019 - 19:52:03: [REUNION]: xXMr.ONurXx_YT (79.132.2.115) authorized as RevEmu
+L 12/22/2019 - 19:52:03: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><>" connected, address "79.132.2.115:27005"
+L 12/22/2019 - 19:52:04: [REUNION]: Space Cowboy (80.77.46.241) authorized as RevEmu
+L 12/22/2019 - 19:52:04: "Space Cowboy<134><STEAM_2:0:2052157424><>" connected, address "80.77.46.241:27005"
+L 12/22/2019 - 19:52:17: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "ak47"
+L 12/22/2019 - 19:52:26: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" triggered "Touched_A_Hostage"
+L 12/22/2019 - 19:52:27: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" triggered "Touched_A_Hostage"
+L 12/22/2019 - 19:53:07: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/22/2019 - 19:53:42: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "2")
+L 12/22/2019 - 19:53:42: World triggered "Round_End"
+L 12/22/2019 - 19:53:42: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Killed_A_Hostage"
+L 12/22/2019 - 19:53:47: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:53:48: World triggered "Round_Start"
+L 12/22/2019 - 19:54:16: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "p90"
+L 12/22/2019 - 19:54:42: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><>" entered the game
+L 12/22/2019 - 19:54:43: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "p90"
+L 12/22/2019 - 19:54:43: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 12/22/2019 - 19:54:43: World triggered "Round_End"
+L 12/22/2019 - 19:54:48: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:54:49: World triggered "Round_Start"
+L 12/22/2019 - 19:54:49: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><>" joined team "TERRORIST"
+L 12/22/2019 - 19:55:19: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "p90"
+L 12/22/2019 - 19:55:26: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "p90"
+L 12/22/2019 - 19:55:26: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 12/22/2019 - 19:55:26: World triggered "Round_End"
+L 12/22/2019 - 19:55:28: "KoLibRi<132><STEAM_1:1:41823316><>" entered the game
+L 12/22/2019 - 19:55:31: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:55:32: World triggered "Round_Start"
+L 12/22/2019 - 19:55:43: "KoLibRi<132><STEAM_1:1:41823316><>" joined team "CT"
+L 12/22/2019 - 19:56:28: "KoLibRi<132><STEAM_1:1:41823316><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "g3sg1"
+L 12/22/2019 - 19:56:46: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "ak47"
+L 12/22/2019 - 19:56:46: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 12/22/2019 - 19:56:46: World triggered "Round_End"
+L 12/22/2019 - 19:56:49: "Space Cowboy<134><STEAM_2:0:2052157424><>" entered the game
+L 12/22/2019 - 19:56:51: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" joined team "TERRORIST"
+L 12/22/2019 - 19:56:51: "<><><>" triggered "amx_chat" (text "[PTB] Transfered KanYe WesT to TERRORIST")
+L 12/22/2019 - 19:56:51: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:56:52: World triggered "Round_Start"
+L 12/22/2019 - 19:56:57: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 19:56:57: "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" triggered "Got_The_Bomb"
+L 12/22/2019 - 19:57:21: "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" killed "KoLibRi<132><STEAM_1:1:41823316><CT>" with "ak47"
+L 12/22/2019 - 19:57:27: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "ak47"
+L 12/22/2019 - 19:57:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 12/22/2019 - 19:57:27: World triggered "Round_End"
+L 12/22/2019 - 19:57:28: [REUNION]: DUMBUM 2G+ (79.114.211.246) authorized as RevEmu
+L 12/22/2019 - 19:57:28: "DUMBUM 2G+<135><STEAM_1:0:1241465469><>" connected, address "79.114.211.246:27005"
+L 12/22/2019 - 19:57:31: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" joined team "CT"
+L 12/22/2019 - 19:57:31: "<><><>" triggered "amx_chat" (text "[PTB] Transfered DJOBANANA to CT")
+L 12/22/2019 - 19:57:32: "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:57:33: World triggered "Round_Start"
+L 12/22/2019 - 19:57:34: "DUMBUM 2G+<135><STEAM_1:0:1241465469><>" entered the game
+L 12/22/2019 - 19:57:37: "DUMBUM 2G+<135><STEAM_1:0:1241465469><>" joined team "TERRORIST"
+L 12/22/2019 - 19:57:42: "KoLibRi<132><STEAM_1:1:41823316><CT>" changed name to "KoLibRi^^"
+L 12/22/2019 - 19:57:47: "Space Cowboy<134><STEAM_2:0:2052157424><>" joined team "SPECTATOR"
+L 12/22/2019 - 19:58:13: "DUMBUM 2G+<135><STEAM_1:0:1241465469><TERRORIST>" killed "DJOBANANA<121><STEAM_1:0:603964278><CT>" with "glock18"
+L 12/22/2019 - 19:58:16: "DJOBANANA<121><STEAM_1:0:603964278><CT>" joined team "TERRORIST"
+L 12/22/2019 - 19:58:26: "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "ak47"
+L 12/22/2019 - 19:58:26: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" killed "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" with "m4a1"
+L 12/22/2019 - 19:58:26: "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 19:58:53: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" committed suicide with "world"
+L 12/22/2019 - 19:59:02: "KanYe WesT<130><STEAM_1:1:1294988909><TERRORIST>" joined team "CT"
+L 12/22/2019 - 19:59:16: [REUNION]: ＃-->Kllier`Boss<--＃ (37.8.121.164) authorized as RevEmu
+L 12/22/2019 - 19:59:16: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><>" connected, address "37.8.121.164:19794"
+L 12/22/2019 - 19:59:18: "DUMBUM 2G+<135><STEAM_1:0:1241465469><TERRORIST>" triggered "Got_The_Bomb"
+L 12/22/2019 - 19:59:21: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" killed "DUMBUM 2G+<135><STEAM_1:0:1241465469><TERRORIST>" with "m4a1"
+L 12/22/2019 - 19:59:21: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 12/22/2019 - 19:59:21: World triggered "Round_End"
+L 12/22/2019 - 19:59:26: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 19:59:27: World triggered "Round_Start"
+L 12/22/2019 - 19:59:33: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><>" entered the game
+L 12/22/2019 - 19:59:40: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><>" joined team "TERRORIST"
+L 12/22/2019 - 20:00:05: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "glock18"
+L 12/22/2019 - 20:00:06: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 20:00:06: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Got_The_Bomb"
+L 12/22/2019 - 20:00:12: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" killed "DUMBUM 2G+<135><STEAM_1:0:1241465469><TERRORIST>" with "m4a1"
+L 12/22/2019 - 20:00:18: "DUMBUM 2G+<135><STEAM_1:0:1241465469><TERRORIST>" disconnected
+L 12/22/2019 - 20:00:19: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "KoLibRi^^<132><STEAM_1:1:41823316><CT>" with "ak47"
+L 12/22/2019 - 20:00:20: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "ak47"
+L 12/22/2019 - 20:00:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 12/22/2019 - 20:00:20: World triggered "Round_End"
+L 12/22/2019 - 20:00:22: [REUNION]: Smile now cry later (93.155.150.21) authorized as RevEmu
+L 12/22/2019 - 20:00:22: "Smile now cry later<137><STEAM_1:1:2082945751><>" connected, address "93.155.150.21:27005"
+L 12/22/2019 - 20:00:25: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:00:26: World triggered "Round_Start"
+L 12/22/2019 - 20:00:27: [REUNION]: Smile now cry later (93.155.150.21) authorized as RevEmu
+L 12/22/2019 - 20:00:27: "Smile now cry later<138><STEAM_1:1:2082945751><>" connected, address "93.155.150.21:27005"
+L 12/22/2019 - 20:00:37: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 20:00:37: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Got_The_Bomb"
+L 12/22/2019 - 20:00:43: "Smile now cry later<138><STEAM_1:1:2082945751><>" entered the game
+L 12/22/2019 - 20:00:45: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" killed "KoLibRi^^<132><STEAM_1:1:41823316><CT>" with "ak47"
+L 12/22/2019 - 20:00:54: "Smile now cry later<138><STEAM_1:1:2082945751><>" joined team "CT"
+L 12/22/2019 - 20:00:54: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "m4a1"
+L 12/22/2019 - 20:00:59: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "xm1014"
+L 12/22/2019 - 20:01:06: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/22/2019 - 20:01:34: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "m4a1"
+L 12/22/2019 - 20:01:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 12/22/2019 - 20:01:34: World triggered "Round_End"
+L 12/22/2019 - 20:01:39: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:01:40: World triggered "Round_Start"
+L 12/22/2019 - 20:01:54: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "Risky :)<129><STEAM_1:0:783231225><CT>" with "m4a1"
+L 12/22/2019 - 20:02:03: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/22/2019 - 20:02:14: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "Smile now cry later<138><STEAM_1:1:2082945751><CT>" with "m4a1"
+L 12/22/2019 - 20:02:17: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "xm1014"
+L 12/22/2019 - 20:02:19: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "m4a1"
+L 12/22/2019 - 20:02:29: "Risky :)<129><STEAM_1:0:783231225><CT>" disconnected
+L 12/22/2019 - 20:02:38: Team "TERRORIST" triggered "Target_Bombed" (CT "4") (T "6")
+L 12/22/2019 - 20:02:38: World triggered "Round_End"
+L 12/22/2019 - 20:02:43: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:02:44: World triggered "Round_Start"
+L 12/22/2019 - 20:03:02: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "KoLibRi^^<132><STEAM_1:1:41823316><CT>" with "knife"
+L 12/22/2019 - 20:03:07: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "m4a1"
+L 12/22/2019 - 20:03:12: "Smile now cry later<138><STEAM_1:1:2082945751><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "famas"
+L 12/22/2019 - 20:03:12: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 20:03:52: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" killed "Smile now cry later<138><STEAM_1:1:2082945751><CT>" with "ak47"
+L 12/22/2019 - 20:03:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "7")
+L 12/22/2019 - 20:03:52: World triggered "Round_End"
+L 12/22/2019 - 20:03:57: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:03:58: World triggered "Round_Start"
+L 12/22/2019 - 20:04:18: "Smile now cry later<138><STEAM_1:1:2082945751><CT>" killed "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/22/2019 - 20:04:23: "Smile now cry later<138><STEAM_1:1:2082945751><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/22/2019 - 20:05:15: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "galil"
+L 12/22/2019 - 20:05:15: Team "CT" triggered "CTs_Win" (CT "5") (T "7")
+L 12/22/2019 - 20:05:15: World triggered "Round_End"
+L 12/22/2019 - 20:05:20: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:05:21: World triggered "Round_Start"
+L 12/22/2019 - 20:05:40: "Smile now cry later<138><STEAM_1:1:2082945751><CT>" killed "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" with "m4a1"
+L 12/22/2019 - 20:05:40: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 20:05:43: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "KoLibRi^^<132><STEAM_1:1:41823316><CT>" with "knife"
+L 12/22/2019 - 20:05:47: [REUNION]: kilo247 (188.2.35.122) authorized as RevEmu
+L 12/22/2019 - 20:05:47: "kilo247<139><STEAM_1:1:1762807662><>" connected, address "188.2.35.122:27005"
+L 12/22/2019 - 20:05:59: "Saad<140><STEAM_0:1:113405507><>" connected, address "213.247.7.105:27005"
+L 12/22/2019 - 20:05:59: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "ak47"
+L 12/22/2019 - 20:05:59: "Saad<140><STEAM_0:1:113405507><>" STEAM USERID validated
+L 12/22/2019 - 20:06:18: "Saad<140><STEAM_0:1:113405507><>" entered the game
+L 12/22/2019 - 20:06:23: "Saad<140><STEAM_0:1:113405507><>" joined team "SPECTATOR"
+L 12/22/2019 - 20:06:26: [REUNION]: kilo247 (188.2.35.122) authorized as RevEmu
+L 12/22/2019 - 20:06:26: "kilo247<141><STEAM_1:1:1762807662><>" connected, address "188.2.35.122:27005"
+L 12/22/2019 - 20:06:32: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "ak47"
+L 12/22/2019 - 20:06:32: Team "CT" triggered "CTs_Win" (CT "6") (T "7")
+L 12/22/2019 - 20:06:32: World triggered "Round_End"
+L 12/22/2019 - 20:06:37: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:06:38: World triggered "Round_Start"
+L 12/22/2019 - 20:06:39: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 20:06:39: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Got_The_Bomb"
+L 12/22/2019 - 20:06:39: "Saad<140><STEAM_0:1:113405507><SPECTATOR>" joined team "TERRORIST"
+L 12/22/2019 - 20:06:40: "kilo247<141><STEAM_1:1:1762807662><>" entered the game
+L 12/22/2019 - 20:06:55: "kilo247<141><STEAM_1:1:1762807662><>" joined team "CT"
+L 12/22/2019 - 20:06:55: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "KoLibRi^^<132><STEAM_1:1:41823316><CT>" with "ak47"
+L 12/22/2019 - 20:06:56: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "Saad<140><STEAM_0:1:113405507><TERRORIST>" with "ak47"
+L 12/22/2019 - 20:07:08: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "Smile now cry later<138><STEAM_1:1:2082945751><CT>" with "ak47"
+L 12/22/2019 - 20:07:15: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "ak47"
+L 12/22/2019 - 20:07:15: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/22/2019 - 20:07:16: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "ak47"
+L 12/22/2019 - 20:07:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "8")
+L 12/22/2019 - 20:07:16: World triggered "Round_End"
+L 12/22/2019 - 20:07:21: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:07:22: World triggered "Round_Start"
+L 12/22/2019 - 20:07:42: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "awp"
+L 12/22/2019 - 20:07:46: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "Smile now cry later<138><STEAM_1:1:2082945751><CT>" with "awp"
+L 12/22/2019 - 20:07:48: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" killed "Saad<140><STEAM_0:1:113405507><TERRORIST>" with "awp"
+L 12/22/2019 - 20:07:48: "＃-->Kllier`Boss<--＃<136><STEAM_1:1:1316058917><TERRORIST>" disconnected
+L 12/22/2019 - 20:07:58: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "kilo247<141><STEAM_1:1:1762807662><CT>" with "awp"
+L 12/22/2019 - 20:08:07: [REUNION]: CSDOWN | Original player (86.38.154.144) authorized as RevEmu
+L 12/22/2019 - 20:08:07: "CSDOWN | Original player<142><STEAM_2:1:1709688396><>" connected, address "86.38.154.144:45846"
+L 12/22/2019 - 20:08:07: "Smile now cry later<138><STEAM_1:1:2082945751><CT>" disconnected
+L 12/22/2019 - 20:08:43: [REUNION]: CSDOWN | Original player (86.38.154.144) authorized as RevEmu
+L 12/22/2019 - 20:08:43: "CSDOWN | Original player<143><STEAM_2:1:1709688396><>" connected, address "86.38.154.144:45846"
+L 12/22/2019 - 20:08:44: Server cvar "amx_nextmap" = "de_airninja"
+L 12/22/2019 - 20:08:57: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "aug"
+L 12/22/2019 - 20:09:01: "CSDOWN | Original player<143><STEAM_2:1:1709688396><>" entered the game
+L 12/22/2019 - 20:09:08: "CSDOWN | Original player<143><STEAM_2:1:1709688396><>" joined team "CT"
+L 12/22/2019 - 20:09:25: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "aug"
+L 12/22/2019 - 20:09:25: Team "CT" triggered "CTs_Win" (CT "7") (T "8")
+L 12/22/2019 - 20:09:25: World triggered "Round_End"
+L 12/22/2019 - 20:09:30: "Saad<140><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:09:31: World triggered "Round_Start"
+L 12/22/2019 - 20:09:51: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "kilo247<141><STEAM_1:1:1762807662><CT>" with "knife"
+L 12/22/2019 - 20:10:08: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "KoLibRi^^<132><STEAM_1:1:41823316><CT>" with "ak47"
+L 12/22/2019 - 20:10:19: Server cvar "mp_timelimit" = "0.000000"
+L 12/22/2019 - 20:10:23: "CSDOWN | Original player<143><STEAM_2:1:1709688396><CT>" killed "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/22/2019 - 20:10:24: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" killed "CSDOWN | Original player<143><STEAM_2:1:1709688396><CT>" with "knife"
+L 12/22/2019 - 20:10:48: [REUNION]: kuracurcina (188.2.35.122) authorized as RevEmu
+L 12/22/2019 - 20:10:48: "kuracurcina<144><STEAM_1:0:24499199><>" connected, address "188.2.35.122:61130"
+L 12/22/2019 - 20:10:49: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "xm1014"
+L 12/22/2019 - 20:11:24: [REUNION]: kuracurcina (188.2.35.122) authorized as RevEmu
+L 12/22/2019 - 20:11:24: "kuracurcina<145><STEAM_1:0:24499199><>" connected, address "188.2.35.122:61130"
+L 12/22/2019 - 20:11:39: "kuracurcina<145><STEAM_1:0:24499199><>" entered the game
+L 12/22/2019 - 20:11:42: "KoLibRi^^<132><STEAM_1:1:41823316><CT>" disconnected
+L 12/22/2019 - 20:11:43: "Saad<140><STEAM_0:1:113405507><TERRORIST>" killed "KanYe WesT<130><STEAM_1:1:1294988909><CT>" with "ak47"
+L 12/22/2019 - 20:11:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "9")
+L 12/22/2019 - 20:11:43: World triggered "Round_End"
+L 12/22/2019 - 20:11:48: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/22/2019 - 20:11:49: World triggered "Round_Start"
+L 12/22/2019 - 20:11:49: Server cvar "sv_maxspeed" = "0.000000"
+L 12/22/2019 - 20:11:49: Server cvar "mp_friendlyfire" = "1"
+L 12/22/2019 - 20:11:55: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" killed "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" with "ak47"
+L 12/22/2019 - 20:12:00: Server cvar "sv_maxspeed" = "900.000000"
+L 12/22/2019 - 20:12:00: Server cvar "mp_friendlyfire" = "0"
+L 12/22/2019 - 20:12:00: Server cvar "mp_timelimit" = "20.000000"
+L 12/22/2019 - 20:12:00: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: AMX Mod X
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: Reunion
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: ReAuthCheck
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: WHBlocker
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: ReSemiclip
+L 12/22/2019 - 20:12:00: [META] ini: Read plugin config for: Revoice
+L 12/22/2019 - 20:12:00: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/22/2019 - 20:12:00: [META] dll: Updating plugins...
+L 12/22/2019 - 20:12:00: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/22/2019 - 20:12:00: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/22/2019 - 20:12:00: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/22/2019 - 20:12:00: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/22/2019 - 20:12:00: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/22/2019 - 20:12:00: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/22/2019 - 20:12:00: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/22/2019 - 20:12:00: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/22/2019 - 20:12:00: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/22/2019 - 20:12:00: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/22/2019 - 20:12:00: "KanYe WesT<130><STEAM_1:1:1294988909><CT>" disconnected
+L 12/22/2019 - 20:12:00: "Saad<140><STEAM_0:1:113405507><TERRORIST>" disconnected
+L 12/22/2019 - 20:12:00: "kuracurcina<145><STEAM_1:0:24499199><>" disconnected
+L 12/22/2019 - 20:12:00: "CSDOWN | Original player<143><STEAM_2:1:1709688396><CT>" disconnected
+L 12/22/2019 - 20:12:00: "DJOBANANA<121><STEAM_1:0:603964278><TERRORIST>" disconnected
+L 12/22/2019 - 20:12:00: Team "CT" triggered "CTs_Win" (CT "8") (T "9")
+L 12/22/2019 - 20:12:00: World triggered "Round_End"
+L 12/22/2019 - 20:12:00: "Space Cowboy<134><STEAM_2:0:2052157424><SPECTATOR>" disconnected
+L 12/22/2019 - 20:12:00: "xXMr.ONurXx_YT<133><STEAM_2:1:935252518><TERRORIST>" disconnected
+L 12/22/2019 - 20:12:00: "kilo247<141><STEAM_1:1:1762807662><CT>" disconnected
+L 12/22/2019 - 20:12:00: Log file closed

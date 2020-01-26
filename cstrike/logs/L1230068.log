@@ -1,0 +1,577 @@
+L 12/30/2019 - 17:58:38: Log file started (file "logs/L1230068.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/30/2019 - 17:58:38: Loading map "4_houses"
+L 12/30/2019 - 17:58:38: Server cvars start
+L 12/30/2019 - 17:58:38: Server cvar "@BunnyHopper" = "3.x"
+L 12/30/2019 - 17:58:38: Server cvar "@CRXGoSpec" = "1.1"
+L 12/30/2019 - 17:58:38: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "@D.I.C.E." = "1.1"
+L 12/30/2019 - 17:58:38: Server cvar "@MOTDCommands" = "1.2"
+L 12/30/2019 - 17:58:38: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/30/2019 - 17:58:38: Server cvar "AdvancedMute" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "aesp_version" = "1.3"
+L 12/30/2019 - 17:58:38: Server cvar "allow_spectators" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "amx_client_languages" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "amx_language" = "en"
+L 12/30/2019 - 17:58:38: Server cvar "amx_nextmap" = "4_houses"
+L 12/30/2019 - 17:58:38: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/30/2019 - 17:58:38: Server cvar "amx_timeleft" = "14:13"
+L 12/30/2019 - 17:58:38: Server cvar "amxmodx_version" = "1.8.2"
+L 12/30/2019 - 17:58:38: Server cvar "amxxbg_vip" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "asp_version" = "4.5.1"
+L 12/30/2019 - 17:58:38: Server cvar "atac_version" = "3.0.1"
+L 12/30/2019 - 17:58:38: Server cvar "badcamper_version" = "1.4 beta"
+L 12/30/2019 - 17:58:38: Server cvar "blockmaker" = "4.01"
+L 12/30/2019 - 17:58:38: Server cvar "c4 timer" = "1.1"
+L 12/30/2019 - 17:58:38: Server cvar "coop" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "CRXAdminGroups" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "CRXFastKnife" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "CRXGametracker" = "2.0"
+L 12/30/2019 - 17:58:38: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/30/2019 - 17:58:38: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "CustomShop" = "4.2"
+L 12/30/2019 - 17:58:38: Server cvar "deathmatch" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "decalfrequency" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "edgefriction" = "2"
+L 12/30/2019 - 17:58:38: Server cvar "ers_version" = "2.3c"
+L 12/30/2019 - 17:58:38: Server cvar "gagsystem_shoko" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/30/2019 - 17:58:38: Server cvar "gal_version" = "v5.9.1-926"
+L 12/30/2019 - 17:58:38: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/30/2019 - 17:58:38: Server cvar "humans_join_team" = "any"
+L 12/30/2019 - 17:58:38: Server cvar "jtp10181" = "chute,gore"
+L 12/30/2019 - 17:58:38: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/30/2019 - 17:58:38: Server cvar "LetitSnow" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/30/2019 - 17:58:38: Server cvar "max_queries_sec" = "3"
+L 12/30/2019 - 17:58:38: Server cvar "max_queries_sec_global" = "150"
+L 12/30/2019 - 17:58:38: Server cvar "max_queries_window" = "60"
+L 12/30/2019 - 17:58:38: Server cvar "mdbBans" = "4.8"
+L 12/30/2019 - 17:58:38: Server cvar "metamod_version" = "1.21p37"
+L 12/30/2019 - 17:58:38: Server cvar "mp_autokick" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_autokick_timeout" = "-1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_autoteambalance" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_buytime" = "0.25"
+L 12/30/2019 - 17:58:38: Server cvar "mp_c4timer" = "35"
+L 12/30/2019 - 17:58:38: Server cvar "mp_chattime" = "10"
+L 12/30/2019 - 17:58:38: Server cvar "mp_consistency" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_fadetoblack" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_flashlight" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_footsteps" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_forcecamera" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_forcechasecam" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_forcerespawn" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_fraglimit" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_fragsleft" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_freeforall" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_freezetime" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_friendlyfire" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_hostage_hurtable" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_hostagepenalty" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_item_staytime" = "300"
+L 12/30/2019 - 17:58:38: Server cvar "mp_kickpercent" = "0.66"
+L 12/30/2019 - 17:58:38: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_limitteams" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_logdetail" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_logfile" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_logmessages" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/30/2019 - 17:58:38: Server cvar "mp_maxmoney" = "999999"
+L 12/30/2019 - 17:58:38: Server cvar "mp_maxrounds" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_mirrordamage" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_playerid" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_round_infinite" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_round_restart_delay" = "5"
+L 12/30/2019 - 17:58:38: Server cvar "mp_roundover" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_roundtime" = "2.3"
+L 12/30/2019 - 17:58:38: Server cvar "mp_show_radioicon" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_startmoney" = "850"
+L 12/30/2019 - 17:58:38: Server cvar "mp_timeleft" = "14:12"
+L 12/30/2019 - 17:58:38: Server cvar "mp_timelimit" = "20"
+L 12/30/2019 - 17:58:38: Server cvar "mp_tkpunish" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "mp_windifference" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "mp_winlimit" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/30/2019 - 17:58:38: Server cvar "pausable" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "present_version" = "2.01"
+L 12/30/2019 - 17:58:38: Server cvar "RandomHP" = "2.2"
+L 12/30/2019 - 17:58:38: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/30/2019 - 17:58:38: Server cvar "reconnect_features" = "0.3.1"
+L 12/30/2019 - 17:58:38: Server cvar "report_system_version" = "3.1"
+L 12/30/2019 - 17:58:38: Server cvar "resemiclip_version" = "2.3.9"
+L 12/30/2019 - 17:58:38: Server cvar "reu_version" = "0.1.0.130"
+L 12/30/2019 - 17:58:38: Server cvar "revoice_version" = "0.1.0.30"
+L 12/30/2019 - 17:58:38: Server cvar "RRWM" = "2.0"
+L 12/30/2019 - 17:58:38: Server cvar "sanksounds_version" = "1.8.6"
+L 12/30/2019 - 17:58:38: Server cvar "SimpleMenu" = "1.1"
+L 12/30/2019 - 17:58:38: Server cvar "SNAC_Version" = "1.1"
+L 12/30/2019 - 17:58:38: Server cvar "SpecList" = "1.2a"
+L 12/30/2019 - 17:58:38: Server cvar "sr_version" = "1.6"
+L 12/30/2019 - 17:58:38: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/30/2019 - 17:58:38: Server cvar "StyleC4Timer" = "2.1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_accelerate" = "5"
+L 12/30/2019 - 17:58:38: Server cvar "sv_aim" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_airaccelerate" = "100"
+L 12/30/2019 - 17:58:38: Server cvar "sv_allowupload" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_alltalk" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_bounce" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_cheats" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "sv_clienttrace" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/30/2019 - 17:58:38: Server cvar "sv_friction" = "4"
+L 12/30/2019 - 17:58:38: Server cvar "sv_gravity" = "800"
+L 12/30/2019 - 17:58:38: Server cvar "sv_logblocks" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "sv_maxrate" = "50000"
+L 12/30/2019 - 17:58:38: Server cvar "sv_maxspeed" = "900.000000"
+L 12/30/2019 - 17:58:38: Server cvar "sv_minrate" = "10000"
+L 12/30/2019 - 17:58:38: Server cvar "sv_password" = ""
+L 12/30/2019 - 17:58:38: Server cvar "sv_proxies" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_restart" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "sv_restartround" = "0"
+L 12/30/2019 - 17:58:38: Server cvar "sv_stepsize" = "18"
+L 12/30/2019 - 17:58:38: Server cvar "sv_stopspeed" = "75"
+L 12/30/2019 - 17:58:38: Server cvar "sv_uploadmax" = "0.5"
+L 12/30/2019 - 17:58:38: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/30/2019 - 17:58:38: Server cvar "sv_voiceenable" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "sv_wateraccelerate" = "10"
+L 12/30/2019 - 17:58:38: Server cvar "sv_waterfriction" = "1"
+L 12/30/2019 - 17:58:38: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/30/2019 - 17:58:38: Server cvar "vehicle_real_killer" = "1.1"
+L 12/30/2019 - 17:58:38: Server cvar "WalkGuard" = "1.3.2"
+L 12/30/2019 - 17:58:38: Server cvar "we_grenades" = "Huehue"
+L 12/30/2019 - 17:58:38: Server cvar "we_player_models" = "Huehue"
+L 12/30/2019 - 17:58:38: Server cvar "whb_version" = "1.5.692"
+L 12/30/2019 - 17:58:38: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/30/2019 - 17:58:38: Server cvars end
+L 12/30/2019 - 17:58:40: Server cvar "sv_maxspeed" = "900"
+L 12/30/2019 - 17:58:40: Server cvar "mp_autoteambalance" = "1"
+L 12/30/2019 - 17:58:41: Server cvar "mp_autoteambalance" = "0"
+L 12/30/2019 - 17:58:41: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/30/2019 - 17:58:42: Started map "4_houses" (CRC "451486053")
+L 12/30/2019 - 17:58:44: World triggered "Round_Start"
+L 12/30/2019 - 17:58:45: "xNonce<6><STEAM_0:1:433507393><>" entered the game
+L 12/30/2019 - 17:58:49: "xNonce<6><STEAM_0:1:433507393><>" joined team "TERRORIST"
+L 12/30/2019 - 17:58:51: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><>" entered the game
+L 12/30/2019 - 17:58:55: "HuNt3r<11><STEAM_1:1:1071071391><>" entered the game
+L 12/30/2019 - 17:58:58: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><>" joined team "CT"
+L 12/30/2019 - 17:58:59: World triggered "Game_Commencing"
+L 12/30/2019 - 17:58:59: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/30/2019 - 17:58:59: World triggered "Round_End"
+L 12/30/2019 - 17:59:03: World triggered "Round_Start"
+L 12/30/2019 - 17:59:21: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "usp"
+L 12/30/2019 - 17:59:21: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/30/2019 - 17:59:21: World triggered "Round_End"
+L 12/30/2019 - 17:59:27: World triggered "Round_Start"
+L 12/30/2019 - 17:59:34: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "m4a1"
+L 12/30/2019 - 17:59:34: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 12/30/2019 - 17:59:34: World triggered "Round_End"
+L 12/30/2019 - 17:59:40: World triggered "Round_Start"
+L 12/30/2019 - 17:59:43: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "m4a1"
+L 12/30/2019 - 17:59:43: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 12/30/2019 - 17:59:43: World triggered "Round_End"
+L 12/30/2019 - 17:59:49: World triggered "Round_Start"
+L 12/30/2019 - 17:59:54: "HuNt3r<11><STEAM_1:1:1071071391><>" joined team "SPECTATOR"
+L 12/30/2019 - 18:00:00: "HuNt3r<11><STEAM_1:1:1071071391><SPECTATOR>" disconnected
+L 12/30/2019 - 18:00:26: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:00:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 12/30/2019 - 18:00:26: World triggered "Round_End"
+L 12/30/2019 - 18:00:32: World triggered "Round_Start"
+L 12/30/2019 - 18:00:41: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:00:41: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 12/30/2019 - 18:00:41: World triggered "Round_End"
+L 12/30/2019 - 18:00:47: World triggered "Round_Start"
+L 12/30/2019 - 18:00:59: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:00:59: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 12/30/2019 - 18:00:59: World triggered "Round_End"
+L 12/30/2019 - 18:01:05: World triggered "Round_Start"
+L 12/30/2019 - 18:01:14: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:01:14: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 12/30/2019 - 18:01:14: World triggered "Round_End"
+L 12/30/2019 - 18:01:20: World triggered "Round_Start"
+L 12/30/2019 - 18:01:23: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "g3sg1"
+L 12/30/2019 - 18:01:23: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 12/30/2019 - 18:01:23: World triggered "Round_End"
+L 12/30/2019 - 18:01:29: World triggered "Round_Start"
+L 12/30/2019 - 18:01:32: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:01:32: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 12/30/2019 - 18:01:32: World triggered "Round_End"
+L 12/30/2019 - 18:01:38: World triggered "Round_Start"
+L 12/30/2019 - 18:01:46: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:01:46: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 12/30/2019 - 18:01:46: World triggered "Round_End"
+L 12/30/2019 - 18:01:52: World triggered "Round_Start"
+L 12/30/2019 - 18:02:43: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "knife"
+L 12/30/2019 - 18:02:43: Team "CT" triggered "CTs_Win" (CT "10") (T "1")
+L 12/30/2019 - 18:02:43: World triggered "Round_End"
+L 12/30/2019 - 18:02:49: World triggered "Round_Start"
+L 12/30/2019 - 18:02:59: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:02:59: Team "CT" triggered "CTs_Win" (CT "11") (T "1")
+L 12/30/2019 - 18:02:59: World triggered "Round_End"
+L 12/30/2019 - 18:03:05: World triggered "Round_Start"
+L 12/30/2019 - 18:03:08: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:03:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "2")
+L 12/30/2019 - 18:03:08: World triggered "Round_End"
+L 12/30/2019 - 18:03:14: World triggered "Round_Start"
+L 12/30/2019 - 18:03:25: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:03:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "3")
+L 12/30/2019 - 18:03:25: World triggered "Round_End"
+L 12/30/2019 - 18:03:31: World triggered "Round_Start"
+L 12/30/2019 - 18:03:41: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:03:41: Team "CT" triggered "CTs_Win" (CT "12") (T "3")
+L 12/30/2019 - 18:03:41: World triggered "Round_End"
+L 12/30/2019 - 18:03:47: World triggered "Round_Start"
+L 12/30/2019 - 18:03:49: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:03:49: Team "CT" triggered "CTs_Win" (CT "13") (T "3")
+L 12/30/2019 - 18:03:49: World triggered "Round_End"
+L 12/30/2019 - 18:03:55: World triggered "Round_Start"
+L 12/30/2019 - 18:04:00: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:04:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "4")
+L 12/30/2019 - 18:04:00: World triggered "Round_End"
+L 12/30/2019 - 18:04:06: World triggered "Round_Start"
+L 12/30/2019 - 18:04:36: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "usp"
+L 12/30/2019 - 18:04:36: Team "CT" triggered "CTs_Win" (CT "14") (T "4")
+L 12/30/2019 - 18:04:36: World triggered "Round_End"
+L 12/30/2019 - 18:04:42: World triggered "Round_Start"
+L 12/30/2019 - 18:04:49: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "awp"
+L 12/30/2019 - 18:04:49: Team "CT" triggered "CTs_Win" (CT "15") (T "4")
+L 12/30/2019 - 18:04:49: World triggered "Round_End"
+L 12/30/2019 - 18:04:55: World triggered "Round_Start"
+L 12/30/2019 - 18:05:19: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:05:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "5")
+L 12/30/2019 - 18:05:19: World triggered "Round_End"
+L 12/30/2019 - 18:05:25: World triggered "Round_Start"
+L 12/30/2019 - 18:06:09: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:06:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "6")
+L 12/30/2019 - 18:06:09: World triggered "Round_End"
+L 12/30/2019 - 18:06:15: World triggered "Round_Start"
+L 12/30/2019 - 18:06:32: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "knife"
+L 12/30/2019 - 18:06:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "7")
+L 12/30/2019 - 18:06:32: World triggered "Round_End"
+L 12/30/2019 - 18:06:38: World triggered "Round_Start"
+L 12/30/2019 - 18:06:59: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "grenade"
+L 12/30/2019 - 18:06:59: Team "CT" triggered "CTs_Win" (CT "16") (T "7")
+L 12/30/2019 - 18:06:59: World triggered "Round_End"
+L 12/30/2019 - 18:07:05: World triggered "Round_Start"
+L 12/30/2019 - 18:07:18: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:07:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "8")
+L 12/30/2019 - 18:07:18: World triggered "Round_End"
+L 12/30/2019 - 18:07:24: World triggered "Round_Start"
+L 12/30/2019 - 18:07:34: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" killed "xNonce<6><STEAM_0:1:433507393><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:07:34: Team "CT" triggered "CTs_Win" (CT "17") (T "8")
+L 12/30/2019 - 18:07:34: World triggered "Round_End"
+L 12/30/2019 - 18:07:40: World triggered "Round_Start"
+L 12/30/2019 - 18:07:45: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:07:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "9")
+L 12/30/2019 - 18:07:45: World triggered "Round_End"
+L 12/30/2019 - 18:07:51: World triggered "Round_Start"
+L 12/30/2019 - 18:08:08: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "ak47"
+L 12/30/2019 - 18:08:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "10")
+L 12/30/2019 - 18:08:08: World triggered "Round_End"
+L 12/30/2019 - 18:08:14: World triggered "Round_Start"
+L 12/30/2019 - 18:08:28: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "galil"
+L 12/30/2019 - 18:08:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "11")
+L 12/30/2019 - 18:08:28: World triggered "Round_End"
+L 12/30/2019 - 18:08:34: World triggered "Round_Start"
+L 12/30/2019 - 18:08:40: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" killed "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" with "galil"
+L 12/30/2019 - 18:08:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "12")
+L 12/30/2019 - 18:08:40: World triggered "Round_End"
+L 12/30/2019 - 18:08:46: World triggered "Round_Start"
+L 12/30/2019 - 18:08:48: "xXMr.ONurXx_YT<9><STEAM_0:0:526678195><CT>" disconnected
+L 12/30/2019 - 18:08:58: "xNonce<6><STEAM_0:1:433507393><TERRORIST>" disconnected
+L 12/30/2019 - 18:08:58: World triggered "Round_Draw" (CT "17") (T "12")
+L 12/30/2019 - 18:08:58: World triggered "Round_End"
+L 12/30/2019 - 18:09:04: World triggered "Round_Start"
+L 12/30/2019 - 18:12:45: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 335)
+L 12/30/2019 - 18:15:24: [REUNION]: IP 84.54.153.249 banned for 10 minutes for query flooding (PPS: 339)
+L 12/30/2019 - 18:17:48: [REUNION]: NE MI SE PRAVI NA PRO (46.10.202.234) authorized as RevEmu
+L 12/30/2019 - 18:17:48: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><>" connected, address "46.10.202.234:27005"
+L 12/30/2019 - 18:18:00: [REUNION]: INCO808 (89.46.58.217) authorized as RevEmu
+L 12/30/2019 - 18:18:00: "INCO808<13><STEAM_1:0:85984480><>" connected, address "89.46.58.217:27777"
+L 12/30/2019 - 18:18:16: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><>" entered the game
+L 12/30/2019 - 18:18:23: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><>" joined team "TERRORIST"
+L 12/30/2019 - 18:18:27: [REUNION]: INCO808 (89.46.58.217) authorized as RevEmu
+L 12/30/2019 - 18:18:27: "INCO808<14><STEAM_1:0:85984480><>" connected, address "89.46.58.217:27777"
+L 12/30/2019 - 18:18:41: Server cvar "mp_timelimit" = "0.000000"
+L 12/30/2019 - 18:19:32: "INCO808<14><STEAM_1:0:85984480><>" entered the game
+L 12/30/2019 - 18:19:38: "INCO808<14><STEAM_1:0:85984480><>" joined team "CT"
+L 12/30/2019 - 18:19:39: World triggered "Game_Commencing"
+L 12/30/2019 - 18:19:39: World triggered "Game_Commencing" (CT "17") (T "12")
+L 12/30/2019 - 18:19:39: World triggered "Round_End"
+L 12/30/2019 - 18:19:43: World triggered "Round_Start"
+L 12/30/2019 - 18:19:44: Server cvar "mp_timelimit" = "20.000000"
+L 12/30/2019 - 18:20:27: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "glock18"
+L 12/30/2019 - 18:20:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/30/2019 - 18:20:27: World triggered "Round_End"
+L 12/30/2019 - 18:20:33: World triggered "Round_Start"
+L 12/30/2019 - 18:20:48: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:20:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 12/30/2019 - 18:20:48: World triggered "Round_End"
+L 12/30/2019 - 18:20:54: World triggered "Round_Start"
+L 12/30/2019 - 18:21:10: "Maverick<15><STEAM_0:0:37264973><>" connected, address "79.134.63.56:27005"
+L 12/30/2019 - 18:21:11: "Maverick<15><STEAM_0:0:37264973><>" STEAM USERID validated
+L 12/30/2019 - 18:21:14: "INCO808<14><STEAM_1:0:85984480><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "ump45"
+L 12/30/2019 - 18:21:14: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 12/30/2019 - 18:21:14: World triggered "Round_End"
+L 12/30/2019 - 18:21:17: "Maverick<15><STEAM_0:0:37264973><>" entered the game
+L 12/30/2019 - 18:21:20: "Maverick<15><STEAM_0:0:37264973><>" joined team "CT"
+L 12/30/2019 - 18:21:20: World triggered "Round_Start"
+L 12/30/2019 - 18:21:48: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:22:30: "Maverick<15><STEAM_0:0:37264973><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "knife"
+L 12/30/2019 - 18:22:30: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 12/30/2019 - 18:22:30: World triggered "Round_End"
+L 12/30/2019 - 18:22:36: World triggered "Round_Start"
+L 12/30/2019 - 18:22:54: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "Maverick<15><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/30/2019 - 18:23:10: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:23:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 12/30/2019 - 18:23:10: World triggered "Round_End"
+L 12/30/2019 - 18:23:16: World triggered "Round_Start"
+L 12/30/2019 - 18:23:30: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "Maverick<15><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/30/2019 - 18:23:50: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:23:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 12/30/2019 - 18:23:50: World triggered "Round_End"
+L 12/30/2019 - 18:23:56: World triggered "Round_Start"
+L 12/30/2019 - 18:24:18: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "Maverick<15><STEAM_0:0:37264973><CT>" with "sg552"
+L 12/30/2019 - 18:24:27: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "sg552"
+L 12/30/2019 - 18:24:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 12/30/2019 - 18:24:27: World triggered "Round_End"
+L 12/30/2019 - 18:24:33: World triggered "Round_Start"
+L 12/30/2019 - 18:25:27: "Maverick<15><STEAM_0:0:37264973><CT>" committed suicide with "world"
+L 12/30/2019 - 18:25:31: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "sg552"
+L 12/30/2019 - 18:25:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 12/30/2019 - 18:25:31: World triggered "Round_End"
+L 12/30/2019 - 18:25:35: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><>" connected, address "84.54.153.249:33043"
+L 12/30/2019 - 18:25:35: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><>" STEAM USERID validated
+L 12/30/2019 - 18:25:37: World triggered "Round_Start"
+L 12/30/2019 - 18:25:53: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><>" entered the game
+L 12/30/2019 - 18:26:18: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><>" joined team "TERRORIST"
+L 12/30/2019 - 18:26:36: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<14><STEAM_1:0:85984480><CT>" with "sg552"
+L 12/30/2019 - 18:26:41: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "Maverick<15><STEAM_0:0:37264973><CT>" with "sg552"
+L 12/30/2019 - 18:26:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 12/30/2019 - 18:26:41: World triggered "Round_End"
+L 12/30/2019 - 18:26:46: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:26:46: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to CT")
+L 12/30/2019 - 18:26:47: World triggered "Round_Start"
+L 12/30/2019 - 18:27:15: "INCO808<14><STEAM_1:0:85984480><CT>" committed suicide with "world"
+L 12/30/2019 - 18:27:15: "INCO808<14><STEAM_1:0:85984480><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:27:19: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "scout"
+L 12/30/2019 - 18:27:19: Team "CT" triggered "CTs_Win" (CT "3") (T "7")
+L 12/30/2019 - 18:27:19: World triggered "Round_End"
+L 12/30/2019 - 18:27:24: "Maverick<15><STEAM_0:0:37264973><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:27:24: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to TERRORIST")
+L 12/30/2019 - 18:27:25: World triggered "Round_Start"
+L 12/30/2019 - 18:27:29: "INCO808<14><STEAM_1:0:85984480><TERRORIST>" committed suicide with "world"
+L 12/30/2019 - 18:27:29: "INCO808<14><STEAM_1:0:85984480><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:27:37: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "scout"
+L 12/30/2019 - 18:27:38: "INCO808<14><STEAM_1:0:85984480><CT>" disconnected
+L 12/30/2019 - 18:27:39: [REUNION]: INCO808 (89.46.58.217) authorized as RevEmu
+L 12/30/2019 - 18:27:39: "INCO808<17><STEAM_1:0:85984480><>" connected, address "89.46.58.217:27777"
+L 12/30/2019 - 18:27:39: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" with "knife"
+L 12/30/2019 - 18:27:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "8")
+L 12/30/2019 - 18:27:39: World triggered "Round_End"
+L 12/30/2019 - 18:27:45: World triggered "Round_Start"
+L 12/30/2019 - 18:27:46: "INCO808<17><STEAM_1:0:85984480><>" entered the game
+L 12/30/2019 - 18:27:53: "INCO808<17><STEAM_1:0:85984480><>" joined team "CT"
+L 12/30/2019 - 18:28:07: "INCO808<17><STEAM_1:0:85984480><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "usp"
+L 12/30/2019 - 18:28:13: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" committed suicide with "worldspawn" (world)
+L 12/30/2019 - 18:28:36: "INCO808<17><STEAM_1:0:85984480><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "usp"
+L 12/30/2019 - 18:28:36: Team "CT" triggered "CTs_Win" (CT "4") (T "8")
+L 12/30/2019 - 18:28:36: World triggered "Round_End"
+L 12/30/2019 - 18:28:41: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:28:41: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to TERRORIST")
+L 12/30/2019 - 18:28:42: World triggered "Round_Start"
+L 12/30/2019 - 18:28:53: "INCO808<17><STEAM_1:0:85984480><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "ak47"
+L 12/30/2019 - 18:28:58: "INCO808<17><STEAM_1:0:85984480><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "ak47"
+L 12/30/2019 - 18:29:05: [REUNION]: sake (178.236.86.52) authorized as RevEmu
+L 12/30/2019 - 18:29:05: "sake<18><STEAM_1:0:1906787367><>" connected, address "178.236.86.52:27005"
+L 12/30/2019 - 18:29:14: "sake<18><STEAM_1:0:1906787367><>" entered the game
+L 12/30/2019 - 18:29:16: "sake<18><STEAM_1:0:1906787367><>" joined team "CT"
+L 12/30/2019 - 18:29:26: "INCO808<17><STEAM_1:0:85984480><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "ak47"
+L 12/30/2019 - 18:29:26: Team "CT" triggered "CTs_Win" (CT "5") (T "8")
+L 12/30/2019 - 18:29:26: World triggered "Round_End"
+L 12/30/2019 - 18:29:32: World triggered "Round_Start"
+L 12/30/2019 - 18:29:46: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "xm1014"
+L 12/30/2019 - 18:29:50: "sake<18><STEAM_1:0:1906787367><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "glock18"
+L 12/30/2019 - 18:29:58: "sake<18><STEAM_1:0:1906787367><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "xm1014"
+L 12/30/2019 - 18:30:12: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "sake<18><STEAM_1:0:1906787367><CT>" with "xm1014"
+L 12/30/2019 - 18:30:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 12/30/2019 - 18:30:12: World triggered "Round_End"
+L 12/30/2019 - 18:30:18: World triggered "Round_Start"
+L 12/30/2019 - 18:30:34: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "sake<18><STEAM_1:0:1906787367><CT>" with "ak47"
+L 12/30/2019 - 18:30:52: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "xm1014"
+L 12/30/2019 - 18:30:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "10")
+L 12/30/2019 - 18:30:52: World triggered "Round_End"
+L 12/30/2019 - 18:30:56: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:30:56: "<><><>" triggered "amx_chat" (text "[PTB] Transfered xXMr.ONurXx_YT to CT")
+L 12/30/2019 - 18:30:58: World triggered "Round_Start"
+L 12/30/2019 - 18:31:03: "INCO808<17><STEAM_1:0:85984480><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "m249"
+L 12/30/2019 - 18:31:09: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "m249"
+L 12/30/2019 - 18:31:30: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "knife"
+L 12/30/2019 - 18:31:30: Team "CT" triggered "CTs_Win" (CT "6") (T "10")
+L 12/30/2019 - 18:31:30: World triggered "Round_End"
+L 12/30/2019 - 18:31:36: World triggered "Round_Start"
+L 12/30/2019 - 18:31:44: "sake<18><STEAM_1:0:1906787367><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:31:50: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" committed suicide with "grenade"
+L 12/30/2019 - 18:31:50: Team "CT" triggered "CTs_Win" (CT "7") (T "10")
+L 12/30/2019 - 18:31:50: World triggered "Round_End"
+L 12/30/2019 - 18:31:53: "SMRT<19><STEAM_0:0:81764694><>" connected, address "85.237.234.242:24242"
+L 12/30/2019 - 18:31:53: "SMRT<19><STEAM_0:0:81764694><>" STEAM USERID validated
+L 12/30/2019 - 18:31:55: "sake<18><STEAM_1:0:1906787367><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:31:55: "<><><>" triggered "amx_chat" (text "[PTB] Transfered sake to TERRORIST")
+L 12/30/2019 - 18:31:56: World triggered "Round_Start"
+L 12/30/2019 - 18:32:02: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "sake<18><STEAM_1:0:1906787367><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:32:14: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/30/2019 - 18:32:17: "SMRT<20><STEAM_0:0:81764694><>" connected, address "85.237.234.242:24242"
+L 12/30/2019 - 18:32:18: "SMRT<20><STEAM_0:0:81764694><>" STEAM USERID validated
+L 12/30/2019 - 18:32:20: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "glock18"
+L 12/30/2019 - 18:32:20: Team "CT" triggered "CTs_Win" (CT "8") (T "10")
+L 12/30/2019 - 18:32:20: World triggered "Round_End"
+L 12/30/2019 - 18:32:24: "SMRT<20><STEAM_0:0:81764694><>" entered the game
+L 12/30/2019 - 18:32:26: World triggered "Round_Start"
+L 12/30/2019 - 18:32:27: "SMRT<20><STEAM_0:0:81764694><>" joined team "CT"
+L 12/30/2019 - 18:32:33: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "SMRT<20><STEAM_0:0:81764694><CT>" with "awp"
+L 12/30/2019 - 18:32:37: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 12/30/2019 - 18:32:51: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" with "awp"
+L 12/30/2019 - 18:32:54: "Killer<21><STEAM_0:0:59510941><>" connected, address "85.237.234.242:15728"
+L 12/30/2019 - 18:32:55: "Killer<21><STEAM_0:0:59510941><>" STEAM USERID validated
+L 12/30/2019 - 18:33:00: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "awp"
+L 12/30/2019 - 18:33:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "11")
+L 12/30/2019 - 18:33:00: World triggered "Round_End"
+L 12/30/2019 - 18:33:06: World triggered "Round_Start"
+L 12/30/2019 - 18:33:12: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:33:14: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "awp"
+L 12/30/2019 - 18:33:18: "Killer<22><STEAM_0:0:59510941><>" connected, address "85.237.234.242:15728"
+L 12/30/2019 - 18:33:19: "Killer<22><STEAM_0:0:59510941><>" STEAM USERID validated
+L 12/30/2019 - 18:33:28: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:33:28: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "SMRT<20><STEAM_0:0:81764694><CT>" with "awp"
+L 12/30/2019 - 18:33:31: "SMRT<20><STEAM_0:0:81764694><CT>" disconnected
+L 12/30/2019 - 18:33:32: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" with "awp"
+L 12/30/2019 - 18:33:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "12")
+L 12/30/2019 - 18:33:32: World triggered "Round_End"
+L 12/30/2019 - 18:33:37: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:33:37: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to CT")
+L 12/30/2019 - 18:33:38: World triggered "Round_Start"
+L 12/30/2019 - 18:33:55: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "sg550"
+L 12/30/2019 - 18:34:11: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" killed "sake<18><STEAM_1:0:1906787367><TERRORIST>" with "sg550"
+L 12/30/2019 - 18:34:11: Team "CT" triggered "CTs_Win" (CT "9") (T "12")
+L 12/30/2019 - 18:34:11: World triggered "Round_End"
+L 12/30/2019 - 18:34:13: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 330)
+L 12/30/2019 - 18:34:16: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:34:16: "<><><>" triggered "amx_chat" (text "[PTB] Transfered xXMr.ONurXx_YT to TERRORIST")
+L 12/30/2019 - 18:34:17: World triggered "Round_Start"
+L 12/30/2019 - 18:34:25: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:34:37: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" killed "sake<18><STEAM_1:0:1906787367><TERRORIST>" with "sg550"
+L 12/30/2019 - 18:34:44: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "sg550"
+L 12/30/2019 - 18:35:26: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" with "m4a1"
+L 12/30/2019 - 18:35:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "13")
+L 12/30/2019 - 18:35:26: World triggered "Round_End"
+L 12/30/2019 - 18:35:32: World triggered "Round_Start"
+L 12/30/2019 - 18:35:45: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" with "knife"
+L 12/30/2019 - 18:35:47: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:35:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "14")
+L 12/30/2019 - 18:35:47: World triggered "Round_End"
+L 12/30/2019 - 18:35:52: "sake<18><STEAM_1:0:1906787367><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:35:52: "<><><>" triggered "amx_chat" (text "[PTB] Transfered sake to CT")
+L 12/30/2019 - 18:35:53: World triggered "Round_Start"
+L 12/30/2019 - 18:36:01: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" with "knife"
+L 12/30/2019 - 18:36:01: "sake<18><STEAM_1:0:1906787367><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "ak47"
+L 12/30/2019 - 18:36:30: "sake<18><STEAM_1:0:1906787367><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "ak47"
+L 12/30/2019 - 18:36:30: Team "CT" triggered "CTs_Win" (CT "10") (T "14")
+L 12/30/2019 - 18:36:30: World triggered "Round_End"
+L 12/30/2019 - 18:36:35: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:36:35: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to TERRORIST")
+L 12/30/2019 - 18:36:36: World triggered "Round_Start"
+L 12/30/2019 - 18:36:39: "sake<18><STEAM_1:0:1906787367><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:36:40: "sake<18><STEAM_1:0:1906787367><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:36:48: "INCO808<17><STEAM_1:0:85984480><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:36:48: Team "CT" triggered "CTs_Win" (CT "11") (T "14")
+L 12/30/2019 - 18:36:48: World triggered "Round_End"
+L 12/30/2019 - 18:36:54: World triggered "Round_Start"
+L 12/30/2019 - 18:36:59: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "awp"
+L 12/30/2019 - 18:37:25: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "sake<18><STEAM_1:0:1906787367><CT>" with "ak47"
+L 12/30/2019 - 18:37:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "15")
+L 12/30/2019 - 18:37:25: World triggered "Round_End"
+L 12/30/2019 - 18:37:29: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:37:29: "<><><>" triggered "amx_chat" (text "[PTB] Transfered xXMr.ONurXx_YT to CT")
+L 12/30/2019 - 18:37:31: World triggered "Round_Start"
+L 12/30/2019 - 18:37:34: "sake<18><STEAM_1:0:1906787367><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "m4a1"
+L 12/30/2019 - 18:37:39: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "awp"
+L 12/30/2019 - 18:37:39: Team "CT" triggered "CTs_Win" (CT "12") (T "15")
+L 12/30/2019 - 18:37:39: World triggered "Round_End"
+L 12/30/2019 - 18:37:44: "sake<18><STEAM_1:0:1906787367><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:37:44: "<><><>" triggered "amx_chat" (text "[PTB] Transfered sake to TERRORIST")
+L 12/30/2019 - 18:37:45: World triggered "Round_Start"
+L 12/30/2019 - 18:37:51: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "sake<18><STEAM_1:0:1906787367><TERRORIST>" with "awp"
+L 12/30/2019 - 18:37:56: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "awp"
+L 12/30/2019 - 18:38:09: Server cvar "amx_nextmap" = "cs_rio"
+L 12/30/2019 - 18:38:14: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "ak47"
+L 12/30/2019 - 18:38:33: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "awp"
+L 12/30/2019 - 18:38:33: Team "CT" triggered "CTs_Win" (CT "13") (T "15")
+L 12/30/2019 - 18:38:33: World triggered "Round_End"
+L 12/30/2019 - 18:38:37: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:38:37: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to CT")
+L 12/30/2019 - 18:38:39: World triggered "Round_Start"
+L 12/30/2019 - 18:38:42: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "awp"
+L 12/30/2019 - 18:38:46: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" with "awp"
+L 12/30/2019 - 18:38:50: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" with "awp"
+L 12/30/2019 - 18:38:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "16")
+L 12/30/2019 - 18:38:50: World triggered "Round_End"
+L 12/30/2019 - 18:38:54: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:38:54: "<><><>" triggered "amx_chat" (text "[PTB] Transfered xXMr.ONurXx_YT to TERRORIST")
+L 12/30/2019 - 18:38:56: World triggered "Round_Start"
+L 12/30/2019 - 18:39:04: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" with "awp"
+L 12/30/2019 - 18:39:13: "sake<18><STEAM_1:0:1906787367><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "awp"
+L 12/30/2019 - 18:39:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "17")
+L 12/30/2019 - 18:39:13: World triggered "Round_End"
+L 12/30/2019 - 18:39:17: "sake<18><STEAM_1:0:1906787367><TERRORIST>" joined team "CT"
+L 12/30/2019 - 18:39:17: "<><><>" triggered "amx_chat" (text "[PTB] Transfered sake to CT")
+L 12/30/2019 - 18:39:19: World triggered "Round_Start"
+L 12/30/2019 - 18:39:25: "why i need a name?<23><STEAM_0:1:243975700><>" connected, address "5.173.245.178:57467"
+L 12/30/2019 - 18:39:26: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "INCO808<17><STEAM_1:0:85984480><CT>" with "awp"
+L 12/30/2019 - 18:39:26: "why i need a name?<23><STEAM_0:1:243975700><>" STEAM USERID validated
+L 12/30/2019 - 18:39:26: Server cvar "mp_timelimit" = "0.000000"
+L 12/30/2019 - 18:39:26: "sake<18><STEAM_1:0:1906787367><CT>" killed "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" with "awp"
+L 12/30/2019 - 18:39:37: "why i need a name?<23><STEAM_0:1:243975700><>" entered the game
+L 12/30/2019 - 18:39:41: "sake<18><STEAM_1:0:1906787367><CT>" killed "Maverick<15><STEAM_0:0:37264973><TERRORIST>" with "awp"
+L 12/30/2019 - 18:39:41: Team "CT" triggered "CTs_Win" (CT "14") (T "17")
+L 12/30/2019 - 18:39:41: World triggered "Round_End"
+L 12/30/2019 - 18:39:46: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><CT>" joined team "TERRORIST"
+L 12/30/2019 - 18:39:46: "<><><>" triggered "amx_chat" (text "[PTB] Transfered NE MI SE PRAVI NA PRO to TERRORIST")
+L 12/30/2019 - 18:39:47: "why i need a name?<23><STEAM_0:1:243975700><>" joined team "TERRORIST"
+L 12/30/2019 - 18:39:47: World triggered "Round_Start"
+L 12/30/2019 - 18:39:47: Server cvar "sv_maxspeed" = "0.000000"
+L 12/30/2019 - 18:39:47: Server cvar "mp_friendlyfire" = "1"
+L 12/30/2019 - 18:39:52: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" killed "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" with "grenade"
+L 12/30/2019 - 18:39:58: Server cvar "sv_maxspeed" = "900.000000"
+L 12/30/2019 - 18:39:58: Server cvar "mp_friendlyfire" = "0"
+L 12/30/2019 - 18:39:58: Server cvar "mp_timelimit" = "20.000000"
+L 12/30/2019 - 18:39:58: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: AMX Mod X
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: Reunion
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: ReAuthCheck
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: WHBlocker
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: ReSemiclip
+L 12/30/2019 - 18:39:58: [META] ini: Read plugin config for: Revoice
+L 12/30/2019 - 18:39:58: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/30/2019 - 18:39:58: [META] dll: Updating plugins...
+L 12/30/2019 - 18:39:58: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/30/2019 - 18:39:58: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/30/2019 - 18:39:58: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/30/2019 - 18:39:58: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/30/2019 - 18:39:58: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/30/2019 - 18:39:58: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/30/2019 - 18:39:58: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/30/2019 - 18:39:58: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/30/2019 - 18:39:58: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/30/2019 - 18:39:58: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/30/2019 - 18:39:58: "NE MI SE PRAVI NA PRO<12><STEAM_2:1:1478724606><TERRORIST>" disconnected
+L 12/30/2019 - 18:39:58: "INCO808<17><STEAM_1:0:85984480><CT>" disconnected
+L 12/30/2019 - 18:39:58: "Maverick<15><STEAM_0:0:37264973><TERRORIST>" disconnected
+L 12/30/2019 - 18:39:58: "xXMr.ONurXx_YT<16><STEAM_0:0:526678195><TERRORIST>" disconnected
+L 12/30/2019 - 18:39:58: "sake<18><STEAM_1:0:1906787367><CT>" disconnected
+L 12/30/2019 - 18:39:58: "why i need a name?<23><STEAM_0:1:243975700><TERRORIST>" disconnected
+L 12/30/2019 - 18:39:58: World triggered "Round_Draw" (CT "14") (T "17")
+L 12/30/2019 - 18:39:58: World triggered "Round_End"
+L 12/30/2019 - 18:39:58: Log file closed

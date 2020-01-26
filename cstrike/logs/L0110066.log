@@ -1,0 +1,686 @@
+L 01/10/2020 - 22:17:09: Log file started (file "logs/L0110066.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/10/2020 - 22:17:09: Loading map "de_airninja"
+L 01/10/2020 - 22:17:09: Server cvars start
+L 01/10/2020 - 22:17:09: Server cvar "@BunnyHopper" = "3.x"
+L 01/10/2020 - 22:17:09: Server cvar "@CRXGoSpec" = "1.1"
+L 01/10/2020 - 22:17:09: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "@D.I.C.E." = "1.1"
+L 01/10/2020 - 22:17:09: Server cvar "@MOTDCommands" = "1.2"
+L 01/10/2020 - 22:17:09: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/10/2020 - 22:17:09: Server cvar "AdvancedMute" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "aesp_version" = "1.3"
+L 01/10/2020 - 22:17:09: Server cvar "allow_spectators" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "amx_client_languages" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "amx_language" = "en"
+L 01/10/2020 - 22:17:09: Server cvar "amx_nextmap" = "de_airninja"
+L 01/10/2020 - 22:17:09: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/10/2020 - 22:17:09: Server cvar "amx_timeleft" = "09:33"
+L 01/10/2020 - 22:17:09: Server cvar "amxmodx_version" = "1.8.2"
+L 01/10/2020 - 22:17:09: Server cvar "amxxbg_vip" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "asp_version" = "4.5.1"
+L 01/10/2020 - 22:17:09: Server cvar "atac_version" = "3.0.1"
+L 01/10/2020 - 22:17:09: Server cvar "badcamper_version" = "1.4 beta"
+L 01/10/2020 - 22:17:09: Server cvar "blockmaker" = "4.01"
+L 01/10/2020 - 22:17:09: Server cvar "c4 timer" = "1.1"
+L 01/10/2020 - 22:17:09: Server cvar "coop" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "CRXAdminGroups" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "CRXFastKnife" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "CRXGametracker" = "2.0"
+L 01/10/2020 - 22:17:09: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/10/2020 - 22:17:09: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "CustomShop" = "4.2"
+L 01/10/2020 - 22:17:09: Server cvar "deathmatch" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "decalfrequency" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "edgefriction" = "2"
+L 01/10/2020 - 22:17:09: Server cvar "ers_version" = "2.3c"
+L 01/10/2020 - 22:17:09: Server cvar "gagsystem_shoko" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/10/2020 - 22:17:09: Server cvar "gal_version" = "v5.9.1-926"
+L 01/10/2020 - 22:17:09: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/10/2020 - 22:17:09: Server cvar "humans_join_team" = "any"
+L 01/10/2020 - 22:17:09: Server cvar "jtp10181" = "chute,gore"
+L 01/10/2020 - 22:17:09: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/10/2020 - 22:17:09: Server cvar "LetitSnow" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/10/2020 - 22:17:09: Server cvar "max_queries_sec" = "3"
+L 01/10/2020 - 22:17:09: Server cvar "max_queries_sec_global" = "150"
+L 01/10/2020 - 22:17:09: Server cvar "max_queries_window" = "60"
+L 01/10/2020 - 22:17:09: Server cvar "mdbBans" = "4.8"
+L 01/10/2020 - 22:17:09: Server cvar "metamod_version" = "1.21p37"
+L 01/10/2020 - 22:17:09: Server cvar "mp_autokick" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_autokick_timeout" = "-1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_autoteambalance" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_buytime" = "0.25"
+L 01/10/2020 - 22:17:09: Server cvar "mp_c4timer" = "35"
+L 01/10/2020 - 22:17:09: Server cvar "mp_chattime" = "5.000000"
+L 01/10/2020 - 22:17:09: Server cvar "mp_consistency" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_fadetoblack" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_flashlight" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_footsteps" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_forcecamera" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_forcechasecam" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_forcerespawn" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_fraglimit" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_fragsleft" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_freeforall" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_freezetime" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_friendlyfire" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_hostage_hurtable" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_hostagepenalty" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_item_staytime" = "300"
+L 01/10/2020 - 22:17:09: Server cvar "mp_kickpercent" = "0.66"
+L 01/10/2020 - 22:17:09: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_limitteams" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_logdetail" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_logfile" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_logmessages" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/10/2020 - 22:17:09: Server cvar "mp_maxmoney" = "999999"
+L 01/10/2020 - 22:17:09: Server cvar "mp_maxrounds" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_mirrordamage" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_playerid" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_round_infinite" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_round_restart_delay" = "5"
+L 01/10/2020 - 22:17:09: Server cvar "mp_roundover" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_roundtime" = "2.3"
+L 01/10/2020 - 22:17:09: Server cvar "mp_show_radioicon" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_startmoney" = "850"
+L 01/10/2020 - 22:17:09: Server cvar "mp_timeleft" = "09:32"
+L 01/10/2020 - 22:17:09: Server cvar "mp_timelimit" = "20"
+L 01/10/2020 - 22:17:09: Server cvar "mp_tkpunish" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "mp_windifference" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "mp_winlimit" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/10/2020 - 22:17:09: Server cvar "pausable" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "present_version" = "2.01"
+L 01/10/2020 - 22:17:09: Server cvar "RandomHP" = "2.2"
+L 01/10/2020 - 22:17:09: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/10/2020 - 22:17:09: Server cvar "reconnect_features" = "0.3.1"
+L 01/10/2020 - 22:17:09: Server cvar "report_system_version" = "3.1"
+L 01/10/2020 - 22:17:09: Server cvar "resemiclip_version" = "2.3.9"
+L 01/10/2020 - 22:17:09: Server cvar "reu_version" = "0.1.0.130"
+L 01/10/2020 - 22:17:09: Server cvar "revoice_version" = "0.1.0.30"
+L 01/10/2020 - 22:17:09: Server cvar "RRWM" = "2.0"
+L 01/10/2020 - 22:17:09: Server cvar "sanksounds_version" = "1.8.6"
+L 01/10/2020 - 22:17:09: Server cvar "SimpleMenu" = "1.1"
+L 01/10/2020 - 22:17:09: Server cvar "SNAC_Version" = "1.1"
+L 01/10/2020 - 22:17:09: Server cvar "SpecList" = "1.2a"
+L 01/10/2020 - 22:17:09: Server cvar "sr_version" = "1.6"
+L 01/10/2020 - 22:17:09: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/10/2020 - 22:17:09: Server cvar "StyleC4Timer" = "2.1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_accelerate" = "5"
+L 01/10/2020 - 22:17:09: Server cvar "sv_aim" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_airaccelerate" = "100"
+L 01/10/2020 - 22:17:09: Server cvar "sv_allowupload" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_alltalk" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_bounce" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_cheats" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "sv_clienttrace" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/10/2020 - 22:17:09: Server cvar "sv_friction" = "4"
+L 01/10/2020 - 22:17:09: Server cvar "sv_gravity" = "800"
+L 01/10/2020 - 22:17:09: Server cvar "sv_logblocks" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "sv_maxrate" = "50000"
+L 01/10/2020 - 22:17:09: Server cvar "sv_maxspeed" = "900.000000"
+L 01/10/2020 - 22:17:09: Server cvar "sv_minrate" = "10000"
+L 01/10/2020 - 22:17:09: Server cvar "sv_password" = ""
+L 01/10/2020 - 22:17:09: Server cvar "sv_proxies" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_restart" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "sv_restartround" = "0"
+L 01/10/2020 - 22:17:09: Server cvar "sv_stepsize" = "18"
+L 01/10/2020 - 22:17:09: Server cvar "sv_stopspeed" = "75"
+L 01/10/2020 - 22:17:09: Server cvar "sv_uploadmax" = "0.5"
+L 01/10/2020 - 22:17:09: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/10/2020 - 22:17:09: Server cvar "sv_voiceenable" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "sv_wateraccelerate" = "10"
+L 01/10/2020 - 22:17:09: Server cvar "sv_waterfriction" = "1"
+L 01/10/2020 - 22:17:09: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/10/2020 - 22:17:09: Server cvar "vehicle_real_killer" = "1.1"
+L 01/10/2020 - 22:17:09: Server cvar "WalkGuard" = "1.3.2"
+L 01/10/2020 - 22:17:09: Server cvar "we_grenades" = "Huehue"
+L 01/10/2020 - 22:17:09: Server cvar "we_player_models" = "Huehue"
+L 01/10/2020 - 22:17:09: Server cvar "whb_version" = "1.5.692"
+L 01/10/2020 - 22:17:09: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/10/2020 - 22:17:09: Server cvars end
+L 01/10/2020 - 22:17:11: Server cvar "sv_maxspeed" = "900"
+L 01/10/2020 - 22:17:11: Server cvar "mp_autoteambalance" = "1"
+L 01/10/2020 - 22:17:12: Server cvar "mp_autoteambalance" = "0"
+L 01/10/2020 - 22:17:12: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/10/2020 - 22:17:13: Started map "de_airninja" (CRC "1948477588")
+L 01/10/2020 - 22:17:15: World triggered "Round_Start"
+L 01/10/2020 - 22:17:20: [REUNION]: fun da king (85.130.9.158) authorized as RevEmu
+L 01/10/2020 - 22:17:20: "fun da king<202><STEAM_1:0:1655898477><>" connected, address "85.130.9.158:27005"
+L 01/10/2020 - 22:17:35: "fun da king<202><STEAM_1:0:1655898477><>" entered the game
+L 01/10/2020 - 22:17:51: "fun da king<202><STEAM_1:0:1655898477><>" joined team "TERRORIST"
+L 01/10/2020 - 22:17:52: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:19:33: Team "CT" triggered "Target_Saved" (CT "0") (T "0")
+L 01/10/2020 - 22:19:33: World triggered "Round_End"
+L 01/10/2020 - 22:19:36: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/10/2020 - 22:19:38: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:19:39: World triggered "Round_Start"
+L 01/10/2020 - 22:20:00: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 22:20:00: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/10/2020 - 22:20:00: World triggered "Round_End"
+L 01/10/2020 - 22:20:05: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:20:06: World triggered "Round_Start"
+L 01/10/2020 - 22:22:03: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 22:22:03: "He@DshoT|Not Leon<203><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 22:22:04: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 22:22:04: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/10/2020 - 22:22:04: World triggered "Round_End"
+L 01/10/2020 - 22:22:08: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 22:22:08: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 22:22:09: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:22:10: World triggered "Round_Start"
+L 01/10/2020 - 22:22:15: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><>" entered the game
+L 01/10/2020 - 22:22:24: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><>" joined team "CT"
+L 01/10/2020 - 22:22:24: World triggered "Game_Commencing"
+L 01/10/2020 - 22:22:24: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/10/2020 - 22:22:24: World triggered "Round_End"
+L 01/10/2020 - 22:22:27: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:22:28: World triggered "Round_Start"
+L 01/10/2020 - 22:22:58: [REUNION]: KoKo jE kRaLJinA (37.19.109.199) authorized as RevEmu
+L 01/10/2020 - 22:22:58: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><>" connected, address "37.19.109.199:7454"
+L 01/10/2020 - 22:23:11: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><>" entered the game
+L 01/10/2020 - 22:23:15: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><>" joined team "CT"
+L 01/10/2020 - 22:24:12: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/10/2020 - 22:24:30: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "deagle"
+L 01/10/2020 - 22:24:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/10/2020 - 22:24:30: World triggered "Round_End"
+L 01/10/2020 - 22:24:35: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:24:36: World triggered "Round_Start"
+L 01/10/2020 - 22:25:03: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:25:37: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "p90"
+L 01/10/2020 - 22:25:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 01/10/2020 - 22:25:37: World triggered "Round_End"
+L 01/10/2020 - 22:25:42: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:25:43: World triggered "Round_Start"
+L 01/10/2020 - 22:25:51: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:26:21: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "deagle"
+L 01/10/2020 - 22:26:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 01/10/2020 - 22:26:21: World triggered "Round_End"
+L 01/10/2020 - 22:26:26: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:26:27: World triggered "Round_Start"
+L 01/10/2020 - 22:27:00: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "deagle"
+L 01/10/2020 - 22:27:06: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" with "tracktrain"
+L 01/10/2020 - 22:27:06: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 01/10/2020 - 22:27:06: World triggered "Round_End"
+L 01/10/2020 - 22:27:11: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:27:12: World triggered "Round_Start"
+L 01/10/2020 - 22:27:33: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:28:10: [REUNION]: KissTheCsPlayer (79.101.57.189) authorized as RevEmu
+L 01/10/2020 - 22:28:10: "KissTheCsPlayer<206><STEAM_1:1:132699550><>" connected, address "79.101.57.189:27005"
+L 01/10/2020 - 22:28:19: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "deagle"
+L 01/10/2020 - 22:28:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 01/10/2020 - 22:28:19: World triggered "Round_End"
+L 01/10/2020 - 22:28:24: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:28:25: World triggered "Round_Start"
+L 01/10/2020 - 22:28:33: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:28:50: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "awp"
+L 01/10/2020 - 22:28:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 01/10/2020 - 22:28:50: World triggered "Round_End"
+L 01/10/2020 - 22:28:55: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:28:56: World triggered "Round_Start"
+L 01/10/2020 - 22:29:50: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" killed "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" with "sg552"
+L 01/10/2020 - 22:29:50: Team "CT" triggered "CTs_Win" (CT "2") (T "5")
+L 01/10/2020 - 22:29:50: World triggered "Round_End"
+L 01/10/2020 - 22:29:55: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:29:56: World triggered "Round_Start"
+L 01/10/2020 - 22:30:04: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/10/2020 - 22:30:12: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" committed suicide with "world"
+L 01/10/2020 - 22:30:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 01/10/2020 - 22:30:12: World triggered "Round_End"
+L 01/10/2020 - 22:30:17: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:30:18: World triggered "Round_Start"
+L 01/10/2020 - 22:30:42: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" committed suicide with "tracktrain"
+L 01/10/2020 - 22:30:42: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" with "deagle"
+L 01/10/2020 - 22:30:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 01/10/2020 - 22:30:42: World triggered "Round_End"
+L 01/10/2020 - 22:30:47: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:30:48: World triggered "Round_Start"
+L 01/10/2020 - 22:31:22: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" killed "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" with "deagle"
+L 01/10/2020 - 22:31:22: Team "CT" triggered "CTs_Win" (CT "3") (T "7")
+L 01/10/2020 - 22:31:22: World triggered "Round_End"
+L 01/10/2020 - 22:31:27: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:31:28: World triggered "Round_Start"
+L 01/10/2020 - 22:31:38: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:31:51: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" with "g3sg1"
+L 01/10/2020 - 22:31:51: Team "CT" triggered "CTs_Win" (CT "4") (T "7")
+L 01/10/2020 - 22:31:51: World triggered "Round_End"
+L 01/10/2020 - 22:31:56: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:31:57: World triggered "Round_Start"
+L 01/10/2020 - 22:32:10: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:32:12: Kick: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><>" was kicked by "Console" (message "You have been banned by ATAC  due to reaching the maximum  team kill limit.")
+L 01/10/2020 - 22:32:12: "He@DshoT|Not Leon<204><STEAM_1:1:41823316><CT>" disconnected
+L 01/10/2020 - 22:32:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "8")
+L 01/10/2020 - 22:32:12: World triggered "Round_End"
+L 01/10/2020 - 22:32:14: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 22:32:14: "He@DshoT|Not Leon<207><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 22:32:17: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:32:18: World triggered "Round_Start"
+L 01/10/2020 - 22:32:19: "He@DshoT|Not Leon<207><STEAM_1:1:41823316><>" entered the game
+L 01/10/2020 - 22:32:23: "He@DshoT|Not Leon<207><STEAM_1:1:41823316><>" joined team "CT"
+L 01/10/2020 - 22:32:29: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<207><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/10/2020 - 22:33:34: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" committed suicide with "world"
+L 01/10/2020 - 22:33:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "9")
+L 01/10/2020 - 22:33:34: World triggered "Round_End"
+L 01/10/2020 - 22:33:39: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:33:40: World triggered "Round_Start"
+L 01/10/2020 - 22:34:01: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "He@DshoT|Not Leon<207><STEAM_1:1:41823316><CT>" with "awp"
+L 01/10/2020 - 22:34:18: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "knife"
+L 01/10/2020 - 22:34:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "10")
+L 01/10/2020 - 22:34:18: World triggered "Round_End"
+L 01/10/2020 - 22:34:23: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:34:24: World triggered "Round_Start"
+L 01/10/2020 - 22:34:32: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<207><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/10/2020 - 22:34:59: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 22:34:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "11")
+L 01/10/2020 - 22:34:59: World triggered "Round_End"
+L 01/10/2020 - 22:35:03: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:35:04: World triggered "Round_Start"
+L 01/10/2020 - 22:35:16: "He@DshoT|Not Leon<207><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "tracktrain"
+L 01/10/2020 - 22:35:19: Kick: "He@DshoT|Not Leon<207><STEAM_1:1:41823316><>" was kicked by "Console" (message "You have been kicked by ATAC  due to reaching the maximum  team kill limit.")
+L 01/10/2020 - 22:35:19: "He@DshoT|Not Leon<207><STEAM_1:1:41823316><CT>" disconnected
+L 01/10/2020 - 22:35:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "12")
+L 01/10/2020 - 22:35:19: World triggered "Round_End"
+L 01/10/2020 - 22:35:24: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:35:25: World triggered "Round_Start"
+L 01/10/2020 - 22:35:27: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 22:35:27: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 22:35:31: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><>" entered the game
+L 01/10/2020 - 22:35:35: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><>" joined team "CT"
+L 01/10/2020 - 22:35:50: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<208><STEAM_1:1:41823316><CT>" with "tracktrain"
+L 01/10/2020 - 22:35:55: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/10/2020 - 22:35:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "13")
+L 01/10/2020 - 22:35:55: World triggered "Round_End"
+L 01/10/2020 - 22:35:57: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:35:57: "fun da king<202><STEAM_1:0:1655898477><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:36:01: World triggered "Round_Start"
+L 01/10/2020 - 22:36:10: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" committed suicide with "world"
+L 01/10/2020 - 22:36:10: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:36:11: World triggered "Game_Commencing"
+L 01/10/2020 - 22:36:11: World triggered "Game_Commencing" (CT "4") (T "13")
+L 01/10/2020 - 22:36:11: World triggered "Round_End"
+L 01/10/2020 - 22:36:14: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:36:14: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><CT>" committed suicide with "world"
+L 01/10/2020 - 22:36:14: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:36:14: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 22:36:15: World triggered "Round_Start"
+L 01/10/2020 - 22:36:57: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:36:57: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/10/2020 - 22:36:57: World triggered "Round_End"
+L 01/10/2020 - 22:37:02: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:37:03: World triggered "Round_Start"
+L 01/10/2020 - 22:37:34: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" with "deagle"
+L 01/10/2020 - 22:37:34: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 22:37:50: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" with "deagle"
+L 01/10/2020 - 22:37:50: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/10/2020 - 22:37:50: World triggered "Round_End"
+L 01/10/2020 - 22:37:55: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:37:56: World triggered "Round_Start"
+L 01/10/2020 - 22:38:10: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" with "g3sg1"
+L 01/10/2020 - 22:38:10: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 22:38:17: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" with "g3sg1"
+L 01/10/2020 - 22:38:17: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/10/2020 - 22:38:17: World triggered "Round_End"
+L 01/10/2020 - 22:38:22: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:38:23: World triggered "Round_Start"
+L 01/10/2020 - 22:39:01: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "tracktrain" (world)
+L 01/10/2020 - 22:39:11: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" killed "fun da king<202><STEAM_1:0:1655898477><CT>" with "deagle"
+L 01/10/2020 - 22:39:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "1")
+L 01/10/2020 - 22:39:11: World triggered "Round_End"
+L 01/10/2020 - 22:39:16: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:39:17: World triggered "Round_Start"
+L 01/10/2020 - 22:39:51: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" with "deagle"
+L 01/10/2020 - 22:39:51: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 22:40:03: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" killed "fun da king<202><STEAM_1:0:1655898477><CT>" with "g3sg1"
+L 01/10/2020 - 22:40:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 01/10/2020 - 22:40:03: World triggered "Round_End"
+L 01/10/2020 - 22:40:08: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:40:09: World triggered "Round_Start"
+L 01/10/2020 - 22:40:33: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 22:41:07: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" with "deagle"
+L 01/10/2020 - 22:41:07: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 01/10/2020 - 22:41:07: World triggered "Round_End"
+L 01/10/2020 - 22:41:12: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:41:13: World triggered "Round_Start"
+L 01/10/2020 - 22:41:38: "He@DshoT|Not Leon<208><STEAM_1:1:41823316><TERRORIST>" disconnected
+L 01/10/2020 - 22:42:02: "fun da king<202><STEAM_1:0:1655898477><CT>" killed "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" with "awp"
+L 01/10/2020 - 22:42:02: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 01/10/2020 - 22:42:02: World triggered "Round_End"
+L 01/10/2020 - 22:42:05: "KoKo jE kRaLJinA<205><STEAM_1:1:1834348531><TERRORIST>" disconnected
+L 01/10/2020 - 22:42:08: World triggered "Round_Start"
+L 01/10/2020 - 22:42:12: "fun da king<202><STEAM_1:0:1655898477><CT>" disconnected
+L 01/10/2020 - 22:42:12: World triggered "Round_Draw" (CT "5") (T "2")
+L 01/10/2020 - 22:42:12: World triggered "Round_End"
+L 01/10/2020 - 22:42:18: World triggered "Round_Start"
+L 01/10/2020 - 22:44:12: [REUNION]: 2Pacalypse (130.185.211.206) authorized as NoSteam47
+L 01/10/2020 - 22:44:12: "2Pacalypse<209><VALVE_ID_LAN><>" connected, address "130.185.211.206:27005"
+L 01/10/2020 - 22:44:30: "2Pacalypse<209><VALVE_ID_LAN><>" entered the game
+L 01/10/2020 - 22:44:30: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 22:44:30: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 22:44:36: Team "CT" triggered "Target_Saved" (CT "5") (T "2")
+L 01/10/2020 - 22:44:36: World triggered "Round_End"
+L 01/10/2020 - 22:44:42: World triggered "Round_Start"
+L 01/10/2020 - 22:44:43: "2Pacalypse<209><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 01/10/2020 - 22:44:43: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:44:57: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><>" entered the game
+L 01/10/2020 - 22:45:05: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><>" joined team "CT"
+L 01/10/2020 - 22:45:05: World triggered "Game_Commencing"
+L 01/10/2020 - 22:45:05: World triggered "Game_Commencing" (CT "5") (T "2")
+L 01/10/2020 - 22:45:05: World triggered "Round_End"
+L 01/10/2020 - 22:45:08: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:45:09: World triggered "Round_Start"
+L 01/10/2020 - 22:45:52: [REUNION]: KoKo jE kRaLJinA (37.19.109.199) authorized as RevEmu
+L 01/10/2020 - 22:45:52: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><>" connected, address "37.19.109.199:7513"
+L 01/10/2020 - 22:45:53: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" killed "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" with "g3sg1"
+L 01/10/2020 - 22:45:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/10/2020 - 22:45:53: World triggered "Round_End"
+L 01/10/2020 - 22:45:58: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:45:59: World triggered "Round_Start"
+L 01/10/2020 - 22:46:04: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" committed suicide with "world"
+L 01/10/2020 - 22:46:04: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:46:06: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><>" entered the game
+L 01/10/2020 - 22:46:10: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><>" joined team "TERRORIST"
+L 01/10/2020 - 22:46:14: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:46:14: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 22:46:14: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:46:14: World triggered "Game_Commencing"
+L 01/10/2020 - 22:46:14: World triggered "Game_Commencing" (CT "0") (T "1")
+L 01/10/2020 - 22:46:14: World triggered "Round_End"
+L 01/10/2020 - 22:46:17: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:46:18: World triggered "Round_Start"
+L 01/10/2020 - 22:46:48: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 22:48:08: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" killed "2Pacalypse<209><VALVE_ID_LAN><CT>" with "ak47"
+L 01/10/2020 - 22:48:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/10/2020 - 22:48:08: World triggered "Round_End"
+L 01/10/2020 - 22:48:13: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:48:14: World triggered "Round_Start"
+L 01/10/2020 - 22:48:35: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "tracktrain"
+L 01/10/2020 - 22:48:56: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" killed "2Pacalypse<209><VALVE_ID_LAN><CT>" with "deagle"
+L 01/10/2020 - 22:48:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 01/10/2020 - 22:48:56: World triggered "Round_End"
+L 01/10/2020 - 22:49:01: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:49:02: World triggered "Round_Start"
+L 01/10/2020 - 22:49:23: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" with "tracktrain"
+L 01/10/2020 - 22:49:26: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:49:26: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 01/10/2020 - 22:49:26: World triggered "Round_End"
+L 01/10/2020 - 22:49:31: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:49:32: World triggered "Round_Start"
+L 01/10/2020 - 22:49:58: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:50:01: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:50:01: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 01/10/2020 - 22:50:01: World triggered "Round_End"
+L 01/10/2020 - 22:50:06: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:50:07: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 22:50:07: World triggered "Round_Start"
+L 01/10/2020 - 22:50:41: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:50:52: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:50:52: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 01/10/2020 - 22:50:52: World triggered "Round_End"
+L 01/10/2020 - 22:50:56: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:50:57: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:50:58: World triggered "Round_Start"
+L 01/10/2020 - 22:51:32: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:51:32: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 01/10/2020 - 22:51:32: World triggered "Round_End"
+L 01/10/2020 - 22:51:37: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:51:38: World triggered "Round_Start"
+L 01/10/2020 - 22:51:43: "2Pacalypse<209><VALVE_ID_LAN><CT>" committed suicide with "world"
+L 01/10/2020 - 22:51:43: "2Pacalypse<209><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:51:43: World triggered "Game_Commencing"
+L 01/10/2020 - 22:51:43: World triggered "Game_Commencing" (CT "4") (T "2")
+L 01/10/2020 - 22:51:43: World triggered "Round_End"
+L 01/10/2020 - 22:51:46: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:51:47: World triggered "Round_Start"
+L 01/10/2020 - 22:52:03: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" killed "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><CT>" with "g3sg1"
+L 01/10/2020 - 22:52:07: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" committed suicide with "world"
+L 01/10/2020 - 22:52:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/10/2020 - 22:52:07: World triggered "Round_End"
+L 01/10/2020 - 22:52:07: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:52:11: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:52:11: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:52:11: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:52:12: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:52:13: World triggered "Round_Start"
+L 01/10/2020 - 22:53:02: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" with "mp5navy"
+L 01/10/2020 - 22:53:05: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:53:05: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 01/10/2020 - 22:53:05: World triggered "Round_End"
+L 01/10/2020 - 22:53:05: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:53:10: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:53:11: World triggered "Round_Start"
+L 01/10/2020 - 22:54:19: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" killed "2Pacalypse<209><VALVE_ID_LAN><CT>" with "deagle"
+L 01/10/2020 - 22:54:23: "2Pacalypse<209><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:54:29: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 22:54:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 01/10/2020 - 22:54:29: World triggered "Round_End"
+L 01/10/2020 - 22:54:33: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:54:34: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:54:35: World triggered "Round_Start"
+L 01/10/2020 - 22:54:36: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:54:36: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:54:37: World triggered "Game_Commencing"
+L 01/10/2020 - 22:54:37: World triggered "Game_Commencing" (CT "1") (T "2")
+L 01/10/2020 - 22:54:37: World triggered "Round_End"
+L 01/10/2020 - 22:54:39: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:54:39: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:54:40: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:54:41: World triggered "Round_Start"
+L 01/10/2020 - 22:54:46: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" committed suicide with "world"
+L 01/10/2020 - 22:54:46: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:54:50: "KoKo jE kRaLJinA<211><STEAM_1:1:1834348531><CT>" disconnected
+L 01/10/2020 - 22:55:02: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:55:02: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/10/2020 - 22:55:02: World triggered "Round_End"
+L 01/10/2020 - 22:55:02: "2Pacalypse<209><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/10/2020 - 22:55:07: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:55:08: World triggered "Round_Start"
+L 01/10/2020 - 22:55:34: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" killed "2Pacalypse<209><VALVE_ID_LAN><CT>" with "deagle"
+L 01/10/2020 - 22:55:34: World triggered "Game_Commencing"
+L 01/10/2020 - 22:55:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/10/2020 - 22:55:34: World triggered "Round_End"
+L 01/10/2020 - 22:55:37: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:55:38: World triggered "Round_Start"
+L 01/10/2020 - 22:56:18: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:56:18: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/10/2020 - 22:56:18: World triggered "Round_End"
+L 01/10/2020 - 22:56:23: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:56:24: World triggered "Round_Start"
+L 01/10/2020 - 22:56:33: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "tracktrain" (world)
+L 01/10/2020 - 22:56:33: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/10/2020 - 22:56:33: World triggered "Round_End"
+L 01/10/2020 - 22:56:38: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:56:39: World triggered "Round_Start"
+L 01/10/2020 - 22:56:54: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" killed "2Pacalypse<209><VALVE_ID_LAN><CT>" with "g3sg1"
+L 01/10/2020 - 22:56:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 01/10/2020 - 22:56:54: World triggered "Round_End"
+L 01/10/2020 - 22:56:59: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:57:00: World triggered "Round_Start"
+L 01/10/2020 - 22:57:32: "2Pacalypse<209><VALVE_ID_LAN><CT>" killed "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" with "m4a1"
+L 01/10/2020 - 22:57:32: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 01/10/2020 - 22:57:32: World triggered "Round_End"
+L 01/10/2020 - 22:57:33: "2Pacalypse<209><VALVE_ID_LAN><CT>" disconnected
+L 01/10/2020 - 22:57:37: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:57:38: World triggered "Round_Start"
+L 01/10/2020 - 22:58:15: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 22:58:15: World triggered "Round_Draw" (CT "3") (T "1")
+L 01/10/2020 - 22:58:15: World triggered "Round_End"
+L 01/10/2020 - 22:58:15: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" joined team "SPECTATOR"
+L 01/10/2020 - 22:58:21: World triggered "Round_Start"
+L 01/10/2020 - 22:58:31: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><SPECTATOR>" joined team "CT"
+L 01/10/2020 - 22:59:39: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" committed suicide with "tracktrain" (world)
+L 01/10/2020 - 22:59:39: World triggered "Round_Draw" (CT "3") (T "1")
+L 01/10/2020 - 22:59:39: World triggered "Round_End"
+L 01/10/2020 - 22:59:45: World triggered "Round_Start"
+L 01/10/2020 - 22:59:49: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" committed suicide with "world"
+L 01/10/2020 - 22:59:49: World triggered "Round_Draw" (CT "3") (T "1")
+L 01/10/2020 - 22:59:49: World triggered "Round_End"
+L 01/10/2020 - 22:59:49: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><CT>" joined team "TERRORIST"
+L 01/10/2020 - 22:59:54: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 22:59:55: World triggered "Round_Start"
+L 01/10/2020 - 23:00:16: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "tracktrain" (world)
+L 01/10/2020 - 23:00:16: World triggered "Round_Draw" (CT "3") (T "1")
+L 01/10/2020 - 23:00:16: World triggered "Round_End"
+L 01/10/2020 - 23:00:21: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:00:22: World triggered "Round_Start"
+L 01/10/2020 - 23:01:35: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 23:01:35: World triggered "Round_Draw" (CT "3") (T "1")
+L 01/10/2020 - 23:01:35: World triggered "Round_End"
+L 01/10/2020 - 23:01:35: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><TERRORIST>" joined team "SPECTATOR"
+L 01/10/2020 - 23:01:38: "He@DshoT|Not Leon<210><STEAM_1:1:41823316><SPECTATOR>" disconnected
+L 01/10/2020 - 23:01:41: World triggered "Round_Start"
+L 01/10/2020 - 23:03:24: "Expe<212><STEAM_0:1:357012><>" connected, address "85.163.27.254:27005"
+L 01/10/2020 - 23:03:59: Team "CT" triggered "Target_Saved" (CT "3") (T "1")
+L 01/10/2020 - 23:03:59: World triggered "Round_End"
+L 01/10/2020 - 23:04:05: World triggered "Round_Start"
+L 01/10/2020 - 23:06:23: Team "CT" triggered "Target_Saved" (CT "3") (T "1")
+L 01/10/2020 - 23:06:23: World triggered "Round_End"
+L 01/10/2020 - 23:06:29: World triggered "Round_Start"
+L 01/10/2020 - 23:08:47: Team "CT" triggered "Target_Saved" (CT "3") (T "1")
+L 01/10/2020 - 23:08:47: World triggered "Round_End"
+L 01/10/2020 - 23:08:53: World triggered "Round_Start"
+L 01/10/2020 - 23:11:11: Team "CT" triggered "Target_Saved" (CT "3") (T "1")
+L 01/10/2020 - 23:11:11: World triggered "Round_End"
+L 01/10/2020 - 23:11:17: World triggered "Round_Start"
+L 01/10/2020 - 23:12:37: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 23:12:37: "He@DshoT|Not Leon<213><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 23:12:50: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 23:12:50: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 23:12:56: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><>" entered the game
+L 01/10/2020 - 23:13:02: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><>" joined team "TERRORIST"
+L 01/10/2020 - 23:13:03: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:13:20: [REUNION]: KoKo jE kRaLJinA (37.19.109.199) authorized as RevEmu
+L 01/10/2020 - 23:13:20: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><>" connected, address "37.19.109.199:7646"
+L 01/10/2020 - 23:13:34: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><>" entered the game
+L 01/10/2020 - 23:13:35: Team "CT" triggered "Target_Saved" (CT "3") (T "1")
+L 01/10/2020 - 23:13:35: World triggered "Round_End"
+L 01/10/2020 - 23:13:39: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><>" joined team "TERRORIST"
+L 01/10/2020 - 23:13:40: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:13:41: World triggered "Round_Start"
+L 01/10/2020 - 23:14:32: Server cvar "amx_nextmap" = "cherryclan_hq"
+L 01/10/2020 - 23:14:47: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" committed suicide with "world"
+L 01/10/2020 - 23:14:47: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" joined team "CT"
+L 01/10/2020 - 23:14:48: World triggered "Game_Commencing"
+L 01/10/2020 - 23:14:48: World triggered "Game_Commencing" (CT "3") (T "1")
+L 01/10/2020 - 23:14:48: World triggered "Round_End"
+L 01/10/2020 - 23:14:51: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:14:52: World triggered "Round_Start"
+L 01/10/2020 - 23:15:12: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" with "deagle"
+L 01/10/2020 - 23:15:12: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/10/2020 - 23:15:12: World triggered "Round_End"
+L 01/10/2020 - 23:15:17: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:15:18: World triggered "Round_Start"
+L 01/10/2020 - 23:15:38: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" with "deagle"
+L 01/10/2020 - 23:15:38: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/10/2020 - 23:15:38: World triggered "Round_End"
+L 01/10/2020 - 23:15:43: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:15:44: World triggered "Round_Start"
+L 01/10/2020 - 23:16:06: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" with "m3"
+L 01/10/2020 - 23:16:06: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/10/2020 - 23:16:06: World triggered "Round_End"
+L 01/10/2020 - 23:16:11: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:16:12: World triggered "Round_Start"
+L 01/10/2020 - 23:16:39: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 23:16:39: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 01/10/2020 - 23:16:39: World triggered "Round_End"
+L 01/10/2020 - 23:16:44: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:16:45: World triggered "Round_Start"
+L 01/10/2020 - 23:17:11: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/10/2020 - 23:17:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 01/10/2020 - 23:17:11: World triggered "Round_End"
+L 01/10/2020 - 23:17:16: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:17:17: World triggered "Round_Start"
+L 01/10/2020 - 23:17:49: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" with "deagle"
+L 01/10/2020 - 23:17:49: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 01/10/2020 - 23:17:49: World triggered "Round_End"
+L 01/10/2020 - 23:17:54: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:17:55: World triggered "Round_Start"
+L 01/10/2020 - 23:18:55: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "deagle"
+L 01/10/2020 - 23:18:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "2")
+L 01/10/2020 - 23:18:55: World triggered "Round_End"
+L 01/10/2020 - 23:19:00: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:19:01: World triggered "Round_Start"
+L 01/10/2020 - 23:21:04: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "knife"
+L 01/10/2020 - 23:21:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "3")
+L 01/10/2020 - 23:21:04: World triggered "Round_End"
+L 01/10/2020 - 23:21:09: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:21:10: World triggered "Round_Start"
+L 01/10/2020 - 23:21:39: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "ak47"
+L 01/10/2020 - 23:21:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "4")
+L 01/10/2020 - 23:21:39: World triggered "Round_End"
+L 01/10/2020 - 23:21:44: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:21:45: World triggered "Round_Start"
+L 01/10/2020 - 23:22:05: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "mp5navy"
+L 01/10/2020 - 23:22:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "5")
+L 01/10/2020 - 23:22:05: World triggered "Round_End"
+L 01/10/2020 - 23:22:10: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:22:11: World triggered "Round_Start"
+L 01/10/2020 - 23:22:55: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "deagle"
+L 01/10/2020 - 23:22:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 01/10/2020 - 23:22:55: World triggered "Round_End"
+L 01/10/2020 - 23:23:00: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:23:01: World triggered "Round_Start"
+L 01/10/2020 - 23:23:27: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "aug"
+L 01/10/2020 - 23:23:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 01/10/2020 - 23:23:27: World triggered "Round_End"
+L 01/10/2020 - 23:23:32: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:23:33: World triggered "Round_Start"
+L 01/10/2020 - 23:24:13: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" committed suicide with "worldspawn" (world)
+L 01/10/2020 - 23:24:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 01/10/2020 - 23:24:13: World triggered "Round_End"
+L 01/10/2020 - 23:24:18: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:24:19: World triggered "Round_Start"
+L 01/10/2020 - 23:24:54: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" with "deagle"
+L 01/10/2020 - 23:24:54: Team "CT" triggered "CTs_Win" (CT "6") (T "8")
+L 01/10/2020 - 23:24:54: World triggered "Round_End"
+L 01/10/2020 - 23:24:59: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:25:00: World triggered "Round_Start"
+L 01/10/2020 - 23:25:27: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" killed "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" with "aug"
+L 01/10/2020 - 23:25:27: Team "CT" triggered "CTs_Win" (CT "7") (T "8")
+L 01/10/2020 - 23:25:27: World triggered "Round_End"
+L 01/10/2020 - 23:25:32: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:25:33: World triggered "Round_Start"
+L 01/10/2020 - 23:27:30: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "g3sg1"
+L 01/10/2020 - 23:27:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "9")
+L 01/10/2020 - 23:27:30: World triggered "Round_End"
+L 01/10/2020 - 23:27:35: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:27:36: World triggered "Round_Start"
+L 01/10/2020 - 23:27:57: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" with "g3sg1"
+L 01/10/2020 - 23:27:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "10")
+L 01/10/2020 - 23:27:57: World triggered "Round_End"
+L 01/10/2020 - 23:28:02: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:28:03: World triggered "Round_Start"
+L 01/10/2020 - 23:28:04: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" committed suicide with "world"
+L 01/10/2020 - 23:28:04: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><CT>" joined team "TERRORIST"
+L 01/10/2020 - 23:28:16: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/10/2020 - 23:28:16: "He@DshoT|Not Leon<214><STEAM_1:1:41823316><TERRORIST>" disconnected
+L 01/10/2020 - 23:28:16: World triggered "Round_Draw" (CT "7") (T "10")
+L 01/10/2020 - 23:28:16: World triggered "Round_End"
+L 01/10/2020 - 23:28:21: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:28:22: World triggered "Round_Start"
+L 01/10/2020 - 23:28:58: [REUNION]: He@DshoT|Not Leon (37.220.68.177) authorized as RevEmu
+L 01/10/2020 - 23:28:58: "He@DshoT|Not Leon<216><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/10/2020 - 23:29:03: "He@DshoT|Not Leon<216><STEAM_1:1:41823316><>" entered the game
+L 01/10/2020 - 23:29:05: "He@DshoT|Not Leon<216><STEAM_1:1:41823316><>" joined team "CT"
+L 01/10/2020 - 23:29:06: World triggered "Game_Commencing"
+L 01/10/2020 - 23:29:06: World triggered "Game_Commencing" (CT "7") (T "10")
+L 01/10/2020 - 23:29:06: World triggered "Round_End"
+L 01/10/2020 - 23:29:09: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:29:10: World triggered "Round_Start"
+L 01/10/2020 - 23:29:52: "He@DshoT|Not Leon<216><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" with "deagle"
+L 01/10/2020 - 23:29:52: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/10/2020 - 23:29:52: World triggered "Round_End"
+L 01/10/2020 - 23:29:57: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:29:58: World triggered "Round_Start"
+L 01/10/2020 - 23:30:45: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" killed "He@DshoT|Not Leon<216><STEAM_1:1:41823316><CT>" with "deagle"
+L 01/10/2020 - 23:30:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 01/10/2020 - 23:30:45: World triggered "Round_End"
+L 01/10/2020 - 23:30:50: "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/10/2020 - 23:30:51: World triggered "Round_Start"
+L 01/10/2020 - 23:31:03: "He@DshoT|Not Leon<216><STEAM_1:1:41823316><CT>" killed "KoKo jE kRaLJinA<215><STEAM_1:1:1834348531><TERRORIST>" with "elite"
+L 01/10/2020 - 23:31:03: Team "CT" triggered "C

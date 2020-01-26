@@ -1,0 +1,35 @@
+﻿[ru]
+MSG_DONT_VACPOINT = Недостаточно места для спавна
+MSG_SPAWN_CREATED = Точка спавна создана!
+MSG_SPAWN_DELETED = Точка спавна удалена!
+MSG_SAVE_POINT = Сохранение точек. Статус: !gУспех!n!
+MSG_SAVE_POINT_FAIL = Сохранение точек. Статус: !gПровал!n!
+MSG_PREPARE = В следующем раунде начнется !gохота!n на !gснеговиков!n!
+MSG_NOT_ACCESS_01 = У вас нет доступа
+MSG_NOT_ACCESS_02 = В данный момент не доступно
+
+MENU_MAIN_TITLE = Режим: Снеговики
+MENU_ITEM_01 = Создать|Удалить точку
+MENU_ITEM_02 = Сохранить точки
+MENU_ITEM_03 = Запуск режима \r(\yСледующий раунд\r)\y
+MENU_EXIT = Выход
+
+NOTICE_HUD_PREPARE = Бонус раунд!
+
+[en]
+MSG_DONT_VACPOINT = Not enough spawn points
+MSG_SPAWN_CREATED = Spawn point created!
+MSG_SPAWN_DELETED = Spawn point deleted!
+MSG_SAVE_POINT = Save spawn point. Status: !gSuccess!n!
+MSG_SAVE_POINT_FAIL = Save spawn point. Status: !gFail!n!
+MSG_PREPARE = In the next round, a hunt for snowmen will begin!
+MSG_NOT_ACCESS_01 = You have no access to this menu.
+MSG_NOT_ACCESS_02 = You can't use it right now..
+
+MENU_MAIN_TITLE = Mode: SnowmanZ
+MENU_ITEM_01 = Create|Delete spawn point
+MENU_ITEM_02 = Save spawn points
+MENU_ITEM_03 = Start the gamemode \r(\yNext round\r)\y
+MENU_EXIT = Exit
+
+NOTICE_HUD_PREPARE = Winter Environment^nBONUS ROUND!

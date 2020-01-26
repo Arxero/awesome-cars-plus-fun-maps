@@ -1,0 +1,14 @@
+<html>
+<font color=#ffffff>
+<body bgcolor=#000000>
+<center>Do you want to protect your name? Type <b>/reg</b> and press the Register key.
+It will pop up a place where you have to type password.
+<b>THE PASSWORD MUST BE 6 SYMBOLS.</b> When you type the password it will pop up
+another menu from which you have to confirm the password by pressing the Confirm key.
+If you don't like the password, press the Retype key and it will pop up the place for typing password.
+If you don't want to register, press the Cancel key.
+<b>REGISTERING YOUR NAME WILL REQUIRES YOU TO LOGIN EVERY TIME WHEN YOU ARE PLAYING IN THIS SERVER!</b>
+When you Register, you have to Login.
+Just enter in the main menu, press the Login key and type your password.
+<b>You have 3 attempts to type the password. Else you will be kicked.</b></center>
+</html>

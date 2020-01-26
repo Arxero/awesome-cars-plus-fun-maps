@@ -1,0 +1,379 @@
+L 01/09/2020 - 18:22:51: Log file started (file "logs/L0109062.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/09/2020 - 18:22:51: Loading map "de_airninja"
+L 01/09/2020 - 18:22:51: Server cvars start
+L 01/09/2020 - 18:22:51: Server cvar "@BunnyHopper" = "3.x"
+L 01/09/2020 - 18:22:51: Server cvar "@CRXGoSpec" = "1.1"
+L 01/09/2020 - 18:22:51: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "@D.I.C.E." = "1.1"
+L 01/09/2020 - 18:22:51: Server cvar "@MOTDCommands" = "1.2"
+L 01/09/2020 - 18:22:51: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/09/2020 - 18:22:51: Server cvar "AdvancedMute" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "aesp_version" = "1.3"
+L 01/09/2020 - 18:22:51: Server cvar "allow_spectators" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "amx_client_languages" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "amx_language" = "en"
+L 01/09/2020 - 18:22:51: Server cvar "amx_nextmap" = "de_airninja"
+L 01/09/2020 - 18:22:51: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/09/2020 - 18:22:51: Server cvar "amx_timeleft" = "06:57"
+L 01/09/2020 - 18:22:51: Server cvar "amxmodx_version" = "1.8.2"
+L 01/09/2020 - 18:22:51: Server cvar "amxxbg_vip" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "asp_version" = "4.5.1"
+L 01/09/2020 - 18:22:51: Server cvar "atac_version" = "3.0.1"
+L 01/09/2020 - 18:22:51: Server cvar "badcamper_version" = "1.4 beta"
+L 01/09/2020 - 18:22:51: Server cvar "blockmaker" = "4.01"
+L 01/09/2020 - 18:22:51: Server cvar "c4 timer" = "1.1"
+L 01/09/2020 - 18:22:51: Server cvar "coop" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "CRXAdminGroups" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "CRXFastKnife" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "CRXGametracker" = "2.0"
+L 01/09/2020 - 18:22:51: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/09/2020 - 18:22:51: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "CustomShop" = "4.2"
+L 01/09/2020 - 18:22:51: Server cvar "deathmatch" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "decalfrequency" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "edgefriction" = "2"
+L 01/09/2020 - 18:22:51: Server cvar "ers_version" = "2.3c"
+L 01/09/2020 - 18:22:51: Server cvar "gagsystem_shoko" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/09/2020 - 18:22:51: Server cvar "gal_version" = "v5.9.1-926"
+L 01/09/2020 - 18:22:51: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/09/2020 - 18:22:51: Server cvar "humans_join_team" = "any"
+L 01/09/2020 - 18:22:51: Server cvar "jtp10181" = "chute,gore"
+L 01/09/2020 - 18:22:51: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/09/2020 - 18:22:51: Server cvar "LetitSnow" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/09/2020 - 18:22:51: Server cvar "max_queries_sec" = "3"
+L 01/09/2020 - 18:22:51: Server cvar "max_queries_sec_global" = "150"
+L 01/09/2020 - 18:22:51: Server cvar "max_queries_window" = "60"
+L 01/09/2020 - 18:22:51: Server cvar "mdbBans" = "4.8"
+L 01/09/2020 - 18:22:51: Server cvar "metamod_version" = "1.21p37"
+L 01/09/2020 - 18:22:51: Server cvar "mp_autokick" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_autokick_timeout" = "-1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_autoteambalance" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_buytime" = "0.25"
+L 01/09/2020 - 18:22:51: Server cvar "mp_c4timer" = "35"
+L 01/09/2020 - 18:22:51: Server cvar "mp_chattime" = "10.000000"
+L 01/09/2020 - 18:22:51: Server cvar "mp_consistency" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_fadetoblack" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_flashlight" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_footsteps" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_forcecamera" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_forcechasecam" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_forcerespawn" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_fraglimit" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_fragsleft" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_freeforall" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_freezetime" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_friendlyfire" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_hostage_hurtable" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_hostagepenalty" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_item_staytime" = "300"
+L 01/09/2020 - 18:22:51: Server cvar "mp_kickpercent" = "0.66"
+L 01/09/2020 - 18:22:51: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_limitteams" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_logdetail" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_logfile" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_logmessages" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/09/2020 - 18:22:51: Server cvar "mp_maxmoney" = "999999"
+L 01/09/2020 - 18:22:51: Server cvar "mp_maxrounds" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_mirrordamage" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_playerid" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_round_infinite" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_round_restart_delay" = "5"
+L 01/09/2020 - 18:22:51: Server cvar "mp_roundover" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_roundtime" = "2.3"
+L 01/09/2020 - 18:22:51: Server cvar "mp_show_radioicon" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_startmoney" = "850"
+L 01/09/2020 - 18:22:51: Server cvar "mp_timeleft" = "06:57"
+L 01/09/2020 - 18:22:51: Server cvar "mp_timelimit" = "20"
+L 01/09/2020 - 18:22:51: Server cvar "mp_tkpunish" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "mp_windifference" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "mp_winlimit" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/09/2020 - 18:22:51: Server cvar "pausable" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "present_version" = "2.01"
+L 01/09/2020 - 18:22:51: Server cvar "RandomHP" = "2.2"
+L 01/09/2020 - 18:22:51: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/09/2020 - 18:22:51: Server cvar "reconnect_features" = "0.3.1"
+L 01/09/2020 - 18:22:51: Server cvar "report_system_version" = "3.1"
+L 01/09/2020 - 18:22:51: Server cvar "resemiclip_version" = "2.3.9"
+L 01/09/2020 - 18:22:51: Server cvar "reu_version" = "0.1.0.130"
+L 01/09/2020 - 18:22:51: Server cvar "revoice_version" = "0.1.0.30"
+L 01/09/2020 - 18:22:51: Server cvar "RRWM" = "2.0"
+L 01/09/2020 - 18:22:51: Server cvar "sanksounds_version" = "1.8.6"
+L 01/09/2020 - 18:22:51: Server cvar "SimpleMenu" = "1.1"
+L 01/09/2020 - 18:22:51: Server cvar "SNAC_Version" = "1.1"
+L 01/09/2020 - 18:22:51: Server cvar "SpecList" = "1.2a"
+L 01/09/2020 - 18:22:51: Server cvar "sr_version" = "1.6"
+L 01/09/2020 - 18:22:51: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/09/2020 - 18:22:51: Server cvar "StyleC4Timer" = "2.1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_accelerate" = "5"
+L 01/09/2020 - 18:22:51: Server cvar "sv_aim" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_airaccelerate" = "100"
+L 01/09/2020 - 18:22:51: Server cvar "sv_allowupload" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_alltalk" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_bounce" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_cheats" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "sv_clienttrace" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/09/2020 - 18:22:51: Server cvar "sv_friction" = "4"
+L 01/09/2020 - 18:22:51: Server cvar "sv_gravity" = "800"
+L 01/09/2020 - 18:22:51: Server cvar "sv_logblocks" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "sv_maxrate" = "50000"
+L 01/09/2020 - 18:22:51: Server cvar "sv_maxspeed" = "900.000000"
+L 01/09/2020 - 18:22:51: Server cvar "sv_minrate" = "10000"
+L 01/09/2020 - 18:22:51: Server cvar "sv_password" = ""
+L 01/09/2020 - 18:22:51: Server cvar "sv_proxies" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_restart" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "sv_restartround" = "0"
+L 01/09/2020 - 18:22:51: Server cvar "sv_stepsize" = "18"
+L 01/09/2020 - 18:22:51: Server cvar "sv_stopspeed" = "75"
+L 01/09/2020 - 18:22:51: Server cvar "sv_uploadmax" = "0.5"
+L 01/09/2020 - 18:22:51: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/09/2020 - 18:22:51: Server cvar "sv_voiceenable" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "sv_wateraccelerate" = "10"
+L 01/09/2020 - 18:22:51: Server cvar "sv_waterfriction" = "1"
+L 01/09/2020 - 18:22:51: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/09/2020 - 18:22:51: Server cvar "vehicle_real_killer" = "1.1"
+L 01/09/2020 - 18:22:51: Server cvar "WalkGuard" = "1.3.2"
+L 01/09/2020 - 18:22:51: Server cvar "we_grenades" = "Huehue"
+L 01/09/2020 - 18:22:51: Server cvar "we_player_models" = "Huehue"
+L 01/09/2020 - 18:22:51: Server cvar "whb_version" = "1.5.692"
+L 01/09/2020 - 18:22:51: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/09/2020 - 18:22:51: Server cvars end
+L 01/09/2020 - 18:22:54: Server cvar "sv_maxspeed" = "900"
+L 01/09/2020 - 18:22:54: Server cvar "mp_autoteambalance" = "1"
+L 01/09/2020 - 18:22:55: Server cvar "mp_autoteambalance" = "0"
+L 01/09/2020 - 18:22:55: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/09/2020 - 18:22:56: Started map "de_airninja" (CRC "1948477588")
+L 01/09/2020 - 18:22:58: World triggered "Round_Start"
+L 01/09/2020 - 18:23:00: "CriminaL<84><STEAM_1:1:1406434027><>" entered the game
+L 01/09/2020 - 18:23:02: "ok<83><STEAM_0:0:19903402><>" entered the game
+L 01/09/2020 - 18:23:02: "*Mr.Bombastic*<88><STEAM_1:1:25228615><>" entered the game
+L 01/09/2020 - 18:23:05: "ok<83><STEAM_0:0:19903402><>" joined team "TERRORIST"
+L 01/09/2020 - 18:23:05: "CriminaL<84><STEAM_1:1:1406434027><>" joined team "CT"
+L 01/09/2020 - 18:23:05: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:23:05: World triggered "Game_Commencing"
+L 01/09/2020 - 18:23:05: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/09/2020 - 18:23:05: World triggered "Round_End"
+L 01/09/2020 - 18:23:07: "*Mr.Bombastic*<88><STEAM_1:1:25228615><>" joined team "TERRORIST"
+L 01/09/2020 - 18:23:08: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:23:09: World triggered "Round_Start"
+L 01/09/2020 - 18:23:11: "Niko98<86><VALVE_ID_LAN><>" entered the game
+L 01/09/2020 - 18:23:17: "Niko98<86><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 01/09/2020 - 18:24:08: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" killed "CriminaL<84><STEAM_1:1:1406434027><CT>" with "g3sg1"
+L 01/09/2020 - 18:24:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/09/2020 - 18:24:08: World triggered "Round_End"
+L 01/09/2020 - 18:24:13: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:24:14: World triggered "Round_Start"
+L 01/09/2020 - 18:24:36: "CriminaL<84><STEAM_1:1:1406434027><CT>" killed "Niko98<86><VALVE_ID_LAN><TERRORIST>" with "famas"
+L 01/09/2020 - 18:24:39: "CriminaL<84><STEAM_1:1:1406434027><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "famas"
+L 01/09/2020 - 18:24:39: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/09/2020 - 18:24:51: "ok<83><STEAM_0:0:19903402><TERRORIST>" killed "CriminaL<84><STEAM_1:1:1406434027><CT>" with "ak47"
+L 01/09/2020 - 18:24:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 01/09/2020 - 18:24:51: World triggered "Round_End"
+L 01/09/2020 - 18:24:56: "ok<83><STEAM_0:0:19903402><TERRORIST>" joined team "CT"
+L 01/09/2020 - 18:24:56: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ok to CT")
+L 01/09/2020 - 18:24:56: "Niko98<86><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:24:57: World triggered "Round_Start"
+L 01/09/2020 - 18:25:12: "Niko98<86><VALVE_ID_LAN><TERRORIST>" killed "CriminaL<84><STEAM_1:1:1406434027><CT>" with "ak47"
+L 01/09/2020 - 18:25:45: "ok<83><STEAM_0:0:19903402><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "ak47"
+L 01/09/2020 - 18:25:49: "Niko98<86><VALVE_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:26:13: "Niko98<86><VALVE_ID_LAN><TERRORIST>" killed "ok<83><STEAM_0:0:19903402><CT>" with "ak47"
+L 01/09/2020 - 18:26:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 01/09/2020 - 18:26:13: World triggered "Round_End"
+L 01/09/2020 - 18:26:18: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:26:19: World triggered "Round_Start"
+L 01/09/2020 - 18:27:25: "CriminaL<84><STEAM_1:1:1406434027><CT>" killed "Niko98<86><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:27:29: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:27:54: "CriminaL<84><STEAM_1:1:1406434027><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "ak47"
+L 01/09/2020 - 18:27:56: "ok<83><STEAM_0:0:19903402><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 01/09/2020 - 18:28:01: "ok<83><STEAM_0:0:19903402><CT>" triggered "Defused_The_Bomb"
+L 01/09/2020 - 18:28:01: Team "CT" triggered "Bomb_Defused" (CT "1") (T "3")
+L 01/09/2020 - 18:28:01: World triggered "Round_End"
+L 01/09/2020 - 18:28:06: "Niko98<86><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:28:07: World triggered "Round_Start"
+L 01/09/2020 - 18:28:38: "CriminaL<84><STEAM_1:1:1406434027><CT>" killed "Niko98<86><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 01/09/2020 - 18:28:38: "Niko98<86><VALVE_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/09/2020 - 18:28:38: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" killed "CriminaL<84><STEAM_1:1:1406434027><CT>" with "g3sg1"
+L 01/09/2020 - 18:29:25: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Got_The_Bomb"
+L 01/09/2020 - 18:29:34: Kick: "Niko98<86><VALVE_ID_LAN><>" was kicked by "Console" (message ""You have been Kicked for Spamming"")
+L 01/09/2020 - 18:29:34: "Niko98<86><VALVE_ID_LAN><TERRORIST>" disconnected
+L 01/09/2020 - 18:29:36: [REUNION]: Niko98 (130.185.211.206) authorized as NoSteam47
+L 01/09/2020 - 18:29:36: "Niko98<89><VALVE_ID_LAN><>" connected, address "130.185.211.206:27005"
+L 01/09/2020 - 18:29:43: "Niko98<89><VALVE_ID_LAN><>" entered the game
+L 01/09/2020 - 18:29:44: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:29:46: "Niko98<89><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 01/09/2020 - 18:30:05: "ok<83><STEAM_0:0:19903402><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "g3sg1"
+L 01/09/2020 - 18:30:10: "ok<83><STEAM_0:0:19903402><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 01/09/2020 - 18:30:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 01/09/2020 - 18:30:19: World triggered "Round_End"
+L 01/09/2020 - 18:30:23: "CriminaL<84><STEAM_1:1:1406434027><CT>" joined team "TERRORIST"
+L 01/09/2020 - 18:30:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered CriminaL to TERRORIST")
+L 01/09/2020 - 18:30:24: "Niko98<89><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:30:25: World triggered "Round_Start"
+L 01/09/2020 - 18:30:57: "Niko98<89><VALVE_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:31:07: "ok<83><STEAM_0:0:19903402><CT>" killed "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:31:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 01/09/2020 - 18:31:32: World triggered "Round_End"
+L 01/09/2020 - 18:31:37: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:31:38: World triggered "Round_Start"
+L 01/09/2020 - 18:32:14: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:32:32: "ok<83><STEAM_0:0:19903402><CT>" killed "Niko98<89><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:32:45: "Niko98<89><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/09/2020 - 18:32:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 01/09/2020 - 18:32:49: World triggered "Round_End"
+L 01/09/2020 - 18:32:54: "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:32:55: World triggered "Round_Start"
+L 01/09/2020 - 18:33:16: "Niko98<89><VALVE_ID_LAN><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:33:26: [REUNION]: Ulysses (176.105.193.245) authorized as RevEmu
+L 01/09/2020 - 18:33:26: "Ulysses<90><STEAM_1:1:1097612082><>" connected, address "176.105.193.245:54253"
+L 01/09/2020 - 18:33:31: "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" killed "ok<83><STEAM_0:0:19903402><CT>" with "ak47"
+L 01/09/2020 - 18:33:35: [REUNION]: Ulysses (176.105.193.245) authorized as RevEmu
+L 01/09/2020 - 18:33:35: "Ulysses<91><STEAM_1:1:1097612082><>" connected, address "176.105.193.245:54253"
+L 01/09/2020 - 18:33:55: "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:33:57: "Niko98<89><VALVE_ID_LAN><CT>" killed "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:33:58: "Niko98<89><VALVE_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 01/09/2020 - 18:34:00: [REUNION]: BAD BOY (178.169.239.222) authorized as RevEmu
+L 01/09/2020 - 18:34:00: "BAD BOY<92><STEAM_1:1:175462098><>" connected, address "178.169.239.222:27005"
+L 01/09/2020 - 18:34:02: "Ulysses<91><STEAM_1:1:1097612082><>" entered the game
+L 01/09/2020 - 18:34:03: "Niko98<89><VALVE_ID_LAN><CT>" triggered "Defused_The_Bomb"
+L 01/09/2020 - 18:34:03: Team "CT" triggered "Bomb_Defused" (CT "2") (T "6")
+L 01/09/2020 - 18:34:03: World triggered "Round_End"
+L 01/09/2020 - 18:34:08: "ok<83><STEAM_0:0:19903402><CT>" joined team "TERRORIST"
+L 01/09/2020 - 18:34:08: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ok to TERRORIST")
+L 01/09/2020 - 18:34:08: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:34:08: "Ulysses<91><STEAM_1:1:1097612082><>" joined team "CT"
+L 01/09/2020 - 18:34:09: World triggered "Round_Start"
+L 01/09/2020 - 18:34:24: "BAD BOY<92><STEAM_1:1:175462098><>" entered the game
+L 01/09/2020 - 18:34:34: "BAD BOY<92><STEAM_1:1:175462098><>" joined team "TERRORIST"
+L 01/09/2020 - 18:34:54: "Ulysses<91><STEAM_1:1:1097612082><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "usp"
+L 01/09/2020 - 18:34:58: "Niko98<89><VALVE_ID_LAN><CT>" killed "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:35:00: [REUNION]: JoHn_SpLeNdOuR_^ (83.222.176.81) authorized as RevEmu
+L 01/09/2020 - 18:35:00: "JoHn_SpLeNdOuR_^<93><STEAM_2:1:233969738><>" connected, address "83.222.176.81:26265"
+L 01/09/2020 - 18:35:00: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:35:03: [REUNION]: JoHn_SpLeNdOuR_^ (83.222.176.81) authorized as RevEmu
+L 01/09/2020 - 18:35:03: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><>" connected, address "83.222.176.81:26265"
+L 01/09/2020 - 18:35:05: "CriminaL<84><STEAM_1:1:1406434027><TERRORIST>" disconnected
+L 01/09/2020 - 18:35:10: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><>" entered the game
+L 01/09/2020 - 18:35:12: "ok<83><STEAM_0:0:19903402><TERRORIST>" killed "Niko98<89><VALVE_ID_LAN><CT>" with "ak47"
+L 01/09/2020 - 18:35:14: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><>" joined team "CT"
+L 01/09/2020 - 18:35:18: "ok<83><STEAM_0:0:19903402><TERRORIST>" killed "Ulysses<91><STEAM_1:1:1097612082><CT>" with "ak47"
+L 01/09/2020 - 18:35:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 01/09/2020 - 18:35:18: World triggered "Round_End"
+L 01/09/2020 - 18:35:23: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:35:24: World triggered "Round_Start"
+L 01/09/2020 - 18:35:48: "BAD BOY<92><STEAM_1:1:175462098><TERRORIST>" killed "Niko98<89><VALVE_ID_LAN><CT>" with "sg550"
+L 01/09/2020 - 18:35:49: "Ulysses<91><STEAM_1:1:1097612082><CT>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" with "sg550"
+L 01/09/2020 - 18:35:49: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/09/2020 - 18:36:01: "Niko98<89><VALVE_ID_LAN><CT>" disconnected
+L 01/09/2020 - 18:36:10: "Ulysses<91><STEAM_1:1:1097612082><CT>" killed "BAD BOY<92><STEAM_1:1:175462098><TERRORIST>" with "sg550"
+L 01/09/2020 - 18:36:13: "ok<83><STEAM_0:0:19903402><TERRORIST>" killed "Ulysses<91><STEAM_1:1:1097612082><CT>" with "sg550"
+L 01/09/2020 - 18:36:47: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Got_The_Bomb"
+L 01/09/2020 - 18:37:13: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:37:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "8")
+L 01/09/2020 - 18:37:48: World triggered "Round_End"
+L 01/09/2020 - 18:37:52: "*Mr.Bombastic*<88><STEAM_1:1:25228615><TERRORIST>" joined team "CT"
+L 01/09/2020 - 18:37:52: "<><><>" triggered "amx_chat" (text "[PTB] Transfered *Mr.Bombastic* to CT")
+L 01/09/2020 - 18:37:53: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:37:54: World triggered "Round_Start"
+L 01/09/2020 - 18:37:58: "Ulysses<91><STEAM_1:1:1097612082><CT>" committed suicide with "world"
+L 01/09/2020 - 18:37:58: "Ulysses<91><STEAM_1:1:1097612082><CT>" joined team "TERRORIST"
+L 01/09/2020 - 18:38:00: [REUNION]: koko je kraljina (77.243.26.88) authorized as RevEmu
+L 01/09/2020 - 18:38:00: "koko je kraljina<95><STEAM_1:1:1834348531><>" connected, address "77.243.26.88:7711"
+L 01/09/2020 - 18:38:02: [REUNION]: XxXBadBoyXxX (37.220.68.177) authorized as RevEmu
+L 01/09/2020 - 18:38:02: "XxXBadBoyXxX<96><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/09/2020 - 18:38:02: Kick: "XxXBadBoyXxX<96><STEAM_1:1:41823316><>" was kicked by "Console" (message ""You have no entry to the server..."")
+L 01/09/2020 - 18:38:15: [REUNION]: XxXBadBoyXxX (37.220.68.177) authorized as RevEmu
+L 01/09/2020 - 18:38:15: "XxXBadBoyXxX<97><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/09/2020 - 18:38:16: Kick: "XxXBadBoyXxX<97><STEAM_1:1:41823316><>" was kicked by "Console" (message ""You have no entry to the server..."")
+L 01/09/2020 - 18:38:18: [REUNION]: XxXBadBoyXxX (37.220.68.177) authorized as RevEmu
+L 01/09/2020 - 18:38:18: "XxXBadBoyXxX<98><STEAM_1:1:41823316><>" connected, address "37.220.68.177:26769"
+L 01/09/2020 - 18:38:18: Kick: "XxXBadBoyXxX<98><STEAM_1:1:41823316><>" was kicked by "Console" (message ""You have no entry to the server..."")
+L 01/09/2020 - 18:38:19: "ok<83><STEAM_0:0:19903402><TERRORIST>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><CT>" with "ak47"
+L 01/09/2020 - 18:38:27: "ok<83><STEAM_0:0:19903402><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:38:51: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><CT>" killed "BAD BOY<92><STEAM_1:1:175462098><TERRORIST>" with "m4a1"
+L 01/09/2020 - 18:38:53: "ok<83><STEAM_0:0:19903402><TERRORIST>" killed "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><CT>" with "m4a1"
+L 01/09/2020 - 18:38:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "9")
+L 01/09/2020 - 18:38:53: World triggered "Round_End"
+L 01/09/2020 - 18:38:58: "ok<83><STEAM_0:0:19903402><TERRORIST>" joined team "CT"
+L 01/09/2020 - 18:38:58: "<><><>" triggered "amx_chat" (text "[PTB] Transfered ok to CT")
+L 01/09/2020 - 18:38:58: "BAD BOY<92><STEAM_1:1:175462098><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:38:59: "BAD BOY<92><STEAM_1:1:175462098><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/09/2020 - 18:38:59: "BAD BOY<92><STEAM_1:1:175462098><TERRORIST>" disconnected
+L 01/09/2020 - 18:38:59: World triggered "Round_Start"
+L 01/09/2020 - 18:39:23: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/09/2020 - 18:39:23: Team "CT" triggered "CTs_Win" (CT "3") (T "9")
+L 01/09/2020 - 18:39:23: World triggered "Round_End"
+L 01/09/2020 - 18:39:28: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><CT>" joined team "TERRORIST"
+L 01/09/2020 - 18:39:28: "<><><>" triggered "amx_chat" (text "[PTB] Transfered JoHn_SpLeNdOuR_^ to TERRORIST")
+L 01/09/2020 - 18:39:28: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:39:29: World triggered "Round_Start"
+L 01/09/2020 - 18:39:46: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><CT>" with "scout"
+L 01/09/2020 - 18:40:28: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" killed "ok<83><STEAM_0:0:19903402><CT>" with "scout"
+L 01/09/2020 - 18:40:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "10")
+L 01/09/2020 - 18:40:28: World triggered "Round_End"
+L 01/09/2020 - 18:40:33: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:40:34: World triggered "Round_Start"
+L 01/09/2020 - 18:40:52: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><TERRORIST>" killed "ok<83><STEAM_0:0:19903402><CT>" with "ump45"
+L 01/09/2020 - 18:40:58: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><CT>" with "ump45"
+L 01/09/2020 - 18:40:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "11")
+L 01/09/2020 - 18:40:58: World triggered "Round_End"
+L 01/09/2020 - 18:41:03: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:41:04: World triggered "Round_Start"
+L 01/09/2020 - 18:41:17: "ok<83><STEAM_0:0:19903402><CT>" killed "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><TERRORIST>" with "mp5navy"
+L 01/09/2020 - 18:41:25: Server cvar "amx_nextmap" = "cc_secret_base"
+L 01/09/2020 - 18:41:49: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><CT>" with "p228"
+L 01/09/2020 - 18:42:03: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" triggered "Planted_The_Bomb"
+L 01/09/2020 - 18:42:15: "ok<83><STEAM_0:0:19903402><CT>" killed "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" with "grenade"
+L 01/09/2020 - 18:42:20: "ok<83><STEAM_0:0:19903402><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 01/09/2020 - 18:42:30: "ok<83><STEAM_0:0:19903402><CT>" triggered "Defused_The_Bomb"
+L 01/09/2020 - 18:42:30: Team "CT" triggered "Bomb_Defused" (CT "4") (T "11")
+L 01/09/2020 - 18:42:30: World triggered "Round_End"
+L 01/09/2020 - 18:42:35: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:42:36: World triggered "Round_Start"
+L 01/09/2020 - 18:42:40: Server cvar "mp_timelimit" = "0.000000"
+L 01/09/2020 - 18:42:48: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/09/2020 - 18:42:48: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" triggered "Got_The_Bomb"
+L 01/09/2020 - 18:43:02: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" killed "*Mr.Bombastic*<88><STEAM_1:1:25228615><CT>" with "scout"
+L 01/09/2020 - 18:43:46: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" killed "ok<83><STEAM_0:0:19903402><CT>" with "scout"
+L 01/09/2020 - 18:43:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "12")
+L 01/09/2020 - 18:43:46: World triggered "Round_End"
+L 01/09/2020 - 18:43:51: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/09/2020 - 18:43:52: World triggered "Round_Start"
+L 01/09/2020 - 18:43:52: Server cvar "sv_maxspeed" = "0.000000"
+L 01/09/2020 - 18:43:52: Server cvar "mp_friendlyfire" = "1"
+L 01/09/2020 - 18:44:03: Server cvar "sv_maxspeed" = "900.000000"
+L 01/09/2020 - 18:44:03: Server cvar "mp_friendlyfire" = "0"
+L 01/09/2020 - 18:44:03: Server cvar "mp_timelimit" = "20.000000"
+L 01/09/2020 - 18:44:03: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: AMX Mod X
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: Reunion
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: ReAuthCheck
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: WHBlocker
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: ReSemiclip
+L 01/09/2020 - 18:44:03: [META] ini: Read plugin config for: Revoice
+L 01/09/2020 - 18:44:03: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/09/2020 - 18:44:03: [META] dll: Updating plugins...
+L 01/09/2020 - 18:44:03: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/09/2020 - 18:44:03: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/09/2020 - 18:44:03: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/09/2020 - 18:44:03: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/09/2020 - 18:44:03: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/09/2020 - 18:44:03: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/09/2020 - 18:44:03: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/09/2020 - 18:44:03: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/09/2020 - 18:44:03: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/09/2020 - 18:44:03: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/09/2020 - 18:44:03: "ok<83><STEAM_0:0:19903402><CT>" disconnected
+L 01/09/2020 - 18:44:03: "Ulysses<91><STEAM_1:1:1097612082><TERRORIST>" disconnected
+L 01/09/2020 - 18:44:03: "JoHn_SpLeNdOuR_^<94><STEAM_2:1:233969738><TERRORIST>" disconnected
+L 01/09/2020 - 18:44:03: "*Mr.Bombastic*<88><STEAM_1:1:25228615><CT>" disconnected
+L 01/09/2020 - 18:44:03: World triggered "Round_Draw" (CT "4") (T "12")
+L 01/09/2020 - 18:44:03: World triggered "Round_End"
+L 01/09/2020 - 18:44:03: Log file closed

@@ -1,0 +1,453 @@
+L 12/28/2019 - 20:36:25: Log file started (file "logs/L1228071.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/28/2019 - 20:36:25: Loading map "nipperhouse"
+L 12/28/2019 - 20:36:25: Server cvars start
+L 12/28/2019 - 20:36:25: Server cvar "@BunnyHopper" = "3.x"
+L 12/28/2019 - 20:36:25: Server cvar "@CRXGoSpec" = "1.1"
+L 12/28/2019 - 20:36:25: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "@D.I.C.E." = "1.1"
+L 12/28/2019 - 20:36:25: Server cvar "@MOTDCommands" = "1.2"
+L 12/28/2019 - 20:36:25: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/28/2019 - 20:36:25: Server cvar "AdvancedMute" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "aesp_version" = "1.3"
+L 12/28/2019 - 20:36:25: Server cvar "allow_spectators" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "amx_client_languages" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "amx_language" = "en"
+L 12/28/2019 - 20:36:25: Server cvar "amx_nextmap" = "nipperhouse"
+L 12/28/2019 - 20:36:25: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/28/2019 - 20:36:25: Server cvar "amx_timeleft" = "10:49"
+L 12/28/2019 - 20:36:25: Server cvar "amxmodx_version" = "1.8.2"
+L 12/28/2019 - 20:36:25: Server cvar "amxxbg_vip" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "asp_version" = "4.5.1"
+L 12/28/2019 - 20:36:25: Server cvar "atac_version" = "3.0.1"
+L 12/28/2019 - 20:36:25: Server cvar "badcamper_version" = "1.4 beta"
+L 12/28/2019 - 20:36:25: Server cvar "blockmaker" = "4.01"
+L 12/28/2019 - 20:36:25: Server cvar "c4 timer" = "1.1"
+L 12/28/2019 - 20:36:25: Server cvar "coop" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "CRXAdminGroups" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "CRXFastKnife" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "CRXGametracker" = "2.0"
+L 12/28/2019 - 20:36:25: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/28/2019 - 20:36:25: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "CustomShop" = "4.2"
+L 12/28/2019 - 20:36:25: Server cvar "deathmatch" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "decalfrequency" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "edgefriction" = "2"
+L 12/28/2019 - 20:36:25: Server cvar "ers_version" = "2.3c"
+L 12/28/2019 - 20:36:25: Server cvar "gagsystem_shoko" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/28/2019 - 20:36:25: Server cvar "gal_version" = "v5.9.1-926"
+L 12/28/2019 - 20:36:25: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/28/2019 - 20:36:25: Server cvar "humans_join_team" = "any"
+L 12/28/2019 - 20:36:25: Server cvar "jtp10181" = "chute,gore"
+L 12/28/2019 - 20:36:25: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/28/2019 - 20:36:25: Server cvar "LetitSnow" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/28/2019 - 20:36:25: Server cvar "max_queries_sec" = "3"
+L 12/28/2019 - 20:36:25: Server cvar "max_queries_sec_global" = "150"
+L 12/28/2019 - 20:36:25: Server cvar "max_queries_window" = "60"
+L 12/28/2019 - 20:36:25: Server cvar "mdbBans" = "4.8"
+L 12/28/2019 - 20:36:25: Server cvar "metamod_version" = "1.21p37"
+L 12/28/2019 - 20:36:25: Server cvar "mp_autokick" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_autokick_timeout" = "-1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_autoteambalance" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_buytime" = "0.25"
+L 12/28/2019 - 20:36:25: Server cvar "mp_c4timer" = "35"
+L 12/28/2019 - 20:36:25: Server cvar "mp_chattime" = "5.000000"
+L 12/28/2019 - 20:36:25: Server cvar "mp_consistency" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_fadetoblack" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_flashlight" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_footsteps" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_forcecamera" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_forcechasecam" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_forcerespawn" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_fraglimit" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_fragsleft" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_freeforall" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_freezetime" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_friendlyfire" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_hostage_hurtable" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_hostagepenalty" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_item_staytime" = "300"
+L 12/28/2019 - 20:36:25: Server cvar "mp_kickpercent" = "0.66"
+L 12/28/2019 - 20:36:25: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_limitteams" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_logdetail" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_logfile" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_logmessages" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/28/2019 - 20:36:25: Server cvar "mp_maxmoney" = "999999"
+L 12/28/2019 - 20:36:25: Server cvar "mp_maxrounds" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_mirrordamage" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_playerid" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_round_infinite" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_round_restart_delay" = "5"
+L 12/28/2019 - 20:36:25: Server cvar "mp_roundover" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_roundtime" = "2.3"
+L 12/28/2019 - 20:36:25: Server cvar "mp_show_radioicon" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_startmoney" = "850"
+L 12/28/2019 - 20:36:25: Server cvar "mp_timeleft" = "10:48"
+L 12/28/2019 - 20:36:25: Server cvar "mp_timelimit" = "20"
+L 12/28/2019 - 20:36:25: Server cvar "mp_tkpunish" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "mp_windifference" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "mp_winlimit" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/28/2019 - 20:36:25: Server cvar "pausable" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "present_version" = "2.01"
+L 12/28/2019 - 20:36:25: Server cvar "RandomHP" = "2.2"
+L 12/28/2019 - 20:36:25: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/28/2019 - 20:36:25: Server cvar "reconnect_features" = "0.3.1"
+L 12/28/2019 - 20:36:25: Server cvar "report_system_version" = "3.1"
+L 12/28/2019 - 20:36:25: Server cvar "resemiclip_version" = "2.3.9"
+L 12/28/2019 - 20:36:25: Server cvar "reu_version" = "0.1.0.130"
+L 12/28/2019 - 20:36:25: Server cvar "revoice_version" = "0.1.0.30"
+L 12/28/2019 - 20:36:25: Server cvar "RRWM" = "2.0"
+L 12/28/2019 - 20:36:25: Server cvar "sanksounds_version" = "1.8.6"
+L 12/28/2019 - 20:36:25: Server cvar "SimpleMenu" = "1.1"
+L 12/28/2019 - 20:36:25: Server cvar "SNAC_Version" = "1.1"
+L 12/28/2019 - 20:36:25: Server cvar "SpecList" = "1.2a"
+L 12/28/2019 - 20:36:25: Server cvar "sr_version" = "1.6"
+L 12/28/2019 - 20:36:25: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/28/2019 - 20:36:25: Server cvar "StyleC4Timer" = "2.1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_accelerate" = "5"
+L 12/28/2019 - 20:36:25: Server cvar "sv_aim" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_airaccelerate" = "100"
+L 12/28/2019 - 20:36:25: Server cvar "sv_allowupload" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_alltalk" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_bounce" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_cheats" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "sv_clienttrace" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/28/2019 - 20:36:25: Server cvar "sv_friction" = "4"
+L 12/28/2019 - 20:36:25: Server cvar "sv_gravity" = "800"
+L 12/28/2019 - 20:36:25: Server cvar "sv_logblocks" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "sv_maxrate" = "50000"
+L 12/28/2019 - 20:36:25: Server cvar "sv_maxspeed" = "900.000000"
+L 12/28/2019 - 20:36:25: Server cvar "sv_minrate" = "10000"
+L 12/28/2019 - 20:36:25: Server cvar "sv_password" = ""
+L 12/28/2019 - 20:36:25: Server cvar "sv_proxies" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_restart" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "sv_restartround" = "0"
+L 12/28/2019 - 20:36:25: Server cvar "sv_stepsize" = "18"
+L 12/28/2019 - 20:36:25: Server cvar "sv_stopspeed" = "75"
+L 12/28/2019 - 20:36:25: Server cvar "sv_uploadmax" = "0.5"
+L 12/28/2019 - 20:36:25: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/28/2019 - 20:36:25: Server cvar "sv_voiceenable" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "sv_wateraccelerate" = "10"
+L 12/28/2019 - 20:36:25: Server cvar "sv_waterfriction" = "1"
+L 12/28/2019 - 20:36:25: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/28/2019 - 20:36:25: Server cvar "vehicle_real_killer" = "1.1"
+L 12/28/2019 - 20:36:25: Server cvar "WalkGuard" = "1.3.2"
+L 12/28/2019 - 20:36:25: Server cvar "we_grenades" = "Huehue"
+L 12/28/2019 - 20:36:25: Server cvar "we_player_models" = "Huehue"
+L 12/28/2019 - 20:36:25: Server cvar "whb_version" = "1.5.692"
+L 12/28/2019 - 20:36:25: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/28/2019 - 20:36:25: Server cvars end
+L 12/28/2019 - 20:36:28: Server cvar "sv_maxspeed" = "900"
+L 12/28/2019 - 20:36:28: Server cvar "mp_autoteambalance" = "1"
+L 12/28/2019 - 20:36:28: Server cvar "mp_autoteambalance" = "0"
+L 12/28/2019 - 20:36:28: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/28/2019 - 20:36:30: Started map "nipperhouse" (CRC "1926171002")
+L 12/28/2019 - 20:36:32: World triggered "Round_Start"
+L 12/28/2019 - 20:36:33: "Maverick<202><STEAM_0:0:37264973><>" entered the game
+L 12/28/2019 - 20:36:35: "Maverick<202><STEAM_0:0:37264973><>" joined team "CT"
+L 12/28/2019 - 20:36:36: [REUNION]: 8==F (109.93.203.52) authorized as RevEmu
+L 12/28/2019 - 20:36:36: "8==F<205><STEAM_1:0:365614513><>" connected, address "109.93.203.52:4954"
+L 12/28/2019 - 20:36:46: "8==F<205><STEAM_1:0:365614513><>" entered the game
+L 12/28/2019 - 20:36:50: "8==F<205><STEAM_1:0:365614513><>" joined team "TERRORIST"
+L 12/28/2019 - 20:36:50: World triggered "Game_Commencing"
+L 12/28/2019 - 20:36:50: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/28/2019 - 20:36:50: World triggered "Round_End"
+L 12/28/2019 - 20:36:53: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:36:54: World triggered "Round_Start"
+L 12/28/2019 - 20:38:57: "8==F<205><STEAM_1:0:365614513><TERRORIST>" killed "Maverick<202><STEAM_0:0:37264973><CT>" with "m249"
+L 12/28/2019 - 20:38:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/28/2019 - 20:38:57: World triggered "Round_End"
+L 12/28/2019 - 20:39:02: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:39:03: World triggered "Round_Start"
+L 12/28/2019 - 20:39:24: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/28/2019 - 20:39:59: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "2")
+L 12/28/2019 - 20:39:59: World triggered "Round_End"
+L 12/28/2019 - 20:40:04: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:40:05: World triggered "Round_Start"
+L 12/28/2019 - 20:40:17: "8==F<205><STEAM_1:0:365614513><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:40:17: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 12/28/2019 - 20:40:17: World triggered "Round_End"
+L 12/28/2019 - 20:40:22: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:40:23: World triggered "Round_Start"
+L 12/28/2019 - 20:41:21: "Maverick<202><STEAM_0:0:37264973><CT>" committed suicide with "world"
+L 12/28/2019 - 20:41:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 12/28/2019 - 20:41:21: World triggered "Round_End"
+L 12/28/2019 - 20:41:26: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:41:27: World triggered "Round_Start"
+L 12/28/2019 - 20:41:58: [REUNION]: /// M5 (151.237.37.93) authorized as RevEmu
+L 12/28/2019 - 20:41:58: "/// M5<206><STEAM_1:0:603964278><>" connected, address "151.237.37.93:27005"
+L 12/28/2019 - 20:42:00: "8==F<205><STEAM_1:0:365614513><TERRORIST>" killed "Maverick<202><STEAM_0:0:37264973><CT>" with "m3"
+L 12/28/2019 - 20:42:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 12/28/2019 - 20:42:00: World triggered "Round_End"
+L 12/28/2019 - 20:42:03: "/// M5<206><STEAM_1:0:603964278><>" entered the game
+L 12/28/2019 - 20:42:05: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:42:06: World triggered "Round_Start"
+L 12/28/2019 - 20:42:08: "/// M5<206><STEAM_1:0:603964278><>" joined team "TERRORIST"
+L 12/28/2019 - 20:42:32: "8==F<205><STEAM_1:0:365614513><TERRORIST>" killed "Maverick<202><STEAM_0:0:37264973><CT>" with "ump45"
+L 12/28/2019 - 20:42:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 12/28/2019 - 20:42:32: World triggered "Round_End"
+L 12/28/2019 - 20:42:37: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:42:38: "kto ma aima - wypierdala<207><STEAM_0:1:176532502><>" connected, address "5.173.252.253:55513"
+L 12/28/2019 - 20:42:38: World triggered "Round_Start"
+L 12/28/2019 - 20:42:39: "kto ma aima - wypierdala<207><STEAM_0:1:176532502><>" STEAM USERID validated
+L 12/28/2019 - 20:43:10: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/28/2019 - 20:43:15: "Maverick<202><STEAM_0:0:37264973><CT>" killed "8==F<205><STEAM_1:0:365614513><TERRORIST>" with "usp"
+L 12/28/2019 - 20:43:22: "Maverick<202><STEAM_0:0:37264973><CT>" disconnected
+L 12/28/2019 - 20:43:23: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><>" connected, address "5.173.252.253:55513"
+L 12/28/2019 - 20:43:24: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><>" STEAM USERID validated
+L 12/28/2019 - 20:43:35: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><>" entered the game
+L 12/28/2019 - 20:43:43: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><>" joined team "TERRORIST"
+L 12/28/2019 - 20:43:45: Team "TERRORIST" triggered "Target_Bombed" (CT "1") (T "5")
+L 12/28/2019 - 20:43:45: World triggered "Round_End"
+L 12/28/2019 - 20:43:50: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:43:51: World triggered "Round_Start"
+L 12/28/2019 - 20:44:37: "8==F<205><STEAM_1:0:365614513><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:44:44: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:44:56: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:44:56: World triggered "Round_Draw" (CT "1") (T "5")
+L 12/28/2019 - 20:44:56: World triggered "Round_End"
+L 12/28/2019 - 20:45:01: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:45:02: World triggered "Round_Start"
+L 12/28/2019 - 20:45:03: "Why i need a name<209><STEAM_0:1:243975700><>" connected, address "5.173.252.253:55492"
+L 12/28/2019 - 20:45:03: "Why i need a name<209><STEAM_0:1:243975700><>" STEAM USERID validated
+L 12/28/2019 - 20:45:03: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" committed suicide with "world"
+L 12/28/2019 - 20:45:03: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" joined team "CT"
+L 12/28/2019 - 20:45:04: World triggered "Game_Commencing"
+L 12/28/2019 - 20:45:04: World triggered "Game_Commencing" (CT "1") (T "5")
+L 12/28/2019 - 20:45:04: World triggered "Round_End"
+L 12/28/2019 - 20:45:07: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:45:08: World triggered "Round_Start"
+L 12/28/2019 - 20:45:21: "JP100％<210><STEAM_0:1:108592592><>" connected, address "5.173.236.79:9880"
+L 12/28/2019 - 20:45:22: "JP100％<210><STEAM_0:1:108592592><>" STEAM USERID validated
+L 12/28/2019 - 20:45:24: "8==F<205><STEAM_1:0:365614513><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:45:33: "JP100％<211><STEAM_0:1:108592592><>" connected, address "5.173.236.79:9880"
+L 12/28/2019 - 20:45:34: "JP100％<211><STEAM_0:1:108592592><>" STEAM USERID validated
+L 12/28/2019 - 20:45:50: "Why i need a name<212><STEAM_0:1:243975700><>" connected, address "5.173.252.253:55492"
+L 12/28/2019 - 20:45:51: "Why i need a name<212><STEAM_0:1:243975700><>" STEAM USERID validated
+L 12/28/2019 - 20:46:01: "Why i need a name<212><STEAM_0:1:243975700><>" entered the game
+L 12/28/2019 - 20:46:05: "Why i need a name<212><STEAM_0:1:243975700><>" joined team "CT"
+L 12/28/2019 - 20:46:11: "JP100％<213><STEAM_0:1:108592592><>" connected, address "5.173.236.79:9880"
+L 12/28/2019 - 20:46:12: "JP100％<213><STEAM_0:1:108592592><>" STEAM USERID validated
+L 12/28/2019 - 20:46:21: "JP100％<213><STEAM_0:1:108592592><>" entered the game
+L 12/28/2019 - 20:46:24: "/// M5<206><STEAM_1:0:603964278><CT>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" with "usp"
+L 12/28/2019 - 20:46:24: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/28/2019 - 20:46:24: World triggered "Round_End"
+L 12/28/2019 - 20:46:29: "8==F<205><STEAM_1:0:365614513><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:46:30: World triggered "Round_Start"
+L 12/28/2019 - 20:46:38: "JP100％<213><STEAM_0:1:108592592><>" joined team "TERRORIST"
+L 12/28/2019 - 20:46:50: "/// M5<206><STEAM_1:0:603964278><CT>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" with "usp"
+L 12/28/2019 - 20:46:55: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "JP100％<213><STEAM_0:1:108592592><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:47:00: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "8==F<205><STEAM_1:0:365614513><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:47:00: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 12/28/2019 - 20:47:00: World triggered "Round_End"
+L 12/28/2019 - 20:47:05: "/// M5<206><STEAM_1:0:603964278><CT>" joined team "TERRORIST"
+L 12/28/2019 - 20:47:05: "<><><>" triggered "amx_chat" (text "[PTB] Transfered /// M5 to TERRORIST")
+L 12/28/2019 - 20:47:05: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:47:06: World triggered "Round_Start"
+L 12/28/2019 - 20:47:31: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" killed "Why i need a name<212><STEAM_0:1:243975700><CT>" with "ak47"
+L 12/28/2019 - 20:47:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 12/28/2019 - 20:47:31: World triggered "Round_End"
+L 12/28/2019 - 20:47:31: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/28/2019 - 20:47:35: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><TERRORIST>" joined team "CT"
+L 12/28/2019 - 20:47:35: "<><><>" triggered "amx_chat" (text "[PTB] Transfered kto ma aima - wypierdala to CT")
+L 12/28/2019 - 20:47:36: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:47:37: World triggered "Round_Start"
+L 12/28/2019 - 20:48:02: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:48:02: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "famas"
+L 12/28/2019 - 20:48:05: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "famas"
+L 12/28/2019 - 20:48:14: "8==F<205><STEAM_1:0:365614513><TERRORIST>" killed "Why i need a name<212><STEAM_0:1:243975700><CT>" with "aug"
+L 12/28/2019 - 20:48:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 12/28/2019 - 20:48:14: World triggered "Round_End"
+L 12/28/2019 - 20:48:19: "8==F<205><STEAM_1:0:365614513><TERRORIST>" joined team "CT"
+L 12/28/2019 - 20:48:19: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 8==F to CT")
+L 12/28/2019 - 20:48:19: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:48:20: World triggered "Round_Start"
+L 12/28/2019 - 20:48:32: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:48:32: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 20:48:41: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" killed "Why i need a name<212><STEAM_0:1:243975700><CT>" with "ak47"
+L 12/28/2019 - 20:49:55: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:50:38: Team "CT" triggered "Target_Saved" (CT "3") (T "2")
+L 12/28/2019 - 20:50:38: World triggered "Round_End"
+L 12/28/2019 - 20:50:39: "drakon zubi<214><STEAM_0:0:163292230><>" connected, address "212.5.158.1:26569"
+L 12/28/2019 - 20:50:39: "drakon zubi<214><STEAM_0:0:163292230><>" STEAM USERID validated
+L 12/28/2019 - 20:50:43: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:50:44: World triggered "Round_Start"
+L 12/28/2019 - 20:50:57: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:51:01: "Maverick<215><STEAM_0:0:37264973><>" connected, address "79.134.63.56:27005"
+L 12/28/2019 - 20:51:01: "Maverick<215><STEAM_0:0:37264973><>" STEAM USERID validated
+L 12/28/2019 - 20:51:03: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" killed "8==F<205><STEAM_1:0:365614513><CT>" with "deagle"
+L 12/28/2019 - 20:51:03: "drakon zubi<216><STEAM_0:0:163292230><>" connected, address "212.5.158.1:39525"
+L 12/28/2019 - 20:51:03: "drakon zubi<216><STEAM_0:0:163292230><>" STEAM USERID validated
+L 12/28/2019 - 20:51:06: "drakon zubi<216><STEAM_0:0:163292230><>" entered the game
+L 12/28/2019 - 20:51:07: "Maverick<215><STEAM_0:0:37264973><>" entered the game
+L 12/28/2019 - 20:51:11: "drakon zubi<216><STEAM_0:0:163292230><>" joined team "TERRORIST"
+L 12/28/2019 - 20:51:11: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "JP100％<213><STEAM_0:1:108592592><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:51:11: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 20:51:17: "8==F<205><STEAM_1:0:365614513><CT>" disconnected
+L 12/28/2019 - 20:51:22: "Maverick<215><STEAM_0:0:37264973><>" joined team "CT"
+L 12/28/2019 - 20:51:35: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:51:35: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 12/28/2019 - 20:51:35: World triggered "Round_End"
+L 12/28/2019 - 20:51:40: "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:51:41: World triggered "Round_Start"
+L 12/28/2019 - 20:52:03: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/28/2019 - 20:52:08: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "JP100％<213><STEAM_0:1:108592592><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:52:18: "Why i need a name<212><STEAM_0:1:243975700><CT>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:52:20: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:52:36: "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/28/2019 - 20:52:41: "Saad<217><STEAM_0:1:113405507><>" connected, address "168.211.118.123:27005"
+L 12/28/2019 - 20:52:42: "Saad<217><STEAM_0:1:113405507><>" STEAM USERID validated
+L 12/28/2019 - 20:52:49: "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:52:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 12/28/2019 - 20:52:49: World triggered "Round_End"
+L 12/28/2019 - 20:52:54: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:52:55: World triggered "Round_Start"
+L 12/28/2019 - 20:53:05: "Saad<217><STEAM_0:1:113405507><>" entered the game
+L 12/28/2019 - 20:53:12: "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/28/2019 - 20:53:14: [REUNION]: BAD BOY (151.237.37.93) authorized as RevEmu
+L 12/28/2019 - 20:53:14: "BAD BOY<218><STEAM_1:0:681183515><>" connected, address "151.237.37.93:1024"
+L 12/28/2019 - 20:53:15: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/28/2019 - 20:53:15: "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:53:16: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:53:22: "BAD BOY<218><STEAM_1:0:681183515><>" entered the game
+L 12/28/2019 - 20:53:26: "Saad<217><STEAM_0:1:113405507><>" joined team "TERRORIST"
+L 12/28/2019 - 20:53:28: "BAD BOY<218><STEAM_1:0:681183515><>" joined team "TERRORIST"
+L 12/28/2019 - 20:53:31: "Why i need a name<212><STEAM_0:1:243975700><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:53:32: "Why i need a name<212><STEAM_0:1:243975700><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 12/28/2019 - 20:53:37: "Why i need a name<212><STEAM_0:1:243975700><CT>" triggered "Defused_The_Bomb"
+L 12/28/2019 - 20:53:37: Team "CT" triggered "Bomb_Defused" (CT "5") (T "3")
+L 12/28/2019 - 20:53:37: World triggered "Round_End"
+L 12/28/2019 - 20:53:41: "JP100％<213><STEAM_0:1:108592592><TERRORIST>" joined team "CT"
+L 12/28/2019 - 20:53:41: "<><><>" triggered "amx_chat" (text "[PTB] Transfered JP100％ to CT")
+L 12/28/2019 - 20:53:42: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:53:43: World triggered "Round_Start"
+L 12/28/2019 - 20:53:52: "drakon zubi<216><STEAM_0:0:163292230><TERRORIST>" changed name to "ogan drakon - furchikopter"
+L 12/28/2019 - 20:53:54: "Why i need a name<212><STEAM_0:1:243975700><CT>" committed suicide with "worldspawn" (world)
+L 12/28/2019 - 20:54:01: "JP100％<213><STEAM_0:1:108592592><CT>" killed "Saad<217><STEAM_0:1:113405507><TERRORIST>" with "ak47"
+L 12/28/2019 - 20:54:03: "JP100％<213><STEAM_0:1:108592592><CT>" killed "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" with "ak47"
+L 12/28/2019 - 20:54:12: "Maverick<215><STEAM_0:0:37264973><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "usp"
+L 12/28/2019 - 20:54:12: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 20:54:34: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:54:39: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" triggered "Got_The_Bomb"
+L 12/28/2019 - 20:54:59: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/28/2019 - 20:55:23: "JP100％<213><STEAM_0:1:108592592><CT>" killed "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" with "ak47"
+L 12/28/2019 - 20:55:26: "JP100％<213><STEAM_0:1:108592592><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 12/28/2019 - 20:55:31: "JP100％<213><STEAM_0:1:108592592><CT>" triggered "Defused_The_Bomb"
+L 12/28/2019 - 20:55:31: Team "CT" triggered "Bomb_Defused" (CT "6") (T "3")
+L 12/28/2019 - 20:55:31: World triggered "Round_End"
+L 12/28/2019 - 20:55:36: "Why i need a name<212><STEAM_0:1:243975700><CT>" joined team "TERRORIST"
+L 12/28/2019 - 20:55:36: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Why i need a name to TERRORIST")
+L 12/28/2019 - 20:55:36: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:55:37: World triggered "Round_Start"
+L 12/28/2019 - 20:55:59: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "scout"
+L 12/28/2019 - 20:56:06: "Why i need a name<212><STEAM_0:1:243975700><TERRORIST>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:56:09: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:56:14: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "Saad<217><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:56:18: "Why i need a name<212><STEAM_0:1:243975700><TERRORIST>" joined team "CT"
+L 12/28/2019 - 20:56:19: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:56:19: "JP100％<213><STEAM_0:1:108592592><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "deagle"
+L 12/28/2019 - 20:56:19: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 20:56:30: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "JP100％<213><STEAM_0:1:108592592><CT>" with "ak47"
+L 12/28/2019 - 20:56:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 12/28/2019 - 20:56:30: World triggered "Round_End"
+L 12/28/2019 - 20:56:35: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:56:36: World triggered "Round_Start"
+L 12/28/2019 - 20:56:49: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "JP100％<213><STEAM_0:1:108592592><CT>" with "scout"
+L 12/28/2019 - 20:56:57: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:57:04: "Why i need a name<212><STEAM_0:1:243975700><CT>" committed suicide with "the block of death" (world)
+L 12/28/2019 - 20:57:40: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/28/2019 - 20:57:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "5")
+L 12/28/2019 - 20:57:40: World triggered "Round_End"
+L 12/28/2019 - 20:57:45: "Saad<217><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:57:46: World triggered "Round_Start"
+L 12/28/2019 - 20:57:54: "Maverick<215><STEAM_0:0:37264973><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "usp"
+L 12/28/2019 - 20:58:06: "Why i need a name<212><STEAM_0:1:243975700><CT>" committed suicide with "worldspawn" (world)
+L 12/28/2019 - 20:58:07: "Saad<217><STEAM_0:1:113405507><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 20:58:07: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" triggered "Got_The_Bomb"
+L 12/28/2019 - 20:58:21: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "JP100％<213><STEAM_0:1:108592592><CT>" with "ak47"
+L 12/28/2019 - 20:58:30: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 20:58:32: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/28/2019 - 20:58:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "6")
+L 12/28/2019 - 20:58:32: World triggered "Round_End"
+L 12/28/2019 - 20:58:37: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:58:38: World triggered "Round_Start"
+L 12/28/2019 - 20:58:46: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:58:52: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "Why i need a name<212><STEAM_0:1:243975700><CT>" with "glock18"
+L 12/28/2019 - 20:58:54: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" killed "JP100％<213><STEAM_0:1:108592592><CT>" with "ak47"
+L 12/28/2019 - 20:58:57: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:59:11: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "/// M5<206><STEAM_1:0:603964278><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:59:11: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 20:59:25: "Maverick<215><STEAM_0:0:37264973><CT>" killed "Saad<217><STEAM_0:1:113405507><TERRORIST>" with "usp"
+L 12/28/2019 - 20:59:25: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 12/28/2019 - 20:59:25: World triggered "Round_End"
+L 12/28/2019 - 20:59:30: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 20:59:30: "ogan drakon - furchikopter<216><STEAM_0:0:163292230><TERRORIST>" changed name to "how2beLEGiT.com"
+L 12/28/2019 - 20:59:31: World triggered "Round_Start"
+L 12/28/2019 - 20:59:37: "JP100％<213><STEAM_0:1:108592592><CT>" committed suicide with "worldspawn" (world)
+L 12/28/2019 - 20:59:40: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "Saad<217><STEAM_0:1:113405507><TERRORIST>" with "m4a1"
+L 12/28/2019 - 20:59:47: "how2beLEGiT.com<216><STEAM_0:0:163292230><TERRORIST>" killed "Why i need a name<212><STEAM_0:1:243975700><CT>" with "ak47"
+L 12/28/2019 - 20:59:57: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/28/2019 - 21:00:05: "how2beLEGiT.com<216><STEAM_0:0:163292230><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "m4a1"
+L 12/28/2019 - 21:00:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 12/28/2019 - 21:00:05: World triggered "Round_End"
+L 12/28/2019 - 21:00:10: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 21:00:11: World triggered "Round_Start"
+L 12/28/2019 - 21:00:23: "how2beLEGiT.com<216><STEAM_0:0:163292230><TERRORIST>" killed "JP100％<213><STEAM_0:1:108592592><CT>" with "m4a1"
+L 12/28/2019 - 21:00:23: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" with "m4a1"
+L 12/28/2019 - 21:00:23: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/28/2019 - 21:00:35: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "Why i need a name<212><STEAM_0:1:243975700><CT>" with "ak47"
+L 12/28/2019 - 21:00:35: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" killed "how2beLEGiT.com<216><STEAM_0:0:163292230><TERRORIST>" with "m4a1"
+L 12/28/2019 - 21:01:05: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" with "ak47"
+L 12/28/2019 - 21:01:07: Server cvar "amx_nextmap" = "awesome_cars"
+L 12/28/2019 - 21:01:15: "Saad<217><STEAM_0:1:113405507><TERRORIST>" committed suicide with "world"
+L 12/28/2019 - 21:01:53: "Why i need a name<212><STEAM_0:1:243975700><CT>" disconnected
+L 12/28/2019 - 21:02:00: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" killed "Maverick<215><STEAM_0:0:37264973><CT>" with "ak47"
+L 12/28/2019 - 21:02:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "8")
+L 12/28/2019 - 21:02:00: World triggered "Round_End"
+L 12/28/2019 - 21:02:02: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><CT>" joined team "SPECTATOR"
+L 12/28/2019 - 21:02:04: "how2beLEGiT.com<216><STEAM_0:0:163292230><TERRORIST>" joined team "CT"
+L 12/28/2019 - 21:02:04: "<><><>" triggered "amx_chat" (text "[PTB] Transfered how2beLEGiT.com to CT")
+L 12/28/2019 - 21:02:05: "Saad<217><STEAM_0:1:113405507><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/28/2019 - 21:02:06: World triggered "Round_Start"
+L 12/28/2019 - 21:02:06: Server cvar "sv_maxspeed" = "0.000000"
+L 12/28/2019 - 21:02:06: Server cvar "mp_friendlyfire" = "1"
+L 12/28/2019 - 21:02:09: "kto ma aima - wypierdala<208><STEAM_0:1:176532502><SPECTATOR>" disconnected
+L 12/28/2019 - 21:02:12: Server cvar "sv_maxspeed" = "900.000000"
+L 12/28/2019 - 21:02:12: Server cvar "mp_friendlyfire" = "0"
+L 12/28/2019 - 21:02:12: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: AMX Mod X
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: Reunion
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: ReAuthCheck
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: WHBlocker
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: ReSemiclip
+L 12/28/2019 - 21:02:12: [META] ini: Read plugin config for: Revoice
+L 12/28/2019 - 21:02:12: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/28/2019 - 21:02:12: [META] dll: Updating plugins...
+L 12/28/2019 - 21:02:12: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/28/2019 - 21:02:12: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/28/2019 - 21:02:12: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/28/2019 - 21:02:12: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/28/2019 - 21:02:12: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/28/2019 - 21:02:12: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/28/2019 - 21:02:12: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/28/2019 - 21:02:12: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/28/2019 - 21:02:12: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/28/2019 - 21:02:12: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/28/2019 - 21:02:12: "Saad<217><STEAM_0:1:113405507><TERRORIST>" disconnected
+L 12/28/2019 - 21:02:12: "/// M5<206><STEAM_1:0:603964278><TERRORIST>" disconnected
+L 12/28/2019 - 21:02:12: "JP100％<213><STEAM_0:1:108592592><CT>" disconnected
+L 12/28/2019 - 21:02:12: "how2beLEGiT.com<216><STEAM_0:0:163292230><CT>" disconnected
+L 12/28/2019 - 21:02:12: "Maverick<215><STEAM_0:0:37264973><CT>" disconnected
+L 12/28/2019 - 21:02:12: "BAD BOY<218><STEAM_1:0:681183515><TERRORIST>" disconnected
+L 12/28/2019 - 21:02:12: World triggered "Round_Draw" (CT "7") (T "8")
+L 12/28/2019 - 21:02:12: World triggered "Round_End"
+L 12/28/2019 - 21:02:12: Log file closed

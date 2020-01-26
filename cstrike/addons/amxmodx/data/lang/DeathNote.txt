@@ -1,0 +1,59 @@
+[en]
+HELP_LINE_1 = Set note: !g/note set <note>
+HELP_LINE_2 = Remove note: !g/note remove
+HELP_LINE_3 = Current note: !g/note current
+NOTE_SET_ERR = The note you entered is blank! Use !g/note set <note>
+NOTE_SET = Death Note set to: !g%s
+NOTE_REMOVE_ERR = You can't remove a !gDeath Note !nunless you have one!
+NOTE_REMOVE = You have successfully removed your !gDeath Note!n!
+NOTE_CURRENT_ERR = You currently don't have a !tDeath Note!n. Use !t/note set <note> !nto set one.
+NOTE_CURRENT = Your current note is: !g%s
+NOTE_NOACCESS = You have no access to this command!
+NOTE_LOAD = Settings reloaded!
+NOTE_USAGE_ADMIN = Usage: !g/note %s <player>
+NOTE_NOTFOUND = Player not found or has immunity.
+NOTE_NOTHAVE = !t%s !ndoesn't have a !gDeath Note!n!
+NOTE_DELETE_SUCCESS = You have successfully removed !t%s!n's !gDeath Note!n!
+NOTE_DELETE_NOTIFY = !t%s !nhas removed your !gDeath Note!n!
+NOTE_PLAYER = !t%s!n's !gDeath Note !nis: !g%s
+NOTE_USAGE = Usage: !g/note <set/remove/current/help/load/delete/player> [note]
+
+[mk]
+HELP_LINE_1 = Podesi pozdrav: !g/note set <pozdrav>
+HELP_LINE_2 = Otstrani pozdrav: !g/note remove
+HELP_LINE_3 = Momentalen pozdrav: !g/note current
+NOTE_SET_ERR = Vneseniot pozdrav e prazen! Koristete !g/note set <pozdrav>
+NOTE_SET = Pozdravot e podesen: !g%s
+NOTE_REMOVE_ERR = Ne mozesh da go trgnesh !gpozdravot !nako prethodno ne si go podesil!
+NOTE_REMOVE = Uspeshno go otstrani svojot !gpozdrav!n!
+NOTE_CURRENT_ERR = Momentalno nemash !tsopstven pozdrav!n. Koristi !t/note set <pozdrav> !nza da go podesish.
+NOTE_CURRENT = Tvojot momentalen pozdrav: !g%s
+NOTE_NOACCESS = Nemash dostap do ovaa komanda!
+NOTE_LOAD = Podesuvanjata se prevchitani!
+NOTE_USAGE_ADMIN = Upotreba: !g/note %s <igrach>
+NOTE_NOTFOUND = Igrachot ne e pronajden ili ima imunitet.
+NOTE_NOTHAVE = !t%s !nnema !gpodesen pozdrav!n!
+NOTE_DELETE_SUCCESS = Uspeshno go otstrani !gpozdravot !nna !t%s!n!
+NOTE_DELETE_NOTIFY = !t%s !ngo otstrani !gtvojot pozdrav!n!
+NOTE_PLAYER = !gPozdravot !nna !t%s !ne: !g%s
+NOTE_USAGE = Upotreba: !g/note <set/remove/current/help/load/delete/player> [pozdrav]
+
+[bg]
+HELP_LINE_1 = Nastroi pozdrav: !g/note set <pozdrav>
+HELP_LINE_2 = Premahni pozdrav: !g/note remove
+HELP_LINE_3 = Tekusht pozdrav: !g/note current
+NOTE_SET_ERR = Vuvedeniqt pozdrav e prazen! Polzvaite !g/note set <pozdrav>
+NOTE_SET = Vashiqt pozdrav e nastroen: !g%s
+NOTE_REMOVE_ERR = Ne mojesh da premahnesh !gpozdrava si !nako predi ne si go nastroil!
+NOTE_REMOVE = Uspeshno premahna !gpozdrava si!n!
+NOTE_CURRENT_ERR = V momenta nqmash !tsobstven pozdrav!n. Izpolzvai !t/note set <pozdrav> !nza da go nastroish.
+NOTE_CURRENT = Tekushtiqt ti pozdrav e: !g%s
+NOTE_NOACCESS = Nqmash dostup do tazi komanda!
+NOTE_LOAD = Nastroikite sa prezaredeni!
+NOTE_USAGE_ADMIN = Upotreba: !g/note %s <igrach>
+NOTE_NOTFOUND = Igrachut ne e nameren ili ima imunitet.
+NOTE_NOTHAVE = !t%s !nnqma !gsobstven pozdrav!n!
+NOTE_DELETE_SUCCESS = Uspeshno premahna !gpozdrava !nna !t%s!n!
+NOTE_DELETE_NOTIFY = !t%s !npremahna !gsobstveniq pozdrav!n!
+NOTE_PLAYER = !gPozdravut !nna !t%s !ne: !g%s
+NOTE_USAGE = Upotreba: !g/note <set/remove/current/help/load/delete/player> [pozdrav]

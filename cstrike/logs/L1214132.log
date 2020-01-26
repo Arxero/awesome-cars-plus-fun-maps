@@ -1,0 +1,787 @@
+L 12/14/2019 - 11:43:58: Log file started (file "logs/L1214132.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/14/2019 - 11:43:58: Loading map "nojarq_fun_zone"
+L 12/14/2019 - 11:43:58: Server cvars start
+L 12/14/2019 - 11:43:58: Server cvar "@BunnyHopper" = "3.x"
+L 12/14/2019 - 11:43:58: Server cvar "@CRXGoSpec" = "1.1"
+L 12/14/2019 - 11:43:58: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "@D.I.C.E." = "1.1"
+L 12/14/2019 - 11:43:58: Server cvar "@MOTDCommands" = "1.2"
+L 12/14/2019 - 11:43:58: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/14/2019 - 11:43:58: Server cvar "AdvancedMute" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "aesp_version" = "1.3"
+L 12/14/2019 - 11:43:58: Server cvar "allow_spectators" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "amx_client_languages" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "amx_language" = "en"
+L 12/14/2019 - 11:43:58: Server cvar "amx_nextmap" = "nojarq_fun_zone"
+L 12/14/2019 - 11:43:58: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/14/2019 - 11:43:58: Server cvar "amx_timeleft" = "09:25"
+L 12/14/2019 - 11:43:58: Server cvar "amxmodx_version" = "1.8.2"
+L 12/14/2019 - 11:43:58: Server cvar "amxxbg_vip" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "asp_version" = "4.5.1"
+L 12/14/2019 - 11:43:58: Server cvar "atac_version" = "3.0.1"
+L 12/14/2019 - 11:43:58: Server cvar "badcamper_version" = "1.4 beta"
+L 12/14/2019 - 11:43:58: Server cvar "blockmaker" = "4.01"
+L 12/14/2019 - 11:43:58: Server cvar "c4 timer" = "1.1"
+L 12/14/2019 - 11:43:58: Server cvar "coop" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "CRXAdminGroups" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "CRXFastKnife" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "CRXGametracker" = "2.0"
+L 12/14/2019 - 11:43:58: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/14/2019 - 11:43:58: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "CustomShop" = "4.2"
+L 12/14/2019 - 11:43:58: Server cvar "deathmatch" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "decalfrequency" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "edgefriction" = "2"
+L 12/14/2019 - 11:43:58: Server cvar "ers_version" = "2.3c"
+L 12/14/2019 - 11:43:58: Server cvar "gagsystem_shoko" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/14/2019 - 11:43:58: Server cvar "gal_version" = "v5.9.1-926"
+L 12/14/2019 - 11:43:58: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/14/2019 - 11:43:58: Server cvar "humans_join_team" = "any"
+L 12/14/2019 - 11:43:58: Server cvar "jtp10181" = "chute,gore"
+L 12/14/2019 - 11:43:58: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/14/2019 - 11:43:58: Server cvar "LetitSnow" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/14/2019 - 11:43:58: Server cvar "max_queries_sec" = "3"
+L 12/14/2019 - 11:43:58: Server cvar "max_queries_sec_global" = "150"
+L 12/14/2019 - 11:43:58: Server cvar "max_queries_window" = "60"
+L 12/14/2019 - 11:43:58: Server cvar "mdbBans" = "4.8"
+L 12/14/2019 - 11:43:58: Server cvar "metamod_version" = "1.21p37"
+L 12/14/2019 - 11:43:58: Server cvar "mp_autokick" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_autokick_timeout" = "-1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_autoteambalance" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_buytime" = "0.25"
+L 12/14/2019 - 11:43:58: Server cvar "mp_c4timer" = "35"
+L 12/14/2019 - 11:43:58: Server cvar "mp_chattime" = "10"
+L 12/14/2019 - 11:43:58: Server cvar "mp_consistency" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_fadetoblack" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_flashlight" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_footsteps" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_forcecamera" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_forcechasecam" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_forcerespawn" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_fraglimit" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_fragsleft" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_freeforall" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_freezetime" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_friendlyfire" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_hostage_hurtable" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_hostagepenalty" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_item_staytime" = "300"
+L 12/14/2019 - 11:43:58: Server cvar "mp_kickpercent" = "0.66"
+L 12/14/2019 - 11:43:58: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_limitteams" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_logdetail" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_logfile" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_logmessages" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/14/2019 - 11:43:58: Server cvar "mp_maxmoney" = "999999"
+L 12/14/2019 - 11:43:58: Server cvar "mp_maxrounds" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_mirrordamage" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_playerid" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_round_infinite" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_round_restart_delay" = "5"
+L 12/14/2019 - 11:43:58: Server cvar "mp_roundover" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_roundtime" = "2.3"
+L 12/14/2019 - 11:43:58: Server cvar "mp_show_radioicon" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_startmoney" = "850"
+L 12/14/2019 - 11:43:58: Server cvar "mp_timeleft" = "09:25"
+L 12/14/2019 - 11:43:58: Server cvar "mp_timelimit" = "20"
+L 12/14/2019 - 11:43:58: Server cvar "mp_tkpunish" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "mp_windifference" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "mp_winlimit" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/14/2019 - 11:43:58: Server cvar "pausable" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "present_version" = "2.01"
+L 12/14/2019 - 11:43:58: Server cvar "RandomHP" = "2.2"
+L 12/14/2019 - 11:43:58: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/14/2019 - 11:43:58: Server cvar "reconnect_features" = "0.3.1"
+L 12/14/2019 - 11:43:58: Server cvar "report_system_version" = "3.1"
+L 12/14/2019 - 11:43:58: Server cvar "resemiclip_version" = "2.3.9"
+L 12/14/2019 - 11:43:58: Server cvar "reu_version" = "0.1.0.130"
+L 12/14/2019 - 11:43:58: Server cvar "revoice_version" = "0.1.0.30"
+L 12/14/2019 - 11:43:58: Server cvar "RRWM" = "2.0"
+L 12/14/2019 - 11:43:58: Server cvar "sanksounds_version" = "1.8.6"
+L 12/14/2019 - 11:43:58: Server cvar "SimpleMenu" = "1.1"
+L 12/14/2019 - 11:43:58: Server cvar "SNAC_Version" = "1.1"
+L 12/14/2019 - 11:43:58: Server cvar "SpecList" = "1.2a"
+L 12/14/2019 - 11:43:58: Server cvar "sr_version" = "1.6"
+L 12/14/2019 - 11:43:58: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/14/2019 - 11:43:58: Server cvar "StyleC4Timer" = "2.1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_accelerate" = "5"
+L 12/14/2019 - 11:43:58: Server cvar "sv_aim" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_airaccelerate" = "100"
+L 12/14/2019 - 11:43:58: Server cvar "sv_allowupload" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_alltalk" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_bounce" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_cheats" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "sv_clienttrace" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/14/2019 - 11:43:58: Server cvar "sv_friction" = "4"
+L 12/14/2019 - 11:43:58: Server cvar "sv_gravity" = "800"
+L 12/14/2019 - 11:43:58: Server cvar "sv_logblocks" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "sv_maxrate" = "50000"
+L 12/14/2019 - 11:43:58: Server cvar "sv_maxspeed" = "900.000000"
+L 12/14/2019 - 11:43:58: Server cvar "sv_minrate" = "10000"
+L 12/14/2019 - 11:43:58: Server cvar "sv_password" = ""
+L 12/14/2019 - 11:43:58: Server cvar "sv_proxies" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_restart" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "sv_restartround" = "0"
+L 12/14/2019 - 11:43:58: Server cvar "sv_stepsize" = "18"
+L 12/14/2019 - 11:43:58: Server cvar "sv_stopspeed" = "75"
+L 12/14/2019 - 11:43:58: Server cvar "sv_uploadmax" = "0.5"
+L 12/14/2019 - 11:43:58: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/14/2019 - 11:43:58: Server cvar "sv_voiceenable" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "sv_wateraccelerate" = "10"
+L 12/14/2019 - 11:43:58: Server cvar "sv_waterfriction" = "1"
+L 12/14/2019 - 11:43:58: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/14/2019 - 11:43:58: Server cvar "vehicle_real_killer" = "1.1"
+L 12/14/2019 - 11:43:58: Server cvar "WalkGuard" = "1.3.2"
+L 12/14/2019 - 11:43:58: Server cvar "we_grenades" = "Huehue"
+L 12/14/2019 - 11:43:58: Server cvar "we_player_models" = "Huehue"
+L 12/14/2019 - 11:43:58: Server cvar "whb_version" = "1.5.692"
+L 12/14/2019 - 11:43:58: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/14/2019 - 11:43:58: Server cvars end
+L 12/14/2019 - 11:44:01: Server cvar "sv_maxspeed" = "900"
+L 12/14/2019 - 11:44:01: Server cvar "mp_autoteambalance" = "1"
+L 12/14/2019 - 11:44:01: Server cvar "mp_autoteambalance" = "0"
+L 12/14/2019 - 11:44:01: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/14/2019 - 11:44:02: Started map "nojarq_fun_zone" (CRC "-2030338303")
+L 12/14/2019 - 11:44:04: World triggered "Round_Start"
+L 12/14/2019 - 11:44:06: [REUNION]: turbo (77.77.166.176) authorized as RevEmu
+L 12/14/2019 - 11:44:06: "turbo<22><STEAM_2:1:24722080><>" connected, address "77.77.166.176:27005"
+L 12/14/2019 - 11:44:07: "XxXgeorgiXxX :)<20><STEAM_1:1:1289710602><>" entered the game
+L 12/14/2019 - 11:44:10: "turbo<22><STEAM_2:1:24722080><>" entered the game
+L 12/14/2019 - 11:44:13: "turbo<22><STEAM_2:1:24722080><>" joined team "CT"
+L 12/14/2019 - 11:44:19: "fun da king<19><STEAM_1:0:1655898477><>" entered the game
+L 12/14/2019 - 11:44:28: Kick: "XxXgeorgiXxX :)<20><STEAM_1:1:1289710602><>" was kicked by "Console" (message "Error! Idle Timeout (9).")
+L 12/14/2019 - 11:44:28: "XxXgeorgiXxX :)<20><STEAM_1:1:1289710602><>" disconnected
+L 12/14/2019 - 11:44:34: "fun da king<19><STEAM_1:0:1655898477><>" joined team "TERRORIST"
+L 12/14/2019 - 11:44:34: World triggered "Game_Commencing"
+L 12/14/2019 - 11:44:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/14/2019 - 11:44:34: World triggered "Round_End"
+L 12/14/2019 - 11:44:38: World triggered "Round_Start"
+L 12/14/2019 - 11:45:12: [REUNION]: XxXgeorgiXxX :) (93.155.192.142) authorized as RevEmu
+L 12/14/2019 - 11:45:12: "XxXgeorgiXxX :)<23><STEAM_1:1:1289710602><>" connected, address "93.155.192.142:27005"
+L 12/14/2019 - 11:45:15: "XxXgeorgiXxX :)<23><STEAM_1:1:1289710602><>" entered the game
+L 12/14/2019 - 11:45:16: "XxXgeorgiXxX :)<23><STEAM_1:1:1289710602><>" joined team "TERRORIST"
+L 12/14/2019 - 11:45:21: [REUNION]: Player (188.255.184.74) authorized as RevEmu
+L 12/14/2019 - 11:45:21: "Player<24><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/14/2019 - 11:45:29: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "world"
+L 12/14/2019 - 11:45:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/14/2019 - 11:45:29: World triggered "Round_End"
+L 12/14/2019 - 11:45:35: World triggered "Round_Start"
+L 12/14/2019 - 11:45:55: [REUNION]: Player (188.255.184.74) authorized as RevEmu
+L 12/14/2019 - 11:45:55: "Player<25><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/14/2019 - 11:45:56: "turbo<22><STEAM_2:1:24722080><CT>" killed "fun da king<19><STEAM_1:0:1655898477><TERRORIST>" with "tracktrain"
+L 12/14/2019 - 11:46:16: "Player<25><STEAM_1:1:1071071391><>" entered the game
+L 12/14/2019 - 11:46:21: "Player<25><STEAM_1:1:1071071391><>" joined team "CT"
+L 12/14/2019 - 11:46:35: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<23><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 11:46:35: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 12/14/2019 - 11:46:35: World triggered "Round_End"
+L 12/14/2019 - 11:46:41: World triggered "Round_Start"
+L 12/14/2019 - 11:47:00: "Player<25><STEAM_1:1:1071071391><CT>" disconnected
+L 12/14/2019 - 11:47:00: [REUNION]: Player (188.255.184.74) authorized as RevEmu
+L 12/14/2019 - 11:47:00: "Player<26><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/14/2019 - 11:47:02: [REUNION]: <Warrior> Player (82.211.172.207) authorized as RevEmu
+L 12/14/2019 - 11:47:02: "<Warrior> Player<27><STEAM_2:0:730224424><>" connected, address "82.211.172.207:27005"
+L 12/14/2019 - 11:47:09: "Player<26><STEAM_1:1:1071071391><>" entered the game
+L 12/14/2019 - 11:47:11: "XxXgeorgiXxX :)<23><STEAM_1:1:1289710602><TERRORIST>" disconnected
+L 12/14/2019 - 11:47:12: "Player<26><STEAM_1:1:1071071391><>" joined team "CT"
+L 12/14/2019 - 11:47:17: [REUNION]: <Warrior> Player (82.211.172.207) authorized as RevEmu
+L 12/14/2019 - 11:47:17: "<Warrior> Player<28><STEAM_2:0:730224424><>" connected, address "82.211.172.207:27005"
+L 12/14/2019 - 11:47:20: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 330)
+L 12/14/2019 - 11:47:26: [REUNION]: XxXgeorgiXxX :) (93.155.192.142) authorized as RevEmu
+L 12/14/2019 - 11:47:26: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><>" connected, address "93.155.192.142:27005"
+L 12/14/2019 - 11:47:29: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><>" entered the game
+L 12/14/2019 - 11:47:29: "turbo<22><STEAM_2:1:24722080><CT>" killed "fun da king<19><STEAM_1:0:1655898477><TERRORIST>" with "knife"
+L 12/14/2019 - 11:47:29: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/14/2019 - 11:47:29: World triggered "Round_End"
+L 12/14/2019 - 11:47:31: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><>" joined team "TERRORIST"
+L 12/14/2019 - 11:47:35: World triggered "Round_Start"
+L 12/14/2019 - 11:47:58: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 11:48:13: "Player<26><STEAM_1:1:1071071391><CT>" disconnected
+L 12/14/2019 - 11:48:13: [REUNION]: Player (188.255.184.74) authorized as RevEmu
+L 12/14/2019 - 11:48:13: "Player<30><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/14/2019 - 11:48:21: "Player<30><STEAM_1:1:1071071391><>" entered the game
+L 12/14/2019 - 11:48:24: "Player<30><STEAM_1:1:1071071391><>" joined team "TERRORIST"
+L 12/14/2019 - 11:48:26: "turbo<22><STEAM_2:1:24722080><CT>" killed "fun da king<19><STEAM_1:0:1655898477><TERRORIST>" with "tracktrain"
+L 12/14/2019 - 11:48:26: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 12/14/2019 - 11:48:26: World triggered "Round_End"
+L 12/14/2019 - 11:48:32: World triggered "Round_Start"
+L 12/14/2019 - 11:48:45: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:48:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 12/14/2019 - 11:48:45: World triggered "Round_End"
+L 12/14/2019 - 11:48:51: World triggered "Round_Start"
+L 12/14/2019 - 11:49:01: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 11:49:08: "fun da king<19><STEAM_1:0:1655898477><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:49:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 12/14/2019 - 11:49:08: World triggered "Round_End"
+L 12/14/2019 - 11:49:14: World triggered "Round_Start"
+L 12/14/2019 - 11:49:21: "Player<30><STEAM_1:1:1071071391><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 11:49:56: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:49:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 12/14/2019 - 11:49:56: World triggered "Round_End"
+L 12/14/2019 - 11:50:01: "fun da king<19><STEAM_1:0:1655898477><TERRORIST>" joined team "CT"
+L 12/14/2019 - 11:50:01: "<><><>" triggered "amx_chat" (text "[PTB] Transfered fun da king to CT")
+L 12/14/2019 - 11:50:01: "Player<30><STEAM_1:1:1071071391><TERRORIST>" changed name to "HuNt3r"
+L 12/14/2019 - 11:50:02: World triggered "Round_Start"
+L 12/14/2019 - 11:50:33: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 11:50:36: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "fun da king<19><STEAM_1:0:1655898477><CT>" with "tracktrain"
+L 12/14/2019 - 11:50:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 12/14/2019 - 11:50:36: World triggered "Round_End"
+L 12/14/2019 - 11:50:40: "fun da king<19><STEAM_1:0:1655898477><CT>" disconnected
+L 12/14/2019 - 11:50:42: World triggered "Round_Start"
+L 12/14/2019 - 11:50:53: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:50:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 12/14/2019 - 11:50:53: World triggered "Round_End"
+L 12/14/2019 - 11:50:59: World triggered "Round_Start"
+L 12/14/2019 - 11:51:06: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 11:51:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "7")
+L 12/14/2019 - 11:51:06: World triggered "Round_End"
+L 12/14/2019 - 11:51:12: World triggered "Round_Start"
+L 12/14/2019 - 11:51:36: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "tracktrain"
+L 12/14/2019 - 11:51:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "8")
+L 12/14/2019 - 11:51:36: World triggered "Round_End"
+L 12/14/2019 - 11:51:36: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" with "tracktrain"
+L 12/14/2019 - 11:51:42: World triggered "Round_Start"
+L 12/14/2019 - 11:52:20: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 11:52:45: "turbo<22><STEAM_2:1:24722080><CT>" killed "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" with "tracktrain"
+L 12/14/2019 - 11:52:45: Team "CT" triggered "CTs_Win" (CT "4") (T "8")
+L 12/14/2019 - 11:52:45: World triggered "Round_End"
+L 12/14/2019 - 11:52:51: World triggered "Round_Start"
+L 12/14/2019 - 11:53:05: "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:53:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "9")
+L 12/14/2019 - 11:53:05: World triggered "Round_End"
+L 12/14/2019 - 11:53:11: World triggered "Round_Start"
+L 12/14/2019 - 11:53:25: "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:53:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "10")
+L 12/14/2019 - 11:53:25: World triggered "Round_End"
+L 12/14/2019 - 11:53:31: World triggered "Round_Start"
+L 12/14/2019 - 11:53:42: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 11:53:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "11")
+L 12/14/2019 - 11:53:42: World triggered "Round_End"
+L 12/14/2019 - 11:53:48: World triggered "Round_Start"
+L 12/14/2019 - 11:54:02: "turbo<22><STEAM_2:1:24722080><CT>" killed "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 11:54:20: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 11:54:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "12")
+L 12/14/2019 - 11:54:20: World triggered "Round_End"
+L 12/14/2019 - 11:54:26: World triggered "Round_Start"
+L 12/14/2019 - 11:55:30: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 11:55:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "13")
+L 12/14/2019 - 11:55:58: World triggered "Round_End"
+L 12/14/2019 - 11:56:04: World triggered "Round_Start"
+L 12/14/2019 - 11:56:11: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "tracktrain"
+L 12/14/2019 - 11:56:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "14")
+L 12/14/2019 - 11:56:11: World triggered "Round_End"
+L 12/14/2019 - 11:56:17: World triggered "Round_Start"
+L 12/14/2019 - 11:56:39: "turbo<22><STEAM_2:1:24722080><CT>" killed "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" with "tracktrain"
+L 12/14/2019 - 11:56:45: "HuNt3r<30><STEAM_1:1:1071071391><TERRORIST>" disconnected
+L 12/14/2019 - 11:56:53: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 11:56:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "15")
+L 12/14/2019 - 11:56:53: World triggered "Round_End"
+L 12/14/2019 - 11:56:59: World triggered "Round_Start"
+L 12/14/2019 - 11:57:08: [REUNION]: fun da king (85.130.9.158) authorized as RevEmu
+L 12/14/2019 - 11:57:08: "fun da king<31><STEAM_1:0:1655898477><>" connected, address "85.130.9.158:27005"
+L 12/14/2019 - 11:57:16: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 11:57:16: Team "CT" triggered "CTs_Win" (CT "5") (T "15")
+L 12/14/2019 - 11:57:16: World triggered "Round_End"
+L 12/14/2019 - 11:57:22: World triggered "Round_Start"
+L 12/14/2019 - 11:57:31: "fun da king<31><STEAM_1:0:1655898477><>" entered the game
+L 12/14/2019 - 11:57:43: "fun da king<31><STEAM_1:0:1655898477><>" joined team "CT"
+L 12/14/2019 - 11:58:04: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 11:58:04: Team "CT" triggered "CTs_Win" (CT "6") (T "15")
+L 12/14/2019 - 11:58:04: World triggered "Round_End"
+L 12/14/2019 - 11:58:04: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 11:58:10: World triggered "Round_Start"
+L 12/14/2019 - 11:58:45: "fun da king<31><STEAM_1:0:1655898477><CT>" committed suicide with "world"
+L 12/14/2019 - 11:58:45: "fun da king<31><STEAM_1:0:1655898477><CT>" joined team "TERRORIST"
+L 12/14/2019 - 11:58:45: World triggered "Game_Commencing"
+L 12/14/2019 - 11:58:45: World triggered "Game_Commencing" (CT "6") (T "15")
+L 12/14/2019 - 11:58:45: World triggered "Round_End"
+L 12/14/2019 - 11:58:49: World triggered "Round_Start"
+L 12/14/2019 - 11:58:55: "fun da king<31><STEAM_1:0:1655898477><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 11:58:55: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/14/2019 - 11:58:55: World triggered "Round_End"
+L 12/14/2019 - 11:58:57: "fun da king<31><STEAM_1:0:1655898477><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 11:59:01: World triggered "Round_Start"
+L 12/14/2019 - 11:59:38: World triggered "Round_Draw" (CT "1") (T "0")
+L 12/14/2019 - 11:59:38: World triggered "Round_End"
+L 12/14/2019 - 11:59:44: World triggered "Round_Start"
+L 12/14/2019 - 12:00:39: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:00:40: World triggered "Game_Commencing"
+L 12/14/2019 - 12:00:40: World triggered "Game_Commencing" (CT "1") (T "0")
+L 12/14/2019 - 12:00:40: World triggered "Round_End"
+L 12/14/2019 - 12:00:44: World triggered "Round_Start"
+L 12/14/2019 - 12:00:53: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "trigger_hurt" (world)
+L 12/14/2019 - 12:00:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/14/2019 - 12:00:53: World triggered "Round_End"
+L 12/14/2019 - 12:00:59: World triggered "Round_Start"
+L 12/14/2019 - 12:01:07: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 12:01:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 12/14/2019 - 12:01:07: World triggered "Round_End"
+L 12/14/2019 - 12:01:13: World triggered "Round_Start"
+L 12/14/2019 - 12:01:30: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 12:01:30: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 12/14/2019 - 12:01:30: World triggered "Round_End"
+L 12/14/2019 - 12:01:36: World triggered "Round_Start"
+L 12/14/2019 - 12:01:53: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:01:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 12/14/2019 - 12:01:53: World triggered "Round_End"
+L 12/14/2019 - 12:01:59: World triggered "Round_Start"
+L 12/14/2019 - 12:02:49: "fun da king<31><STEAM_1:0:1655898477><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:02:55: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "tank"
+L 12/14/2019 - 12:02:55: Team "CT" triggered "CTs_Win" (CT "2") (T "3")
+L 12/14/2019 - 12:02:55: World triggered "Round_End"
+L 12/14/2019 - 12:03:01: World triggered "Round_Start"
+L 12/14/2019 - 12:03:06: "fun da king<31><STEAM_1:0:1655898477><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:03:06: "fun da king<31><STEAM_1:0:1655898477><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 12:03:45: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 327)
+L 12/14/2019 - 12:03:45: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:03:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 12/14/2019 - 12:03:45: World triggered "Round_End"
+L 12/14/2019 - 12:03:51: World triggered "Round_Start"
+L 12/14/2019 - 12:04:05: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:04:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 12/14/2019 - 12:04:05: World triggered "Round_End"
+L 12/14/2019 - 12:04:11: World triggered "Round_Start"
+L 12/14/2019 - 12:04:26: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 12:04:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "6")
+L 12/14/2019 - 12:04:26: World triggered "Round_End"
+L 12/14/2019 - 12:04:32: World triggered "Round_Start"
+L 12/14/2019 - 12:05:47: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:05:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "7")
+L 12/14/2019 - 12:05:47: World triggered "Round_End"
+L 12/14/2019 - 12:05:53: World triggered "Round_Start"
+L 12/14/2019 - 12:06:22: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 12:06:22: Team "CT" triggered "CTs_Win" (CT "3") (T "7")
+L 12/14/2019 - 12:06:22: World triggered "Round_End"
+L 12/14/2019 - 12:06:28: World triggered "Round_Start"
+L 12/14/2019 - 12:07:44: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 12:07:44: Team "CT" triggered "CTs_Win" (CT "4") (T "7")
+L 12/14/2019 - 12:07:44: World triggered "Round_End"
+L 12/14/2019 - 12:07:50: World triggered "Round_Start"
+L 12/14/2019 - 12:09:00: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 12:09:00: Team "CT" triggered "CTs_Win" (CT "5") (T "7")
+L 12/14/2019 - 12:09:00: World triggered "Round_End"
+L 12/14/2019 - 12:09:06: World triggered "Round_Start"
+L 12/14/2019 - 12:09:22: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:09:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 12/14/2019 - 12:09:22: World triggered "Round_End"
+L 12/14/2019 - 12:09:28: World triggered "Round_Start"
+L 12/14/2019 - 12:09:45: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:09:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 12/14/2019 - 12:09:45: World triggered "Round_End"
+L 12/14/2019 - 12:09:51: World triggered "Round_Start"
+L 12/14/2019 - 12:10:23: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "grenade"
+L 12/14/2019 - 12:10:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "10")
+L 12/14/2019 - 12:10:23: World triggered "Round_End"
+L 12/14/2019 - 12:10:29: World triggered "Round_Start"
+L 12/14/2019 - 12:11:24: "fun da king<31><STEAM_1:0:1655898477><SPECTATOR>" joined team "CT"
+L 12/14/2019 - 12:11:34: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "world"
+L 12/14/2019 - 12:11:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "11")
+L 12/14/2019 - 12:11:34: World triggered "Round_End"
+L 12/14/2019 - 12:11:34: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:11:40: World triggered "Round_Start"
+L 12/14/2019 - 12:12:26: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "grenade"
+L 12/14/2019 - 12:13:21: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "fun da king<31><STEAM_1:0:1655898477><CT>" with "knife"
+L 12/14/2019 - 12:13:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "12")
+L 12/14/2019 - 12:13:21: World triggered "Round_End"
+L 12/14/2019 - 12:13:24: "turbo<22><STEAM_2:1:24722080><CT>" joined team "SPECTATOR"
+L 12/14/2019 - 12:13:27: World triggered "Round_Start"
+L 12/14/2019 - 12:13:28: "turbo<22><STEAM_2:1:24722080><SPECTATOR>" joined team "CT"
+L 12/14/2019 - 12:14:05: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 12:14:05: Team "CT" triggered "CTs_Win" (CT "6") (T "12")
+L 12/14/2019 - 12:14:05: World triggered "Round_End"
+L 12/14/2019 - 12:14:11: World triggered "Round_Start"
+L 12/14/2019 - 12:16:02: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "fun da king<31><STEAM_1:0:1655898477><CT>" with "tracktrain"
+L 12/14/2019 - 12:16:12: "turbo<22><STEAM_2:1:24722080><CT>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" with "knife"
+L 12/14/2019 - 12:16:12: Team "CT" triggered "CTs_Win" (CT "7") (T "12")
+L 12/14/2019 - 12:16:12: World triggered "Round_End"
+L 12/14/2019 - 12:16:18: World triggered "Round_Start"
+L 12/14/2019 - 12:16:37: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "tracktrain"
+L 12/14/2019 - 12:16:50: [REUNION]: `eXp (213.167.29.213) authorized as RevEmu
+L 12/14/2019 - 12:16:50: "`eXp<32><STEAM_1:0:860921214><>" connected, address "213.167.29.213:27005"
+L 12/14/2019 - 12:16:56: [REUNION]: `eXp (213.167.29.213) authorized as RevEmu
+L 12/14/2019 - 12:16:56: "`eXp<33><STEAM_1:0:860921214><>" connected, address "213.167.29.213:27005"
+L 12/14/2019 - 12:17:04: "`eXp<33><STEAM_1:0:860921214><>" entered the game
+L 12/14/2019 - 12:17:07: "`eXp<33><STEAM_1:0:860921214><>" joined team "TERRORIST"
+L 12/14/2019 - 12:17:34: "turbo<22><STEAM_2:1:24722080><CT>" joined team "SPECTATOR"
+L 12/14/2019 - 12:18:36: "fun da king<31><STEAM_1:0:1655898477><CT>" committed suicide with "world"
+L 12/14/2019 - 12:18:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "13")
+L 12/14/2019 - 12:18:36: World triggered "Round_End"
+L 12/14/2019 - 12:18:36: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:18:41: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><TERRORIST>" joined team "CT"
+L 12/14/2019 - 12:18:41: "<><><>" triggered "amx_chat" (text "[PTB] Transfered XxXgeorgiXxX :) to CT")
+L 12/14/2019 - 12:18:42: World triggered "Round_Start"
+L 12/14/2019 - 12:18:44: "turbo<22><STEAM_2:1:24722080><SPECTATOR>" joined team "CT"
+L 12/14/2019 - 12:18:46: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 12/14/2019 - 12:18:46: "HuNt3r<34><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/14/2019 - 12:18:57: "HuNt3r<34><STEAM_1:1:1071071391><>" entered the game
+L 12/14/2019 - 12:18:58: Server cvar "amx_nextmap" = "awesome_cars2"
+L 12/14/2019 - 12:19:00: "HuNt3r<34><STEAM_1:1:1071071391><>" joined team "CT"
+L 12/14/2019 - 12:19:21: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 327)
+L 12/14/2019 - 12:19:25: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:19:25: Team "CT" triggered "CTs_Win" (CT "8") (T "13")
+L 12/14/2019 - 12:19:25: World triggered "Round_End"
+L 12/14/2019 - 12:19:31: World triggered "Round_Start"
+L 12/14/2019 - 12:19:31: Server cvar "sv_maxspeed" = "0.000000"
+L 12/14/2019 - 12:19:31: Server cvar "mp_friendlyfire" = "1"
+L 12/14/2019 - 12:19:37: [REUNION]: canm ben EL PATRON (85.96.218.44) authorized as RevEmu
+L 12/14/2019 - 12:19:37: "canm ben EL PATRON<35><STEAM_1:1:748561017><>" connected, address "85.96.218.44:48363"
+L 12/14/2019 - 12:19:38: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:19:38: "fun da king<31><STEAM_1:0:1655898477><CT>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:19:41: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><CT>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:19:41: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:19:41: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" joined team "TERRORIST"
+L 12/14/2019 - 12:19:41: World triggered "Game_Commencing"
+L 12/14/2019 - 12:19:41: World triggered "Game_Commencing" (CT "8") (T "13")
+L 12/14/2019 - 12:19:41: World triggered "Round_End"
+L 12/14/2019 - 12:19:44: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:19:44: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/14/2019 - 12:19:44: World triggered "Round_End"
+L 12/14/2019 - 12:19:45: World triggered "Round_Start"
+L 12/14/2019 - 12:19:46: Server cvar "sv_maxspeed" = "900.000000"
+L 12/14/2019 - 12:19:46: Server cvar "mp_friendlyfire" = "0"
+L 12/14/2019 - 12:19:46: [REUNION]: canm ben EL PATRON (85.96.218.44) authorized as RevEmu
+L 12/14/2019 - 12:19:46: "canm ben EL PATRON<36><STEAM_1:1:748561017><>" connected, address "85.96.218.44:48363"
+L 12/14/2019 - 12:19:50: World triggered "Round_Start"
+L 12/14/2019 - 12:19:53: "canm ben EL PATRON<36><STEAM_1:1:748561017><>" entered the game
+L 12/14/2019 - 12:19:56: "canm ben EL PATRON<36><STEAM_1:1:748561017><>" joined team "TERRORIST"
+L 12/14/2019 - 12:20:13: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "tracktrain"
+L 12/14/2019 - 12:20:15: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "turbo<22><STEAM_2:1:24722080><CT>" with "knife"
+L 12/14/2019 - 12:20:24: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><CT>" with "knife"
+L 12/14/2019 - 12:20:29: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "HuNt3r<34><STEAM_1:1:1071071391><CT>" with "knife"
+L 12/14/2019 - 12:20:29: "XxXgeorgiXxX :)<29><STEAM_1:1:1289710602><CT>" disconnected
+L 12/14/2019 - 12:20:58: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "fun da king<31><STEAM_1:0:1655898477><CT>" with "knife"
+L 12/14/2019 - 12:20:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/14/2019 - 12:20:58: World triggered "Round_End"
+L 12/14/2019 - 12:21:04: World triggered "Round_Start"
+L 12/14/2019 - 12:21:15: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "fun da king<31><STEAM_1:0:1655898477><CT>" with "knife"
+L 12/14/2019 - 12:21:18: "HuNt3r<34><STEAM_1:1:1071071391><CT>" killed "`eXp<33><STEAM_1:0:860921214><TERRORIST>" with "knife"
+L 12/14/2019 - 12:21:39: "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" killed "HuNt3r<34><STEAM_1:1:1071071391><CT>" with "knife"
+L 12/14/2019 - 12:21:50: "fun da king<31><STEAM_1:0:1655898477><CT>" joined team "SPECTATOR"
+L 12/14/2019 - 12:22:04: "turbo<22><STEAM_2:1:24722080><CT>" committed suicide with "world"
+L 12/14/2019 - 12:22:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 12/14/2019 - 12:22:04: World triggered "Round_End"
+L 12/14/2019 - 12:22:04: "turbo<22><STEAM_2:1:24722080><CT>" joined team "SPECTATOR"
+L 12/14/2019 - 12:22:09: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" joined team "CT"
+L 12/14/2019 - 12:22:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered `eXp to CT")
+L 12/14/2019 - 12:22:10: World triggered "Round_Start"
+L 12/14/2019 - 12:22:19: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:22:19: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 12/14/2019 - 12:22:19: World triggered "Round_End"
+L 12/14/2019 - 12:22:23: "HuNt3r<34><STEAM_1:1:1071071391><CT>" joined team "TERRORIST"
+L 12/14/2019 - 12:22:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered HuNt3r to TERRORIST")
+L 12/14/2019 - 12:22:25: World triggered "Round_Start"
+L 12/14/2019 - 12:23:00: "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" killed "`eXp<33><STEAM_1:0:860921214><CT>" with "knife"
+L 12/14/2019 - 12:23:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 12/14/2019 - 12:23:00: World triggered "Round_End"
+L 12/14/2019 - 12:23:06: World triggered "Round_Start"
+L 12/14/2019 - 12:23:32: "`eXp<33><STEAM_1:0:860921214><CT>" killed "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 12:23:38: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:23:38: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 12/14/2019 - 12:23:38: World triggered "Round_End"
+L 12/14/2019 - 12:23:44: World triggered "Round_Start"
+L 12/14/2019 - 12:23:51: "`eXp<33><STEAM_1:0:860921214><CT>" killed "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 12:24:02: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:24:02: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 12/14/2019 - 12:24:02: World triggered "Round_End"
+L 12/14/2019 - 12:24:08: World triggered "Round_Start"
+L 12/14/2019 - 12:24:40: "`eXp<33><STEAM_1:0:860921214><CT>" killed "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 12:24:56: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:24:56: Team "CT" triggered "CTs_Win" (CT "5") (T "3")
+L 12/14/2019 - 12:24:56: World triggered "Round_End"
+L 12/14/2019 - 12:25:02: World triggered "Round_Start"
+L 12/14/2019 - 12:25:10: "`eXp<33><STEAM_1:0:860921214><CT>" killed "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 12:25:21: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:25:21: Team "CT" triggered "CTs_Win" (CT "6") (T "3")
+L 12/14/2019 - 12:25:21: World triggered "Round_End"
+L 12/14/2019 - 12:25:27: World triggered "Round_Start"
+L 12/14/2019 - 12:25:36: "`eXp<33><STEAM_1:0:860921214><CT>" killed "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 12:25:54: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:25:54: Team "CT" triggered "CTs_Win" (CT "7") (T "3")
+L 12/14/2019 - 12:25:54: World triggered "Round_End"
+L 12/14/2019 - 12:26:00: World triggered "Round_Start"
+L 12/14/2019 - 12:26:13: "`eXp<33><STEAM_1:0:860921214><CT>" killed "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/14/2019 - 12:26:19: "HuNt3r<34><STEAM_1:1:1071071391><TERRORIST>" disconnected
+L 12/14/2019 - 12:26:25: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:26:25: Team "CT" triggered "CTs_Win" (CT "8") (T "3")
+L 12/14/2019 - 12:26:25: World triggered "Round_End"
+L 12/14/2019 - 12:26:29: "`eXp<33><STEAM_1:0:860921214><CT>" joined team "TERRORIST"
+L 12/14/2019 - 12:26:29: "<><><>" triggered "amx_chat" (text "[PTB] Transfered `eXp to TERRORIST")
+L 12/14/2019 - 12:26:31: World triggered "Round_Start"
+L 12/14/2019 - 12:26:32: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:26:32: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" joined team "CT"
+L 12/14/2019 - 12:26:32: World triggered "Game_Commencing"
+L 12/14/2019 - 12:26:32: World triggered "Game_Commencing" (CT "8") (T "3")
+L 12/14/2019 - 12:26:32: World triggered "Round_End"
+L 12/14/2019 - 12:26:36: World triggered "Round_Start"
+L 12/14/2019 - 12:26:47: "`eXp<33><STEAM_1:0:860921214><CT>" killed "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" with "knife"
+L 12/14/2019 - 12:26:47: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/14/2019 - 12:26:47: World triggered "Round_End"
+L 12/14/2019 - 12:26:53: World triggered "Round_Start"
+L 12/14/2019 - 12:26:59: "canm ben EL PATRON<36><STEAM_1:1:748561017><TERRORIST>" disconnected
+L 12/14/2019 - 12:28:27: [REUNION]: 1 (213.167.29.213) authorized as NoSteam47
+L 12/14/2019 - 12:28:27: "1<37><VALVE_ID_LAN><>" connected, address "213.167.29.213:59685"
+L 12/14/2019 - 12:28:32: [REUNION]: 1 (213.167.29.213) authorized as NoSteam47
+L 12/14/2019 - 12:28:32: "1<38><VALVE_ID_LAN><>" connected, address "213.167.29.213:59685"
+L 12/14/2019 - 12:28:47: "1<38><VALVE_ID_LAN><>" entered the game
+L 12/14/2019 - 12:28:49: "1<38><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 12/14/2019 - 12:28:49: World triggered "Game_Commencing"
+L 12/14/2019 - 12:28:49: World triggered "Game_Commencing" (CT "1") (T "0")
+L 12/14/2019 - 12:28:49: World triggered "Round_End"
+L 12/14/2019 - 12:28:53: World triggered "Round_Start"
+L 12/14/2019 - 12:28:56: "turbo<22><STEAM_2:1:24722080><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:29:07: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:29:13: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:29:13: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/14/2019 - 12:29:13: World triggered "Round_End"
+L 12/14/2019 - 12:29:19: World triggered "Round_Start"
+L 12/14/2019 - 12:29:32: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:29:49: "turbo<22><STEAM_2:1:24722080><TERRORIST>" killed "`eXp<33><STEAM_1:0:860921214><CT>" with "knife"
+L 12/14/2019 - 12:29:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/14/2019 - 12:29:49: World triggered "Round_End"
+L 12/14/2019 - 12:29:55: World triggered "Round_Start"
+L 12/14/2019 - 12:30:04: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:30:13: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:30:13: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/14/2019 - 12:30:13: World triggered "Round_End"
+L 12/14/2019 - 12:30:19: World triggered "Round_Start"
+L 12/14/2019 - 12:30:35: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:30:44: "1<38><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:30:44: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 12/14/2019 - 12:30:44: World triggered "Round_End"
+L 12/14/2019 - 12:30:44: "1<38><VALVE_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 12:30:48: "1<38><VALVE_ID_LAN><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:30:50: World triggered "Round_Start"
+L 12/14/2019 - 12:31:10: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:31:19: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:31:19: Team "CT" triggered "CTs_Win" (CT "4") (T "1")
+L 12/14/2019 - 12:31:19: World triggered "Round_End"
+L 12/14/2019 - 12:31:25: World triggered "Round_Start"
+L 12/14/2019 - 12:31:35: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:31:45: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:31:45: Team "CT" triggered "CTs_Win" (CT "5") (T "1")
+L 12/14/2019 - 12:31:45: World triggered "Round_End"
+L 12/14/2019 - 12:31:51: World triggered "Round_Start"
+L 12/14/2019 - 12:32:03: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:32:12: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:32:12: Team "CT" triggered "CTs_Win" (CT "6") (T "1")
+L 12/14/2019 - 12:32:12: World triggered "Round_End"
+L 12/14/2019 - 12:32:18: World triggered "Round_Start"
+L 12/14/2019 - 12:32:24: "1<38><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:32:24: "1<38><VALVE_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 12:32:31: "1<38><VALVE_ID_LAN><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:32:52: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:32:52: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 12/14/2019 - 12:32:52: World triggered "Round_End"
+L 12/14/2019 - 12:32:58: World triggered "Round_Start"
+L 12/14/2019 - 12:33:00: "1<38><VALVE_ID_LAN><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:33:05: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:33:05: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 12/14/2019 - 12:33:05: World triggered "Round_End"
+L 12/14/2019 - 12:33:11: World triggered "Round_Start"
+L 12/14/2019 - 12:33:22: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:33:26: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:33:26: Team "CT" triggered "CTs_Win" (CT "9") (T "1")
+L 12/14/2019 - 12:33:26: World triggered "Round_End"
+L 12/14/2019 - 12:33:32: World triggered "Round_Start"
+L 12/14/2019 - 12:33:43: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:33:44: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:33:44: Team "CT" triggered "CTs_Win" (CT "10") (T "1")
+L 12/14/2019 - 12:33:44: World triggered "Round_End"
+L 12/14/2019 - 12:33:50: World triggered "Round_Start"
+L 12/14/2019 - 12:33:59: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:34:06: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:34:06: Team "CT" triggered "CTs_Win" (CT "11") (T "1")
+L 12/14/2019 - 12:34:06: World triggered "Round_End"
+L 12/14/2019 - 12:34:12: World triggered "Round_Start"
+L 12/14/2019 - 12:34:22: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:34:25: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:34:25: Team "CT" triggered "CTs_Win" (CT "12") (T "1")
+L 12/14/2019 - 12:34:25: World triggered "Round_End"
+L 12/14/2019 - 12:34:31: World triggered "Round_Start"
+L 12/14/2019 - 12:34:39: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:34:42: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:34:42: Team "CT" triggered "CTs_Win" (CT "13") (T "1")
+L 12/14/2019 - 12:34:42: World triggered "Round_End"
+L 12/14/2019 - 12:34:48: World triggered "Round_Start"
+L 12/14/2019 - 12:35:02: "turbo<22><STEAM_2:1:24722080><TERRORIST>" say_team "weapon: , health: 100, armor: 0"
+L 12/14/2019 - 12:35:11: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:35:28: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:35:28: Team "CT" triggered "CTs_Win" (CT "14") (T "1")
+L 12/14/2019 - 12:35:28: World triggered "Round_End"
+L 12/14/2019 - 12:35:34: World triggered "Round_Start"
+L 12/14/2019 - 12:35:42: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:35:45: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 335)
+L 12/14/2019 - 12:35:51: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:35:51: Team "CT" triggered "CTs_Win" (CT "15") (T "1")
+L 12/14/2019 - 12:35:51: World triggered "Round_End"
+L 12/14/2019 - 12:35:57: World triggered "Round_Start"
+L 12/14/2019 - 12:36:09: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:36:21: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:36:21: Team "CT" triggered "CTs_Win" (CT "16") (T "1")
+L 12/14/2019 - 12:36:21: World triggered "Round_End"
+L 12/14/2019 - 12:36:27: World triggered "Round_Start"
+L 12/14/2019 - 12:36:29: [REUNION]: Ghostface (77.85.24.154) authorized as NoSteam47
+L 12/14/2019 - 12:36:29: "Ghostface<39><VALVE_ID_LAN><>" connected, address "77.85.24.154:27005"
+L 12/14/2019 - 12:36:38: "Ghostface<39><VALVE_ID_LAN><>" entered the game
+L 12/14/2019 - 12:36:40: "Ghostface<39><VALVE_ID_LAN><>" joined team "CT"
+L 12/14/2019 - 12:36:42: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:36:50: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:36:50: Team "CT" triggered "CTs_Win" (CT "17") (T "1")
+L 12/14/2019 - 12:36:50: World triggered "Round_End"
+L 12/14/2019 - 12:36:55: "`eXp<33><STEAM_1:0:860921214><CT>" joined team "TERRORIST"
+L 12/14/2019 - 12:36:55: "<><><>" triggered "amx_chat" (text "[PTB] Transfered `eXp to TERRORIST")
+L 12/14/2019 - 12:36:56: World triggered "Round_Start"
+L 12/14/2019 - 12:37:06: "Ghostface<39><VALVE_ID_LAN><CT>" committed suicide with "grenade"
+L 12/14/2019 - 12:37:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "2")
+L 12/14/2019 - 12:37:06: World triggered "Round_End"
+L 12/14/2019 - 12:37:12: World triggered "Round_Start"
+L 12/14/2019 - 12:37:22: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:37:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "3")
+L 12/14/2019 - 12:37:22: World triggered "Round_End"
+L 12/14/2019 - 12:37:24: "1<38><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:37:24: "1<38><VALVE_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 12:37:25: "1<38><VALVE_ID_LAN><SPECTATOR>" joined team "CT"
+L 12/14/2019 - 12:37:28: World triggered "Round_Start"
+L 12/14/2019 - 12:37:37: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "1<38><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:37:49: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:37:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "4")
+L 12/14/2019 - 12:37:49: World triggered "Round_End"
+L 12/14/2019 - 12:37:55: World triggered "Round_Start"
+L 12/14/2019 - 12:38:07: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "1<38><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:38:17: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:38:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "5")
+L 12/14/2019 - 12:38:17: World triggered "Round_End"
+L 12/14/2019 - 12:38:23: World triggered "Round_Start"
+L 12/14/2019 - 12:38:34: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:38:45: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "1<38><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:38:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "6")
+L 12/14/2019 - 12:38:45: World triggered "Round_End"
+L 12/14/2019 - 12:38:51: World triggered "Round_Start"
+L 12/14/2019 - 12:39:03: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "1<38><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:39:09: "turbo<22><STEAM_2:1:24722080><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:39:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "7")
+L 12/14/2019 - 12:39:09: World triggered "Round_End"
+L 12/14/2019 - 12:39:15: World triggered "Round_Start"
+L 12/14/2019 - 12:39:24: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:39:27: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "1<38><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:39:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "8")
+L 12/14/2019 - 12:39:27: World triggered "Round_End"
+L 12/14/2019 - 12:39:33: World triggered "Round_Start"
+L 12/14/2019 - 12:39:34: "1<38><VALVE_ID_LAN><CT>" committed suicide with "world"
+L 12/14/2019 - 12:39:34: "1<38><VALVE_ID_LAN><CT>" joined team "SPECTATOR"
+L 12/14/2019 - 12:40:02: "turbo<22><STEAM_2:1:24722080><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:40:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "9")
+L 12/14/2019 - 12:40:02: World triggered "Round_End"
+L 12/14/2019 - 12:40:07: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" joined team "CT"
+L 12/14/2019 - 12:40:07: "<><><>" triggered "amx_chat" (text "[PTB] Transfered `eXp to CT")
+L 12/14/2019 - 12:40:08: World triggered "Round_Start"
+L 12/14/2019 - 12:40:29: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:40:29: Team "CT" triggered "CTs_Win" (CT "18") (T "9")
+L 12/14/2019 - 12:40:29: World triggered "Round_End"
+L 12/14/2019 - 12:40:34: "1<38><VALVE_ID_LAN><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:40:35: World triggered "Round_Start"
+L 12/14/2019 - 12:40:43: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:41:14: Kick: "fun da king<31><STEAM_1:0:1655898477><>" was kicked by "Console" (message ""Away From Keyboard (AFK)"")
+L 12/14/2019 - 12:41:14: "fun da king<31><STEAM_1:0:1655898477><SPECTATOR>" disconnected
+L 12/14/2019 - 12:42:00: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:42:00: Team "CT" triggered "CTs_Win" (CT "19") (T "9")
+L 12/14/2019 - 12:42:00: World triggered "Round_End"
+L 12/14/2019 - 12:42:06: World triggered "Round_Start"
+L 12/14/2019 - 12:42:15: [REUNION]: kawa (109.248.190.229) authorized as RevEmu
+L 12/14/2019 - 12:42:15: "kawa<40><STEAM_1:0:787777388><>" connected, address "109.248.190.229:27875"
+L 12/14/2019 - 12:42:18: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:42:29: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:42:29: Team "CT" triggered "CTs_Win" (CT "20") (T "9")
+L 12/14/2019 - 12:42:29: World triggered "Round_End"
+L 12/14/2019 - 12:42:33: "`eXp<33><STEAM_1:0:860921214><CT>" joined team "TERRORIST"
+L 12/14/2019 - 12:42:33: "<><><>" triggered "amx_chat" (text "[PTB] Transfered `eXp to TERRORIST")
+L 12/14/2019 - 12:42:35: World triggered "Round_Start"
+L 12/14/2019 - 12:42:45: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" killed "Ghostface<39><VALVE_ID_LAN><CT>" with "knife"
+L 12/14/2019 - 12:42:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "10")
+L 12/14/2019 - 12:42:45: World triggered "Round_End"
+L 12/14/2019 - 12:42:47: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:42:47: "`eXp<33><STEAM_1:0:860921214><TERRORIST>" joined team "CT"
+L 12/14/2019 - 12:42:51: World triggered "Round_Start"
+L 12/14/2019 - 12:43:03: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:43:05: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:43:05: Team "CT" triggered "CTs_Win" (CT "21") (T "10")
+L 12/14/2019 - 12:43:05: World triggered "Round_End"
+L 12/14/2019 - 12:43:11: World triggered "Round_Start"
+L 12/14/2019 - 12:43:29: "Ghostface<39><VALVE_ID_LAN><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:43:42: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:43:42: Team "CT" triggered "CTs_Win" (CT "22") (T "10")
+L 12/14/2019 - 12:43:42: World triggered "Round_End"
+L 12/14/2019 - 12:43:47: "Ghostface<39><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 12/14/2019 - 12:43:47: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Ghostface to TERRORIST")
+L 12/14/2019 - 12:43:48: World triggered "Round_Start"
+L 12/14/2019 - 12:43:54: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:43:54: "1<38><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:43:54: "1<38><VALVE_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 12:43:58: "turbo<22><STEAM_2:1:24722080><TERRORIST>" say_team "weapon: , health: -95, armor: 0" (dead)
+L 12/14/2019 - 12:44:03: [REUNION]: kawa (109.248.190.229) authorized as RevEmu
+L 12/14/2019 - 12:44:03: "kawa<41><STEAM_1:0:787777388><>" connected, address "109.248.190.229:1034"
+L 12/14/2019 - 12:44:27: "1<38><VALVE_ID_LAN><SPECTATOR>" joined team "TERRORIST"
+L 12/14/2019 - 12:45:41: "`eXp<33><STEAM_1:0:860921214><CT>" killed "Ghostface<39><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:45:41: Team "CT" triggered "CTs_Win" (CT "23") (T "10")
+L 12/14/2019 - 12:45:41: World triggered "Round_End"
+L 12/14/2019 - 12:45:47: World triggered "Round_Start"
+L 12/14/2019 - 12:45:57: "`eXp<33><STEAM_1:0:860921214><CT>" killed "1<38><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:46:36: "turbo<22><STEAM_2:1:24722080><TERRORIST>" committed suicide with "tracktrain"
+L 12/14/2019 - 12:47:12: "`eXp<33><STEAM_1:0:860921214><CT>" committed suicide with "trigger_hurt" (world)
+L 12/14/2019 - 12:47:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "11")
+L 12/14/2019 - 12:47:12: World triggered "Round_End"
+L 12/14/2019 - 12:47:18: World triggered "Round_Start"
+L 12/14/2019 - 12:47:32: "Ghostface<39><VALVE_ID_LAN><TERRORIST>" killed "`eXp<33><STEAM_1:0:860921214><CT>" with "knife"
+L 12/14/2019 - 12:47:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "12")
+L 12/14/2019 - 12:47:32: World triggered "Round_End"
+L 12/14/2019 - 12:47:38: World triggered "Round_Start"
+L 12/14/2019 - 12:48:04: "1<38><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/14/2019 - 12:48:04: "1<38><VALVE_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 12/14/2019 - 12:48:31: Server cvar "mp_timelimit" = "0.000000"
+L 12/14/2019 - 12:48:33: [REUNION]: serjo manyaka (46.254.133.13) authorized as NoSteam47
+L 12/14/2019 - 12:48:33: "serjo manyaka<42><VALVE_ID_LAN><>" connected, address "46.254.133.13:27005"
+L 12/14/2019 - 12:49:15: "`eXp<33><STEAM_1:0:860921214><CT>" killed "turbo<22><STEAM_2:1:24722080><TERRORIST>" with "knife"
+L 12/14/2019 - 12:49:30: "`eXp<33><STEAM_1:0:860921214><CT>" killed "Ghostface<39><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 12/14/2019 - 12:49:30: Team "CT" triggered "CTs_Win" (CT "24") (T "12")
+L 12/14/2019 - 12:49:30: World triggered "Round_End"
+L 12/14/2019 - 12:49:36: World triggered "Round_Start"
+L 12/14/2019 - 12:49:36: Server cvar "sv_maxspeed" = "0.000000"
+L 12/14/2019 - 12:49:36: Server cvar "mp_friendlyfire" = "1"
+L 12/14/2019 - 12:49:44: "Ghostface<39><VALVE_ID_LAN><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/14/2019 - 12:49:47: Server cvar "sv_maxspeed" = "900.000000"
+L 12/14/2019 - 12:49:47: Server cvar "mp_friendlyfire" = "0"
+L 12/14/2019 - 12:49:47: Server cvar "mp_timelimit" = "20.000000"
+L 12/14/2019 - 12:49:47: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: AMX Mod X
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: Reunion
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: ReAuthCheck
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: WHBlocker
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: ReSemiclip
+L 12/14/2019 - 12:49:47: [META] ini: Read plugin config for: Revoice
+L 12/14/2019 - 12:49:47: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/14/2019 - 12:49:47: [META] dll: Updating plugins...
+L 12/14/2019 - 12:49:47: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/14/2019 - 12:49:47: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/14/2019 - 12:49:47: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/14/2019 - 12:49:47: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/14/2019 - 12:49:47: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/14/2019 - 12:49:47: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/14/2019 - 12:49:47: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/14/2019 - 12:49:47: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/14/2019 - 12:49:47: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/14/2019 - 12:49:47: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/14/2019 - 12:49:47: "turbo<22><STEAM_2:1:24722080><TERRORIST>" disconnected
+L 12/14/2019 - 12:49:47: Team "CT" triggered "CTs_Win" (CT "25") (T "12")
+L 12/14/2019 - 12:49:47: World triggered "Round_End"
+L 12/14/2019 - 12:49:47: "1<38><VALVE_ID_LAN><SPECTATOR>" disconnected
+L 12/14/2019 - 12:49:47: "`eXp<33><STEAM_1:0:860921214><CT>" disconnected
+L 12/14/2019 - 12:49:47: "Ghostface<39><VALVE_ID_LAN><TERRORIST>" disconnected
+L 12/14/2019 - 12:49:47: Log file closed

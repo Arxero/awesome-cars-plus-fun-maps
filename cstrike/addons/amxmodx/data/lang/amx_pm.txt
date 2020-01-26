@@ -1,0 +1,120 @@
+[en]
+INVALID_PLAYER = [PM] Invalid Player: %s
+BAD_TARGET = [PM] To prevent ghosting, you are not allowed to chat with alive players. 
+PM_ENABLED = [PM] Private Messages have been ENABLED!
+PM_DISABLED = [PM] Private Messages have been DISABLED!
+USER_BLOCKED = [PM] You have blocked %s from Private Messaging you!
+USER_UNBLOCKED = [PM] You have unblocked %s from Private Messaging you!
+BLOCKED_MSG = [PM] This user has disabled Private Messages.
+NOADMIN_MSG = [PM] You do not have sufficient admin privlages. 
+
+BAN_SET = User %s has been banned from Private Messaging.
+BAN_UNSET = User %s has been unbanned from Private Messaging.
+
+
+[de]
+INVALID_PLAYER = [PM] Spieler ungültig: %s
+BAD_TARGET = [PM] Um ghosting zu verhindern, ist es dir nicht erlaubt mit lebenden Spielern zu chatten.
+PM_ENABLE = [PM] Private Nachrichten wurden EINGESCHALTET!
+PM_DISABLE = [PM] Private Nachrichten wurden ABGESCHALTET!
+USER_BLOCKED = [PM] Private Nachrichten von %s werden abgeblockt!
+USER_UNBLOCK = [PM] Private Nachrichten von %s werden nicht mehr abgeblockt!
+BLOCKED_MSG = [PM] Dieser Nutzer hat private Nachrichten abgeschaltet.
+
+BAN_SET = Benutzer %s wurde gebannt.
+BAN_UNSET = Benutzer %s wurde entbannt.
+
+
+[hu]
+INVALID_PLAYER = [PM] Ismeretlen játékos: %s
+BAD_TARGET = [PM] Halottként nem küldhetsz üzenetet élo játékosnak.
+
+
+[bg]
+INVALID_PLAYER = [PM] Nevaliden igrach: %s
+BAD_TARGET = [PM] Za da se predotvrati podskazvaneto, Vie nyamate pravo da chatite s jivi igrachi. 
+PM_ENABLE = [PM] Lichnite saobshteniya sa VKLUCHENI!
+PM_DISABLE = [PM] Lichnite saobshteniya sa IZKLUCHENI!
+USER_BLOCKED = [PM] Vie blokirahte poluchavaneto na lichni saobshteniya ot %s!
+USER_UNBLOCK = [PM] Vie otblokirahte poluchavaneto na lichni saobshteniya ot %s!
+BLOCKED_MSG = [PM] Tozi potrebitel e izkluchil lichnite si saobshteniya.
+
+
+[fr]
+INVALID_PLAYER = [PM] Joueur invalide : %s
+BAD_TARGET = [PM] vous n'êtes pas autorisé à discuter avec les joueurs vivants.
+
+
+[es]
+INVALID_PLAYER = [PM] Jugador Incorrecto: %s
+BAD_TARGET = [PM] Para prevenir el ghosting, no tienes permitido hablar con jugadores vivos.
+PM_ENABLE = [PM] Mensajes Privados han sido HABILITADOS!
+PM_DISABLE = [PM] Mensajes Privados han sido DES-HABILITADOS!
+USER_BLOCKED = [PM] Bloqueaste a %s para que no te envie Mensajes Privados!
+USER_UNBLOCK = [PM] Desbloqueaste a %s para que te envie Mensajes Privados!
+BLOCKED_MSG = [PM] Este usuario ha desactivado los Mensajes Privados.
+
+BAN_SET = El usuario %s fue baneado.
+BAN_UNSET = El usuario %s fue desbaneado.
+
+
+[ro]
+INVALID_PLAYER = [PM] Jucator invalid: %s
+BAD_TARGET = [PM] Pentru a prevenii ghosting-ul, nu ai voie sa vorbesti cu jucatorii morti. 
+PM_ENABLED = [PM] Mesajele private au fost activate !
+PM_DISABLED = [PM] Mesajele private au fost dezactivate !
+USER_BLOCKED = [PM] L-ai blocat pe %s de ati da mesaje private !
+USER_UNBLOCKED = [PM] L-ai deblocat pe %s pentru ati da mesaje private !
+BLOCKED_MSG = [PM] Acesti utilizator a dezactivat mesajele private.
+NOADMIN_MSG = [PM] Nu aveti privilegii suficiente pentru admin.
+
+
+[id]
+INVALID_PLAYER = [PM] Salah Player: %s
+BAD_TARGET = [PM] Untuk menghindari flood, kau tidak diizinkan untuk chat dengan pemain yang masih hidup.
+PM_ENABLED = [PM] PM diaktifkan !
+PM_DISABLED = [PM] PM dinonaktifkan !
+USER_BLOCKED = [PM] User di blokir untuk mengirim pesan !
+USER_UNBLOCKED = [PM] User tidak di blokir untuk mengirim pesan !
+BLOCKED_MSG = [PM] Pesan diblokir.
+
+
+[pt]
+INVALID_PLAYER = [PM] Jogador invalido: %s
+BAD_TARGET = [PM] Para prevenir injusticas, nao consegues falar com jogadores vivos. 
+PM_ENABLE = [PM] Mensagens privadas estao ATIVADAS!
+PM_DISABLE = [PM] Mensagens privadas estao DESATIVADAS!
+USER_BLOCKED = [PM] Bloqueaste o: %s de te mandar mensagens privadas!
+USER_UNBLOCK = [PM] Desbloqueaste o: %s de te mandar mensagens privadas!
+BLOCKED_MSG = [PM] Este jogador tem as mensagens privadas bloqueadas.
+NOADMIN_MSG = [PM] Nao tens permissoes suficientes para acederes a este comando. 
+
+BAN_SET = O jogador: %s foi banido do servidor.
+BAN_UNSET = O jogador: %s foi desbanido do servidor.
+
+
+[bp]
+INVALID_PLAYER = [PM] Jogador invalido: %s
+BAD_TARGET = [PM] Para prevenir ghosting, voce nao esta autorizado a falar com jogadores vivos. 
+PM_ENABLED = [PM] Mensagens privadas estao ATIVADAS!
+PM_DISABLED = [PM] Mensagens privadas estao DESATIVAS!
+USER_BLOCKED = [PM] Voce bloqueou %s de lhe enviar mensagens privadas!
+USER_UNBLOCKED = [PM] Voce desbloqueou %s de lhe enviar mensagens privadas!
+BLOCKED_MSG = [PM] Este jogador desativou o recebimento de mensagens privadas.
+NOADMIN_MSG = [PM] Voce nao tem privilegios de admin suficientes. 
+
+BAN_SET = O jogador %s foi proibido de enviar mensagens privadas.
+BAN_UNSET = O jogador %s foi liberado para enviar mensagens privadas.
+
+
+[lt]
+INVALID_PLAYER = [PM] Neegzistuojantis zaidejas: %s
+BAD_TARGET = [PM] Kad isvengti ghosting, tau negalima rasytinetis su gyvais zaidejais. 
+PM_ENABLE = [PM] Privacios zinutes buvo IJUNGTOS!
+PM_DISABLE = [PM] Privacios zinutes buvo ISJUNGTOS!
+USER_BLOCKED = [PM] Tu uzblokavai %s dabar negausi zinuciu nuo jo!
+USER_UNBLOCK = [PM] Tu atblokavai %s dabar gausi zinutes nuo jo!
+BLOCKED_MSG = [PM] Sis zaidejas isjunges privacias zinutes.
+
+BAN_SET = Zaidejas %s buvo uzbanintas.
+BAN_UNSET = Zaidejas %s atbanintas.

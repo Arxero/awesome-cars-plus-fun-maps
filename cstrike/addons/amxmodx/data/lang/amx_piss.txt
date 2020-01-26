@@ -1,0 +1,83 @@
+"AMX Piss: WARNING! Model file ^"%s^" doesn't exist on the server."
+fr:"Pisser AMX : ATTENTION ! Le fichier modele ^"%s^" n'existe pas sur le serveur."
+pl:"Sikanie AMX: UWAGA! Plik modelu ^"%s^" nie istnieje na serwerze."
+
+"AMX Piss: WARNING! Model(s) is/are missing on the server. Plugin locked."
+fr:"Pisser AMX : ATTENTION ! Un ou plusieurs modele(s) est/sont manquant(s) sur le serveur. Plugin verrouille."
+pl:"Sikanie AMX: UWAGA! Model(e) brakuje/brakuja na serwerze. Plugin zablokowany."
+
+"AMX Piss - Models Missing"
+fr:"Pisser AMX - Modeles Manquants"
+pl:"Sikanie AMX - Brakujace modele"
+
+"AMX Piss: WARNING! Sound file ^"%s^" doesn't exist on the server."
+fr:"Pisser AMX : ATTENTION ! Le fichier son ^"%s^" n'existe pas sur le serveur."
+pl:"Sikanie AMX: UAWAGA! Plik dzwiekowy ^"%s^" nie istnieje na serwerze."
+
+"AMX Piss"
+fr:"Pisser AMX"
+pl:"Sikanie AMX"
+
+"- pisses on a dead body or anywhere"
+fr:"- pisse sur un corps mort ou de partout"
+pl:"- sika na martwe cialo lub gdziekolwiek"
+
+"- displays piss help"
+fr:"- affiche l'aide pour pisser"
+pl:"- wyswietla pomoc"
+
+"You are already in pissing."
+fr:"Vous etes deja en train de pisser."
+pl:"Jestes w trakcie sikania"
+
+"The plugin ^"AMX Piss^" is disabled."
+fr:"Le plugin ^"Pisser AMX^" est inactif."
+pl:"Plugin ^"Sikanie AMX^" jest wylaczony."
+
+"Only admins can piss on a dead body."
+fr:"Seulement les admins peuvent pisser sur un corps mort."
+pl:"Tylko admini moga sikac na martwe cialo."
+
+"Only admins can piss."
+fr:"Seulement les admins peuvent pisser."
+pl:"Tylko admini moga sikac."
+
+"You can't piss when you are dead."
+fr:"Vous ne pouvez pas pisser lorsque vous etes mort."
+pl:"Nie mozesz sikac kiedy jestes martwy."
+
+"You can't piss more than %d time(s) per each spawning."
+fr:"Vous ne pouvez pas pisser plus de %d fois par apparition."
+pl:"Nie mozesz sikac wiecej niz %d raz(y) na spawn."
+
+"Player ^"%s^" has immunity."
+fr:"Le joueur ^"%s^" a l'immunite."
+pl:"Gracz ^"%s^" ma immunitet."
+
+"%s Is Pissing On %s's Dead Body!! MuHaHaHaHa!!"
+fr:"%s Est En Train De Pisser Sur Le Cadavre De %s !! MuHaHaHaHa !!"
+pl:"%s sika na cialo %s !! MuHaHaHaHa !!"
+
+"There is no dead body around you."
+fr:"Il n'y a aucun corps mort autour de vous."
+pl:"Nie ma martwego ciala wokol Ciebie."
+
+"%s Is Pissing!"
+fr:"%s Est En Train De Pisser !"
+pl:"%s sika!"
+
+"%s Is Humiliating Arkshine By Pissing On Him. This Guy Is The Top ShitHead From AMXX!!"
+fr:"%s Est Aussi En Train D'Humilier Arkshine En Lui Pissant Dessus. Ce Mec Est Le Plus ^"Gros^" Connard Anti-AMX Mod !!"
+pl:"%s poniza Arkshine sikajac na niego. Ten typ jest najwiekszym debilem z AMXX!!"
+
+"To piss on a dead body or anywhere you have to bind a key to ^"piss^"."
+fr:"Pour pisser sur un corps mort ou de partout il est conseille de binder une touche sur ^"piss^"."
+pl:"Aby sikac na martwe cialo lub gdziekolwiek musisz zbindowac sobie klawisz na ^"piss^"."
+
+"Open your console and write: bind ^"key^" ^"piss^""
+fr:"Ouvrez votre console et ecrivez : bind ^"key^" ^"piss^""
+pl:"Otworz swoja konsole i wpisz: bind ^"key^" ^"piss^""
+
+"Example: bind ^"x^" ^"piss^""
+fr:"Exemple : bind ^"x^" ^"piss^""
+pl:"Przyklad: bind ^"x^" ^"piss^""

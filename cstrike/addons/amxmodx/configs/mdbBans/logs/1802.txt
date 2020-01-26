@@ -1,0 +1,84 @@
+[10.02 - 06:41] mdbBans v4.8 is successfully installed!
+[10.02 - 06:41] See file podesavanja.cfg for settings.
+[10.02 - 07:16] Admin Maverick banned Maverick for 5 minutes. Reason: test. ID: STEAM_0:0:37264973 , IP: 130.204.227.178 , mID: [NewCS/Steam]
+[10.02 - 10:56] Admin T[0]X[!]C kicked hoLY pieZ. Reason: Cs.
+[10.02 - 18:30] Admin Maverick banned LINUX v.2 for 5 minutes. Reason: fake linux. ID: VALVE_ID_LAN , IP: 77.78.61.125 , mID: 42362713
+[10.02 - 20:17] Admin T[0]X[!]C kicked T[0]X[!]C. Reason: .
+[10.02 - 22:34] Admin LOLUMAD kicked LOLUMAD. Reason: .
+[11.02 - 15:52] Admin LINUX banned duky :] for 0 minutes. Reason: . ID: STEAM_1:0:1099086905 , IP: 95.42.147.93X , mID: [NewCS/Steam]
+[11.02 - 16:01] Admin LINUX unbanned duky.
+[11.02 - 16:12] Admin LINUX banned LinuxYAG for 120 minutes. Reason: aimbot. ID: STEAM_1:0:1099086905 , IP: 95.42.147.93X , mID: [NewCS/Steam]
+[13.02 - 17:51] Admin LINUX banned SkeLeToN-k!Ng for 30 minutes. Reason: trying to team killing+non stop killing his teamm8 with cars. ID: VALVE_ID_LAN , IP: 62.221.159.37X , mID: 94159275
+[13.02 - 21:30] Admin LOLUMAD kicked ZYD. Reason: .
+[14.02 - 21:15] Admin Mr.Roller banned Skrub for 30 minutes. Reason: Constant Rule Breaking. ID: STEAM_0:1:191456903 , IP: 87.126.129.213 , mID: [NewCS/Steam]
+[15.02 - 15:57] Admin T[0]X[!]C kicked ZozO MaN. Reason: .
+[16.02 - 12:54] Admin T[0]X[!]C banned duky :] for 60 minutes. Reason: Hack. ID: STEAM_1:0:1099086905 , IP: 95.42.147.93X , mID: [NewCS/Steam]
+[16.02 - 13:02] Admin T[0]X[!]C kicked Na' Vi Markeloff. Reason: .
+[16.02 - 23:36] Admin LOLUMAD kicked DusedMarcho TV. Reason: .
+[17.02 - 12:49] Admin T[0]X[!]C kicked Orb. Reason: .
+[18.02 - 01:04] Admin LINUX banned duky :] for 300 minutes. Reason: NO FUKING RECOIL ACK. ID: STEAM_1:0:1099086905 , IP: 95.42.147.93X , mID: [NewCS/Steam]
+[18.02 - 05:27] Admin Maverick banned 95.42.147.93 for 0 minutes. (writeban)
+[18.02 - 05:29] Admin Maverick unbanned 95.42.147.93.
+[18.02 - 05:30] Admin Maverick banned 95.42.147.93 for 0 minutes. (writeban)
+[18.02 - 05:32] Admin Maverick unbanned 95.42.147.93.
+[18.02 - 05:36] Admin Maverick banned 95.42.147.93 for 44000 minutes. (writeban)
+[18.02 - 11:45] Admin The Apostle banned duky :] for 0 minutes. Reason: . ID: STEAM_1:0:1099086905 , IP: 95.42.147.93X , mID: [NewCS/Steam]
+[18.02 - 11:51] Admin The Apostle banned duky :] for 300 minutes. Reason: . ID: STEAM_1:0:885053515 , IP: 74.120.221.251 , mID: [NewCS/Steam]
+[18.02 - 11:54] Admin The Apostle banned duky :] for 0 minutes. Reason: hacker. ID: STEAM_1:0:705611142 , IP: 109.201.137.43X , mID: [NewCS/Steam]
+[18.02 - 12:10] Admin The Apostle banned duky :] for 0 minutes. Reason: hacker. ID: STEAM_1:0:2094445651 , IP: 109.201.137.43X , mID: [NewCS/Steam]
+[18.02 - 12:11] Admin The Apostle banned duky :] for 0 minutes. Reason: hacker. ID: STEAM_1:0:1322828837 , IP: 109.201.137.43X , mID: [NewCS/Steam]
+[18.02 - 12:12] Admin The Apostle banned duky :] for 0 minutes. Reason: hacker. ID: STEAM_1:0:617339078 , IP: 109.201.137.43X , mID: [NewCS/Steam]
+[18.02 - 12:16] Admin The Apostle banned duky :] for 0 minutes. Reason: hacker. ID: STEAM_1:0:1180333452 , IP: 109.201.137.39X , mID: [NewCS/Steam]
+[18.02 - 12:19] Admin T[0]X[!]C banned duky :] for 0 minutes. Reason: Hacker. ID: STEAM_1:0:1874666224 , IP: 95.211.101.215 , mID: [NewCS/Steam]
+[18.02 - 12:22] Admin T[0]X[!]C banned duky :] for 0 minutes. Reason: Suprise mf. ID: STEAM_1:0:694190885 , IP: 46.166.179.50X , mID: [NewCS/Steam]
+[18.02 - 12:24] Admin T[0]X[!]C pwned (1)duky :] for 0 minutes. Reason: Hello. ID: STEAM_1:0:950276864 , IP: 109.201.137.49X , mID: [NewCS/Steam]
+[18.02 - 12:24] Admin T[0]X[!]C banned (1)duky :] for 0 minutes. Reason: Hello. ID: STEAM_1:0:950276864 , IP: 109.201.137.49X , mID: [NewCS/Steam]
+[18.02 - 12:30] Admin Saad banned duky :] for 0 minutes. (writeban)
+[18.02 - 12:42] Admin T[0]X[!]C kicked (1)duky :]. Reason: .
+[18.02 - 12:43] Admin T[0]X[!]C kicked duky :]. Reason: Fuck_THE_POLICE.
+[18.02 - 12:43] Admin Saad banned duky :] for 0 minutes. (writeban)
+[18.02 - 12:43] Admin T[0]X[!]C kicked duky :]. Reason: Fuck_THE_POLICE.
+[18.02 - 12:45] Admin T[0]X[!]C kicked T[0]X[!]C. Reason: Fed up of banning.
+[18.02 - 13:33] Admin Mr.Roller banned 95.211.171.170:27005 for 0 minutes. (writeban)
+[18.02 - 13:34] Admin Mr.Roller banned STEAM_1:0:497548438 for 0 minutes. (writeban)
+[18.02 - 13:36] Admin Mr.Roller pwned duky :] for 0 minutes. Reason: SteamIDChanger. ID: STEAM_1:0:1452827220 , IP: 109.201.137.53X , mID: [NewCS/Steam]
+[18.02 - 13:37] Admin Mr.Roller banned 109.201.137.53:27005 for 0 minutes. (writeban)
+[18.02 - 13:44] Admin Mr.Roller banned 95.211.101.216:27005 for 0 minutes. (writeban)
+[18.02 - 13:44] Admin Mr.Roller pwned duky :] for 0 minutes. Reason: Ipchanger. ID: STEAM_1:0:2110938799 , IP: 95.211.101.216 , mID: [NewCS/Steam]
+[18.02 - 13:47] Admin Mr.Roller banned 95.211.101.228:27005 for 0 minutes. (writeban)
+[18.02 - 13:48] Admin Mr.Roller banned 95.211.101.228:27005 for 0 minutes. (writeban)
+[18.02 - 13:49] Admin Mr.Roller banned ＃DARK4ADMIN for 0 minutes. Reason: proxy. ID: STEAM_1:0:446277257 , IP: 95.211.101.228 , mID: [NewCS/Steam]
+[18.02 - 13:52] Admin Mr.Roller banned 109.201.137.49:27005 for 0 minutes. (writeban)
+[18.02 - 13:54] Admin LINUX banned ＃DARK4ADMIN for 1440 minutes. Reason: swear. ID: STEAM_1:0:191998229 , IP: 46.166.179.54X , mID: [NewCS/Steam]
+[18.02 - 13:56] Admin Mr.Roller banned 109.201.137.49 for 0 minutes. (writeban)
+[18.02 - 13:58] Admin LINUX banned ＃DARK4ADMIN for 300 minutes. Reason: swear. ID: STEAM_1:0:2097286228 , IP: 109.201.137.51X , mID: [NewCS/Steam]
+[18.02 - 13:58] Admin Mr.Roller banned 109.201.137.51:27005 for 0 minutes. (writeban)
+[18.02 - 13:58] Admin Mr.Roller pwned ＃DARK4ADMIN for 0 minutes. Reason: enjoy. ID: STEAM_1:0:1839039925 , IP: 109.201.137.51X , mID: [NewCS/Steam]
+[18.02 - 13:58] Admin T[0]X[!]C pwned T[0]X[!]C for 1 minutes. Reason: noob. ID: STEAM_1:0:1149872548 , IP: 103.216.214.31X , mID: [NewCS/Steam]
+[18.02 - 14:00] Admin Mr.Roller kicked ＃DARK4ADMIN. Reason: .
+[18.02 - 14:00] Admin Mr.Roller kicked ＃DARK4ADMIN. Reason: .
+[18.02 - 14:00] Admin Mr.Roller kicked ＃DARK4ADMIN. Reason: .
+[18.02 - 14:01] Admin Mr.Roller kicked ＃DARK4ADMIN. Reason: .
+[18.02 - 14:01] Admin Mr.Roller kicked GuZa mi e. Reason: .
+[18.02 - 14:06] Admin Mr.Roller banned 95.211.101.225:27005 for 0 minutes. (writeban)
+[18.02 - 14:06] Admin Mr.Roller banned STEAM_1:0:368042964 for 0 minutes. (writeban)
+[19.02 - 15:11] Admin T[0]X[!]C kicked Jack. Reason: .
+[21.02 - 20:13] Admin Mr.Roller banned PuLen CHUK for 300 minutes. Reason: WH. ID: VALVE_ID_LAN , IP: 88.213.201.213 , mID: 81687042
+[24.02 - 12:49] Admin Mr.Roller banned jebac(prva klasa) for 300 minutes. Reason: Aim. ID: STEAM_1:0:1454588512 , IP: 109.175.108.39X , mID: 88563382
+[24.02 - 13:35] Admin The Apostle banned Str1k3R for 300 minutes. Reason: aimbot. ID: STEAM_1:0:1422635403 , IP: 93.86.70.58X , mID: [NewCS/Steam]
+[24.02 - 13:38] Admin AdminSlayer unbanned Str1k3R.
+[24.02 - 14:01] Admin *Mr.Fantastic* banned CS-ProGamer for 300 minutes. Reason: advertising. ID: STEAM_1:0:695561193 , IP: 212.5.158.35X , mID: 22186422
+[24.02 - 17:33] Admin The Apostle banned PuLen CHUK for 300 minutes. Reason: wall. ID: VALVE_ID_LAN , IP: 88.213.201.213 , mID: 81687042
+[25.02 - 00:57] Admin *Mr.Bombastic* banned silent aim for 300 minutes. Reason: aim. ID: STEAM_1:0:1416686018 , IP: 91.146.146.112 , mID: [NewCS/Steam]
+[25.02 - 17:45] Admin LOLUMAD kicked Mario Payer/AUDI QUATTRO. Reason: .
+[25.02 - 23:25] Admin Mr.Roller banned Ma3x for 0 minutes. Reason: Goodbye. ID: STEAM_1:0:896601561 , IP: 212.50.71.109 , mID: 50442970
+[25.02 - 23:35] Admin Mr.Roller pwned Ma3x for 0 minutes. Reason: . ID: STEAM_1:0:896601561 , IP: 213.226.63.200 , mID: 50442970
+[25.02 - 23:35] Admin Mr.Roller banned Ma3x for 0 minutes. Reason: bye. ID: STEAM_1:0:896601561 , IP: 213.226.63.200 , mID: 50442970
+[25.02 - 23:36] Admin Mr.Roller banned 213.226.63.200 for 0 minutes. (writeban)
+[26.02 - 21:28] Admin LOLUMAD kicked pitpobedit. Reason: ...
+[27.02 - 22:18] Admin LOLUMAD kicked Juhuu.. Reason: .
+[27.02 - 22:34] Admin LOLUMAD kicked Juhuu*. Reason: .
+[27.02 - 22:47] Admin LOLUMAD kicked Juhuuu.. Reason: speed.
+[28.02 - 00:59] Admin Mr.Roller banned Predator for 0 minutes. Reason: . ID: STEAM_1:0:1038325647 , IP: 79.126.246.101 , mID: [NewCS/Steam]
+[28.02 - 01:00] Admin Mr.Roller unbanned 79.126.246.101.
+[28.02 - 01:00] Admin Mr.Roller banned 79.126.246.101 for 6000 minutes. (writeban)

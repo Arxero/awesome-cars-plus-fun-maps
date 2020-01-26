@@ -1,0 +1,97 @@
+[en]
+
+MSG_REMOVEPET = Removing Pet.
+
+MSG_NOREMOVEPET = You don't have a Pet.
+
+MSG_NOGIVEPET_DEAD = You must be alive to bust out a pet.
+
+MSG_GIVEPET = You now have a %s pet.
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.
+
+[es]
+
+MSG_REMOVEPET = Quitando Mascota.
+
+MSG_NOREMOVEPET = No tienes una Mascota.
+
+MSG_NOGIVEPET_DEAD = Debes estar vivo para Obtener una Mascota.
+
+MSG_GIVEPET = Ahora tienes a tu mascota %s.
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.
+
+[de]
+
+MSG_REMOVEPET = Entferne Haustier.
+
+MSG_NOREMOVEPET = Du hast kein Haustier.
+
+MSG_NOGIVEPET_DEAD = Du musst lebendig sein um ein Haustier zu rufen.
+
+MSG_GIVEPET = Du hast jetzt ein %s Haustier.
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.
+
+[sv]
+
+MSG_REMOVEPET = Tar bort s'a'llskapsdjur.
+
+MSG_NOREMOVEPET = Du har inget s'a'llskapsdjur.
+
+MSG_NOGIVEPET_DEAD = Du maste vara vid liv f'o'r att kunna skaffa ett sällskapsdjur.
+
+MSG_GIVEPET = Du har nu %s som s'a'llskapsdjur.
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.
+
+[tc]
+
+MSG_REMOVEPET = ???????
+
+MSG_NOREMOVEPET = ??????,?????
+
+MSG_NOGIVEPET_DEAD = ??????????
+
+MSG_GIVEPET = ??????? %s ???
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.
+
+[nl]
+
+MSG_REMOVEPET = Je huisdier is verwijderd.
+
+MSG_NOREMOVEPET = Je hebt geen huisdier.
+
+MSG_NOGIVEPET_DEAD = Je moet levend zijn op een huisdier te krijgen.
+
+MSG_GIVEPET = Je hebt nu een %s huisdier. 
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.
+
+[bp]
+
+MSG_REMOVEPET = Remove o animal de estimacao.
+
+MSG_NOREMOVEPET = Voce nao tem um animal de estimacao.
+
+MSG_NOGIVEPET_DEAD = Voce tem que estar vivo para ter um animal de estimcao.
+
+MSG_GIVEPET = Voce tem agora um %s como animal de estimacao.
+
+MSG_DISABLED = That pet has been disabled.
+
+MSG_ADMINONLY = That pet is for admins only.

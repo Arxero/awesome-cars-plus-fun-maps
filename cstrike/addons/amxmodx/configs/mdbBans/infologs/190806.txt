@@ -1,0 +1,600 @@
+[06.08 - 00:01] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 00:02] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 00:04] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 00:04] Player vexill (STEAM_2:0:410032012  ///  217.174.59.121) conencted.
+[06.08 - 00:11] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 00:11] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 00:11] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 00:12] Player vexill (STEAM_2:0:410032012  ///  217.174.59.121) conencted.
+[06.08 - 00:12] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 00:14] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 00:16] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 00:16] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 00:20] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 00:26] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 00:26] Player vexill (STEAM_2:0:410032012  ///  217.174.59.121) conencted.
+[06.08 - 00:26] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 00:26] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 00:26] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 00:27] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 00:27] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 00:39] Player . (STEAM_2:1:805300361  ///  94.190.252.127) conencted.
+[06.08 - 00:47] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 00:47] Player vexill (STEAM_2:0:410032012  ///  217.174.59.121) conencted.
+[06.08 - 00:47] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 00:47] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 00:47] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 00:47] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 00:47] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 00:49] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 00:55] Player vexill (STEAM_2:0:410032012  ///  217.174.59.121) conencted.
+[06.08 - 00:55] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 00:55] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 00:55] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 00:55] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 00:55] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 00:56] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 00:56] Player vexill (STEAM_2:0:410032012  ///  217.174.59.121) conencted.
+[06.08 - 01:09] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 01:09] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 01:09] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 01:09] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 01:09] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 01:30] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 01:30] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 01:30] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 01:40] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 01:40] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 01:43] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 01:50] Player The Inspector (STEAM_0:0:158172686  ///  185.100.245.24) conencted.
+[06.08 - 02:01] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 02:01] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 02:01] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 02:07] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:07] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 02:14] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:14] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 02:14] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 02:14] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 02:14] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 02:23] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 02:23] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 02:23] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 02:23] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:23] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 02:24] Player . (STEAM_2:1:805300361  ///  94.190.252.127) conencted.
+[06.08 - 02:26] Player bNk. (STEAM_1:0:1999507118  ///  85.196.136.1) conencted.
+[06.08 - 02:31] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:31] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:33] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:33] Player . (STEAM_2:1:805300361  ///  94.190.252.127) conencted.
+[06.08 - 02:33] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 02:33] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 02:33] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 02:42] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:45] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:45] Player . (STEAM_2:1:805300361  ///  94.190.252.127) conencted.
+[06.08 - 02:45] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 02:45] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 02:45] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 02:57] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 02:59] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 02:59] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 02:59] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 03:00] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 03:22] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 03:22] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 03:22] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 03:44] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 03:44] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 03:48] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 07:29] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 07:49] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 09:17] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 09:59] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 10:30] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 10:35] Player LEON (STEAM_1:0:681183515  ///  151.237.39.68) conencted.
+[06.08 - 10:39] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 10:52] Player Alan_Walker (STEAM_2:0:879802263  ///  94.156.86.19) conencted.
+[06.08 - 10:55] Player Alan_Walker (STEAM_2:0:879802263  ///  94.156.86.19) conencted.
+[06.08 - 11:01] Player Alan_Walker (STEAM_2:0:879802263  ///  94.156.86.19) conencted.
+[06.08 - 11:04] Player Alan_Walker (STEAM_2:0:879802263  ///  94.156.86.19) conencted.
+[06.08 - 11:05] Player Alan_Walker (STEAM_2:0:879802263  ///  94.156.86.19) conencted.
+[06.08 - 11:05] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 11:06] Player KuSsKoO (STEAM_1:0:801854541  ///  185.171.62.55) conencted.
+[06.08 - 11:13] Player [CSB] sensei (STEAM_2:1:215970005  ///  188.187.156.51) conencted.
+[06.08 - 11:16] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 11:23] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 11:23] Player Alan_Walker (STEAM_2:0:879802263  ///  94.156.86.19) conencted.
+[06.08 - 11:23] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 11:33] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 11:39] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 11:40] Player iLikeCs (STEAM_1:0:706701192  ///  151.237.70.87) conencted.
+[06.08 - 11:41] Player ILYas_pRo_KinG (STEAM_1:1:264314356  ///  77.71.16.145) conencted.
+[06.08 - 11:48] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 11:50] Player Jeahido (STEAM_2:1:857245987  ///  178.223.138.231) conencted.
+[06.08 - 11:55] Player LEON (STEAM_1:0:681183515  ///  151.237.39.139) conencted.
+[06.08 - 12:04] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 12:04] Player LEON (STEAM_1:0:681183515  ///  151.237.39.139) conencted.
+[06.08 - 12:04] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 12:04] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 12:09] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 12:16] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 12:18] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 12:20] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 12:20] Player S.W.A.T [BESNIQ BAWAREC] (STEAM_1:1:975548870  ///  77.71.22.69) conencted.
+[06.08 - 12:30] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 12:30] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 12:30] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 12:30] Player S.W.A.T [BESNIQ BAWAREC] (STEAM_1:1:975548870  ///  77.71.22.69) conencted.
+[06.08 - 12:30] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 12:31] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 12:37] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 12:46] Player ./bhop (STEAM_0:0:163292230  ///  212.5.158.222) conencted.
+[06.08 - 12:47] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 12:49] Player bombi4ka (STEAM_1:0:450379308  ///  46.253.9.146) conencted.
+[06.08 - 12:50] Player Tdk|xoxo (STEAM_1:0:252146107  ///  46.253.9.146) conencted.
+[06.08 - 12:51] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 12:51] Player ./bhop (STEAM_0:0:163292230  ///  212.5.158.222) conencted.
+[06.08 - 12:51] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 12:51] Player bombi4ka (STEAM_1:0:450379308  ///  46.253.9.146) conencted.
+[06.08 - 12:51] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 12:51] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 12:51] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 12:51] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 12:51] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 12:51] Player Tdk|xoxo (STEAM_1:0:252146107  ///  46.253.9.146) conencted.
+[06.08 - 12:51] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 12:55] Player WHX|Aim.Brothers.Jordan (STEAM_1:0:393424324  ///  41.225.206.91) conencted.
+[06.08 - 12:55] Player LEON (STEAM_1:0:681183515  ///  151.237.39.232) conencted.
+[06.08 - 12:56] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 12:57] Player Tdk|xoxo (STEAM_1:0:252146107  ///  46.253.9.146) conencted.
+[06.08 - 13:01] Player S.W.A.T [BESNIQ BAWAREC] (STEAM_1:1:975548870  ///  77.71.22.69) conencted.
+[06.08 - 13:02] Player LEON (STEAM_1:0:681183515  ///  151.237.39.232) conencted.
+[06.08 - 13:07] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 13:11] Player LEON (STEAM_1:0:681183515  ///  151.237.39.232) conencted.
+[06.08 - 13:11] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 13:11] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 13:11] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 13:11] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 13:11] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 13:11] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 13:12] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 13:22] Player LONG LIVE ISRAEL/DETH2Palesti (STEAM_1:0:611873909  ///  99.228.123.253) conencted.
+[06.08 - 13:25] Player XxXPatronaXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 13:25] Player LEON (STEAM_1:0:681183515  ///  151.237.39.227) conencted.
+[06.08 - 13:27] Player LEO (STEAM_1:0:603964278  ///  151.237.39.227) conencted.
+[06.08 - 13:31] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 13:31] Player LEON (STEAM_1:0:681183515  ///  151.237.39.227) conencted.
+[06.08 - 13:31] Player LEO (STEAM_1:0:603964278  ///  151.237.39.227) conencted.
+[06.08 - 13:31] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 13:31] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 13:31] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 13:31] Player XxXPatronaXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 13:47] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 13:52] Player LEON (STEAM_1:0:681183515  ///  151.237.39.227) conencted.
+[06.08 - 13:52] Player LEO (STEAM_1:0:603964278  ///  151.237.39.227) conencted.
+[06.08 - 13:52] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 13:52] Player killer boss (STEAM_1:0:280969512  ///  149.62.202.218) conencted.
+[06.08 - 13:52] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 13:53] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 13:53] Player XxXPatronaXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 13:53] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 14:00] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:01] Player hello (STEAM_1:1:1894411106  ///  77.78.43.95) conencted.
+[06.08 - 14:02] Player MUSTANG (STEAM_1:0:681183515  ///  151.237.39.182) conencted.
+[06.08 - 14:04] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 14:13] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 14:13] Player LEON (STEAM_1:0:681183515  ///  151.237.39.182) conencted.
+[06.08 - 14:13] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 14:13] Player LEO (STEAM_1:0:603964278  ///  151.237.39.227) conencted.
+[06.08 - 14:13] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 14:13] Player XxXPatronaXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 14:13] Player hello (STEAM_1:1:1894411106  ///  77.78.43.95) conencted.
+[06.08 - 14:13] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 14:17] Player KuSsKoO (STEAM_1:0:801854541  ///  185.171.62.55) conencted.
+[06.08 - 14:18] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:19] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:23] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:24] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:25] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:25] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:27] Player UFOBIRNE NASA((( BombasPlay ) (STEAM_1:0:589484948  ///  178.93.115.149) conencted.
+[06.08 - 14:29] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 14:33] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 14:33] Player LEON (STEAM_1:0:681183515  ///  151.237.39.182) conencted.
+[06.08 - 14:33] Player MUSTANG (STEAM_1:0:603964278  ///  151.237.39.227) conencted.
+[06.08 - 14:33] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 14:33] Player XxXPatronaXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 14:36] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 14:41] Player MUSTANG (STEAM_1:0:603964278  ///  151.237.39.227) conencted.
+[06.08 - 14:41] Player LEON (STEAM_1:0:681183515  ///  151.237.39.182) conencted.
+[06.08 - 14:41] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 14:41] Player XxXPatronaXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 14:41] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 14:42] Player ETS (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 14:45] Player jasiu cwany (STEAM_1:1:1010701865  ///  31.0.125.158) conencted.
+[06.08 - 14:46] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 14:52] Player XxXPATRONAXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 14:53] Player deadshot (STEAM_1:1:1980387838  ///  84.22.53.90) conencted.
+[06.08 - 14:55] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 15:03] Player LEON (STEAM_1:0:681183515  ///  151.237.39.182) conencted.
+[06.08 - 15:03] Player XxXSaadXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 15:03] Player jasiu cwany (STEAM_1:1:1010701865  ///  31.0.125.158) conencted.
+[06.08 - 15:03] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 15:03] Player deadshot (STEAM_1:1:1980387838  ///  84.22.53.90) conencted.
+[06.08 - 15:03] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 15:04] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 15:05] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 15:07] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 15:07] Player MUSTANG (STEAM_1:0:603964278  ///  151.237.39.12) conencted.
+[06.08 - 15:10] Player *Tha*|_DraGon_|LEgand* (STEAM_2:1:839295816  ///  41.36.222.249) conencted.
+[06.08 - 15:10] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 15:12] Player *Tha*|_DraGon_|LEgand* (STEAM_2:1:839295816  ///  41.36.210.41) conencted.
+[06.08 - 15:14] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 15:24] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 15:24] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 15:24] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 15:24] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 15:24] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 15:24] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 15:24] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 15:24]*** Admin UbiecaNaCiganite (STEAM_1:1:1825065139  ///  109.104.221.201) connected. ***
+[06.08 - 15:26] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 15:36] Player rechargEE x_O (STEAM_1:1:1695618326  ///  109.175.102.1) conencted.
+[06.08 - 15:40] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 15:43] Player *Tha*|_DraGon_|LEgand* (STEAM_2:1:839295816  ///  41.36.215.29) conencted.
+[06.08 - 15:44] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 15:45] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 15:45] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 15:45] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 15:45] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 15:45] Player *Tha*|_DraGon_|LEgand* (STEAM_2:1:839295816  ///  41.36.196.159) conencted.
+[06.08 - 15:45] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 15:45] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 15:46] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.106) conencted.
+[06.08 - 15:48] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 15:51] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 16:00] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 16:02] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 16:05] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 16:05] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 16:05] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 16:05] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 16:05] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 16:05] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 16:05] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 16:08] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 16:10] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 16:16] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 16:16] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 16:16] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 16:16] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 16:16] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 16:16] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 16:16] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 16:19] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 16:20] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 16:23] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 16:26] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 16:28] Player N!NGA l NORI (STEAM_0:0:4261771  ///  41.111.4.248) conencted.
+[06.08 - 16:30] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 16:30] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 16:30] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 16:30] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 16:30] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 16:30] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 16:30] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 16:30] Player N!NGA l NORI (STEAM_0:0:4261771  ///  41.111.4.248) conencted.
+[06.08 - 16:30] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 16:32] Player Sobachka3000 (STEAM_1:0:1750461965  ///  91.221.136.125) conencted.
+[06.08 - 16:38] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 16:38] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 16:39] Player oyun FATIHI (STEAM_1:1:748561017  ///  85.96.218.141) conencted.
+[06.08 - 16:44] Player Hahh (STEAM_1:0:1966169844  ///  41.97.38.107) conencted.
+[06.08 - 16:44] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.18.76) conencted.
+[06.08 - 16:45] Player ./bhop (STEAM_0:0:163292230  ///  212.5.158.222) conencted.
+[06.08 - 16:46] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 16:46] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 16:46] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 16:46] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 16:46] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 16:46] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 16:46] Player ./bhop (STEAM_0:0:163292230  ///  212.5.158.222) conencted.
+[06.08 - 16:46] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 16:46] Player DR.HAZZARD (STEAM_1:1:1987829265  ///  62.73.71.11) conencted.
+[06.08 - 16:46] Player Sobachka3000 (STEAM_1:0:1750461965  ///  91.221.136.125) conencted.
+[06.08 - 16:46] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.18.76) conencted.
+[06.08 - 16:46] Player oyun FATIHI (STEAM_1:1:748561017  ///  85.96.218.141) conencted.
+[06.08 - 16:48] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 17:05] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 17:06] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 17:07] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 17:07] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 17:07] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 17:08] Player Sobachka3000 (STEAM_1:0:1750461965  ///  91.221.136.125) conencted.
+[06.08 - 17:08] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 17:10] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 17:10] Player oyun FATIHI (STEAM_1:1:748561017  ///  85.96.218.141) conencted.
+[06.08 - 17:14]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 17:20] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 17:23] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 17:23] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 17:23] Player oyun FATIHI (STEAM_1:1:748561017  ///  85.96.218.141) conencted.
+[06.08 - 17:23] Player Sobachka3000 (STEAM_1:0:1750461965  ///  91.221.136.125) conencted.
+[06.08 - 17:23]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 17:25] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 17:26] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 17:26] Player KuSsKoO (STEAM_1:0:801854541  ///  185.171.62.55) conencted.
+[06.08 - 17:27] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 17:27] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 17:38] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 17:44] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 17:45] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 17:45] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 17:45] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 17:45]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 17:45] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 17:46] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 17:46] Player LEON (STEAM_1:0:681183515  ///  151.237.39.28) conencted.
+[06.08 - 17:47] Player Jankezz (STEAM_1:0:1024849351  ///  185.100.244.175) conencted.
+[06.08 - 17:53] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 17:53] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 17:56] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 18:01] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 18:06] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 18:07] Player devl1 (STEAM_2:1:232564246  ///  77.71.22.75) conencted.
+[06.08 - 18:07] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 18:07] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 18:08] Player Patrona (VALVE_ID_LAN  ///  93.155.192.137) conencted.
+[06.08 - 18:15] Player pich_majchin (STEAM_1:0:1721644883  ///  89.205.118.182) conencted.
+[06.08 - 18:19] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 18:25] Player SABAN (STEAM_2:1:1695707222  ///  79.132.18.90) conencted.
+[06.08 - 18:27] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 18:28] Player X FAIV X (STEAM_2:1:74324064  ///  212.75.22.245) conencted.
+[06.08 - 18:28] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 18:28] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 18:28] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 18:41] Player DOULINGO (STEAM_1:0:2084001081  ///  212.200.181.157) conencted.
+[06.08 - 18:43] Player pich_majchin (STEAM_1:0:1721644883  ///  89.205.118.182) conencted.
+[06.08 - 18:44] Player G5-FxDerT! -.^ (STEAM_2:1:1104088079  ///  92.53.60.241) conencted.
+[06.08 - 18:47] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 18:47] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 18:50] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 18:51] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 18:51] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 18:52] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 18:52] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 19:12] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 19:25] Player LEON (STEAM_1:0:681183515  ///  151.237.39.219) conencted.
+[06.08 - 19:44] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 19:56] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 19:58] Player jesse_pinkman (STEAM_1:0:1973059967  ///  91.148.164.81) conencted.
+[06.08 - 20:16] Player ＃Blue'Man|AB.arar％％ (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 20:19] Player [DEA].AIM.PALESTINE (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 20:20] Player [DEA].AIM.PALESTINE (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 20:21] Player Mr.Bro (STEAM_2:1:36281438  ///  41.100.46.232) conencted.
+[06.08 - 20:23] Player Mr.Bro (STEAM_2:1:36281438  ///  41.100.46.232) conencted.
+[06.08 - 20:26] Player jesse_pinkman (STEAM_1:0:1973059967  ///  91.148.164.81) conencted.
+[06.08 - 20:33] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.173) conencted.
+[06.08 - 20:33] Player KuSsKoO (STEAM_1:0:801854541  ///  185.171.62.55) conencted.
+[06.08 - 20:33] Player KuSsKoO (STEAM_1:0:801854541  ///  185.171.62.55) conencted.
+[06.08 - 20:33] Player jesse_pinkman (STEAM_1:0:1973059967  ///  91.148.164.81) conencted.
+[06.08 - 20:33] Player [DEA].AIM.PALESTINE (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 20:34] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.173) conencted.
+[06.08 - 20:34] Player Mr.Bro (STEAM_2:1:36281438  ///  41.100.46.232) conencted.
+[06.08 - 20:39] Player DESTROYER (STEAM_1:1:1435422856  ///  146.255.74.219) conencted.
+[06.08 - 20:40] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 20:42] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 20:42] Player KuSsKoO (STEAM_1:0:801854541  ///  185.171.62.55) conencted.
+[06.08 - 20:46] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 20:50] Player The Ghost YT (STEAM_1:1:2029569788  ///  168.211.52.186) conencted.
+[06.08 - 20:55] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 20:55] Player [DEA].AIM.PALESTINE (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 20:56] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.173) conencted.
+[06.08 - 20:57] Player DESTROYER (STEAM_1:1:1435422856  ///  146.255.74.219) conencted.
+[06.08 - 20:58] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:02] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 21:04] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:06] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:06] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 21:08] Player ok (STEAM_0:0:19903402  ///  78.157.91.203) conencted.
+[06.08 - 21:09] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 21:09] Player ok (STEAM_0:0:19903402  ///  78.157.91.203) conencted.
+[06.08 - 21:09] Player X EKO X (STEAM_1:0:700894237  ///  151.237.70.180) conencted.
+[06.08 - 21:09] Player xXMr.ONurXx_YT (STEAM_2:1:935252518  ///  79.132.26.173) conencted.
+[06.08 - 21:09] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 21:14] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 21:14] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:14] Player SABAN (STEAM_2:1:1695707222  ///  79.132.18.90) conencted.
+[06.08 - 21:15]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 21:16] Player DESTROYER (STEAM_1:1:1435422856  ///  146.255.74.219) conencted.
+[06.08 - 21:16]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 21:16] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:16] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 21:16] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 21:16] Player ok (STEAM_0:0:19903402  ///  78.157.91.203) conencted.
+[06.08 - 21:16] Player DESTROYER (STEAM_1:1:1435422856  ///  146.255.74.219) conencted.
+[06.08 - 21:16] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 21:16] Player SABAN (STEAM_2:1:1695707222  ///  79.132.18.90) conencted.
+[06.08 - 21:17] Player CS.SECTOR.BG Player (STEAM_2:0:135063910  ///  85.187.4.65) conencted.
+[06.08 - 21:17] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 21:17] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:20] Player Mr.Bro (STEAM_2:1:36281438  ///  41.101.204.120) conencted.
+[06.08 - 21:20]*** Admin Maverick (STEAM_0:0:37264973  ///  130.204.36.29) connected. ***
+[06.08 - 21:24]*** Admin UbiecaNaCiganite (STEAM_1:1:1825065139  ///  109.104.221.201) connected. ***
+[06.08 - 21:24] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:26] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:26] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:27]*** Admin Maverick (STEAM_0:0:37264973  ///  130.204.36.29) connected. ***
+[06.08 - 21:27]*** Admin UbiecaNaCiganite (STEAM_1:1:1825065139  ///  109.104.221.201) connected. ***
+[06.08 - 21:27] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 21:27] Player ok (STEAM_0:0:19903402  ///  78.157.91.203) conencted.
+[06.08 - 21:27]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 21:27] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:27] Player SABAN (STEAM_2:1:1695707222  ///  79.132.18.90) conencted.
+[06.08 - 21:27] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 21:27] Player CS.SECTOR.BG Player (STEAM_2:0:135063910  ///  85.187.4.65) conencted.
+[06.08 - 21:27]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 21:28]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 21:28] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 21:29] Player CS.SECTOR.BG Player (STEAM_2:0:135063910  ///  85.187.4.65) conencted.
+[06.08 - 21:29] Player DESTROYER (STEAM_1:1:1435422856  ///  146.255.74.219) conencted.
+[06.08 - 21:32] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:32] Player Mr.Bro (STEAM_2:1:36281438  ///  41.101.204.120) conencted.
+[06.08 - 21:32] Player KillermodYT (STEAM_2:1:2058150705  ///  93.183.188.169) conencted.
+[06.08 - 21:33] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:33] Player KillermodYT (STEAM_2:1:2058150705  ///  93.183.188.169) conencted.
+[06.08 - 21:33] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 21:34] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 21:35] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:36] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:37] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:38] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:39] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:39]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 21:40] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:40] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 21:41] Player LEON (STEAM_1:0:681183515  ///  151.237.39.230) conencted.
+[06.08 - 21:41] Player max (STEAM_1:1:697086419  ///  80.64.90.26) conencted.
+[06.08 - 21:41] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:42] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:42] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 21:43] Player MUSTANG (STEAM_1:0:603964278  ///  151.237.39.230) conencted.
+[06.08 - 21:47] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 21:48]*** Admin Maverick (STEAM_0:0:37264973  ///  130.204.36.29) connected. ***
+[06.08 - 21:48]*** Admin UbiecaNaCiganite (STEAM_1:1:1825065139  ///  109.104.221.201) connected. ***
+[06.08 - 21:48] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 21:48] Player NotSewt (STEAM_2:1:1949525912  ///  178.169.146.131) conencted.
+[06.08 - 21:48] Player MUSTANG (STEAM_1:0:603964278  ///  151.237.39.230) conencted.
+[06.08 - 21:48] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 21:48] Player LEON (STEAM_1:0:681183515  ///  151.237.39.230) conencted.
+[06.08 - 21:49]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 21:49] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 21:49] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 21:49] Player Mr.Bro (STEAM_2:1:36281438  ///  41.101.204.120) conencted.
+[06.08 - 21:50] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:51] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:53] Player vexill (STEAM_2:0:410032012  ///  217.174.59.250) conencted.
+[06.08 - 21:56] Player SAVA AIM CFG V3 (STEAM_2:0:44715417  ///  92.53.45.29) conencted.
+[06.08 - 21:56] Player duhgrobarstva_ (STEAM_1:0:1745738149  ///  195.252.86.3) conencted.
+[06.08 - 21:57]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 21:57] Player <Warrior> Player (STEAM_2:0:329911590  ///  92.53.36.142) conencted.
+[06.08 - 21:58] Player Talal_____________777777777 (STEAM_1:0:262379881  ///  149.0.225.167) conencted.
+[06.08 - 21:58] Player Surf Gateway is the best! (STEAM_1:1:1172791192  ///  181.28.28.117) conencted.
+[06.08 - 21:58] Player ROXELNATOR (STEAM_0:1:443567484  ///  46.40.36.172) conencted.
+[06.08 - 21:58] Player (1)<Warrior> Player (STEAM_1:1:1809959824  ///  5.249.3.176) conencted.
+[06.08 - 21:58] Player (2)<Warrior> Player (STEAM_1:1:816505238  ///  85.138.180.83) conencted.
+[06.08 - 22:02] Player Dimke (STEAM_2:1:1368940322  ///  77.243.24.79) conencted.
+[06.08 - 22:06]*** Admin XxXBadBoyXxX (STEAM_0:1:435231343  ///  87.126.227.250) connected. ***
+[06.08 - 22:08] Player ./bhop (STEAM_0:0:163292230  ///  212.5.158.222) conencted.
+[06.08 - 22:09]*** Admin XxXBadBoyXxX (STEAM_0:1:435231343  ///  87.126.227.250) connected. ***
+[06.08 - 22:09]*** Admin Maverick (STEAM_0:0:37264973  ///  130.204.36.29) connected. ***
+[06.08 - 22:09]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 22:09] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 22:09] Player LEON (STEAM_1:0:681183515  ///  151.237.39.230) conencted.
+[06.08 - 22:09] Player ./bhop (STEAM_0:0:163292230  ///  212.5.158.222) conencted.
+[06.08 - 22:09] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 22:09]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 22:09] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 22:09] Player ROXELNATOR (STEAM_0:1:443567484  ///  46.40.36.172) conencted.
+[06.08 - 22:09] Player duhgrobarstva_ (STEAM_1:0:1745738149  ///  195.252.86.3) conencted.
+[06.08 - 22:09] Player Talal_____________777777777 (STEAM_1:0:262379881  ///  149.0.225.167) conencted.
+[06.08 - 22:09] Player <Warrior> Player (STEAM_1:1:816505238  ///  85.138.180.83) conencted.
+[06.08 - 22:10] Player KOZICA (STEAM_1:1:419972103  ///  77.77.218.94) conencted.
+[06.08 - 22:10] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 22:11] Player wasawd (STEAM_1:0:834998669  ///  46.229.194.54) conencted.
+[06.08 - 22:19] Player C@r|os Silv@ (STEAM_1:1:1532220758  ///  143.255.150.6) conencted.
+[06.08 - 22:27] Player pun beli mesec (STEAM_1:0:1569219915  ///  217.16.135.57) conencted.
+[06.08 - 22:29]*** Admin Maverick (STEAM_0:0:37264973  ///  130.204.36.29) connected. ***
+[06.08 - 22:29]*** Admin Xinored (STEAM_0:0:54719118  ///  77.77.164.110) connected. ***
+[06.08 - 22:29] Player LEON (STEAM_1:0:681183515  ///  151.237.39.230) conencted.
+[06.08 - 22:30] Player SashkataPro3 (STEAM_1:1:794636285  ///  130.204.25.6) conencted.
+[06.08 - 22:30] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 22:30] Player wasawd (STEAM_1:0:834998669  ///  46.229.194.54) conencted.
+[06.08 - 22:30] Player ROXELNATOR (STEAM_0:1:443567484  ///  46.40.36.172) conencted.
+[06.08 - 22:30]*** Admin Mr.Roller (STEAM_0:1:161838116  ///  212.200.101.206) connected. ***
+[06.08 - 22:30] Player pun beli mesec (STEAM_1:0:1569219915  ///  217.16.135.57) conencted.
+[06.08 - 22:30] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 22:30] Player ***TERMINATOR*** (STEAM_1:1:1422360831  ///  193.34.109.21) conencted.
+[06.08 - 22:34] Player mars kuci (STEAM_1:0:1156393538  ///  188.255.236.165) conencted.
+[06.08 - 22:35] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 22:36] Player <Warrior> Player (STEAM_1:0:322231228  ///  77.91.43.150) conencted.
+[06.08 - 22:38] Player merdani (STEAM_1:0:378422724  ///  217.73.141.211) conencted.
+[06.08 - 22:39] Player wolf (STEAM_1:0:433316180  ///  82.102.203.107) conencted.
+[06.08 - 22:40] Player Surf Gateway 4 Ever! (STEAM_1:1:759295861  ///  41.102.84.122) conencted.
+[06.08 - 22:45] Player 1n$p3cT (STEAM_1:1:1341671611  ///  91.148.164.81) conencted.
+[06.08 - 22:45] Player SURYA AFRIN (STEAM_1:0:1176886670  ///  176.216.95.204) conencted.
+[06.08 - 22:46] Player Adame (STEAM_1:0:356195515  ///  195.192.247.76) conencted.
+[06.08 - 22:50] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 22:51] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 22:51] Player SURYA AFRIN (STEAM_1:0:1176886670  ///  176.216.95.204) conencted.
+[06.08 - 22:51] Player 1n$p3cT (STEAM_1:1:1341671611  ///  91.148.164.81) conencted.
+[06.08 - 22:53] Player mirko (STEAM_1:1:1764964299  ///  109.122.122.139) conencted.
+[06.08 - 22:55] Player CS (STEAM_2:0:1189939689  ///  62.162.161.198) conencted.
+[06.08 - 22:55] Player santiago (STEAM_2:0:1984715897  ///  200.90.68.151) conencted.
+[06.08 - 22:57] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 22:59] Player Fan ＃9 ProGaming.Ba ZU (STEAM_1:0:806110244  ///  201.230.182.78) conencted.
+[06.08 - 23:01] Player bNk. (STEAM_1:0:1999507118  ///  85.196.136.1) conencted.
+[06.08 - 23:02] Player menjaj (STEAM_2:1:894633236  ///  95.156.52.186) conencted.
+[06.08 - 23:03] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 23:03] Player Fan ＃9 ProGaming.Ba ZU (STEAM_1:0:806110244  ///  201.230.182.78) conencted.
+[06.08 - 23:08] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 23:09] Player ROXELNATOR (STEAM_0:1:443567484  ///  46.40.36.172) conencted.
+[06.08 - 23:09] Player Saad (STEAM_0:1:113405507  ///  196.195.23.69) conencted.
+[06.08 - 23:10] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 23:12] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 23:12] Player BAD BOY (STEAM_2:0:495458894  ///  178.169.229.76) conencted.
+[06.08 - 23:12] Player -Ledger (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 23:12] Player ROXELNATOR (STEAM_0:1:443567484  ///  46.40.36.172) conencted.
+[06.08 - 23:13] Player Saad (STEAM_0:1:113405507  ///  196.195.23.69) conencted.
+[06.08 - 23:13] Player Respawn WestCstrike R0 [2] (STEAM_2:0:846564479  ///  41.111.7.204) conencted.
+[06.08 - 23:13] Player bNk. (STEAM_1:0:1999507118  ///  85.196.136.1) conencted.
+[06.08 - 23:14] Player menjaj (STEAM_2:1:894633236  ///  95.156.52.186) conencted.
+[06.08 - 23:14] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 23:14] Player santiago (STEAM_2:0:1984715897  ///  200.90.68.151) conencted.
+[06.08 - 23:15] Player 1n$p3cT (STEAM_1:1:1341671611  ///  91.148.164.81) conencted.
+[06.08 - 23:16] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 23:17] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 23:20] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 23:20] Player Sami Bob (STEAM_1:1:1994610003  ///  154.121.27.107) conencted.
+[06.08 - 23:20] Player Toxic-Gamers.net$*ZE＃1 (STEAM_2:1:975538456  ///  156.195.46.171) conencted.
+[06.08 - 23:22] Player martin artur nazaretyan (STEAM_1:1:128004291  ///  87.126.122.179) conencted.
+[06.08 - 23:25] Player unnamed (STEAM_1:0:1195276784  ///  77.29.89.71) conencted.
+[06.08 - 23:25] Player pegaleve (STEAM_1:1:482813567  ///  138.0.54.255) conencted.
+[06.08 - 23:25] Player Susuk_Kasiaka (STEAM_1:1:271109782  ///  62.80.225.226) conencted.
+[06.08 - 23:26] Player blackICE (STEAM_1:0:1146043329  ///  93.235.195.83) conencted.
+[06.08 - 23:26] Player fnatic.msi f0rest (STEAM_1:1:584736279  ///  105.157.247.222) conencted.
+[06.08 - 23:28] Player <Warrior> Player (STEAM_2:1:908010266  ///  131.196.111.4) conencted.
+[06.08 - 23:30] Player 2002 (STEAM_1:1:243287539  ///  185.97.127.58) conencted.
+[06.08 - 23:31]*** Admin XxXBadBoyXxX (STEAM_0:1:435231343  ///  87.126.227.250) connected. ***
+[06.08 - 23:31] Player Surf Gateway is my favorite! (STEAM_1:1:718664398  ///  181.64.105.183) conencted.
+[06.08 - 23:33] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 23:33] Player Janko8 (VALVE_ID_LAN  ///  79.101.149.197) conencted.
+[06.08 - 23:33] Player Rogue (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 23:33] Player Sami Bob (STEAM_1:1:1994610003  ///  154.121.27.107) conencted.
+[06.08 - 23:33] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 23:33] Player <Warrior> Player (STEAM_2:1:908010266  ///  131.196.111.4) conencted.
+[06.08 - 23:33] Player pegaleve (STEAM_1:1:482813567  ///  138.0.54.255) conencted.
+[06.08 - 23:35] Player I'm a big Surf Gateway fan! (STEAM_1:1:1745748320  ///  197.56.1.190) conencted.
+[06.08 - 23:35] Player Surf Gateway is my favorite! (STEAM_1:1:718664398  ///  181.64.105.183) conencted.
+[06.08 - 23:38] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 23:41] Player zCorlis_x (STEAM_1:0:2129664119  ///  190.207.180.95) conencted.
+[06.08 - 23:41] Player bzaie (STEAM_1:1:1923409086  ///  82.76.59.216) conencted.
+[06.08 - 23:43] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 23:43] Player <Warrior> Player (STEAM_1:0:1813529220  ///  181.44.185.168) conencted.
+[06.08 - 23:43] Player (1)<Warrior> Player (STEAM_2:1:648437462  ///  188.161.49.199) conencted.
+[06.08 - 23:48] Player XxXgeorgiXxX (STEAM_1:0:899744808  ///  93.155.192.142) conencted.
+[06.08 - 23:48] Player Rogue (STEAM_2:0:1265508019  ///  109.107.87.201) conencted.
+[06.08 - 23:48] Player xNonce (STEAM_1:1:1484530368  ///  185.255.213.132) conencted.
+[06.08 - 23:48] Player MeMeT_KoSoVa (STEAM_1:0:1625983373  ///  46.19.228.7) conencted.
+[06.08 - 23:49] Player 2002 (STEAM_1:1:243287539  ///  185.97.127.58) conencted.
+[06.08 - 23:51] Player RAMASS (STEAM_1:0:2062537596  ///  181.171.130.72) conencted.
+[06.08 - 23:52] Player <Warrior> Player (STEAM_1:1:406267753  ///  177.30.90.214) conencted.
+[06.08 - 23:52] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 23:54] Player ＃BLUE'MaN|AB.ArAr (STEAM_1:1:1316058917  ///  37.8.45.236) conencted.
+[06.08 - 23:55] Player BalkanRegion0_ (STEAM_1:1:1692376046  ///  178.221.73.185) conencted.
+[06.08 - 23:55] Player Respawn WestCstrike R0 [2] (STEAM_2:0:846564479  ///  41.111.7.204) conencted.
+[06.08 - 23:56] Player demonHacker98 (STEAM_1:0:269173402  ///  31.223.133.160) conencted.
+[06.08 - 23:58] Player MuHaBaM u PoDMuHaBaM (STEAM_1:0:1716230349  ///  87.246.55.51) conencted.
+[07.08 - 00:00] Player XxXSaadXxX (VALVE_ID_LAN  ///  93.155.192.137) conencted.

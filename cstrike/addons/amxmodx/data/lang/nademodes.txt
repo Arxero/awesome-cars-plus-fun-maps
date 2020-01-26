@@ -1,0 +1,361 @@
+[ro]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Ce trebuie sa fac?</div>
+<div>Cand ai grenada in mana apesi clic dreapta si iti apare un mesaj de genul : Trip laser Mode.</div>
+<div>Dupa ce alegi un mod si arunci grenada o sa observi ca grenada isi schimba comportamentul</div>
+<div><br \></div>
+<div>Ce face fiecare mod?</div>
+<div>1. Normal</div>
+<div>- grenada normala, cea pe care o stie toata lumea</div>
+<div>2. Proximity</div>
+<div>- grenada nu mai explodeaza, decat daca cineva se afla in apropiere de ea</div>
+<div>3. Impact</div>
+<div>- grenada nu mai bubuie decat daca atinge ceva (cum ar fi un jucator sau un zid)</div>
+<div>4. Trip Laser</div>
+<div>- grenada se ataseaza pe tot ce este solid (ex: zidul), peste 4 secunde se activeaza si trage un laser, daca un adversar trece prin acel laser grenada explodeaza</div>
+<div>5. Motion</div>
+<div>- mod asemanator cu proximitate, insa aici grenada explodeaza daca jucatorul trece cu viteza</div>
+<div>6. Satchel Charge</div>
+<div>- grenada nu mai bubuie decat cand apesi tasta de utilizare (de obicei e)</div>
+<div>7. Homing</div>
+<div>- grenada urmareste adversarul</div>
+<br>
+<div>Comenzi:</div>
+<div>amx_nmm [admin] - menu de configurare plugin</div>
+
+:
+
+[en]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>What do I need to do?</div>
+<div>When you have a grenade in your hand you just press the right click : Trip laser Mode.</div>
+<div>After you have chosen a mode and you will throw the grenade you will notice that it's behaveor will change</div>
+<div><br \></div>
+<div>What does each mode do?</div>
+<div>1. Normal</div>
+<div>- normal grenade, the one that everybody knows</div>
+<div>2. Proximity</div>
+<div>- the grenade doesn't explode unless someone is near it</div>
+<div>3. Impact</div>
+<div>- the grenade blows when it touches something (like a wall or a player)</div>
+<div>4. Trip Laser</div>
+<div>- the grenade attaches to something solid (like wall), after it will activate if a player will pass through it's laser then the grenade will explode</div>
+<div>5. Motion</div>
+<div>- same with proximity, but the grenade explodes when the player has speed</div>
+<div>6. Satchel Charge</div>
+<div>- the grenade explodes when you press the +use key. (default e)</div>
+<div>7. Homing</div>
+<div>- the grenade follows the enemy</div>
+<br>
+<div>Commands:</div>
+<div>amx_nmm [admin] - plugin configuration menu</div>
+
+:
+
+[pt-br]
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Oque eu preciso fazer?</div>
+<div>Quando estiver com uma granada na mao clique com o botao direito do mouse.</div>
+<div>Depois de ter escolhido um modo de explosao jogue a granada, voce percebera que o modo de explosao dela mudara.</div>
+<div><br \></div>
+<div>Oque cada modo faz?</div>
+<div>1. Normal</div>
+<div>- granada normal, aquela que todo mundo sabe.</div>
+<div>2. Proximity</div>
+<div>- a granada explodira quando alguem se aproximar dela.</div>
+<div>3. Impact</div>
+<div>- a granada explodira quando tocar em qualquer lugar.</div>
+<div>4. Trip Laser</div>
+<div>- a granada ira se fixar em um lugar solido e um laser ira se formar na linha da granada, quando alguem passar por esse laser, ela explodira</div>
+<div>5. Motion</div>
+<div>- parecido com a Proximity, porem ela so explodira com movimentos bruscos.</div>
+<div>6. Satchel Charge</div>
+<div>- a granade explodira quando voce prescionar + use (default E)</div>
+<div>7. Homing</div>
+<div>- a granada segue o inimigo.</div>
+<br>
+<div>Comandos:</div>
+<div>amx_nmm [admin] - Menu de configuracao do plugin</div>
+
+:
+
+[nl]
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Wat moet ik doen?</div>
+<div>Wanneer je een granaat in je hand hebt, klik je op je rechtermuisknop: Trip laser Mode.</div>
+<div>Nadat je een modus hebt gekozen, moet je een granaat gooien en je zult opmerken dat het gedrag van de granaat zal veranderen.</div>
+<div><br \></div>
+<div>Wat is het verschil tussen de verschillende modussen?</div>
+<div>1. Normal (Normaal)</div>
+<div>- normale granaat, degende die je altijd gebruikt</div>
+<div>2. Proximity (Granaat met hittesensor)</div>
+<div>- deze granaat zal niet ontploffen als er niemand in de buurt is</div>
+<div>3. Impact (Impact-granaat)</div>
+<div>- deze granaat ontploft waneer het iets aanraakt (zoals een muur of een speler)</div>
+<div>4. Trip Laser (Laser-Granaat)</div>
+<div>- deze granaat plakt tegen iets (zoals een muur), wanneer een speler voorbij de laser van de granaat (die is vastgeplakt aan de muur) loopt, zal de granaat ontploffen</div>
+<div>5. Motion</div>
+<div>- hetzelfde als proximity, alleen ontploft de granaat wanner de speler aan het stappen/lopen is</div>
+<div>6. Satchel Charge</div>
+<div>- deze granaat ontploft wanneer je de +use key gebruikt. (normaal e)</div>
+<div>7. Homing (Stalker)</div>
+<div>- de granaat volgt de vijand/div>
+<br>
+<div>Commando's:</div>
+<div>amx_nmm [admin] - plugin configuratie menu</div>
+
+:
+
+[de]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Was muss ich tun?</div>
+<div>Wenn Du eine Granate in Deiner Hand hast, druecke einfach die rechte Maustaste : Trip laser Mode.</div>
+<div>Nachdem Du einen Modus ausgewaehlt hast und eine Granate wirfst, wirst Du sehen, dass sich ihr Verhalten aendert</div>
+<div><br /></div>
+<div>Was macht welcher Modus?</div>
+<div>1. Normal</div>
+<div>- normale Granate, die jeder bereits kennt</div>
+<div>2. Proximity (Annaeherung)</div>
+<div>- die Granate explodiert erst, wenn jemand ihr nahe kommt</div>
+<div>3. Impact (Aufprall)</div>
+<div>- die Granate explodiert, wenn sie irgendwas beruehrt (wie eine Wand oder einen Spieler)</div>
+<div>4. Trip Laser (Stolpern/Ausloesung)</div>
+<div>- die Granate wird an etwas solidem (wie einer Wand) befestigt. Nach der Aktivierung explodiert sie, wenn ein Spieler amx durch den Laser laeuft</div>
+<div>5. Motion (Bewegung)</div>
+<div>- gleich mit Proximity (Annaehrung), aber die Granate explodiert, wenn der Spieler sich schnell bewegt</div>
+<div>6. Satchel Charge (Pioniersprengladung)</div>
+<div>- die Granate explodiert, wenn Du die +use Taste (standardmäßig e) drueckst</font></div>
+<div>7. Homing (zielsuchend)</div>
+<div>- die Granate verfolgt den Feind</div>
+<br />
+<div>Befehle:</div>
+<div>amx_nmm [admin] - Plugin-Konfigurationsmenue</div>
+
+:
+
+[fr]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Que dois-je faire?</div>
+<div>Quand tu as une grenade dans ta main, utilise le clique droit : Mode "Trip laser".</div>
+<div>Après que tu aies choisis un mode, et que tu aies lancé ta grenades, tu noteras que son comportement va changer</div>
+<div><br \></div>
+<div>Qu'est-ce que chaques modes ont de particulier?</div>
+<div>1. Normal</div>
+<div>- Grenades normales, celles que tout le monde connait.</div>
+<div>2. Proximité</div>
+<div>- La grenade n'explose pas tant que quelqu'un n'est pas à proximité.</div>
+<div>3. Impacte</div>
+<div>- La grenade explose quand elle touche quelque chose de solide (comme un mur ou un joueur).</div>
+<div>4. Trip Laser</div>
+<div>- La grenade s'attache à quelque chose de solide (comme un mur), et elle ne s'activera que quand quelqu'un passera son laser.</div>
+<div>5. Mouvements</div>
+<div>- Similaire au mode de proximité, mais la grenade explosera par rapport à la vitesse du joueur.</div>
+<div>6. Satchel Charge</div>
+<div>- La grenade explosera quand tu utiliseras la touche "+use". (par defaut e).</font></div>
+<div>7. Homing</div>
+<div>- La grenade suit l'ennemi.</div>
+<br>
+<div>Commandes:</div>
+<div>amx_nmm [admin] -Le menu de configuration du plugin.</div>
+
+:
+
+[da]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>hvad mangler jeg at goere</div>
+<div>Naar du har granaten i haanden hoejre klik for: Trip laser Mode.</div>
+<div>Efter du har valgt et mode og du kaster granaten vil du se dens maade aendre
+sig</div>
+<div><br \></div>
+<div>hvad goer hver mode</div>
+<div>1. Normal</div>
+<div>- normal granat, den som alle kender</div>
+<div>2. Proximity</div>
+<div>- granaten eksplodere ikke, kun vis nogen naermer sig den</div>
+<div>3. Impact</div>
+<div>- granaten eksplodere naar den roerer noget </div>
+<div>4. Trip Laser</div>
+<div>- granaten sætter sig fast i noget (f.eks. en væg), efter nogen har passeret laseren eksplodere den</div>
+<div>5. Motion</div>
+<div>- samme som proximity men eksplodere kun vis spilleren har en bestemt fart</div>
+<div>6. Satchel Charge</div>
+<div>- granaten eksplodere naar du bruger +use tasten. (normalt e)</font></div>
+<div>7. Homing</div>
+<div>- granaten forfoelger modspilleren</div>
+<br>
+<div>Commands:</div>
+<div>amx_nmm [admin] - plugin konfiguration menu</div>
+:
+
+[es]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Que necesito hacer?</div>
+<div>Cuando tengas una granada en la mano pulsa el Click Derecho.</div>
+<div>Cuando has elegido un modo y has lanzado la granada seras notificado del
+
+cambio</div>
+<div><br \></div>
+<div>Que hace cada modo?</div>
+<div>1. Normal</div>
+<div>- la granada normal, la de toda la vida</div>
+<div>2. Proximity</div>
+<div>- la granada no explotara a no ser que haya alguien cerca</div>
+<div>3. Impact</div>
+<div>- la granada explotara al chocar contra algo (una pared o un jugador)</div>
+<div>4. Trip Laser</div>
+<div>- la granada se pegara a algo solido (como una pared) y explotara cuando un jugador pase sobre el laser</div>
+<div>5. Motion</div>
+<div>- igual que la de proximidad, pero explotara cuando el jugador vaya tenga velocidad</div>
+<div>6. Satchel Charge</div>
+<div>- la granda explotara cuando pulses +use (por defecto la E)</div>
+<div>7. Homing</div>
+<div>- la granada seguira al enemigo</div>
+<br>
+<div>Comandos:</div>
+<div>amx_nmm [admin] - menu de configuracion del plugin</div>
+
+:
+
+[ru]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Как использовать режимы гранат?</div>
+<div>С гранатой в руках нажмите правую кнопку мыши: увидите название режима.</div>
+<div>Выбрав режим и бросив гранату вы заметите, что действие ее стало иным</div>
+<div><br \></div>
+<div>Что делает каждый режим?</div>
+<div>1. Normal (нормальный)</div>
+<div>- режим обычной, привычной всем гранаты</div>
+<div>2. Proximity (приближение)</div>
+<div>- граната не сработает, пока враг не пробежит рядом с ней</div>
+<div>3. Impact (столкновение)</div>
+<div>- граната сразу срабатывает задев стену, пол или человека</div>
+<div>4. Trip Laser (установка лазера)</div>
+<div>- граната устанавливается на твердую поверхность, растягивается лазер. Если враг пробегает через лазер - граната срабатывает</div>
+<div>5. Motion (движение)</div>
+<div>- режим похож на "приближение", но здесь граната срабатывает только если враг на скорости</div>
+<div>6. Satchel Charge (дистанционное управление)</div>
+<div>- граната срабатывает, когда вы жмете кнопку +use. (по умолчанию e)</div>
+<div>7. Homing (самонаведение)</div>
+<div>- граната преследует игрока</div>
+<br>
+<div>Команды:</div>
+<div>amx_nmm [admin] - меню конфигурации плагина</div>
+:
+
+[sk]
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Co mam robit?</div>
+<div>Ked mas v ruke granat, prosto stlac prave tlacidlo na mysi : Trip laser Mode.</div>
+<div>Po tom ako si vyberies mod a hodis granat si vsimnes ze spravanie granatu sa zmeni</div>
+<div><br \></div>
+<div>Co jednotlive mody robia?</div>
+<div>1. Normal</div>
+<div>- Normalny granat - taky ako ho pozna kazdy</div>
+<div>2. Proximity</div>
+<div>- granat vybuchne len v pripade, ked je niekto pri nom</div>
+<div>3. Impact</div>
+<div>- granat vybuchne vtedy, ked na nieco narazi (napr. stena, hrac, ...) </div>
+<div>4. Trip Laser</div>
+<div>- granat sa pripevni na nieco pevne (napr. stena) a ked niekto prejde cez laser ktory granat premieta na protilahlu stenu, tak granat vybuchne</div>
+<div>5. Motion</div>
+<div>- rovnaky ako proximity, ale granat vybuchne vtedy, ked ma hrac rychlost (napr. ked bezi)(</div>
+<div>6. Satchel Charge</div>
+<div>- granat vybuchne vtedy ked stalcis use key. (use key je primarne "e")</div>
+<div>7. Homing</div>
+<div>- granat prenasleduje nepriatela</div>
+<br>
+<div>Prikazy:</div>
+<div>amx_nmm [admin] - menu nastavenia pluginu</div>
+:
+
+[vn]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Toi phai lam gi day ?</div>
+<div>Khi ban co 1 qua luu dan , ban chi can bam chuot phai : Che do Trip laser .</div>
+<div>Sau khi ban da chon 1 che do ma ban muon ban se thay no thay doi</div>
+<div><br \></div>
+<div>Mo^i~ che do hoat dong ra sao ?</div>
+<div>1. Normal</div>
+<div>- Che do binh thuong , 1 che do ma tat ca deu biet </div>
+<div>2. Proximity</div>
+<div>- Qua luu dan se khong no neu khong co ai dung gan no' </div>
+<div>3. Impact</div>
+<div>- Qua luu dan se no neu no' cham vao cai gi do (1 buc tuong hoac 1 nguoi choi)</div>
+<div>4. Trip Laser</div>
+<div>- Qua luu dan se no neu ai vuot qua ranh gioi laser cua no</div>
+<div>5. Motion</div>
+<div>- Giong nhu proximity , nhung no' chi boom khi ai do di chuyen</div>
+<div>6. Satchel Charge</div>
+<div>- 1 qua min , no se no khi ban bam nut E. (default e)</div>
+<div>7. Homing</div>
+<div>- Qua luu dan nay se theo ke dich den bat cu noi nao</div>
+<br>
+<div>Commands:</div>
+<div>amx_nmm [admin] - menu chinh sua plugin</div>
+:
+
+[se]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Vad behover jag gora?</div>
+<div>Nar du har granaten i din hand hoger klicka : Trip laser Mode.</div>
+<div>När du har valt ett läge och du kommer att kasta granaten du kommer att märka att det är behaveor kommer
+
+change</div>
+<div><br \></div>
+<div>Vad gor varje mod?</div>
+<div>1. Normal</div>
+<div>- normal granat, Den som alla vet om.</div>
+<div>2. Proximity</div>
+<div>- Granat exploderar bara om nogon ar nara.</div>
+<div>3. Impact</div>
+<div>- Granaten exploderar om den traffar (makren,Vagg,Spelare eller nogot.)</div>
+<div>4. Trip Laser</div>
+<div>- than granat fäster något fast (som vägg), efter det kommer att aktiveras om en spelare kommer att passera.
+
+De ar laser nar den sitter fast.</div>
+<div>5. Motion</div>
+<div>- samma som proximity, men granat exploderar nar nogon har hog fart.</div>
+<div>6. Satchel Charge</div>
+<div>- Granaten exploderar nar du trycker pa +use key.. (default e)</div>
+<div>7. Homing</div>
+<div>- Granaten foljer fienden.</div>
+<br>
+<div>Commands:</div>
+<div>amx_nmm [admin] - plugin konfigurationsmenyn</div>
+:
+
+[tr]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>Ne yapmam gerekiyor?</div>
+<div>Elinizde bir bomba varken sağ tuşa basarak lazer çizgisi belirlemelisiniz. : Trip Laser Mode</div>
+<div>Bir mod seçip bombayı attığınızda değişimi göreceksiniz.</div>
+<div><br \></div>
+<div>Nedir bu modlar?</div>
+<div>1. Normal</div>
+<div>- normal bomba, herkesin bildigi tür.</div>
+<div>2. Proximity</div>
+<div>- belirli bir yarıçapda bir oyuncu tespit ettiğinde patlayacak.</div>
+<div>3. Impact</div>
+<div>- katı bir nesne ile temas ettiğinde patlayacak.</div>
+<div>4. Trip Laser</div>
+<div>- belirli bir lazer çizgisi oluşturacaksınız ve lazerin üzerinden geçen patlayacak.</div>
+<div>5. Motion</div>
+<div>- oyuncu ile bomba hızı aynı iken patlama gerçekleşir.</div>
+<div>6. Satchel Charge</div>
+<div>- mayın gibidir ve +use (orjinal tuş E) tuşuna basınca patlar.</div>
+<div>7. Homing</div>
+<div>- el bombası düşmanı takip eder ve patlar</div>
+<br>
+<div>Konsol komutu:</div>
+<div>amx_nmm [admin] - plugin yapılandırma menüsü</div>
+:

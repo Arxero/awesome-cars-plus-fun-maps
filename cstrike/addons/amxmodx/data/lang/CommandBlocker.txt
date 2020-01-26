@@ -1,0 +1,15 @@
+[en]
+CMDBLOCK_NOACCESS = You have no access to this command.
+CMDBLOCK_BLOCKED = This command has been blocked.
+
+[bg]
+CMDBLOCK_NOACCESS = Nqmash dostup do tazi komanda.
+CMDBLOCK_BLOCKED = Tazi komanda e zabranena.
+
+[mk]
+CMDBLOCK_NOACCESS = Nemash dostap do ovaa komanda.
+CMDBLOCK_BLOCKED = Ovaa komanda e zabraneta.
+
+[sr]
+CMDBLOCK_NOACCESS = Nemate pristup do ova komanda.
+CMDBLOCK_BLOCKED = Ova komanda je zabranjena.

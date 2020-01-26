@@ -1,0 +1,13 @@
+[en]
+ADVANTAGE_TEAM_T = Terrorists
+ADVANTAGE_TEAM_CT = Counter-Terrorists
+ADVANTAGE_GET_NORMAL = Players from the losing team (&x03%L&x01) received &x04$%i &x01for losing &x03%i &x01rounds in a row.
+ADVANTAGE_GET_FLAGS = Players with flag(s) &x04%s &x01from the losing team (&x03%L&x01) received &x04$%i &x01for losing &x03%i &x01rounds in a row.
+ADVANTAGE_GET_PLAYER = You received &x04$%i &x01for losing &x03%i &x01rounds in a row.
+
+[mk]
+ADVANTAGE_TEAM_T = Teroristi
+ADVANTAGE_TEAM_CT = Kanter-Teroristi
+ADVANTAGE_GET_NORMAL = Igrachite od gubitnichkata ekipa (&x03%L&x01) dobija &x04$%i &x01za izgubeni &x03%i &x01rundi po red.
+ADVANTAGE_GET_FLAGS = Igrachite so flag(ovi) &x04%s &x01od gubitnichkata ekipa (&x03%L&x01) dobija &x04$%i &x01za izgubeni &x03%i &x01rundi po red.
+ADVANTAGE_GET_PLAYER = Ti dobi &x04$%i &x01za izgubeni &x03%i &x01rundi po red.

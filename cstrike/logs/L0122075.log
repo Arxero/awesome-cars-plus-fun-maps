@@ -1,0 +1,139 @@
+L 01/22/2020 - 20:10:11: Log file started (file "logs/L0122075.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/22/2020 - 20:10:11: Server cvar "mp_buytime" = "1"
+L 01/22/2020 - 20:10:11: Server cvar "mp_c4timer" = "35"
+L 01/22/2020 - 20:10:11: Server cvar "mp_flashlight" = "1"
+L 01/22/2020 - 20:10:11: Server cvar "mp_freezetime" = "1"
+L 01/22/2020 - 20:10:11: Server cvar "mp_hostagepenalty" = "0"
+L 01/22/2020 - 20:10:11: Server cvar "mp_limitteams" = "1"
+L 01/22/2020 - 20:10:11: Server cvar "mp_roundtime" = "2.3"
+L 01/22/2020 - 20:10:11: Server cvar "mp_startmoney" = "850"
+L 01/22/2020 - 20:10:11: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/22/2020 - 20:10:11: Server cvar "sv_maxrate" = "50000"
+L 01/22/2020 - 20:10:11: Server cvar "sv_maxspeed" = "320"
+L 01/22/2020 - 20:10:11: Server cvar "sv_minrate" = "10000"
+L 01/22/2020 - 20:10:11: Server cvar "max_queries_sec_global" = "***PROTECTED***"
+L 01/22/2020 - 20:10:11: Server cvar "max_queries_sec" = "***PROTECTED***"
+L 01/22/2020 - 20:10:11: Server cvar "decalfrequency" = "0"
+L 01/22/2020 - 20:10:11: Server cvar "sv_airaccelerate" = "100"
+L 01/22/2020 - 20:10:11: Server cvar "sv_friction" = "3"
+L 01/22/2020 - 20:10:12: Server cvar "sv_friction" = "4"
+L 01/22/2020 - 20:10:17: Server cvar "mp_timelimit" = "10"
+L 01/22/2020 - 20:10:19: World triggered "Round_Start"
+L 01/22/2020 - 20:10:31: [REUNION]: XxXgeorgiXxx :) (93.155.192.142) authorized as NoSteam47
+L 01/22/2020 - 20:10:31: "XxXgeorgiXxx :)<1><VALVE_ID_LAN><>" connected, address "93.155.192.142:27005"
+L 01/22/2020 - 20:10:33: [REUNION]: XxXgeorgiXxx :) (93.155.192.142) authorized as NoSteam47
+L 01/22/2020 - 20:10:33: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><>" connected, address "93.155.192.142:27005"
+L 01/22/2020 - 20:10:37: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><>" entered the game
+L 01/22/2020 - 20:10:39: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 01/22/2020 - 20:10:56: [REUNION]: Florin (212.54.117.100) authorized as RevEmu
+L 01/22/2020 - 20:10:56: "Florin<3><STEAM_1:1:464508280><>" connected, address "212.54.117.100:27005"
+L 01/22/2020 - 20:10:59: [REUNION]: Florin (212.54.117.100) authorized as RevEmu
+L 01/22/2020 - 20:10:59: "Florin<4><STEAM_1:1:464508280><>" connected, address "212.54.117.100:27005"
+L 01/22/2020 - 20:11:06: [REUNION]: Florin (212.54.117.100) authorized as RevEmu
+L 01/22/2020 - 20:11:06: "Florin<5><STEAM_1:1:464508280><>" connected, address "212.54.117.100:27005"
+L 01/22/2020 - 20:11:10: "Florin<5><STEAM_1:1:464508280><>" entered the game
+L 01/22/2020 - 20:11:13: "Florin<5><STEAM_1:1:464508280><>" joined team "CT"
+L 01/22/2020 - 20:11:14: World triggered "Game_Commencing"
+L 01/22/2020 - 20:11:14: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/22/2020 - 20:11:14: World triggered "Round_End"
+L 01/22/2020 - 20:11:18: World triggered "Round_Start"
+L 01/22/2020 - 20:11:33: [REUNION]: lol (176.122.114.213) authorized as RevEmu
+L 01/22/2020 - 20:11:33: "lol<6><STEAM_2:0:1214014100><>" connected, address "176.122.114.213:27005"
+L 01/22/2020 - 20:11:36: "lol<6><STEAM_2:0:1214014100><>" entered the game
+L 01/22/2020 - 20:11:50: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" killed "Florin<5><STEAM_1:1:464508280><CT>" with "tracktrain"
+L 01/22/2020 - 20:11:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/22/2020 - 20:11:50: World triggered "Round_End"
+L 01/22/2020 - 20:11:56: World triggered "Round_Start"
+L 01/22/2020 - 20:12:21: "Florin<5><STEAM_1:1:464508280><CT>" killed "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 01/22/2020 - 20:12:21: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 01/22/2020 - 20:12:21: World triggered "Round_End"
+L 01/22/2020 - 20:12:27: World triggered "Round_Start"
+L 01/22/2020 - 20:13:01: "lol<6><STEAM_2:0:1214014100><>" joined team "CT"
+L 01/22/2020 - 20:14:45: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 01/22/2020 - 20:14:45: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 01/22/2020 - 20:14:45: World triggered "Round_End"
+L 01/22/2020 - 20:14:45: "Florin<5><STEAM_1:1:464508280><CT>" committed suicide with "world"
+L 01/22/2020 - 20:14:51: World triggered "Round_Start"
+L 01/22/2020 - 20:15:20: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" killed "Florin<5><STEAM_1:1:464508280><CT>" with "tracktrain"
+L 01/22/2020 - 20:16:01: "lol<6><STEAM_2:0:1214014100><CT>" killed "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" with "tracktrain"
+L 01/22/2020 - 20:16:01: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 01/22/2020 - 20:16:01: World triggered "Round_End"
+L 01/22/2020 - 20:16:07: World triggered "Round_Start"
+L 01/22/2020 - 20:16:36: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" killed "lol<6><STEAM_2:0:1214014100><CT>" with "tracktrain"
+L 01/22/2020 - 20:17:24: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" killed "Florin<5><STEAM_1:1:464508280><CT>" with "knife"
+L 01/22/2020 - 20:17:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 01/22/2020 - 20:17:24: World triggered "Round_End"
+L 01/22/2020 - 20:17:30: World triggered "Round_Start"
+L 01/22/2020 - 20:17:51: [REUNION]: jesse_pinkman (91.148.164.81) authorized as RevEmu
+L 01/22/2020 - 20:17:51: "jesse_pinkman<7><STEAM_1:0:1973059967><>" connected, address "91.148.164.81:27005"
+L 01/22/2020 - 20:17:58: "jesse_pinkman<7><STEAM_1:0:1973059967><>" entered the game
+L 01/22/2020 - 20:18:00: "jesse_pinkman<7><STEAM_1:0:1973059967><>" joined team "TERRORIST"
+L 01/22/2020 - 20:18:17: [REUNION]: Limp BiskiT (185.7.218.146) authorized as RevEmu
+L 01/22/2020 - 20:18:17: "Limp BiskiT<8><STEAM_1:0:436762595><>" connected, address "185.7.218.146:27005"
+L 01/22/2020 - 20:18:19: "Florin<5><STEAM_1:1:464508280><CT>" killed "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 01/22/2020 - 20:18:19: Team "CT" triggered "CTs_Win" (CT "4") (T "2")
+L 01/22/2020 - 20:18:19: World triggered "Round_End"
+L 01/22/2020 - 20:18:23: "Limp BiskiT<8><STEAM_1:0:436762595><>" entered the game
+L 01/22/2020 - 20:18:25: World triggered "Round_Start"
+L 01/22/2020 - 20:18:27: "Limp BiskiT<8><STEAM_1:0:436762595><>" joined team "TERRORIST"
+L 01/22/2020 - 20:18:43: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Limp BiskiT<8><STEAM_1:0:436762595><TERRORIST>" with "tracktrain"
+L 01/22/2020 - 20:18:56: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Florin<5><STEAM_1:1:464508280><CT>" with "tracktrain"
+L 01/22/2020 - 20:19:02: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" committed suicide with "world"
+L 01/22/2020 - 20:19:04: "lol<6><STEAM_2:0:1214014100><CT>" disconnected
+L 01/22/2020 - 20:19:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "3")
+L 01/22/2020 - 20:19:04: World triggered "Round_End"
+L 01/22/2020 - 20:19:09: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/22/2020 - 20:19:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered XxXgeorgiXxx :) to CT")
+L 01/22/2020 - 20:19:10: World triggered "Round_Start"
+L 01/22/2020 - 20:19:29: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><CT>" killed "Limp BiskiT<8><STEAM_1:0:436762595><TERRORIST>" with "tracktrain"
+L 01/22/2020 - 20:19:47: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "XxXgeorgiXxx :)<2><VALVE_ID_LAN><CT>" with "knife"
+L 01/22/2020 - 20:20:05: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Florin<5><STEAM_1:1:464508280><CT>" with "tracktrain"
+L 01/22/2020 - 20:20:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 01/22/2020 - 20:20:05: World triggered "Round_End"
+L 01/22/2020 - 20:20:11: World triggered "Round_Start"
+L 01/22/2020 - 20:20:42: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" killed "Florin<5><STEAM_1:1:464508280><CT>" with "grenade"
+L 01/22/2020 - 20:20:56: Server cvar "mp_timelimit" = "0.000000"
+L 01/22/2020 - 20:21:00: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><CT>" killed "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" with "tracktrain"
+L 01/22/2020 - 20:21:01: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><CT>" committed suicide with "tracktrain"
+L 01/22/2020 - 20:21:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 01/22/2020 - 20:21:01: World triggered "Round_End"
+L 01/22/2020 - 20:21:07: World triggered "Round_Start"
+L 01/22/2020 - 20:21:07: Server cvar "sv_maxspeed" = "0.000000"
+L 01/22/2020 - 20:21:07: Server cvar "mp_friendlyfire" = "1"
+L 01/22/2020 - 20:21:10: "jesse_pinkman<7><STEAM_1:0:1973059967><TERRORIST>" disconnected
+L 01/22/2020 - 20:21:12: "Florin<5><STEAM_1:1:464508280><CT>" committed suicide with "worldspawn" (world)
+L 01/22/2020 - 20:21:13: "Florin<5><STEAM_1:1:464508280><CT>" killed "XxXgeorgiXxx :)<2><VALVE_ID_LAN><CT>" with "grenade"
+L 01/22/2020 - 20:21:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 01/22/2020 - 20:21:13: World triggered "Round_End"
+L 01/22/2020 - 20:21:13: [REUNION]: Bonno (46.217.139.181) authorized as RevEmu
+L 01/22/2020 - 20:21:13: "Bonno<9><STEAM_1:1:794573339><>" connected, address "46.217.139.181:27005"
+L 01/22/2020 - 20:21:18: Server cvar "sv_maxspeed" = "320.000000"
+L 01/22/2020 - 20:21:18: Server cvar "mp_friendlyfire" = "0"
+L 01/22/2020 - 20:21:18: Server cvar "mp_timelimit" = "10.000000"
+L 01/22/2020 - 20:21:18: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: AMX Mod X
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: Reunion
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: ReAuthCheck
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: WHBlocker
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: ReSemiclip
+L 01/22/2020 - 20:21:18: [META] ini: Read plugin config for: Revoice
+L 01/22/2020 - 20:21:18: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/22/2020 - 20:21:18: [META] dll: Updating plugins...
+L 01/22/2020 - 20:21:18: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/22/2020 - 20:21:18: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/22/2020 - 20:21:18: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/22/2020 - 20:21:18: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/22/2020 - 20:21:18: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/22/2020 - 20:21:18: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/22/2020 - 20:21:18: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/22/2020 - 20:21:18: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/22/2020 - 20:21:18: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/22/2020 - 20:21:18: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/22/2020 - 20:21:18: "XxXgeorgiXxx :)<2><VALVE_ID_LAN><CT>" disconnected
+L 01/22/2020 - 20:21:18: "Florin<5><STEAM_1:1:464508280><CT>" disconnected
+L 01/22/2020 - 20:21:18: "Bonno<9><STEAM_1:1:794573339><CT>" disconnected
+L 01/22/2020 - 20:21:18: "Limp BiskiT<8><STEAM_1:0:436762595><TERRORIST>" disconnected
+L 01/22/2020 - 20:21:18: World triggered "Round_Draw" (CT "4") (T "6")
+L 01/22/2020 - 20:21:18: World triggered "Round_End"
+L 01/22/2020 - 20:21:18: Log file closed

@@ -1,0 +1,1708 @@
+L 01/25/2020 - 00:02:56: -------- Mapchange to cc_boathouse --------
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 00:02:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 00:02:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 00:02:59: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 00:03:00: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 00:07:06: [dice_main.amxx] .＃TrueGaming l MoWa has rolled the dice and lost all of his weapons!
+L 01/25/2020 - 00:13:49: [admin.amxx] Login: "jesse_pinkman<103><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 00:15:21: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and got teleported to the Enemy Base!
+L 01/25/2020 - 00:22:21: -------- Mapchange to de_survivor --------
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 00:22:24: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 00:22:24: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 00:22:24: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 00:22:26: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 00:22:26: [admin.amxx] Login: "jesse_pinkman<103><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 00:26:01: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and got a Distorted Camera Angle!
+L 01/25/2020 - 00:26:18: [dice_main.amxx] .＃TrueGaming l MoWa has rolled the dice and got a bunch of HE Grenades!
+L 01/25/2020 - 00:28:01: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and got a Random Weapon!
+L 01/25/2020 - 00:31:11: -------- Mapchange to de_airninja --------
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 00:31:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 00:31:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 00:31:14: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 00:31:16: [admin.amxx] Login: "jesse_pinkman<103><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 00:31:19: [admin.amxx] Login: "jesse_pinkman<109><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 00:35:48: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and is going for a Wild Ride!
+L 01/25/2020 - 00:41:31: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and got UZI Madness!
+L 01/25/2020 - 00:52:30: -------- Mapchange to Cb_Tanks --------
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 00:52:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 00:52:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 00:52:33: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 00:52:35: [admin.amxx] Login: "jesse_pinkman<109><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 01:08:51: -------- Mapchange to awesome_cars2 --------
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 01:08:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 01:08:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 01:08:54: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 01:08:55: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 01:18:57: -------- Mapchange to air_fight2 --------
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 01:19:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 01:19:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 01:19:01: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 01:39:04: -------- Mapchange to shipwreck --------
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 01:39:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 01:39:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 01:39:07: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 01:39:09: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 01:59:11: -------- Mapchange to awp_snowfun2 --------
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 01:59:14: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 01:59:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 01:59:14: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 01:59:15: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 02:19:18: -------- Mapchange to chopper_attack --------
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 02:19:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 02:19:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 02:19:21: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 02:39:24: -------- Mapchange to crazytank --------
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 02:39:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 02:39:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 02:39:27: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 02:59:31: -------- Mapchange to starwars --------
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 02:59:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 02:59:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 02:59:34: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 03:19:37: -------- Mapchange to bridge --------
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 03:19:40: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 03:19:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 03:19:40: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 03:19:42: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 03:39:44: -------- Mapchange to nw_gasstation --------
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 03:39:47: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 03:39:47: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 03:39:47: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 03:39:48: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 03:59:51: -------- Mapchange to nipperhouse --------
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 03:59:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 03:59:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 03:59:54: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 03:59:55: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 04:19:57: -------- Mapchange to cs_jeep_rally2 --------
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 04:20:00: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 04:20:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 04:20:00: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 04:20:01: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 04:40:04: -------- Mapchange to big_city2 --------
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 04:40:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 04:40:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 04:40:07: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 05:00:11: -------- Mapchange to big_city --------
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 05:00:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 05:00:14: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 05:00:14: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 05:20:17: -------- Mapchange to de_airninja --------
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 05:20:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 05:20:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 05:20:20: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 05:40:24: -------- Mapchange to de_lidl --------
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 05:40:27: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 05:40:27: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 05:40:27: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 06:00:31: -------- Mapchange to Cb_Tanks --------
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 06:00:34: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 06:00:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 06:00:34: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 06:40:47: -------- Mapchange to de_tesco --------
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 06:40:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 06:40:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 06:40:50: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 07:00:54: -------- Mapchange to awesome_cars2 --------
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 07:00:57: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 07:00:57: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 07:00:57: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 07:00:58: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 07:11:00: -------- Mapchange to gijoehq_de --------
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 07:11:03: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 07:11:03: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 07:11:03: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 07:11:05: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 07:31:07: -------- Mapchange to as_crazytank3 --------
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 07:31:10: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 07:31:10: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 07:31:10: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 07:51:14: -------- Mapchange to car_fight --------
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 07:51:17: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 07:51:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 07:51:17: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 08:11:20: -------- Mapchange to air_fight2 --------
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 08:11:23: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 08:11:23: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 08:11:23: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 08:31:27: -------- Mapchange to shipwreck --------
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 08:31:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 08:31:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 08:31:30: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 08:31:31: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 08:51:33: -------- Mapchange to awp_snowfun2 --------
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 08:51:36: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 08:51:37: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 08:51:37: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 08:51:38: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 09:11:40: -------- Mapchange to chopper_attack --------
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 09:11:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 09:11:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 09:11:43: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 09:31:47: -------- Mapchange to crazytank --------
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 09:31:50: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 09:31:50: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 09:31:50: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 09:59:38: -------- Mapchange to city_of_roadrage --------
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 09:59:41: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 09:59:41: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 09:59:41: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 09:59:42: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 10:03:48: [admin.amxx] Login: "jesse_pinkman<127><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 10:03:51: [admin.amxx] Login: "jesse_pinkman<128><STEAM_1:0:1973059967><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 10:08:39: [admin.amxx] Login: "jesse_pinkman<129><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 10:08:42: [admin.amxx] Login: "jesse_pinkman<130><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 10:16:15: [admin.amxx] Login: "jesse_pinkman<131><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 10:17:03: -------- Mapchange to nojarq_fun_zone --------
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 10:17:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 10:17:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 10:17:06: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 10:17:08: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 10:17:08: [admin.amxx] Login: "jesse_pinkman<131><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 10:37:10: -------- Mapchange to gijoehq_de --------
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 10:37:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 10:37:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 10:37:13: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 10:37:14: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 10:57:16: -------- Mapchange to bridge --------
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 10:57:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 10:57:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 10:57:19: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 10:57:21: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 11:17:23: -------- Mapchange to nw_gasstation --------
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 11:17:26: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 11:17:26: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 11:17:26: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 11:17:27: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 11:37:30: -------- Mapchange to nipperhouse --------
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 11:37:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 11:37:33: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 11:37:33: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 11:37:34: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 11:57:37: -------- Mapchange to cs_jeep_rally2 --------
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 11:57:39: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 11:57:40: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 11:57:40: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 11:57:41: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 12:17:43: -------- Mapchange to big_city2 --------
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 12:17:46: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 12:17:46: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 12:17:46: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 12:37:50: -------- Mapchange to big_city --------
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 12:37:53: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 12:37:53: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 12:37:53: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 12:57:56: -------- Mapchange to de_airninja --------
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 12:57:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 12:58:00: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 12:58:00: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 13:18:03: -------- Mapchange to de_lidl --------
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 13:18:06: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 13:18:06: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 13:18:06: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 13:38:10: -------- Mapchange to Cb_Tanks --------
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 13:38:13: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 13:38:13: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 13:38:13: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 14:10:18: -------- Mapchange to awesome_cars --------
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 14:10:21: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 14:10:21: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 14:10:21: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 14:19:31: -------- Mapchange to awesome_cars2 --------
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] [ Loading 6 CTs Sounds ]
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] [ Loading 6 Ts Sounds ]
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 14:19:33: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:19:33: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/Christmas_TreeSpawn.txt" line 1)
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 14:19:34: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 14:19:34: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 14:19:36: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 14:30:14: -------- Mapchange to 4_houses --------
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 14:30:16: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 14:30:17: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 14:30:17: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 14:30:18: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 14:34:17: -------- Mapchange to awesome_cars2 --------
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 14:34:20: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 14:34:20: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 14:34:20: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 14:34:21: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 14:44:29: -------- Mapchange to gijoehq_de --------
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 14:44:32: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 14:44:32: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 14:44:32: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 14:44:33: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 15:04:40: -------- Mapchange to as_crazytank3 --------
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 15:04:43: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 15:04:43: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 15:04:44: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 15:24:52: -------- Mapchange to car_fight --------
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 15:24:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 15:24:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 15:24:55: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 15:45:04: -------- Mapchange to air_fight2 --------
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 15:45:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 15:45:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 15:45:07: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 16:05:16: -------- Mapchange to shipwreck --------
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 16:05:19: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 16:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 16:05:19: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 16:05:20: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 16:25:28: -------- Mapchange to awp_snowfun2 --------
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 16:25:31: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 16:25:31: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 16:25:31: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 16:25:32: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 16:45:02: [admin.amxx] Login: "jesse_pinkman<7><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 16:46:27: -------- Mapchange to chopper_attack --------
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/shake_up.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 16:46:30: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 16:46:30: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 16:46:30: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 16:46:32: [admin.amxx] Login: "jesse_pinkman<7><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 16:51:15: [admin.amxx] Login: "jesse_pinkman<8><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 16:51:39: [dice_main.amxx] jesse_pinkman has rolled the dice and is now an Old Man!
+L 01/25/2020 - 16:55:42: [admin.amxx] Login: "jesse_pinkman<9><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 16:58:52: [admin.amxx] Login: "jesse_pinkman<10><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 16:59:52: -------- Mapchange to de_crazytank --------
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/last_christmas.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 16:59:55: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 16:59:55: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 16:59:55: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 16:59:57: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 16:59:57: [admin.amxx] Login: "jesse_pinkman<10><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 16:59:59: [admin.amxx] Login: "jesse_pinkman<11><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 17:20:04: -------- Mapchange to awp_snowfun2 --------
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/all_i_want_for_christmas_is_you.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/coca_cola.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/driving_home.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jacobs.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_all_the_way.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/jingle_bell_rock.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/let_it_snow.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/look_a_lot_like.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/someone_special.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx]    - sound/christmas_songs/we_wish_you_a_merry_christmas.mp3
+L 01/25/2020 - 17:20:07: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 17:20:07: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 17:20:07: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 17:20:08: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 17:35:16: [admin.amxx] Login: "jesse_pinkman<12><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 17:37:06: [admin.amxx] Login: "Maverick<13><STEAM_0:0:37264973><>" became an admin (account "STEAM_0:0:37264973") (access "abcdefghijklmnopqrstu") (address "130.204.36.29")
+L 01/25/2020 - 17:40:38: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and is now an Old Man!
+L 01/25/2020 - 17:42:04: [dice_main.amxx] cala221 has rolled the dice and got UZI Madness!
+L 01/25/2020 - 17:43:16: [dice_main.amxx] Florin has rolled the dice and is now PARTYING!
+L 01/25/2020 - 17:44:37: [dice_main.amxx] Florin has rolled the dice and won Jet Plane mode!
+L 01/25/2020 - 17:46:00: -------- Mapchange to crazytank --------
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] [ Loading 4 CTs Sounds ]
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/die_mother_fucker_die.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_knew_you_were_trouble.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_tried_so_hard.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/what_is_love.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] [ Loading 4 Ts Sounds ]
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/fuk_da_police.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/its_my_life.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/take_on_me.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/wind_of_change.mp3
+L 01/25/2020 - 17:46:01: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 17:46:01: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 17:46:01: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 17:46:02: [admin.amxx] Login: "jesse_pinkman<12><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 17:46:02: [admin.amxx] Login: "Maverick<13><STEAM_0:0:37264973><>" became an admin (account "STEAM_0:0:37264973") (access "abcdefghijklmnopqrstu") (address "130.204.36.29")
+L 01/25/2020 - 17:46:07: [admin.amxx] Login: "jesse_pinkman<22><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 17:48:19: [dice_main.amxx] XxXgeorgiXxx :) has rolled the dice and got some CASH!
+L 01/25/2020 - 17:49:54: [dice_main.amxx] cala221 has rolled the dice and is now Invisible!
+L 01/25/2020 - 17:52:45: [dice_main.amxx] Florin has rolled the dice and got Full Equipment!
+L 01/25/2020 - 17:58:18: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and and got some instant HP!
+L 01/25/2020 - 18:00:03: [dice_main.amxx] jesse_pinkman has rolled the dice and went bankrupt!
+L 01/25/2020 - 18:00:53: [dice_main.amxx] Florin has rolled the dice and got some Scorpions!!
+L 01/25/2020 - 18:04:37: [dice_main.amxx] Florin has rolled the dice and got his blood poisoned!
+L 01/25/2020 - 18:05:18: -------- Mapchange to awesome_cars --------
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] [ Loading 4 CTs Sounds ]
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/die_mother_fucker_die.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_knew_you_were_trouble.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_tried_so_hard.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/what_is_love.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] [ Loading 4 Ts Sounds ]
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/fuk_da_police.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/its_my_life.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/wind_of_change.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/hello_darkness_my_old_friend.mp3
+L 01/25/2020 - 18:05:18: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 18:05:19: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 18:05:19: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 18:05:20: [admin.amxx] Login: "jesse_pinkman<22><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 18:05:20: [admin.amxx] Login: "Maverick<13><STEAM_0:0:37264973><>" became an admin (account "STEAM_0:0:37264973") (access "abcdefghijklmnopqrstu") (address "130.204.36.29")
+L 01/25/2020 - 18:05:22: [admin.amxx] Login: "jesse_pinkman<37><STEAM_0:1:526796648><>" became an admin (account "jesse_pinkman") (access "boqt") (address "91.148.164.81")
+L 01/25/2020 - 18:05:34: [dice_main.amxx] .＃TrueGaming l $cotty has rolled the dice and got his blood poisoned!
+L 01/25/2020 - 18:07:35: [dice_main.amxx] Florin has rolled the dice and got his blood poisoned!
+L 01/25/2020 - 18:12:04: [dice_main.amxx] Florin has rolled the dice and won ZEUS MODE!
+L 01/25/2020 - 18:13:22: [dice_main.amxx] Florin has rolled the dice and got GODMODE!
+L 01/25/2020 - 18:15:52: [dice_main.amxx] DzIBy has rolled the dice and is now an Old Man!
+L 01/25/2020 - 18:16:29: [dice_main.amxx] Florin has rolled the dice and is now Invisible!
+L 01/25/2020 - 18:17:45: [dice_main.amxx] Florin has rolled the dice and is now PARTYING!
+L 01/25/2020 - 18:19:12: [dice_main.amxx] XxXgeorgiXxx :) has rolled the dice and got some Scorpions!!
+L 01/25/2020 - 18:20:53: -------- Mapchange to awesome_cars2 --------
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] [ Loading 5 CTs Sounds ]
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/die_mother_fucker_die.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_knew_you_were_trouble.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_tried_so_hard.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/edm_wizzard.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/what_is_love.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] [ Loading 5 Ts Sounds ]
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/fuk_da_police.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/its_my_life.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/take_on_me.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/wind_of_change.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/hello_darkness_my_old_friend.mp3
+L 01/25/2020 - 18:20:54: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 18:20:54: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 18:20:54: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 18:20:56: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 18:20:58: -------- Mapchange to cars_n_robots --------
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] [ Loading 4 CTs Sounds ]
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/die_mother_fucker_die.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_tried_so_hard.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/edm_wizzard.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/what_is_love.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] [ Loading 4 Ts Sounds ]
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/fuk_da_police.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/its_my_life.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/take_on_me.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/hello_darkness_my_old_friend.mp3
+L 01/25/2020 - 18:20:58: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 18:20:58: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 18:20:58: [dice_main.amxx] Configuration has been successfully loaded!
+L 01/25/2020 - 18:21:00: [walkguard.amxx] no zone-file found
+L 01/25/2020 - 18:21:23: [dice_main.amxx] XxXgeorgiXxx :) has rolled the dice and got UZI Madness!
+L 01/25/2020 - 18:21:36: [admin.amxx] Login: "Maverick<13><STEAM_0:0:37264973><>" became an admin (account "STEAM_0:0:37264973") (access "abcdefghijklmnopqrstu") (address "130.204.36.29")
+L 01/25/2020 - 18:28:37: [dice_main.amxx] killer boss has rolled the dice and won ZEUS MODE!
+L 01/25/2020 - 18:30:30: [dice_main.amxx] killer boss has rolled the dice and got NOCLIP!
+L 01/25/2020 - 18:30:45: [dice_main.amxx] cala221 has rolled the dice and is now an Old Man!
+L 01/25/2020 - 18:32:41: [dice_main.amxx] killer boss has rolled the dice and won Hardwalk!
+L 01/25/2020 - 18:35:07: [dice_main.amxx] killer boss has rolled the dice and got a Random Weapon!
+L 01/25/2020 - 18:37:16: [dice_main.amxx] killer boss has rolled the dice and won ZEUS MODE!
+L 01/25/2020 - 18:39:00: [dice_main.amxx] killer boss has rolled the dice and is now PARTYING!
+L 01/25/2020 - 18:40:34: [dice_main.amxx] killer boss has rolled the dice and got teleported to the Enemy Base!
+L 01/25/2020 - 18:41:58: -------- Mapchange to space_battle_beta --------
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] [ Loading 4 CTs Sounds ]
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/die_mother_fucker_die.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/i_tried_so_hard.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/edm_wizzard.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/what_is_love.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] [ Loading 4 Ts Sounds ]
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/fuk_da_police.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/its_my_life.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/take_on_me.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx]    - sound/regular_songs/wind_of_change.mp3
+L 01/25/2020 - 18:41:59: [alt_end_round_sounds(beta).amxx] ---
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hibabe.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/hi.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/himan.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/comeagain.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/goodbye.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/beback.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/bye_love.wav"
+L 01/25/2020 - 18:41:59: [sank_sounds.amxx] Sank Sounds >> Trying to load a file that does not exist. Skipping this file: "sound/misc/gtg.wav"
+L 01/25/2020 - 18:41:59: [dice_main.amxx] Configuration has been successfully loaded!

@@ -1,0 +1,76 @@
+[en]
+RF_SPAWN = You can't spawn twice in the same round !!
+RF_PLAYER_PRINT = Due to your retry, you have been restored :
+RF_SCORE = - your score
+RF_MONEY = - your money
+RF_ALL = %s used retry command :)
+
+[fr]
+RF_SPAWN = Tu ne peux pas vivre deux fois dans le même round !!
+RF_PLAYER_PRINT = En raison de ta reconnexion, tu récupères :
+RF_SCORE = - ton score
+RF_MONEY = - ton argent
+RF_ALL = %s a fait son retry :)
+
+[de]
+RF_SPAWN = Du kannst nicht 2 mal in der gleichen Runde Spawnen!!
+RF_PLAYER_PRINT = Weil du einen retry gemacht hast wurden deine Werte zurückgesetzt:
+RF_SCORE = - deine Punkte
+RF_MONEY = - dein Geld
+RF_ALL = %s machte einen retry :)
+
+[pl]
+RF_SPAWN = Nie mozesz dwukrotnie zrespawnowac sie podczas trwania tej samej rundy !!
+RF_PLAYER_PRINT = Z powodu reconnecta : plugin przywrocil
+RF_SCORE = - twoje staty
+RF_MONEY = - twoja kase
+RF_ALL = %s uzyl reconnecta :)
+
+[sv]
+RF_SPAWN = Du kan inte spawnas 2 ganger pa en runda
+RF_PLAYER_PRINT = Pa grund av ditt forsok, Du har blivit aterinsatt :
+RF_SCORE = - dina po'a'ng
+RF_MONEY = - dina pengar
+RF_ALL = %s anv'a'nde retry  :)
+
+[ro]
+RF_SPAWN = Nu poti reinvia in aceeasi runda!!
+RF_PLAYER_PRINT = Din cauza ca ai dat retry, ti-ai recapatat:
+RF_SCORE = - scorul tau
+RF_MONEY = - banii tai
+RF_ALL = %s a folosit comanda retry :)
+
+[pb]
+RF_SPAWN = Voce nao pode nascer duas vezes no mesmo round !!
+RF_PLAYER_PRINT = Devido ao retry, seus dados foram mantidos :
+RF_SCORE = - seu placar
+RF_MONEY = - seu dinheiro
+RF_ALL = %s usou o comando retry
+
+[sk]
+RF_SPAWN = Nemozes sa objavit 2x za 1 kolo!!
+RF_PLAYER_PRINT = Zatial co si sa reconnectol , bol si obnoveny:
+RF_SCORE = - tvoje score
+RF_MONEY = - tvoje peniaze
+RF_ALL = %s pouzil prikaz retry :)
+
+[sr]Serbian, Srpski
+RF_SPAWN = Zabranjeno je da se spawn-ujes 2 puta u istoj rundi.
+RF_PLAYER_PRINT = Posle rekonektovanja, vratio ti se :
+RF_SCORE = - tvoj rezultat
+RF_MONEY = - tvoj novac
+RF_ALL = %s je iskoristio retry komandu : )
+
+[tr]
+RF_SPAWN = Iki kez turda yasayamassiniz!
+RF_PLAYER_PRINT = Servere tekrar girdiginiz diye, bu ayarlar yueklenmistir:
+RF_SCORE = - skorunuz
+RF_MONEY = - paraniz
+RF_ALL = %s komudunu tekrar kullanildi :)
+
+[bg]
+RF_SPAWN = Ne mojesh da se rodish povtorno v edin i sushti round !!
+RF_PLAYER_PRINT = Poradi tova, che dadohte retry, Vi bqha vuzstanoveni:
+RF_SCORE = - vashiqt rezultat
+RF_MONEY = - vashite pari
+RF_ALL = %s izpolzva retry komandata :)

@@ -1,0 +1,17 @@
+[en]
+
+DM_MESSAGE = DM MOD O%s^nStart: %d:00 - End: %d:00
+DM_SPEC = !tYou have to join !gCT !tor !gTerrorist !tto respawn.
+DM_RASP = !tYou have been respawned.
+DM_PROTECT = 
+DM_GUN = !tGun menu will be re-enabled next spawn.
+DM_GUN2 = !tYour Gun menu it's already activate.
+DM_TITLE = Weapons Menu
+DM_ITEM = New Weapons
+DM_ITEM2 = Last Weapons
+DM_ITEM3 = 2 + Dont ask again
+DM_TITLE2 = Weapons Menu^n\yChoose your Primary Weapon:
+DM_TITLE3 = Weapons Menu^n\yChoose your Secondary Weapon:
+DM_GUNS = !tsay !g/guns !tto re-enable the gun menu.
+DM_MODS = !tStarting DeathMatch ...
+DM_MODE = !tEnd DeathMatch ...

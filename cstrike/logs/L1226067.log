@@ -1,0 +1,457 @@
+L 12/26/2019 - 18:56:06: Log file started (file "logs/L1226067.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 12/26/2019 - 18:56:06: Loading map "climb"
+L 12/26/2019 - 18:56:06: Server cvars start
+L 12/26/2019 - 18:56:06: Server cvar "@BunnyHopper" = "3.x"
+L 12/26/2019 - 18:56:06: Server cvar "@CRXGoSpec" = "1.1"
+L 12/26/2019 - 18:56:06: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "@D.I.C.E." = "1.1"
+L 12/26/2019 - 18:56:06: Server cvar "@MOTDCommands" = "1.2"
+L 12/26/2019 - 18:56:06: Server cvar "advanced_quake_sounds" = "5.0"
+L 12/26/2019 - 18:56:06: Server cvar "AdvancedMute" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "aesp_version" = "1.3"
+L 12/26/2019 - 18:56:06: Server cvar "allow_spectators" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "amx_client_languages" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "amx_language" = "en"
+L 12/26/2019 - 18:56:06: Server cvar "amx_nextmap" = "climb"
+L 12/26/2019 - 18:56:06: Server cvar "amx_ptb_version" = "1.8b3"
+L 12/26/2019 - 18:56:06: Server cvar "amx_timeleft" = "10:18"
+L 12/26/2019 - 18:56:06: Server cvar "amxmodx_version" = "1.8.2"
+L 12/26/2019 - 18:56:06: Server cvar "amxxbg_vip" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "asp_version" = "4.5.1"
+L 12/26/2019 - 18:56:06: Server cvar "atac_version" = "3.0.1"
+L 12/26/2019 - 18:56:06: Server cvar "badcamper_version" = "1.4 beta"
+L 12/26/2019 - 18:56:06: Server cvar "blockmaker" = "4.01"
+L 12/26/2019 - 18:56:06: Server cvar "c4 timer" = "1.1"
+L 12/26/2019 - 18:56:06: Server cvar "coop" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "CRXAdminGroups" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "CRXCommandRestrictions" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "CRXFastKnife" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "CRXGametracker" = "2.0"
+L 12/26/2019 - 18:56:06: Server cvar "CRXKnifeModels" = "2.5.7"
+L 12/26/2019 - 18:56:06: Server cvar "CRXTeamAdvantage" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "CustomShop" = "4.2"
+L 12/26/2019 - 18:56:06: Server cvar "deathmatch" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "decalfrequency" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "edgefriction" = "2"
+L 12/26/2019 - 18:56:06: Server cvar "ers_version" = "2.3c"
+L 12/26/2019 - 18:56:06: Server cvar "gagsystem_shoko" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 12/26/2019 - 18:56:06: Server cvar "gal_version" = "v5.9.1-926"
+L 12/26/2019 - 18:56:06: Server cvar "game_version" = "5.7.0.313-dev"
+L 12/26/2019 - 18:56:06: Server cvar "humans_join_team" = "any"
+L 12/26/2019 - 18:56:06: Server cvar "jtp10181" = "chute,gore"
+L 12/26/2019 - 18:56:06: Server cvar "lawliet" = "ny_RainingSnow"
+L 12/26/2019 - 18:56:06: Server cvar "LetitSnow" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "map_spawns" = "T(16) CT(16)"
+L 12/26/2019 - 18:56:06: Server cvar "max_queries_sec" = "3"
+L 12/26/2019 - 18:56:06: Server cvar "max_queries_sec_global" = "150"
+L 12/26/2019 - 18:56:06: Server cvar "max_queries_window" = "60"
+L 12/26/2019 - 18:56:06: Server cvar "mdbBans" = "4.8"
+L 12/26/2019 - 18:56:06: Server cvar "metamod_version" = "1.21p37"
+L 12/26/2019 - 18:56:06: Server cvar "mp_autokick" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_autokick_timeout" = "-1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_autoteambalance" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_buytime" = "0.25"
+L 12/26/2019 - 18:56:06: Server cvar "mp_c4timer" = "35"
+L 12/26/2019 - 18:56:06: Server cvar "mp_chattime" = "10.000000"
+L 12/26/2019 - 18:56:06: Server cvar "mp_consistency" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_fadetoblack" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_flashlight" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_footsteps" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_forcecamera" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_forcechasecam" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_forcerespawn" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_fraglimit" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_fragsleft" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_freeforall" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_freezetime" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_friendlyfire" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_hostage_hurtable" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_hostagepenalty" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_item_staytime" = "300"
+L 12/26/2019 - 18:56:06: Server cvar "mp_kickpercent" = "0.66"
+L 12/26/2019 - 18:56:06: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_limitteams" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_logdetail" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_logfile" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_logmessages" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_mapvoteratio" = "0.66"
+L 12/26/2019 - 18:56:06: Server cvar "mp_maxmoney" = "999999"
+L 12/26/2019 - 18:56:06: Server cvar "mp_maxrounds" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_mirrordamage" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_playerid" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_respawn_immunitytime" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_round_infinite" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_round_restart_delay" = "5"
+L 12/26/2019 - 18:56:06: Server cvar "mp_roundover" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_roundtime" = "2.3"
+L 12/26/2019 - 18:56:06: Server cvar "mp_show_radioicon" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_startmoney" = "850"
+L 12/26/2019 - 18:56:06: Server cvar "mp_timeleft" = "10:17"
+L 12/26/2019 - 18:56:06: Server cvar "mp_timelimit" = "20"
+L 12/26/2019 - 18:56:06: Server cvar "mp_tkpunish" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "mp_windifference" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "mp_winlimit" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "NoWeaponsOnGround" = "1.0"
+L 12/26/2019 - 18:56:06: Server cvar "pausable" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "present_version" = "2.01"
+L 12/26/2019 - 18:56:06: Server cvar "RandomHP" = "2.2"
+L 12/26/2019 - 18:56:06: Server cvar "reauthcheck_version" = "0.1.6"
+L 12/26/2019 - 18:56:06: Server cvar "reconnect_features" = "0.3.1"
+L 12/26/2019 - 18:56:06: Server cvar "report_system_version" = "3.1"
+L 12/26/2019 - 18:56:06: Server cvar "resemiclip_version" = "2.3.9"
+L 12/26/2019 - 18:56:06: Server cvar "reu_version" = "0.1.0.130"
+L 12/26/2019 - 18:56:06: Server cvar "revoice_version" = "0.1.0.30"
+L 12/26/2019 - 18:56:06: Server cvar "RRWM" = "2.0"
+L 12/26/2019 - 18:56:06: Server cvar "sanksounds_version" = "1.8.6"
+L 12/26/2019 - 18:56:06: Server cvar "SimpleMenu" = "1.1"
+L 12/26/2019 - 18:56:06: Server cvar "SNAC_Version" = "1.1"
+L 12/26/2019 - 18:56:06: Server cvar "SpecList" = "1.2a"
+L 12/26/2019 - 18:56:06: Server cvar "sr_version" = "1.6"
+L 12/26/2019 - 18:56:06: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 12/26/2019 - 18:56:06: Server cvar "StyleC4Timer" = "2.1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_accelerate" = "5"
+L 12/26/2019 - 18:56:06: Server cvar "sv_aim" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_airaccelerate" = "100"
+L 12/26/2019 - 18:56:06: Server cvar "sv_allowupload" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_alltalk" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_bounce" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_cheats" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "sv_clienttrace" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 12/26/2019 - 18:56:06: Server cvar "sv_friction" = "4"
+L 12/26/2019 - 18:56:06: Server cvar "sv_gravity" = "800"
+L 12/26/2019 - 18:56:06: Server cvar "sv_logblocks" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "sv_maxrate" = "50000"
+L 12/26/2019 - 18:56:06: Server cvar "sv_maxspeed" = "900.000000"
+L 12/26/2019 - 18:56:06: Server cvar "sv_minrate" = "10000"
+L 12/26/2019 - 18:56:06: Server cvar "sv_password" = ""
+L 12/26/2019 - 18:56:06: Server cvar "sv_proxies" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_restart" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "sv_restartround" = "0"
+L 12/26/2019 - 18:56:06: Server cvar "sv_stepsize" = "18"
+L 12/26/2019 - 18:56:06: Server cvar "sv_stopspeed" = "75"
+L 12/26/2019 - 18:56:06: Server cvar "sv_uploadmax" = "0.5"
+L 12/26/2019 - 18:56:06: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 12/26/2019 - 18:56:06: Server cvar "sv_voiceenable" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "sv_wateraccelerate" = "10"
+L 12/26/2019 - 18:56:06: Server cvar "sv_waterfriction" = "1"
+L 12/26/2019 - 18:56:06: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 12/26/2019 - 18:56:06: Server cvar "vehicle_real_killer" = "1.1"
+L 12/26/2019 - 18:56:06: Server cvar "WalkGuard" = "1.3.2"
+L 12/26/2019 - 18:56:06: Server cvar "we_grenades" = "Huehue"
+L 12/26/2019 - 18:56:06: Server cvar "we_player_models" = "Huehue"
+L 12/26/2019 - 18:56:06: Server cvar "whb_version" = "1.5.692"
+L 12/26/2019 - 18:56:06: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 12/26/2019 - 18:56:06: Server cvars end
+L 12/26/2019 - 18:56:09: Server cvar "sv_maxspeed" = "900"
+L 12/26/2019 - 18:56:09: Server cvar "mp_autoteambalance" = "1"
+L 12/26/2019 - 18:56:09: Server cvar "mp_autoteambalance" = "0"
+L 12/26/2019 - 18:56:09: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 12/26/2019 - 18:56:11: Started map "climb" (CRC "-725398581")
+L 12/26/2019 - 18:56:13: World triggered "Round_Start"
+L 12/26/2019 - 18:56:15: "Imash Shans ;d<165><VALVE_ID_LAN><>" entered the game
+L 12/26/2019 - 18:56:19: "fun da king<141><STEAM_1:0:1655898477><>" entered the game
+L 12/26/2019 - 18:56:20: "Imash Shans ;d<165><VALVE_ID_LAN><>" joined team "CT"
+L 12/26/2019 - 18:56:23: "2Pacalypse<150><VALVE_ID_LAN><>" entered the game
+L 12/26/2019 - 18:56:26: "2Pacalypse<150><VALVE_ID_LAN><>" joined team "TERRORIST"
+L 12/26/2019 - 18:56:27: World triggered "Game_Commencing"
+L 12/26/2019 - 18:56:27: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/26/2019 - 18:56:27: World triggered "Round_End"
+L 12/26/2019 - 18:56:27: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" committed suicide with "world"
+L 12/26/2019 - 18:56:27: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 12/26/2019 - 18:56:31: World triggered "Round_Start"
+L 12/26/2019 - 18:56:34: "H3ADROOM<169><STEAM_0:0:150924950><>" connected, address "176.105.192.112:62697"
+L 12/26/2019 - 18:56:35: "H3ADROOM<169><STEAM_0:0:150924950><>" STEAM USERID validated
+L 12/26/2019 - 18:56:35: "2Pacalypse<150><VALVE_ID_LAN><CT>" committed suicide with "world"
+L 12/26/2019 - 18:56:35: "2Pacalypse<150><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 12/26/2019 - 18:56:35: World triggered "Game_Commencing"
+L 12/26/2019 - 18:56:35: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/26/2019 - 18:56:35: World triggered "Round_End"
+L 12/26/2019 - 18:56:38: [REUNION]: mohemed (156.205.249.252) authorized as RevEmu
+L 12/26/2019 - 18:56:38: "mohemed<170><STEAM_2:0:343338069><>" connected, address "156.205.249.252:27005"
+L 12/26/2019 - 18:56:38: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 18:56:39: World triggered "Round_Start"
+L 12/26/2019 - 18:57:07: "H3ADROOM<169><STEAM_0:0:150924950><>" entered the game
+L 12/26/2019 - 18:57:13: "H3ADROOM<169><STEAM_0:0:150924950><>" joined team "CT"
+L 12/26/2019 - 18:57:18: "fun da king<141><STEAM_1:0:1655898477><>" joined team "SPECTATOR"
+L 12/26/2019 - 18:57:42: "fun da king<141><STEAM_1:0:1655898477><SPECTATOR>" joined team "TERRORIST"
+L 12/26/2019 - 18:58:12: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "scout"
+L 12/26/2019 - 18:58:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/26/2019 - 18:58:12: World triggered "Round_End"
+L 12/26/2019 - 18:58:16: "mohemed<170><STEAM_2:0:343338069><>" entered the game
+L 12/26/2019 - 18:58:17: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 18:58:18: World triggered "Round_Start"
+L 12/26/2019 - 18:58:26: "mohemed<170><STEAM_2:0:343338069><>" joined team "CT"
+L 12/26/2019 - 18:58:27: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 18:58:34: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "mac10"
+L 12/26/2019 - 18:58:56: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/26/2019 - 18:59:02: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" killed "H3ADROOM<169><STEAM_0:0:150924950><CT>" with "mac10"
+L 12/26/2019 - 18:59:31: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "2")
+L 12/26/2019 - 18:59:31: World triggered "Round_End"
+L 12/26/2019 - 18:59:36: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 18:59:37: World triggered "Round_Start"
+L 12/26/2019 - 18:59:58: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" with "m4a1"
+L 12/26/2019 - 18:59:58: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:00:21: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 12/26/2019 - 19:00:25: "mohemed<170><STEAM_2:0:343338069><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:00:33: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 19:00:36: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "H3ADROOM<169><STEAM_0:0:150924950><CT>" with "ak47"
+L 12/26/2019 - 19:00:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 12/26/2019 - 19:00:36: World triggered "Round_End"
+L 12/26/2019 - 19:00:41: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:00:42: World triggered "Round_Start"
+L 12/26/2019 - 19:01:00: "mohemed<170><STEAM_2:0:343338069><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:01:13: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:01:19: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "m4a1"
+L 12/26/2019 - 19:01:30: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "H3ADROOM<169><STEAM_0:0:150924950><CT>" with "elite"
+L 12/26/2019 - 19:01:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 12/26/2019 - 19:01:30: World triggered "Round_End"
+L 12/26/2019 - 19:01:34: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:01:34: "<><><>" triggered "amx_chat" (text "[PTB] Transfered fun da king to CT")
+L 12/26/2019 - 19:01:35: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:01:36: World triggered "Round_Start"
+L 12/26/2019 - 19:02:11: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/26/2019 - 19:02:22: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "mohemed<170><STEAM_2:0:343338069><CT>" with "m4a1"
+L 12/26/2019 - 19:02:28: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "fun da king<141><STEAM_1:0:1655898477><CT>" with "m4a1"
+L 12/26/2019 - 19:02:33: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:02:40: "H3ADROOM<169><STEAM_0:0:150924950><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 12/26/2019 - 19:02:45: "H3ADROOM<169><STEAM_0:0:150924950><CT>" triggered "Defused_The_Bomb"
+L 12/26/2019 - 19:02:45: Team "CT" triggered "Bomb_Defused" (CT "1") (T "4")
+L 12/26/2019 - 19:02:45: World triggered "Round_End"
+L 12/26/2019 - 19:02:47: [REUNION]: Player (5.58.180.59) authorized as RevEmu
+L 12/26/2019 - 19:02:47: "Player<171><STEAM_2:0:1886291632><>" connected, address "5.58.180.59:27005"
+L 12/26/2019 - 19:02:50: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:02:51: World triggered "Round_Start"
+L 12/26/2019 - 19:02:52: [REUNION]: Player (5.58.180.59) authorized as RevEmu
+L 12/26/2019 - 19:02:52: "Player<172><STEAM_2:0:1886291632><>" connected, address "5.58.180.59:27005"
+L 12/26/2019 - 19:02:59: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:03:06: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "mohemed<170><STEAM_2:0:343338069><CT>" with "ak47"
+L 12/26/2019 - 19:03:09: "Player<172><STEAM_2:0:1886291632><>" entered the game
+L 12/26/2019 - 19:03:17: "mohemed<170><STEAM_2:0:343338069><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:03:18: "Player<172><STEAM_2:0:1886291632><>" joined team "CT"
+L 12/26/2019 - 19:03:38: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "fun da king<141><STEAM_1:0:1655898477><CT>" with "ak47"
+L 12/26/2019 - 19:04:07: "Player<172><STEAM_2:0:1886291632><CT>" disconnected
+L 12/26/2019 - 19:04:07: [REUNION]: Player (5.58.180.59) authorized as RevEmu
+L 12/26/2019 - 19:04:07: "Player<173><STEAM_2:0:1886291632><>" connected, address "5.58.180.59:27005"
+L 12/26/2019 - 19:04:07: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "H3ADROOM<169><STEAM_0:0:150924950><CT>" with "ak47"
+L 12/26/2019 - 19:04:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 12/26/2019 - 19:04:07: World triggered "Round_End"
+L 12/26/2019 - 19:04:12: "mohemed<170><STEAM_2:0:343338069><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:04:13: World triggered "Round_Start"
+L 12/26/2019 - 19:04:17: "Player<173><STEAM_2:0:1886291632><>" entered the game
+L 12/26/2019 - 19:04:22: "Player<173><STEAM_2:0:1886291632><>" joined team "CT"
+L 12/26/2019 - 19:04:36: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "mohemed<170><STEAM_2:0:343338069><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:04:36: "mohemed<170><STEAM_2:0:343338069><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:04:37: "mohemed<170><STEAM_2:0:343338069><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:04:38: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 19:04:39: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "H3ADROOM<169><STEAM_0:0:150924950><CT>" with "ak47"
+L 12/26/2019 - 19:04:40: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" with "grenade"
+L 12/26/2019 - 19:04:40: Team "CT" triggered "CTs_Win" (CT "2") (T "5")
+L 12/26/2019 - 19:04:40: World triggered "Round_End"
+L 12/26/2019 - 19:04:45: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:04:46: World triggered "Round_Start"
+L 12/26/2019 - 19:04:56: "mohemed<170><STEAM_2:0:343338069><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:05:05: "H3ADROOM<169><STEAM_0:0:150924950><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:05:26: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Player<173><STEAM_2:0:1886291632><CT>" with "ump45"
+L 12/26/2019 - 19:05:27: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" with "ump45"
+L 12/26/2019 - 19:05:27: Team "CT" triggered "CTs_Win" (CT "3") (T "5")
+L 12/26/2019 - 19:05:27: World triggered "Round_End"
+L 12/26/2019 - 19:05:31: "H3ADROOM<169><STEAM_0:0:150924950><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:05:31: "<><><>" triggered "amx_chat" (text "[PTB] Transfered H3ADROOM to TERRORIST")
+L 12/26/2019 - 19:05:32: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:05:33: World triggered "Round_Start"
+L 12/26/2019 - 19:05:34: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" committed suicide with "world"
+L 12/26/2019 - 19:05:34: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:05:34: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:05:47: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" with "ump45"
+L 12/26/2019 - 19:05:47: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 12/26/2019 - 19:05:47: World triggered "Round_End"
+L 12/26/2019 - 19:05:51: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:05:51: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Imash Shans ;d to TERRORIST")
+L 12/26/2019 - 19:05:52: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:05:53: World triggered "Round_Start"
+L 12/26/2019 - 19:06:14: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Player<173><STEAM_2:0:1886291632><CT>" with "scout"
+L 12/26/2019 - 19:06:15: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 12/26/2019 - 19:06:15: "HuNt3r<174><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/26/2019 - 19:06:20: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "mohemed<170><STEAM_2:0:343338069><CT>" with "scout"
+L 12/26/2019 - 19:06:24: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 12/26/2019 - 19:06:24: "HuNt3r<175><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 12/26/2019 - 19:06:25: "mohemed<170><STEAM_2:0:343338069><CT>" disconnected
+L 12/26/2019 - 19:06:26: [REUNION]: mohemed (156.205.249.252) authorized as RevEmu
+L 12/26/2019 - 19:06:26: "mohemed<176><STEAM_2:0:343338069><>" connected, address "156.205.249.252:27005"
+L 12/26/2019 - 19:06:27: "fun da king<141><STEAM_1:0:1655898477><CT>" killed "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:06:32: "fun da king<141><STEAM_1:0:1655898477><CT>" killed "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:06:32: Team "CT" triggered "CTs_Win" (CT "5") (T "5")
+L 12/26/2019 - 19:06:32: World triggered "Round_End"
+L 12/26/2019 - 19:06:37: "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:06:38: "mohemed<176><STEAM_2:0:343338069><>" entered the game
+L 12/26/2019 - 19:06:38: World triggered "Round_Start"
+L 12/26/2019 - 19:06:40: "HuNt3r<175><STEAM_1:1:1071071391><>" entered the game
+L 12/26/2019 - 19:06:42: "mohemed<176><STEAM_2:0:343338069><>" joined team "CT"
+L 12/26/2019 - 19:06:54: "HuNt3r<175><STEAM_1:1:1071071391><>" joined team "TERRORIST"
+L 12/26/2019 - 19:07:14: "xXMr.ONurXx_YT<177><STEAM_0:0:526678195><>" connected, address "185.78.37.218:27005"
+L 12/26/2019 - 19:07:14: "xXMr.ONurXx_YT<177><STEAM_0:0:526678195><>" STEAM USERID validated
+L 12/26/2019 - 19:07:17: "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><>" connected, address "185.78.37.218:27005"
+L 12/26/2019 - 19:07:17: "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><>" STEAM USERID validated
+L 12/26/2019 - 19:07:18: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" killed "mohemed<176><STEAM_2:0:343338069><CT>" with "glock18"
+L 12/26/2019 - 19:07:21: "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" killed "H3ADROOM<169><STEAM_0:0:150924950><CT>" with "galil"
+L 12/26/2019 - 19:07:25: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "Player<173><STEAM_2:0:1886291632><CT>" with "ak47"
+L 12/26/2019 - 19:07:45: "mohemed<176><STEAM_2:0:343338069><CT>" disconnected
+L 12/26/2019 - 19:07:45: "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><>" entered the game
+L 12/26/2019 - 19:07:45: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" killed "fun da king<141><STEAM_1:0:1655898477><CT>" with "ak47"
+L 12/26/2019 - 19:07:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "6")
+L 12/26/2019 - 19:07:45: World triggered "Round_End"
+L 12/26/2019 - 19:07:50: "2Pacalypse<150><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:07:50: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 2Pacalypse to CT")
+L 12/26/2019 - 19:07:50: "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:07:51: World triggered "Round_Start"
+L 12/26/2019 - 19:08:12: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" with "ak47"
+L 12/26/2019 - 19:08:16: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:08:16: Team "CT" triggered "CTs_Win" (CT "6") (T "6")
+L 12/26/2019 - 19:08:16: World triggered "Round_End"
+L 12/26/2019 - 19:08:21: "fun da king<141><STEAM_1:0:1655898477><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:08:21: "<><><>" triggered "amx_chat" (text "[PTB] Transfered fun da king to TERRORIST")
+L 12/26/2019 - 19:08:21: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:08:22: World triggered "Round_Start"
+L 12/26/2019 - 19:08:22: "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><>" joined team "TERRORIST"
+L 12/26/2019 - 19:08:40: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" with "mac10"
+L 12/26/2019 - 19:08:43: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" with "mac10"
+L 12/26/2019 - 19:08:46: "Player<173><STEAM_2:0:1886291632><CT>" killed "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:08:46: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" killed "Player<173><STEAM_2:0:1886291632><CT>" with "m4a1"
+L 12/26/2019 - 19:09:17: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" killed "2Pacalypse<150><VALVE_ID_LAN><CT>" with "m4a1"
+L 12/26/2019 - 19:09:17: [REUNION]: mohemed (156.205.249.252) authorized as RevEmu
+L 12/26/2019 - 19:09:17: "mohemed<179><STEAM_2:0:343338069><>" connected, address "156.205.249.252:27005"
+L 12/26/2019 - 19:09:29: "mohemed<179><STEAM_2:0:343338069><>" entered the game
+L 12/26/2019 - 19:09:34: "mohemed<179><STEAM_2:0:343338069><>" joined team "CT"
+L 12/26/2019 - 19:09:43: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" with "mac10"
+L 12/26/2019 - 19:09:43: Team "CT" triggered "CTs_Win" (CT "7") (T "6")
+L 12/26/2019 - 19:09:43: World triggered "Round_End"
+L 12/26/2019 - 19:09:48: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:09:49: World triggered "Round_Start"
+L 12/26/2019 - 19:10:03: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" with "scout"
+L 12/26/2019 - 19:10:28: "H3ADROOM<169><STEAM_0:0:150924950><CT>" killed "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" with "scout"
+L 12/26/2019 - 19:10:28: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:10:48: "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" killed "Player<173><STEAM_2:0:1886291632><CT>" with "galil"
+L 12/26/2019 - 19:10:49: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><TERRORIST>" with "usp"
+L 12/26/2019 - 19:10:55: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" with "usp"
+L 12/26/2019 - 19:10:55: Team "CT" triggered "CTs_Win" (CT "8") (T "6")
+L 12/26/2019 - 19:10:55: World triggered "Round_End"
+L 12/26/2019 - 19:11:00: "H3ADROOM<169><STEAM_0:0:150924950><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:11:00: "<><><>" triggered "amx_chat" (text "[PTB] Transfered H3ADROOM to TERRORIST")
+L 12/26/2019 - 19:11:00: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:11:01: World triggered "Round_Start"
+L 12/26/2019 - 19:11:14: "Player<173><STEAM_2:0:1886291632><CT>" killed "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" with "famas"
+L 12/26/2019 - 19:11:16: "Player<173><STEAM_2:0:1886291632><CT>" killed "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" with "famas"
+L 12/26/2019 - 19:11:16: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:11:17: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:11:19: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:11:20: "fun da king<141><STEAM_1:0:1655898477><TERRORIST>" disconnected
+L 12/26/2019 - 19:11:21: "Imash Shans ;d<165><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:11:30: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:11:30: Team "CT" triggered "CTs_Win" (CT "9") (T "6")
+L 12/26/2019 - 19:11:30: World triggered "Round_End"
+L 12/26/2019 - 19:11:32: "Player<173><STEAM_2:0:1886291632><CT>" committed suicide with "world"
+L 12/26/2019 - 19:11:32: "Player<173><STEAM_2:0:1886291632><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:11:35: "Player<173><STEAM_2:0:1886291632><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:11:36: World triggered "Round_Start"
+L 12/26/2019 - 19:12:03: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:12:12: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "Player<173><STEAM_2:0:1886291632><TERRORIST>" with "scout"
+L 12/26/2019 - 19:12:12: "Player<173><STEAM_2:0:1886291632><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:12:24: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 19:12:32: [REUNION]: svinger (46.161.103.76) authorized as RevEmu
+L 12/26/2019 - 19:12:32: "svinger<180><STEAM_2:1:2008482990><>" connected, address "46.161.103.76:27005"
+L 12/26/2019 - 19:12:42: "2Pacalypse<150><VALVE_ID_LAN><CT>" killed "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 12/26/2019 - 19:12:47: "mohemed<179><STEAM_2:0:343338069><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:12:47: "xXMr.ONurXx_YT<178><STEAM_0:0:526678195><TERRORIST>" disconnected
+L 12/26/2019 - 19:12:56: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" killed "2Pacalypse<150><VALVE_ID_LAN><CT>" with "scout"
+L 12/26/2019 - 19:12:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "7")
+L 12/26/2019 - 19:12:56: World triggered "Round_End"
+L 12/26/2019 - 19:13:01: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:13:02: World triggered "Round_Start"
+L 12/26/2019 - 19:13:19: [REUNION]: svinger (46.161.103.76) authorized as RevEmu
+L 12/26/2019 - 19:13:19: "svinger<181><STEAM_2:1:2008482990><>" connected, address "46.161.103.76:27005"
+L 12/26/2019 - 19:13:29: "2Pacalypse<150><VALVE_ID_LAN><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:13:42: "Player<173><STEAM_2:0:1886291632><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "ak47"
+L 12/26/2019 - 19:13:42: "2Pacalypse<150><VALVE_ID_LAN><CT>" disconnected
+L 12/26/2019 - 19:13:43: "mohemed<179><STEAM_2:0:343338069><CT>" committed suicide with "world"
+L 12/26/2019 - 19:13:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "8")
+L 12/26/2019 - 19:13:43: World triggered "Round_End"
+L 12/26/2019 - 19:13:43: "mohemed<179><STEAM_2:0:343338069><CT>" joined team "SPECTATOR"
+L 12/26/2019 - 19:13:47: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:13:47: "<><><>" triggered "amx_chat" (text "[PTB] Transfered H3ADROOM to CT")
+L 12/26/2019 - 19:13:48: "Player<173><STEAM_2:0:1886291632><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:13:49: World triggered "Round_Start"
+L 12/26/2019 - 19:14:13: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "Player<173><STEAM_2:0:1886291632><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:14:13: "Player<173><STEAM_2:0:1886291632><TERRORIST>" triggered "Dropped_The_Bomb"
+L 12/26/2019 - 19:14:18: [REUNION]: fun da king (85.130.9.158) authorized as RevEmu
+L 12/26/2019 - 19:14:18: "fun da king<182><STEAM_1:0:1655898477><>" connected, address "85.130.9.158:27005"
+L 12/26/2019 - 19:14:28: "svinger<181><STEAM_2:1:2008482990><>" entered the game
+L 12/26/2019 - 19:14:33: "fun da king<182><STEAM_1:0:1655898477><>" entered the game
+L 12/26/2019 - 19:14:33: "svinger<181><STEAM_2:1:2008482990><>" joined team "TERRORIST"
+L 12/26/2019 - 19:14:36: "fun da king<182><STEAM_1:0:1655898477><>" joined team "CT"
+L 12/26/2019 - 19:14:52: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:14:52: Team "CT" triggered "CTs_Win" (CT "10") (T "8")
+L 12/26/2019 - 19:14:52: World triggered "Round_End"
+L 12/26/2019 - 19:14:55: "H3ADROOM<169><STEAM_0:0:150924950><CT>" committed suicide with "world"
+L 12/26/2019 - 19:14:55: "H3ADROOM<169><STEAM_0:0:150924950><CT>" joined team "TERRORIST"
+L 12/26/2019 - 19:14:56: "HuNt3r<175><STEAM_1:1:1071071391><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:14:56: "<><><>" triggered "amx_chat" (text "[PTB] Transfered HuNt3r to CT")
+L 12/26/2019 - 19:14:57: "svinger<181><STEAM_2:1:2008482990><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:14:58: World triggered "Round_Start"
+L 12/26/2019 - 19:15:07: "mohemed<179><STEAM_2:0:343338069><SPECTATOR>" disconnected
+L 12/26/2019 - 19:15:10: Server cvar "amx_nextmap" = "minicity"
+L 12/26/2019 - 19:15:13: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" killed "fun da king<182><STEAM_1:0:1655898477><CT>" with "m3"
+L 12/26/2019 - 19:15:15: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" killed "Imash Shans ;d<165><VALVE_ID_LAN><CT>" with "m3"
+L 12/26/2019 - 19:15:26: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" killed "HuNt3r<175><STEAM_1:1:1071071391><CT>" with "deagle"
+L 12/26/2019 - 19:15:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "9")
+L 12/26/2019 - 19:15:26: World triggered "Round_End"
+L 12/26/2019 - 19:15:31: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:15:32: World triggered "Round_Start"
+L 12/26/2019 - 19:16:01: "HuNt3r<175><STEAM_1:1:1071071391><CT>" killed "Player<173><STEAM_2:0:1886291632><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:16:10: Server cvar "mp_timelimit" = "0.000000"
+L 12/26/2019 - 19:16:10: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" killed "svinger<181><STEAM_2:1:2008482990><TERRORIST>" with "m4a1"
+L 12/26/2019 - 19:16:21: "fun da king<182><STEAM_1:0:1655898477><CT>" committed suicide with "worldspawn" (world)
+L 12/26/2019 - 19:16:29: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" triggered "Planted_The_Bomb"
+L 12/26/2019 - 19:16:35: "fun da king<182><STEAM_1:0:1655898477><CT>" disconnected
+L 12/26/2019 - 19:17:04: Team "TERRORIST" triggered "Target_Bombed" (CT "10") (T "10")
+L 12/26/2019 - 19:17:04: World triggered "Round_End"
+L 12/26/2019 - 19:17:09: "Player<173><STEAM_2:0:1886291632><TERRORIST>" joined team "CT"
+L 12/26/2019 - 19:17:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Player to CT")
+L 12/26/2019 - 19:17:09: "HuNt3r<175><STEAM_1:1:1071071391><CT>" disconnected
+L 12/26/2019 - 19:17:09: "svinger<181><STEAM_2:1:2008482990><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 12/26/2019 - 19:17:10: World triggered "Round_Start"
+L 12/26/2019 - 19:17:11: Server cvar "sv_maxspeed" = "0.000000"
+L 12/26/2019 - 19:17:11: Server cvar "mp_friendlyfire" = "1"
+L 12/26/2019 - 19:17:14: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" killed "svinger<181><STEAM_2:1:2008482990><TERRORIST>" with "ak47"
+L 12/26/2019 - 19:17:22: Server cvar "sv_maxspeed" = "900.000000"
+L 12/26/2019 - 19:17:22: Server cvar "mp_friendlyfire" = "0"
+L 12/26/2019 - 19:17:22: Server cvar "mp_timelimit" = "20.000000"
+L 12/26/2019 - 19:17:22: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: SafeNameAndChat
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: AMX Mod X
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: Reunion
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: ReAuthCheck
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: WHBlocker
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: ReSemiclip
+L 12/26/2019 - 19:17:22: [META] ini: Read plugin config for: Revoice
+L 12/26/2019 - 19:17:22: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 12/26/2019 - 19:17:22: [META] dll: Updating plugins...
+L 12/26/2019 - 19:17:22: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 19:17:22: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 12/26/2019 - 19:17:22: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 12/26/2019 - 19:17:22: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 19:17:22: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 12/26/2019 - 19:17:22: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 12/26/2019 - 19:17:22: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 12/26/2019 - 19:17:22: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 12/26/2019 - 19:17:22: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 12/26/2019 - 19:17:22: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 12/26/2019 - 19:17:22: "Player<173><STEAM_2:0:1886291632><CT>" disconnected
+L 12/26/2019 - 19:17:22: "Imash Shans ;d<165><VALVE_ID_LAN><CT>" disconnected
+L 12/26/2019 - 19:17:22: "svinger<181><STEAM_2:1:2008482990><TERRORIST>" disconnected
+L 12/26/2019 - 19:17:22: "H3ADROOM<169><STEAM_0:0:150924950><TERRORIST>" disconnected
+L 12/26/2019 - 19:17:22: World triggered "Round_Draw" (CT "10") (T "10")
+L 12/26/2019 - 19:17:22: World triggered "Round_End"
+L 12/26/2019 - 19:17:22: Log file closed

@@ -1,0 +1,59 @@
+[en]
+RECORDINGIN = We are now recording in your cstrike folder
+RECORDINGAT = Demo recording has been started at %s
+
+[ru]
+RECORDINGIN = My seichas zapisyvaem v vashu cstrike papku
+RECORDINGAT = Zapis' demo byla nachata v %s
+
+[nl]
+RECORDINGIN = We zijn nu een demo aan het opnemen in je cstrike map
+RECORDINGAT = De Demo opnemen is begonnen op %s 
+
+[sv]
+RECORDINGIN = Vi spelar nu in i din cstrike mapp
+RECORDINGAT = Demo inspelning har b'o'rjat f'o'r %s
+
+[de]
+RECORDINGIN = Wir sind jetzt beim Aufnehmen bei deinem cstrike ordner
+RECORDINGAT = Demoaufnahme hat begonnen bei %s 
+
+[es]
+RECORDINGIN = Estamos grabando en tu carpeta cstrike
+RECORDINGAT = La grabacion de la demo fue iniciada en %s
+
+[pl]
+RECORDINGIN = Nagrywamy demo do twojego folderu cstrike
+RECORDINGAT = Nagrywanie dema rozpoczelo sie na %s
+
+[lt]
+RECORDINGIN = Mes dabar irasinejame i jusu cstrike aplanka
+RECORDINGAT = Demo irasinejimas buvo pradetas %s
+
+[ro]
+RECORDINGIN = Acum inregistram in folderul tau cstrike
+RECORDINGAT = S-a pornit o inregistrare demo jucatorului %s
+
+[pt]
+RECORDINGIN = Estamos agora a gravar para a tua pasta cstrike
+RECORDINGAT = Gravacao da demo comecou a %s
+
+[cz]
+RECORDINGIN = Nyni nahravame demo do tvoji cstrike slozky
+RECORDINGAT = Nahravani dema zacalo v %s
+
+[sr]
+RECORDINGIN = Sada snimamo demo u tvoj cstrike folder.
+RECORDINGAT = Snimanje demoa pocelo u %s
+
+[bg]
+RECORDINGIN = Demoto se namira v tvoqta cstrike papka.
+RECORDINGAT = Zapisvaneto na demoto e zapochnalo v %s
+
+[lv]
+RECORDINGIN = Demo paslaik sak rakstities jusu cstrike mape ar nosaukumu
+RECORDINGAT = Demo rakstisana ir sakusies %s
+
+[tr]
+RECORDINGIN = cstrike klasorunuze kaydedildi
+RECORDINGAT = Demo kayidi baslamistir %s

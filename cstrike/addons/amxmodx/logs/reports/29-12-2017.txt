@@ -1,0 +1,2 @@
+<style> body {background: black; color: white; font-size: 10px; font-family: arial;} </style>
+<b>Complainant:</b> T[0]X[!]C (STEAM_1:0:1149872548)<br/><b>Admin:</b> T[0]X[!]C (STEAM_1:0:1149872548).<br/><b>Reason:</b> <br/> <b>Time:</b>  16:46:13<br/><hr/>

@@ -1,0 +1,166 @@
+L 01/04/2020 - 20:26:05: Log file started (file "logs/L0104071.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/04/2020 - 20:26:05: Server cvar "mp_buytime" = "1"
+L 01/04/2020 - 20:26:05: Server cvar "mp_c4timer" = "35"
+L 01/04/2020 - 20:26:05: Server cvar "mp_flashlight" = "1"
+L 01/04/2020 - 20:26:05: Server cvar "mp_freezetime" = "1"
+L 01/04/2020 - 20:26:05: Server cvar "mp_hostagepenalty" = "0"
+L 01/04/2020 - 20:26:05: Server cvar "mp_limitteams" = "1"
+L 01/04/2020 - 20:26:05: Server cvar "mp_roundtime" = "2.3"
+L 01/04/2020 - 20:26:05: Server cvar "mp_startmoney" = "850"
+L 01/04/2020 - 20:26:05: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/04/2020 - 20:26:05: Server cvar "sv_maxrate" = "50000"
+L 01/04/2020 - 20:26:05: Server cvar "sv_maxspeed" = "320"
+L 01/04/2020 - 20:26:05: Server cvar "sv_minrate" = "10000"
+L 01/04/2020 - 20:26:05: Server cvar "max_queries_sec_global" = "***PROTECTED***"
+L 01/04/2020 - 20:26:05: Server cvar "max_queries_sec" = "***PROTECTED***"
+L 01/04/2020 - 20:26:05: Server cvar "decalfrequency" = "0"
+L 01/04/2020 - 20:26:05: Server cvar "sv_airaccelerate" = "100"
+L 01/04/2020 - 20:26:05: Server cvar "sv_friction" = "3"
+L 01/04/2020 - 20:26:06: Server cvar "sv_friction" = "4"
+L 01/04/2020 - 20:26:11: Server cvar "mp_timelimit" = "10"
+L 01/04/2020 - 20:26:12: [REUNION]: 2Pacalypse (130.185.211.206) authorized as NoSteam47
+L 01/04/2020 - 20:26:12: "2Pacalypse<1><VALVE_ID_LAN><>" connected, address "130.185.211.206:27005"
+L 01/04/2020 - 20:26:13: World triggered "Round_Start"
+L 01/04/2020 - 20:26:16: [REUNION]: guls (5.58.180.59) authorized as RevEmu
+L 01/04/2020 - 20:26:16: "guls<2><STEAM_2:0:1886291632><>" connected, address "5.58.180.59:27005"
+L 01/04/2020 - 20:26:22: "2Pacalypse<1><VALVE_ID_LAN><>" entered the game
+L 01/04/2020 - 20:26:22: "guls<2><STEAM_2:0:1886291632><>" entered the game
+L 01/04/2020 - 20:26:24: "H3ADROOM<3><STEAM_0:0:150924950><>" connected, address "176.105.192.208:60787"
+L 01/04/2020 - 20:26:25: "H3ADROOM<3><STEAM_0:0:150924950><>" STEAM USERID validated
+L 01/04/2020 - 20:26:26: "guls<2><STEAM_2:0:1886291632><>" joined team "CT"
+L 01/04/2020 - 20:26:26: "2Pacalypse<1><VALVE_ID_LAN><>" joined team "CT"
+L 01/04/2020 - 20:26:29: "H3ADROOM<3><STEAM_0:0:150924950><>" entered the game
+L 01/04/2020 - 20:26:35: "guls<2><STEAM_2:0:1886291632><CT>" committed suicide with "world"
+L 01/04/2020 - 20:26:35: "guls<2><STEAM_2:0:1886291632><CT>" joined team "TERRORIST"
+L 01/04/2020 - 20:26:35: "H3ADROOM<3><STEAM_0:0:150924950><>" joined team "TERRORIST"
+L 01/04/2020 - 20:26:35: World triggered "Game_Commencing"
+L 01/04/2020 - 20:26:35: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/04/2020 - 20:26:35: World triggered "Round_End"
+L 01/04/2020 - 20:26:39: World triggered "Round_Start"
+L 01/04/2020 - 20:27:11: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "guls<2><STEAM_2:0:1886291632><TERRORIST>" with "knife"
+L 01/04/2020 - 20:27:50: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" with "grenade"
+L 01/04/2020 - 20:27:50: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/04/2020 - 20:27:50: World triggered "Round_End"
+L 01/04/2020 - 20:27:56: World triggered "Round_Start"
+L 01/04/2020 - 20:27:58: "Maverick<4><STEAM_0:0:37264973><>" connected, address "130.204.36.29:27005"
+L 01/04/2020 - 20:27:58: "Maverick<4><STEAM_0:0:37264973><>" STEAM USERID validated
+L 01/04/2020 - 20:28:03: "Maverick<4><STEAM_0:0:37264973><>" entered the game
+L 01/04/2020 - 20:28:03: "Jason Statham<5><STEAM_0:1:65160151><>" connected, address "46.160.40.89:27005"
+L 01/04/2020 - 20:28:04: "Jason Statham<5><STEAM_0:1:65160151><>" STEAM USERID validated
+L 01/04/2020 - 20:28:07: "Maverick<4><STEAM_0:0:37264973><>" joined team "CT"
+L 01/04/2020 - 20:28:08: "Jason Statham<5><STEAM_0:1:65160151><>" entered the game
+L 01/04/2020 - 20:28:09: "guls<2><STEAM_2:0:1886291632><TERRORIST>" committed suicide with "worldspawn" (world)
+L 01/04/2020 - 20:28:12: "Jason Statham<5><STEAM_0:1:65160151><>" joined team "TERRORIST"
+L 01/04/2020 - 20:28:32: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" with "knife"
+L 01/04/2020 - 20:28:40: "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" committed suicide with "tracktrain"
+L 01/04/2020 - 20:28:40: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/04/2020 - 20:28:40: World triggered "Round_End"
+L 01/04/2020 - 20:28:46: World triggered "Round_Start"
+L 01/04/2020 - 20:28:54: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "guls<2><STEAM_2:0:1886291632><TERRORIST>" with "knife"
+L 01/04/2020 - 20:29:09: "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" killed "2Pacalypse<1><VALVE_ID_LAN><CT>" with "knife"
+L 01/04/2020 - 20:29:10: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" with "grenade"
+L 01/04/2020 - 20:29:41: "Maverick<4><STEAM_0:0:37264973><CT>" killed "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" with "knife"
+L 01/04/2020 - 20:29:41: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/04/2020 - 20:29:41: World triggered "Round_End"
+L 01/04/2020 - 20:29:47: World triggered "Round_Start"
+L 01/04/2020 - 20:30:23: "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" killed "2Pacalypse<1><VALVE_ID_LAN><CT>" with "tracktrain"
+L 01/04/2020 - 20:30:23: "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" killed "guls<2><STEAM_2:0:1886291632><TERRORIST>" with "tracktrain"
+L 01/04/2020 - 20:30:31: "Maverick<4><STEAM_0:0:37264973><CT>" killed "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" with "knife"
+L 01/04/2020 - 20:31:11: "Maverick<4><STEAM_0:0:37264973><CT>" killed "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" with "tracktrain"
+L 01/04/2020 - 20:31:11: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 01/04/2020 - 20:31:11: World triggered "Round_End"
+L 01/04/2020 - 20:31:16: "2Pacalypse<1><VALVE_ID_LAN><CT>" joined team "TERRORIST"
+L 01/04/2020 - 20:31:16: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 2Pacalypse to TERRORIST")
+L 01/04/2020 - 20:31:17: World triggered "Round_Start"
+L 01/04/2020 - 20:31:32: "guls<2><STEAM_2:0:1886291632><TERRORIST>" killed "Maverick<4><STEAM_0:0:37264973><CT>" with "knife"
+L 01/04/2020 - 20:31:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 01/04/2020 - 20:31:32: World triggered "Round_End"
+L 01/04/2020 - 20:31:37: "guls<2><STEAM_2:0:1886291632><TERRORIST>" joined team "CT"
+L 01/04/2020 - 20:31:37: "<><><>" triggered "amx_chat" (text "[PTB] Transfered guls to CT")
+L 01/04/2020 - 20:31:38: World triggered "Round_Start"
+L 01/04/2020 - 20:31:44: "2Pacalypse<1><VALVE_ID_LAN><TERRORIST>" killed "guls<2><STEAM_2:0:1886291632><CT>" with "knife"
+L 01/04/2020 - 20:32:03: "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" killed "Maverick<4><STEAM_0:0:37264973><CT>" with "tracktrain"
+L 01/04/2020 - 20:32:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 01/04/2020 - 20:32:03: World triggered "Round_End"
+L 01/04/2020 - 20:32:07: "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 20:32:07: "H3ADROOM<3><STEAM_0:0:150924950><TERRORIST>" joined team "CT"
+L 01/04/2020 - 20:32:09: World triggered "Round_Start"
+L 01/04/2020 - 20:32:09: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 335)
+L 01/04/2020 - 20:32:37: "guls<2><STEAM_2:0:1886291632><CT>" killed "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" with "knife"
+L 01/04/2020 - 20:32:45: "Maverick<4><STEAM_0:0:37264973><CT>" killed "2Pacalypse<1><VALVE_ID_LAN><TERRORIST>" with "tracktrain"
+L 01/04/2020 - 20:32:45: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 01/04/2020 - 20:32:45: World triggered "Round_End"
+L 01/04/2020 - 20:32:51: World triggered "Round_Start"
+L 01/04/2020 - 20:33:25: "H3ADROOM<3><STEAM_0:0:150924950><CT>" killed "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" with "knife"
+L 01/04/2020 - 20:33:41: "Jason Statham<5><STEAM_0:1:65160151><TERRORIST>" disconnected
+L 01/04/2020 - 20:34:04: "H3ADROOM<3><STEAM_0:0:150924950><CT>" killed "2Pacalypse<1><VALVE_ID_LAN><TERRORIST>" with "knife"
+L 01/04/2020 - 20:34:04: Team "CT" triggered "CTs_Win" (CT "6") (T "2")
+L 01/04/2020 - 20:34:04: World triggered "Round_End"
+L 01/04/2020 - 20:34:09: "Maverick<4><STEAM_0:0:37264973><CT>" joined team "TERRORIST"
+L 01/04/2020 - 20:34:09: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Maverick to TERRORIST")
+L 01/04/2020 - 20:34:10: World triggered "Round_Start"
+L 01/04/2020 - 20:34:23: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 01/04/2020 - 20:34:23: "HuNt3r<6><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 01/04/2020 - 20:34:27: "xXMr.ONurXx_YT<7><STEAM_0:0:526678195><>" connected, address "79.132.6.137:27005"
+L 01/04/2020 - 20:34:27: "xXMr.ONurXx_YT<7><STEAM_0:0:526678195><>" STEAM USERID validated
+L 01/04/2020 - 20:34:29: "HuNt3r<6><STEAM_1:1:1071071391><>" entered the game
+L 01/04/2020 - 20:34:36: "HuNt3r<6><STEAM_1:1:1071071391><>" joined team "TERRORIST"
+L 01/04/2020 - 20:34:48: "2Pacalypse<1><VALVE_ID_LAN><TERRORIST>" killed "guls<2><STEAM_2:0:1886291632><CT>" with "knife"
+L 01/04/2020 - 20:34:50: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><>" connected, address "79.132.6.137:27005"
+L 01/04/2020 - 20:34:50: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><>" STEAM USERID validated
+L 01/04/2020 - 20:34:57: "guls<2><STEAM_2:0:1886291632><CT>" disconnected
+L 01/04/2020 - 20:35:09: "2Pacalypse<1><VALVE_ID_LAN><TERRORIST>" killed "H3ADROOM<3><STEAM_0:0:150924950><CT>" with "knife"
+L 01/04/2020 - 20:35:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "3")
+L 01/04/2020 - 20:35:09: World triggered "Round_End"
+L 01/04/2020 - 20:35:10: "Maverick<4><STEAM_0:0:37264973><TERRORIST>" committed suicide with "tracktrain"
+L 01/04/2020 - 20:35:13: "2Pacalypse<1><VALVE_ID_LAN><TERRORIST>" joined team "CT"
+L 01/04/2020 - 20:35:13: "<><><>" triggered "amx_chat" (text "[PTB] Transfered 2Pacalypse to CT")
+L 01/04/2020 - 20:35:15: World triggered "Round_Start"
+L 01/04/2020 - 20:35:21: "H3ADROOM<3><STEAM_0:0:150924950><CT>" disconnected
+L 01/04/2020 - 20:35:34: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "HuNt3r<6><STEAM_1:1:1071071391><TERRORIST>" with "knife"
+L 01/04/2020 - 20:35:36: "Maverick<4><STEAM_0:0:37264973><TERRORIST>" killed "2Pacalypse<1><VALVE_ID_LAN><CT>" with "tracktrain"
+L 01/04/2020 - 20:35:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "4")
+L 01/04/2020 - 20:35:36: World triggered "Round_End"
+L 01/04/2020 - 20:35:42: World triggered "Round_Start"
+L 01/04/2020 - 20:36:01: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><>" entered the game
+L 01/04/2020 - 20:36:06: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><>" joined team "CT"
+L 01/04/2020 - 20:36:20: Server cvar "mp_timelimit" = "0.000000"
+L 01/04/2020 - 20:36:45: "2Pacalypse<1><VALVE_ID_LAN><CT>" killed "Maverick<4><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 20:37:31: "HuNt3r<6><STEAM_1:1:1071071391><TERRORIST>" killed "2Pacalypse<1><VALVE_ID_LAN><CT>" with "knife"
+L 01/04/2020 - 20:37:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "5")
+L 01/04/2020 - 20:37:31: World triggered "Round_End"
+L 01/04/2020 - 20:37:37: World triggered "Round_Start"
+L 01/04/2020 - 20:37:37: Server cvar "sv_maxspeed" = "0.000000"
+L 01/04/2020 - 20:37:37: Server cvar "mp_friendlyfire" = "1"
+L 01/04/2020 - 20:37:44: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><CT>" killed "2Pacalypse<1><VALVE_ID_LAN><CT>" with "grenade"
+L 01/04/2020 - 20:37:47: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><CT>" committed suicide with "world"
+L 01/04/2020 - 20:37:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "6")
+L 01/04/2020 - 20:37:47: World triggered "Round_End"
+L 01/04/2020 - 20:37:48: Server cvar "sv_maxspeed" = "320.000000"
+L 01/04/2020 - 20:37:48: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 20:37:48: Server cvar "mp_timelimit" = "10.000000"
+L 01/04/2020 - 20:37:48: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: AMX Mod X
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: Reunion
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: ReAuthCheck
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: WHBlocker
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: ReSemiclip
+L 01/04/2020 - 20:37:48: [META] ini: Read plugin config for: Revoice
+L 01/04/2020 - 20:37:48: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/04/2020 - 20:37:48: [META] dll: Updating plugins...
+L 01/04/2020 - 20:37:48: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 20:37:48: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/04/2020 - 20:37:48: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/04/2020 - 20:37:48: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 20:37:48: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/04/2020 - 20:37:48: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/04/2020 - 20:37:48: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 20:37:48: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/04/2020 - 20:37:48: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/04/2020 - 20:37:48: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/04/2020 - 20:37:48: "2Pacalypse<1><VALVE_ID_LAN><CT>" disconnected
+L 01/04/2020 - 20:37:48: "Maverick<4><STEAM_0:0:37264973><TERRORIST>" disconnected
+L 01/04/2020 - 20:37:48: "HuNt3r<6><STEAM_1:1:1071071391><TERRORIST>" disconnected
+L 01/04/2020 - 20:37:48: "xXMr.ONurXx_YT<8><STEAM_0:0:526678195><CT>" disconnected
+L 01/04/2020 - 20:37:48: Log file closed

@@ -1,0 +1,426 @@
+L 01/12/2020 - 18:16:19: Log file started (file "logs/L0112064.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/12/2020 - 18:16:19: Loading map "city_of_roadrage2"
+L 01/12/2020 - 18:16:19: Server cvars start
+L 01/12/2020 - 18:16:19: Server cvar "@BunnyHopper" = "3.x"
+L 01/12/2020 - 18:16:19: Server cvar "@CRXGoSpec" = "1.1"
+L 01/12/2020 - 18:16:19: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "@D.I.C.E." = "1.1"
+L 01/12/2020 - 18:16:19: Server cvar "@MOTDCommands" = "1.2"
+L 01/12/2020 - 18:16:19: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/12/2020 - 18:16:19: Server cvar "AdvancedMute" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "aesp_version" = "1.3"
+L 01/12/2020 - 18:16:19: Server cvar "allow_spectators" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "amx_client_languages" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "amx_language" = "en"
+L 01/12/2020 - 18:16:19: Server cvar "amx_nextmap" = "city_of_roadrage2"
+L 01/12/2020 - 18:16:19: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/12/2020 - 18:16:19: Server cvar "amx_timeleft" = "12:32"
+L 01/12/2020 - 18:16:19: Server cvar "amxmodx_version" = "1.8.2"
+L 01/12/2020 - 18:16:19: Server cvar "amxxbg_vip" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "asp_version" = "4.5.1"
+L 01/12/2020 - 18:16:19: Server cvar "atac_version" = "3.0.1"
+L 01/12/2020 - 18:16:19: Server cvar "badcamper_version" = "1.4 beta"
+L 01/12/2020 - 18:16:19: Server cvar "blockmaker" = "4.01"
+L 01/12/2020 - 18:16:19: Server cvar "c4 timer" = "1.1"
+L 01/12/2020 - 18:16:19: Server cvar "coop" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "CRXAdminGroups" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "CRXFastKnife" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "CRXGametracker" = "2.0"
+L 01/12/2020 - 18:16:19: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/12/2020 - 18:16:19: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "CustomShop" = "4.2"
+L 01/12/2020 - 18:16:19: Server cvar "deathmatch" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "decalfrequency" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "edgefriction" = "2"
+L 01/12/2020 - 18:16:19: Server cvar "ers_version" = "2.3c"
+L 01/12/2020 - 18:16:19: Server cvar "gagsystem_shoko" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/12/2020 - 18:16:19: Server cvar "gal_version" = "v5.9.1-926"
+L 01/12/2020 - 18:16:19: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/12/2020 - 18:16:19: Server cvar "humans_join_team" = "any"
+L 01/12/2020 - 18:16:19: Server cvar "jtp10181" = "chute,gore"
+L 01/12/2020 - 18:16:19: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/12/2020 - 18:16:19: Server cvar "LetitSnow" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/12/2020 - 18:16:19: Server cvar "max_queries_sec" = "3"
+L 01/12/2020 - 18:16:19: Server cvar "max_queries_sec_global" = "150"
+L 01/12/2020 - 18:16:19: Server cvar "max_queries_window" = "60"
+L 01/12/2020 - 18:16:19: Server cvar "mdbBans" = "4.8"
+L 01/12/2020 - 18:16:19: Server cvar "metamod_version" = "1.21p37"
+L 01/12/2020 - 18:16:19: Server cvar "mp_autokick" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_autokick_timeout" = "-1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_autoteambalance" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_buytime" = "0.25"
+L 01/12/2020 - 18:16:19: Server cvar "mp_c4timer" = "35"
+L 01/12/2020 - 18:16:19: Server cvar "mp_chattime" = "5.000000"
+L 01/12/2020 - 18:16:19: Server cvar "mp_consistency" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_fadetoblack" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_flashlight" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_footsteps" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_forcecamera" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_forcechasecam" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_forcerespawn" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_fraglimit" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_fragsleft" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_freeforall" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_freezetime" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_friendlyfire" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_hostage_hurtable" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_hostagepenalty" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_item_staytime" = "300"
+L 01/12/2020 - 18:16:19: Server cvar "mp_kickpercent" = "0.66"
+L 01/12/2020 - 18:16:19: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_limitteams" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_logdetail" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_logfile" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_logmessages" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/12/2020 - 18:16:19: Server cvar "mp_maxmoney" = "999999"
+L 01/12/2020 - 18:16:19: Server cvar "mp_maxrounds" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_mirrordamage" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_playerid" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_round_infinite" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_round_restart_delay" = "5"
+L 01/12/2020 - 18:16:19: Server cvar "mp_roundover" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_roundtime" = "2.3"
+L 01/12/2020 - 18:16:19: Server cvar "mp_show_radioicon" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_startmoney" = "850"
+L 01/12/2020 - 18:16:19: Server cvar "mp_timeleft" = "12:32"
+L 01/12/2020 - 18:16:19: Server cvar "mp_timelimit" = "20"
+L 01/12/2020 - 18:16:19: Server cvar "mp_tkpunish" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "mp_windifference" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "mp_winlimit" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/12/2020 - 18:16:19: Server cvar "pausable" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "present_version" = "2.01"
+L 01/12/2020 - 18:16:19: Server cvar "RandomHP" = "2.2"
+L 01/12/2020 - 18:16:19: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/12/2020 - 18:16:19: Server cvar "reconnect_features" = "0.3.1"
+L 01/12/2020 - 18:16:19: Server cvar "report_system_version" = "3.1"
+L 01/12/2020 - 18:16:19: Server cvar "resemiclip_version" = "2.3.9"
+L 01/12/2020 - 18:16:19: Server cvar "reu_version" = "0.1.0.130"
+L 01/12/2020 - 18:16:19: Server cvar "revoice_version" = "0.1.0.30"
+L 01/12/2020 - 18:16:19: Server cvar "RRWM" = "2.0"
+L 01/12/2020 - 18:16:19: Server cvar "sanksounds_version" = "1.8.6"
+L 01/12/2020 - 18:16:19: Server cvar "SimpleMenu" = "1.1"
+L 01/12/2020 - 18:16:19: Server cvar "SNAC_Version" = "1.1"
+L 01/12/2020 - 18:16:19: Server cvar "SpecList" = "1.2a"
+L 01/12/2020 - 18:16:19: Server cvar "sr_version" = "1.6"
+L 01/12/2020 - 18:16:19: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/12/2020 - 18:16:19: Server cvar "StyleC4Timer" = "2.1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_accelerate" = "5"
+L 01/12/2020 - 18:16:19: Server cvar "sv_aim" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_airaccelerate" = "100"
+L 01/12/2020 - 18:16:19: Server cvar "sv_allowupload" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_alltalk" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_bounce" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_cheats" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "sv_clienttrace" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/12/2020 - 18:16:19: Server cvar "sv_friction" = "4"
+L 01/12/2020 - 18:16:19: Server cvar "sv_gravity" = "800"
+L 01/12/2020 - 18:16:19: Server cvar "sv_logblocks" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "sv_maxrate" = "50000"
+L 01/12/2020 - 18:16:19: Server cvar "sv_maxspeed" = "900.000000"
+L 01/12/2020 - 18:16:19: Server cvar "sv_minrate" = "10000"
+L 01/12/2020 - 18:16:19: Server cvar "sv_password" = ""
+L 01/12/2020 - 18:16:19: Server cvar "sv_proxies" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_restart" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "sv_restartround" = "0"
+L 01/12/2020 - 18:16:19: Server cvar "sv_stepsize" = "18"
+L 01/12/2020 - 18:16:19: Server cvar "sv_stopspeed" = "75"
+L 01/12/2020 - 18:16:19: Server cvar "sv_uploadmax" = "0.5"
+L 01/12/2020 - 18:16:19: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/12/2020 - 18:16:19: Server cvar "sv_voiceenable" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "sv_wateraccelerate" = "10"
+L 01/12/2020 - 18:16:19: Server cvar "sv_waterfriction" = "1"
+L 01/12/2020 - 18:16:19: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/12/2020 - 18:16:19: Server cvar "vehicle_real_killer" = "1.1"
+L 01/12/2020 - 18:16:19: Server cvar "WalkGuard" = "1.3.2"
+L 01/12/2020 - 18:16:19: Server cvar "we_grenades" = "Huehue"
+L 01/12/2020 - 18:16:19: Server cvar "we_player_models" = "Huehue"
+L 01/12/2020 - 18:16:19: Server cvar "whb_version" = "1.5.692"
+L 01/12/2020 - 18:16:19: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/12/2020 - 18:16:19: Server cvars end
+L 01/12/2020 - 18:16:21: Server cvar "sv_maxspeed" = "900"
+L 01/12/2020 - 18:16:21: Server cvar "mp_autoteambalance" = "1"
+L 01/12/2020 - 18:16:21: Server cvar "mp_autoteambalance" = "0"
+L 01/12/2020 - 18:16:21: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/12/2020 - 18:16:23: Started map "city_of_roadrage2" (CRC "1877532567")
+L 01/12/2020 - 18:16:25: World triggered "Round_Start"
+L 01/12/2020 - 18:16:31: [REUNION]: Bulgaria (77.85.116.104) authorized as RevEmu
+L 01/12/2020 - 18:16:31: "Bulgaria<76><STEAM_2:1:1478724606><>" connected, address "77.85.116.104:27005"
+L 01/12/2020 - 18:16:37: "Bulgaria<76><STEAM_2:1:1478724606><>" entered the game
+L 01/12/2020 - 18:16:41: "Bulgaria<76><STEAM_2:1:1478724606><>" joined team "TERRORIST"
+L 01/12/2020 - 18:17:03: "Bulgaria<76><STEAM_2:1:1478724606><TERRORIST>" committed suicide with "world"
+L 01/12/2020 - 18:17:03: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/12/2020 - 18:17:03: World triggered "Round_End"
+L 01/12/2020 - 18:17:03: "Bulgaria<76><STEAM_2:1:1478724606><TERRORIST>" joined team "TERRORIST"
+L 01/12/2020 - 18:17:09: World triggered "Round_Start"
+L 01/12/2020 - 18:17:10: "Bulgaria<76><STEAM_2:1:1478724606><TERRORIST>" committed suicide with "world"
+L 01/12/2020 - 18:17:10: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/12/2020 - 18:17:10: World triggered "Round_End"
+L 01/12/2020 - 18:17:10: "Bulgaria<76><STEAM_2:1:1478724606><TERRORIST>" joined team "CT"
+L 01/12/2020 - 18:17:16: World triggered "Round_Start"
+L 01/12/2020 - 18:19:34: Team "TERRORIST" triggered "Hostages_Not_Rescued" (CT "0") (T "0")
+L 01/12/2020 - 18:19:34: World triggered "Round_End"
+L 01/12/2020 - 18:19:40: World triggered "Round_Start"
+L 01/12/2020 - 18:21:57: "Bulgaria<76><STEAM_2:1:1478724606><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:21:57: "Bulgaria<76><STEAM_2:1:1478724606><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:21:58: Team "TERRORIST" triggered "Hostages_Not_Rescued" (CT "0") (T "0")
+L 01/12/2020 - 18:21:58: World triggered "Round_End"
+L 01/12/2020 - 18:22:04: World triggered "Round_Start"
+L 01/12/2020 - 18:22:16: "Bulgaria<76><STEAM_2:1:1478724606><CT>" committed suicide with "worldspawn" (world)
+L 01/12/2020 - 18:22:16: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/12/2020 - 18:22:16: World triggered "Round_End"
+L 01/12/2020 - 18:22:22: World triggered "Round_Start"
+L 01/12/2020 - 18:23:03: [REUNION]: fun da king (85.130.9.158) authorized as RevEmu
+L 01/12/2020 - 18:23:03: "fun da king<77><STEAM_1:0:1655898477><>" connected, address "85.130.9.158:27005"
+L 01/12/2020 - 18:23:17: "Bulgaria<76><STEAM_2:1:1478724606><CT>" committed suicide with "tracktrain"
+L 01/12/2020 - 18:23:17: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/12/2020 - 18:23:17: World triggered "Round_End"
+L 01/12/2020 - 18:23:22: "fun da king<77><STEAM_1:0:1655898477><>" entered the game
+L 01/12/2020 - 18:23:23: World triggered "Round_Start"
+L 01/12/2020 - 18:23:23: "Bulgaria<76><STEAM_2:1:1478724606><CT>" disconnected
+L 01/12/2020 - 18:23:23: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/12/2020 - 18:23:23: World triggered "Round_End"
+L 01/12/2020 - 18:23:29: World triggered "Round_Start"
+L 01/12/2020 - 18:23:38: "fun da king<77><STEAM_1:0:1655898477><>" joined team "CT"
+L 01/12/2020 - 18:24:28: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:24:28: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:24:31: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:24:31: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:24:36: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:24:36: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:24:42: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:24:42: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:24:42: Team "CT" triggered "All_Hostages_Rescued" (CT "0") (T "0")
+L 01/12/2020 - 18:24:42: World triggered "Round_End"
+L 01/12/2020 - 18:24:48: World triggered "Round_Start"
+L 01/12/2020 - 18:25:43: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:25:43: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:25:45: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:25:45: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:25:47: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:25:47: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:25:49: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:25:49: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:25:49: Team "CT" triggered "All_Hostages_Rescued" (CT "0") (T "0")
+L 01/12/2020 - 18:25:49: World triggered "Round_End"
+L 01/12/2020 - 18:25:55: World triggered "Round_Start"
+L 01/12/2020 - 18:26:44: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:26:44: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:26:51: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:26:52: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:26:53: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:26:54: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:26:55: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:26:56: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:26:56: Team "CT" triggered "All_Hostages_Rescued" (CT "0") (T "0")
+L 01/12/2020 - 18:26:56: World triggered "Round_End"
+L 01/12/2020 - 18:27:02: World triggered "Round_Start"
+L 01/12/2020 - 18:27:58: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:27:58: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:28:01: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:28:01: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:28:03: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:28:04: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:28:05: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:28:06: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:28:06: Team "CT" triggered "All_Hostages_Rescued" (CT "0") (T "0")
+L 01/12/2020 - 18:28:06: World triggered "Round_End"
+L 01/12/2020 - 18:28:12: World triggered "Round_Start"
+L 01/12/2020 - 18:29:06: [REUNION]: JoHn_SpLeNdOuR_^ (83.222.176.81) authorized as RevEmu
+L 01/12/2020 - 18:29:06: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><>" connected, address "83.222.176.81:26265"
+L 01/12/2020 - 18:29:12: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:29:12: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:29:12: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><>" entered the game
+L 01/12/2020 - 18:29:14: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:29:15: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:29:16: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><>" joined team "TERRORIST"
+L 01/12/2020 - 18:29:16: World triggered "Game_Commencing"
+L 01/12/2020 - 18:29:16: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/12/2020 - 18:29:16: World triggered "Round_End"
+L 01/12/2020 - 18:29:16: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:29:17: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:29:20: World triggered "Round_Start"
+L 01/12/2020 - 18:29:55: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "glock18"
+L 01/12/2020 - 18:29:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 01/12/2020 - 18:29:55: World triggered "Round_End"
+L 01/12/2020 - 18:30:01: World triggered "Round_Start"
+L 01/12/2020 - 18:30:47: "fun da king<77><STEAM_1:0:1655898477><CT>" killed "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" with "famas"
+L 01/12/2020 - 18:30:47: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 01/12/2020 - 18:30:47: World triggered "Round_End"
+L 01/12/2020 - 18:30:53: World triggered "Round_Start"
+L 01/12/2020 - 18:31:30: "fun da king<77><STEAM_1:0:1655898477><CT>" killed "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" with "famas"
+L 01/12/2020 - 18:31:30: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 01/12/2020 - 18:31:30: World triggered "Round_End"
+L 01/12/2020 - 18:31:36: World triggered "Round_Start"
+L 01/12/2020 - 18:32:15: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "ak47"
+L 01/12/2020 - 18:32:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 01/12/2020 - 18:32:15: World triggered "Round_End"
+L 01/12/2020 - 18:32:21: World triggered "Round_Start"
+L 01/12/2020 - 18:33:02: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "ak47"
+L 01/12/2020 - 18:33:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 01/12/2020 - 18:33:02: World triggered "Round_End"
+L 01/12/2020 - 18:33:08: World triggered "Round_Start"
+L 01/12/2020 - 18:34:18: "fun da king<77><STEAM_1:0:1655898477><CT>" killed "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" with "m4a1"
+L 01/12/2020 - 18:34:18: Team "CT" triggered "CTs_Win" (CT "3") (T "3")
+L 01/12/2020 - 18:34:18: World triggered "Round_End"
+L 01/12/2020 - 18:34:24: World triggered "Round_Start"
+L 01/12/2020 - 18:34:59: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "ak47"
+L 01/12/2020 - 18:34:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 01/12/2020 - 18:34:59: World triggered "Round_End"
+L 01/12/2020 - 18:35:05: World triggered "Round_Start"
+L 01/12/2020 - 18:35:31: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "m4a1"
+L 01/12/2020 - 18:35:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 01/12/2020 - 18:35:31: World triggered "Round_End"
+L 01/12/2020 - 18:35:37: World triggered "Round_Start"
+L 01/12/2020 - 18:36:21: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "m4a1"
+L 01/12/2020 - 18:36:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 01/12/2020 - 18:36:21: World triggered "Round_End"
+L 01/12/2020 - 18:36:27: World triggered "Round_Start"
+L 01/12/2020 - 18:36:36: [REUNION]: GAME OVER 6 (31.25.27.212) authorized as RevEmu
+L 01/12/2020 - 18:36:36: "GAME OVER 6<79><STEAM_1:1:636467087><>" connected, address "31.25.27.212:27005"
+L 01/12/2020 - 18:36:49: [REUNION]: GAME OVER 6 (31.25.27.212) authorized as RevEmu
+L 01/12/2020 - 18:36:49: "GAME OVER 6<80><STEAM_1:1:636467087><>" connected, address "31.25.27.212:27005"
+L 01/12/2020 - 18:36:57: "GAME OVER 6<80><STEAM_1:1:636467087><>" entered the game
+L 01/12/2020 - 18:37:01: "GAME OVER 6<80><STEAM_1:1:636467087><>" joined team "CT"
+L 01/12/2020 - 18:37:24: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:37:24: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:37:27: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:37:27: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:37:32: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:37:32: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:37:35: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:37:35: "fun da king<77><STEAM_1:0:1655898477><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:37:35: Team "CT" triggered "All_Hostages_Rescued" (CT "4") (T "6")
+L 01/12/2020 - 18:37:35: World triggered "Round_End"
+L 01/12/2020 - 18:37:41: World triggered "Round_Start"
+L 01/12/2020 - 18:37:51: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" committed suicide with "tracktrain"
+L 01/12/2020 - 18:37:51: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 01/12/2020 - 18:37:51: World triggered "Round_End"
+L 01/12/2020 - 18:37:57: World triggered "Round_Start"
+L 01/12/2020 - 18:38:27: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "fun da king<77><STEAM_1:0:1655898477><CT>" with "ak47"
+L 01/12/2020 - 18:38:47: "fun da king<77><STEAM_1:0:1655898477><CT>" disconnected
+L 01/12/2020 - 18:38:51: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "GAME OVER 6<80><STEAM_1:1:636467087><CT>" with "ak47"
+L 01/12/2020 - 18:38:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 01/12/2020 - 18:38:51: World triggered "Round_End"
+L 01/12/2020 - 18:38:57: World triggered "Round_Start"
+L 01/12/2020 - 18:39:29: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 01/12/2020 - 18:39:29: "HuNt3r<81><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 01/12/2020 - 18:39:41: [REUNION]: HuNt3r (188.255.184.74) authorized as RevEmu
+L 01/12/2020 - 18:39:41: "HuNt3r<82><STEAM_1:1:1071071391><>" connected, address "188.255.184.74:27005"
+L 01/12/2020 - 18:39:50: "HuNt3r<82><STEAM_1:1:1071071391><>" entered the game
+L 01/12/2020 - 18:40:00: "HuNt3r<82><STEAM_1:1:1071071391><>" joined team "CT"
+L 01/12/2020 - 18:40:05: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" killed "GAME OVER 6<80><STEAM_1:1:636467087><CT>" with "ak47"
+L 01/12/2020 - 18:40:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 01/12/2020 - 18:40:05: World triggered "Round_End"
+L 01/12/2020 - 18:40:11: World triggered "Round_Start"
+L 01/12/2020 - 18:40:49: "ok<83><STEAM_0:0:19903402><>" connected, address "78.157.91.203:27005"
+L 01/12/2020 - 18:40:49: "ok<83><STEAM_0:0:19903402><>" STEAM USERID validated
+L 01/12/2020 - 18:41:03: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" committed suicide with "world"
+L 01/12/2020 - 18:41:03: Team "CT" triggered "CTs_Win" (CT "6") (T "8")
+L 01/12/2020 - 18:41:03: World triggered "Round_End"
+L 01/12/2020 - 18:41:09: World triggered "Round_Start"
+L 01/12/2020 - 18:41:10: "HuNt3r<82><STEAM_1:1:1071071391><CT>" committed suicide with "world"
+L 01/12/2020 - 18:41:10: "HuNt3r<82><STEAM_1:1:1071071391><CT>" joined team "TERRORIST"
+L 01/12/2020 - 18:41:10: "ok<83><STEAM_0:0:19903402><>" entered the game
+L 01/12/2020 - 18:41:17: "ok<83><STEAM_0:0:19903402><>" joined team "CT"
+L 01/12/2020 - 18:41:20: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" committed suicide with "world"
+L 01/12/2020 - 18:41:20: Team "CT" triggered "CTs_Win" (CT "7") (T "8")
+L 01/12/2020 - 18:41:20: World triggered "Round_End"
+L 01/12/2020 - 18:41:20: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><TERRORIST>" joined team "SPECTATOR"
+L 01/12/2020 - 18:41:26: World triggered "Round_Start"
+L 01/12/2020 - 18:41:52: "ok<83><STEAM_0:0:19903402><CT>" committed suicide with "tracktrain"
+L 01/12/2020 - 18:41:58: "GAME OVER 6<80><STEAM_1:1:636467087><CT>" committed suicide with "tracktrain"
+L 01/12/2020 - 18:41:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "9")
+L 01/12/2020 - 18:41:58: World triggered "Round_End"
+L 01/12/2020 - 18:42:04: World triggered "Round_Start"
+L 01/12/2020 - 18:42:25: "Madara<84><STEAM_0:0:202906480><>" connected, address "151.252.192.78:27005"
+L 01/12/2020 - 18:42:25: "Madara<84><STEAM_0:0:202906480><>" STEAM USERID validated
+L 01/12/2020 - 18:42:29: "Madara<85><STEAM_0:0:202906480><>" connected, address "151.252.192.78:27005"
+L 01/12/2020 - 18:42:30: "Madara<85><STEAM_0:0:202906480><>" STEAM USERID validated
+L 01/12/2020 - 18:42:32: "JoHn_SpLeNdOuR_^<78><STEAM_2:1:233969738><SPECTATOR>" disconnected
+L 01/12/2020 - 18:42:50: "HuNt3r<82><STEAM_1:1:1071071391><TERRORIST>" killed "GAME OVER 6<80><STEAM_1:1:636467087><CT>" with "ak47"
+L 01/12/2020 - 18:42:53: "Madara<85><STEAM_0:0:202906480><>" entered the game
+L 01/12/2020 - 18:42:59: "Madara<85><STEAM_0:0:202906480><>" joined team "TERRORIST"
+L 01/12/2020 - 18:43:04: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:43:04: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:43:06: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:43:06: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:43:07: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:43:07: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:43:09: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:43:09: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:43:09: Team "CT" triggered "All_Hostages_Rescued" (CT "8") (T "9")
+L 01/12/2020 - 18:43:09: World triggered "Round_End"
+L 01/12/2020 - 18:43:15: World triggered "Round_Start"
+L 01/12/2020 - 18:44:16: "ok<83><STEAM_0:0:19903402><CT>" killed "Madara<85><STEAM_0:0:202906480><TERRORIST>" with "m4a1"
+L 01/12/2020 - 18:44:23: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:44:23: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:44:26: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:44:26: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:44:27: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:44:27: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:44:29: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:44:29: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:44:29: Team "CT" triggered "All_Hostages_Rescued" (CT "9") (T "9")
+L 01/12/2020 - 18:44:29: World triggered "Round_End"
+L 01/12/2020 - 18:44:31: "Madara<85><STEAM_0:0:202906480><TERRORIST>" disconnected
+L 01/12/2020 - 18:44:32: "HuNt3r<82><STEAM_1:1:1071071391><TERRORIST>" killed "GAME OVER 6<80><STEAM_1:1:636467087><CT>" with "ak47"
+L 01/12/2020 - 18:44:35: World triggered "Round_Start"
+L 01/12/2020 - 18:45:53: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:45:53: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:45:55: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:45:55: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:45:59: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:45:59: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:46:01: "ok<83><STEAM_0:0:19903402><CT>" triggered "Touched_A_Hostage"
+L 01/12/2020 - 18:46:01: "ok<83><STEAM_0:0:19903402><CT>" triggered "Rescued_A_Hostage"
+L 01/12/2020 - 18:46:01: Team "CT" triggered "All_Hostages_Rescued" (CT "10") (T "9")
+L 01/12/2020 - 18:46:01: World triggered "Round_End"
+L 01/12/2020 - 18:46:07: World triggered "Round_Start"
+L 01/12/2020 - 18:46:46: "ok<83><STEAM_0:0:19903402><CT>" killed "HuNt3r<82><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 01/12/2020 - 18:46:46: Team "CT" triggered "CTs_Win" (CT "11") (T "9")
+L 01/12/2020 - 18:46:46: World triggered "Round_End"
+L 01/12/2020 - 18:46:52: World triggered "Round_Start"
+L 01/12/2020 - 18:47:19: [REUNION]: IP 94.25.239.219 banned for 10 minutes for query flooding (PPS: 331)
+L 01/12/2020 - 18:47:24: Server cvar "amx_nextmap" = "air_fight2"
+L 01/12/2020 - 18:47:31: "ok<83><STEAM_0:0:19903402><CT>" killed "HuNt3r<82><STEAM_1:1:1071071391><TERRORIST>" with "m4a1"
+L 01/12/2020 - 18:47:31: Team "CT" triggered "CTs_Win" (CT "12") (T "9")
+L 01/12/2020 - 18:47:31: World triggered "Round_End"
+L 01/12/2020 - 18:47:37: World triggered "Round_Start"
+L 01/12/2020 - 18:47:37: Server cvar "sv_maxspeed" = "0.000000"
+L 01/12/2020 - 18:47:37: Server cvar "mp_friendlyfire" = "1"
+L 01/12/2020 - 18:47:43: Server cvar "sv_maxspeed" = "900.000000"
+L 01/12/2020 - 18:47:43: Server cvar "mp_friendlyfire" = "0"
+L 01/12/2020 - 18:47:43: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: AMX Mod X
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: Reunion
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: ReAuthCheck
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: WHBlocker
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: ReSemiclip
+L 01/12/2020 - 18:47:43: [META] ini: Read plugin config for: Revoice
+L 01/12/2020 - 18:47:43: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/12/2020 - 18:47:43: [META] dll: Updating plugins...
+L 01/12/2020 - 18:47:43: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/12/2020 - 18:47:43: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/12/2020 - 18:47:43: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/12/2020 - 18:47:43: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/12/2020 - 18:47:43: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/12/2020 - 18:47:43: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/12/2020 - 18:47:43: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/12/2020 - 18:47:43: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/12/2020 - 18:47:43: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/12/2020 - 18:47:43: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/12/2020 - 18:47:43: "HuNt3r<82><STEAM_1:1:1071071391><TERRORIST>" disconnected
+L 01/12/2020 - 18:47:43: "ok<83><STEAM_0:0:19903402><CT>" disconnected
+L 01/12/2020 - 18:47:43: "GAME OVER 6<80><STEAM_1:1:636467087><CT>" disconnected
+L 01/12/2020 - 18:47:43: World triggered "Round_Draw" (CT "12") (T "9")
+L 01/12/2020 - 18:47:43: World triggered "Round_End"
+L 01/12/2020 - 18:47:43: Log file closed

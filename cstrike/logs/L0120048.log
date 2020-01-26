@@ -1,0 +1,311 @@
+L 01/20/2020 - 15:12:54: Log file started (file "logs/L0120048.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/20/2020 - 15:12:54: Loading map "big_city2"
+L 01/20/2020 - 15:12:54: Server cvars start
+L 01/20/2020 - 15:12:54: Server cvar "@BunnyHopper" = "3.x"
+L 01/20/2020 - 15:12:54: Server cvar "@CRXGoSpec" = "1.1"
+L 01/20/2020 - 15:12:54: Server cvar "@CRXRemoveImmunity" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "@D.I.C.E." = "1.1"
+L 01/20/2020 - 15:12:54: Server cvar "@MOTDCommands" = "1.2"
+L 01/20/2020 - 15:12:54: Server cvar "advanced_quake_sounds" = "5.0"
+L 01/20/2020 - 15:12:54: Server cvar "AdvancedMute" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "aesp_version" = "1.3"
+L 01/20/2020 - 15:12:54: Server cvar "allow_spectators" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "amx_client_languages" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "amx_language" = "en"
+L 01/20/2020 - 15:12:54: Server cvar "amx_nextmap" = "big_city2"
+L 01/20/2020 - 15:12:54: Server cvar "amx_ptb_version" = "1.8b3"
+L 01/20/2020 - 15:12:54: Server cvar "amx_timeleft" = "00:00"
+L 01/20/2020 - 15:12:54: Server cvar "amxmodx_version" = "1.8.2"
+L 01/20/2020 - 15:12:54: Server cvar "amxxbg_vip" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "asp_version" = "4.5.1"
+L 01/20/2020 - 15:12:54: Server cvar "atac_version" = "3.0.1"
+L 01/20/2020 - 15:12:54: Server cvar "badcamper_version" = "1.4 beta"
+L 01/20/2020 - 15:12:54: Server cvar "blockmaker" = "4.01"
+L 01/20/2020 - 15:12:54: Server cvar "c4 timer" = "1.1"
+L 01/20/2020 - 15:12:54: Server cvar "coop" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "CRXAdminGroups" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "CRXCommandRestrictions" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "CRXFastKnife" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "CRXGametracker" = "2.0"
+L 01/20/2020 - 15:12:54: Server cvar "CRXKnifeModels" = "2.5.7"
+L 01/20/2020 - 15:12:54: Server cvar "CRXTeamAdvantage" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "CustomShop" = "4.2"
+L 01/20/2020 - 15:12:54: Server cvar "deathmatch" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "decalfrequency" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "edgefriction" = "2"
+L 01/20/2020 - 15:12:54: Server cvar "ers_version" = "2.3c"
+L 01/20/2020 - 15:12:54: Server cvar "gagsystem_shoko" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "gal_mapcyclefile" = "mapcycle.txt"
+L 01/20/2020 - 15:12:54: Server cvar "gal_version" = "v5.9.1-926"
+L 01/20/2020 - 15:12:54: Server cvar "game_version" = "5.7.0.313-dev"
+L 01/20/2020 - 15:12:54: Server cvar "humans_join_team" = "any"
+L 01/20/2020 - 15:12:54: Server cvar "jtp10181" = "chute,gore"
+L 01/20/2020 - 15:12:54: Server cvar "lawliet" = "ny_RainingSnow"
+L 01/20/2020 - 15:12:54: Server cvar "LetitSnow" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "map_spawns" = "T(16) CT(16)"
+L 01/20/2020 - 15:12:54: Server cvar "max_queries_sec" = "3"
+L 01/20/2020 - 15:12:54: Server cvar "max_queries_sec_global" = "150"
+L 01/20/2020 - 15:12:54: Server cvar "max_queries_window" = "60"
+L 01/20/2020 - 15:12:54: Server cvar "mdbBans" = "4.8"
+L 01/20/2020 - 15:12:54: Server cvar "metamod_version" = "1.21p37"
+L 01/20/2020 - 15:12:54: Server cvar "mp_autokick" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_autokick_timeout" = "-1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_autoteambalance" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_buytime" = "0.25"
+L 01/20/2020 - 15:12:54: Server cvar "mp_c4timer" = "35"
+L 01/20/2020 - 15:12:54: Server cvar "mp_chattime" = "10.000000"
+L 01/20/2020 - 15:12:54: Server cvar "mp_consistency" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_fadetoblack" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_flashlight" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_footsteps" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_forcecamera" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_forcechasecam" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_forcerespawn" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_fraglimit" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_fragsleft" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_freeforall" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_freezetime" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_friendlyfire" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_hostage_hurtable" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_hostagepenalty" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_item_staytime" = "300"
+L 01/20/2020 - 15:12:54: Server cvar "mp_kickpercent" = "0.66"
+L 01/20/2020 - 15:12:54: Server cvar "mp_legacy_bombtarget_touch" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_limitteams" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_logdetail" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_logfile" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_logmessages" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_mapvoteratio" = "0.66"
+L 01/20/2020 - 15:12:54: Server cvar "mp_maxmoney" = "999999"
+L 01/20/2020 - 15:12:54: Server cvar "mp_maxrounds" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_mirrordamage" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_old_bomb_defused_sound" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_playerid" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_respawn_immunitytime" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_round_infinite" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_round_restart_delay" = "5"
+L 01/20/2020 - 15:12:54: Server cvar "mp_roundover" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_roundtime" = "2.3"
+L 01/20/2020 - 15:12:54: Server cvar "mp_show_radioicon" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_startmoney" = "850"
+L 01/20/2020 - 15:12:54: Server cvar "mp_timeleft" = "00:00"
+L 01/20/2020 - 15:12:54: Server cvar "mp_timelimit" = "20.000000"
+L 01/20/2020 - 15:12:54: Server cvar "mp_tkpunish" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "mp_windifference" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "mp_winlimit" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "NoWeaponsOnGround" = "1.0"
+L 01/20/2020 - 15:12:54: Server cvar "pausable" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "present_version" = "2.01"
+L 01/20/2020 - 15:12:54: Server cvar "RandomHP" = "2.2"
+L 01/20/2020 - 15:12:54: Server cvar "reauthcheck_version" = "0.1.6"
+L 01/20/2020 - 15:12:54: Server cvar "reconnect_features" = "0.3.1"
+L 01/20/2020 - 15:12:54: Server cvar "report_system_version" = "3.1"
+L 01/20/2020 - 15:12:54: Server cvar "resemiclip_version" = "2.3.9"
+L 01/20/2020 - 15:12:54: Server cvar "reu_version" = "0.1.0.130"
+L 01/20/2020 - 15:12:54: Server cvar "revoice_version" = "0.1.0.30"
+L 01/20/2020 - 15:12:54: Server cvar "RRWM" = "2.0"
+L 01/20/2020 - 15:12:54: Server cvar "sanksounds_version" = "1.8.6"
+L 01/20/2020 - 15:12:54: Server cvar "SimpleMenu" = "1.1"
+L 01/20/2020 - 15:12:54: Server cvar "SNAC_Version" = "1.1"
+L 01/20/2020 - 15:12:54: Server cvar "SpecList" = "1.2a"
+L 01/20/2020 - 15:12:54: Server cvar "sr_version" = "1.6"
+L 01/20/2020 - 15:12:54: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 01/20/2020 - 15:12:54: Server cvar "StyleC4Timer" = "2.1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_accelerate" = "5"
+L 01/20/2020 - 15:12:54: Server cvar "sv_aim" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_airaccelerate" = "100"
+L 01/20/2020 - 15:12:54: Server cvar "sv_allowupload" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_alltalk" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_bounce" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_cheats" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "sv_clienttrace" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/20/2020 - 15:12:54: Server cvar "sv_friction" = "4"
+L 01/20/2020 - 15:12:54: Server cvar "sv_gravity" = "800"
+L 01/20/2020 - 15:12:54: Server cvar "sv_logblocks" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "sv_maxrate" = "50000"
+L 01/20/2020 - 15:12:54: Server cvar "sv_maxspeed" = "900.000000"
+L 01/20/2020 - 15:12:54: Server cvar "sv_minrate" = "10000"
+L 01/20/2020 - 15:12:54: Server cvar "sv_password" = ""
+L 01/20/2020 - 15:12:54: Server cvar "sv_proxies" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_restart" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "sv_restartround" = "0"
+L 01/20/2020 - 15:12:54: Server cvar "sv_stepsize" = "18"
+L 01/20/2020 - 15:12:54: Server cvar "sv_stopspeed" = "75"
+L 01/20/2020 - 15:12:54: Server cvar "sv_uploadmax" = "0.5"
+L 01/20/2020 - 15:12:54: Server cvar "sv_version" = "1.1.2.7/Stdio,48,1621"
+L 01/20/2020 - 15:12:54: Server cvar "sv_voiceenable" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "sv_wateraccelerate" = "10"
+L 01/20/2020 - 15:12:54: Server cvar "sv_waterfriction" = "1"
+L 01/20/2020 - 15:12:54: Server cvar "Team_Semiclip_version" = "3.3.1"
+L 01/20/2020 - 15:12:54: Server cvar "vehicle_real_killer" = "1.1"
+L 01/20/2020 - 15:12:54: Server cvar "WalkGuard" = "1.3.2"
+L 01/20/2020 - 15:12:54: Server cvar "we_grenades" = "Huehue"
+L 01/20/2020 - 15:12:54: Server cvar "we_player_models" = "Huehue"
+L 01/20/2020 - 15:12:54: Server cvar "whb_version" = "1.5.692"
+L 01/20/2020 - 15:12:54: Server cvar "zp_jp_version" = "Extra Item Jetpack+Bazooka v3.2"
+L 01/20/2020 - 15:12:54: Server cvars end
+L 01/20/2020 - 15:12:56: Server cvar "sv_maxspeed" = "900"
+L 01/20/2020 - 15:12:56: Server cvar "mp_autoteambalance" = "1"
+L 01/20/2020 - 15:12:56: Server cvar "mp_timelimit" = "20"
+L 01/20/2020 - 15:12:57: Server cvar "mp_autoteambalance" = "0"
+L 01/20/2020 - 15:12:57: Server cvar "amx_nextmap" = "[not yet voted on]"
+L 01/20/2020 - 15:12:58: Started map "big_city2" (CRC "602850574")
+L 01/20/2020 - 15:13:00: World triggered "Round_Start"
+L 01/20/2020 - 15:13:08: "<Warrior> Player<15><STEAM_1:0:599517282><>" entered the game
+L 01/20/2020 - 15:13:47: [REUNION]: Bonno (46.217.140.160) authorized as RevEmu
+L 01/20/2020 - 15:13:47: "Bonno<20><STEAM_1:1:794573339><>" connected, address "46.217.140.160:27005"
+L 01/20/2020 - 15:13:54: [REUNION]: Bonno (46.217.140.160) authorized as RevEmu
+L 01/20/2020 - 15:13:54: "Bonno<21><STEAM_1:1:794573339><>" connected, address "46.217.140.160:27005"
+L 01/20/2020 - 15:14:05: "<Warrior> Player<15><STEAM_1:0:599517282><>" joined team "SPECTATOR"
+L 01/20/2020 - 15:14:07: "Bonno<21><STEAM_1:1:794573339><>" entered the game
+L 01/20/2020 - 15:14:47: "Bonno<21><STEAM_1:1:794573339><>" joined team "CT"
+L 01/20/2020 - 15:15:18: Team "TERRORIST" triggered "Hostages_Not_Rescued" (CT "0") (T "0")
+L 01/20/2020 - 15:15:18: World triggered "Round_End"
+L 01/20/2020 - 15:15:24: World triggered "Round_Start"
+L 01/20/2020 - 15:15:59: [REUNION]: SABBY UwU (105.154.69.32) authorized as RevEmu
+L 01/20/2020 - 15:15:59: "SABBY UwU<22><STEAM_2:1:1500161593><>" connected, address "105.154.69.32:23069"
+L 01/20/2020 - 15:16:12: "SABBY UwU<22><STEAM_2:1:1500161593><>" entered the game
+L 01/20/2020 - 15:16:16: "SABBY UwU<22><STEAM_2:1:1500161593><>" joined team "CT"
+L 01/20/2020 - 15:16:21: "SABBY UwU<22><STEAM_2:1:1500161593><CT>" committed suicide with "world"
+L 01/20/2020 - 15:16:21: "SABBY UwU<22><STEAM_2:1:1500161593><CT>" joined team "TERRORIST"
+L 01/20/2020 - 15:16:21: World triggered "Game_Commencing"
+L 01/20/2020 - 15:16:21: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/20/2020 - 15:16:21: World triggered "Round_End"
+L 01/20/2020 - 15:16:25: World triggered "Round_Start"
+L 01/20/2020 - 15:17:33: "Bonno<21><STEAM_1:1:794573339><CT>" killed "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" with "sg552"
+L 01/20/2020 - 15:17:33: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/20/2020 - 15:17:33: World triggered "Round_End"
+L 01/20/2020 - 15:17:39: World triggered "Round_Start"
+L 01/20/2020 - 15:18:08: "Bonno<21><STEAM_1:1:794573339><CT>" killed "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" with "p228"
+L 01/20/2020 - 15:18:08: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/20/2020 - 15:18:08: World triggered "Round_End"
+L 01/20/2020 - 15:18:14: World triggered "Round_Start"
+L 01/20/2020 - 15:18:23: "Bonno<21><STEAM_1:1:794573339><CT>" committed suicide with "world"
+L 01/20/2020 - 15:18:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 01/20/2020 - 15:18:23: World triggered "Round_End"
+L 01/20/2020 - 15:18:29: World triggered "Round_Start"
+L 01/20/2020 - 15:19:07: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" killed "Bonno<21><STEAM_1:1:794573339><CT>" with "awp"
+L 01/20/2020 - 15:19:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 01/20/2020 - 15:19:07: World triggered "Round_End"
+L 01/20/2020 - 15:19:13: World triggered "Round_Start"
+L 01/20/2020 - 15:20:14: [REUNION]: youssefinourar (41.143.147.2) authorized as RevEmu
+L 01/20/2020 - 15:20:14: "youssefinourar<23><STEAM_2:1:1406980619><>" connected, address "41.143.147.2:21699"
+L 01/20/2020 - 15:21:16: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" killed "Bonno<21><STEAM_1:1:794573339><CT>" with "awp"
+L 01/20/2020 - 15:21:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 01/20/2020 - 15:21:16: World triggered "Round_End"
+L 01/20/2020 - 15:21:22: World triggered "Round_Start"
+L 01/20/2020 - 15:22:55: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" killed "Bonno<21><STEAM_1:1:794573339><CT>" with "awp"
+L 01/20/2020 - 15:22:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 01/20/2020 - 15:22:55: World triggered "Round_End"
+L 01/20/2020 - 15:23:01: World triggered "Round_Start"
+L 01/20/2020 - 15:23:41: [REUNION]: youssefinourar (41.143.147.2) authorized as RevEmu
+L 01/20/2020 - 15:23:41: "youssefinourar<24><STEAM_2:1:1406980619><>" connected, address "41.143.147.2:21834"
+L 01/20/2020 - 15:24:03: "youssefinourar<24><STEAM_2:1:1406980619><>" entered the game
+L 01/20/2020 - 15:24:07: "youssefinourar<24><STEAM_2:1:1406980619><>" joined team "CT"
+L 01/20/2020 - 15:25:19: "Bonno<21><STEAM_1:1:794573339><CT>" killed "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" with "sg550"
+L 01/20/2020 - 15:25:19: Team "CT" triggered "CTs_Win" (CT "3") (T "4")
+L 01/20/2020 - 15:25:19: World triggered "Round_End"
+L 01/20/2020 - 15:25:23: "Bonno<21><STEAM_1:1:794573339><CT>" joined team "TERRORIST"
+L 01/20/2020 - 15:25:23: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Bonno to TERRORIST")
+L 01/20/2020 - 15:25:25: World triggered "Round_Start"
+L 01/20/2020 - 15:26:00: "Bonno<21><STEAM_1:1:794573339><TERRORIST>" killed "youssefinourar<24><STEAM_2:1:1406980619><CT>" with "g3sg1"
+L 01/20/2020 - 15:26:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 01/20/2020 - 15:26:00: World triggered "Round_End"
+L 01/20/2020 - 15:26:04: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" joined team "CT"
+L 01/20/2020 - 15:26:04: "<><><>" triggered "amx_chat" (text "[PTB] Transfered SABBY UwU to CT")
+L 01/20/2020 - 15:26:06: World triggered "Round_Start"
+L 01/20/2020 - 15:26:31: "<Warrior> Player<15><STEAM_1:0:599517282><SPECTATOR>" joined team "TERRORIST"
+L 01/20/2020 - 15:26:59: "SABBY UwU<22><STEAM_2:1:1500161593><CT>" killed "Bonno<21><STEAM_1:1:794573339><TERRORIST>" with "sg552"
+L 01/20/2020 - 15:26:59: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 01/20/2020 - 15:26:59: World triggered "Round_End"
+L 01/20/2020 - 15:27:05: World triggered "Round_Start"
+L 01/20/2020 - 15:27:45: "SABBY UwU<22><STEAM_2:1:1500161593><CT>" killed "Bonno<21><STEAM_1:1:794573339><TERRORIST>" with "sg550"
+L 01/20/2020 - 15:28:19: "Bonno<21><STEAM_1:1:794573339><TERRORIST>" disconnected
+L 01/20/2020 - 15:28:22: "<Warrior> Player<15><STEAM_1:0:599517282><TERRORIST>" killed "SABBY UwU<22><STEAM_2:1:1500161593><CT>" with "awp"
+L 01/20/2020 - 15:28:57: "youssefinourar<24><STEAM_2:1:1406980619><CT>" triggered "Touched_A_Hostage"
+L 01/20/2020 - 15:29:01: [REUNION]: CEKC UHCTPYKTOP` (85.118.76.242) authorized as RevEmu
+L 01/20/2020 - 15:29:01: "CEKC UHCTPYKTOP`<25><STEAM_1:0:1540573555><>" connected, address "85.118.76.242:8379"
+L 01/20/2020 - 15:29:05: [REUNION]: CEKC UHCTPYKTOP` (85.118.76.242) authorized as RevEmu
+L 01/20/2020 - 15:29:05: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><>" connected, address "85.118.76.242:8379"
+L 01/20/2020 - 15:29:13: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><>" entered the game
+L 01/20/2020 - 15:29:18: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><>" joined team "TERRORIST"
+L 01/20/2020 - 15:29:23: Team "TERRORIST" triggered "Hostages_Not_Rescued" (CT "4") (T "6")
+L 01/20/2020 - 15:29:23: World triggered "Round_End"
+L 01/20/2020 - 15:29:29: World triggered "Round_Start"
+L 01/20/2020 - 15:30:10: "youssefinourar<24><STEAM_2:1:1406980619><CT>" killed "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><TERRORIST>" with "m4a1"
+L 01/20/2020 - 15:30:35: "youssefinourar<24><STEAM_2:1:1406980619><CT>" killed "<Warrior> Player<15><STEAM_1:0:599517282><TERRORIST>" with "m4a1"
+L 01/20/2020 - 15:30:35: Team "CT" triggered "CTs_Win" (CT "5") (T "6")
+L 01/20/2020 - 15:30:35: World triggered "Round_End"
+L 01/20/2020 - 15:30:40: "SABBY UwU<22><STEAM_2:1:1500161593><CT>" joined team "TERRORIST"
+L 01/20/2020 - 15:30:40: "<><><>" triggered "amx_chat" (text "[PTB] Transfered SABBY UwU to TERRORIST")
+L 01/20/2020 - 15:30:41: World triggered "Round_Start"
+L 01/20/2020 - 15:32:20: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><TERRORIST>" killed "youssefinourar<24><STEAM_2:1:1406980619><CT>" with "galil"
+L 01/20/2020 - 15:32:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "7")
+L 01/20/2020 - 15:32:20: World triggered "Round_End"
+L 01/20/2020 - 15:32:24: "<Warrior> Player<15><STEAM_1:0:599517282><TERRORIST>" joined team "CT"
+L 01/20/2020 - 15:32:24: "<><><>" triggered "amx_chat" (text "[PTB] Transfered <Warrior> Player to CT")
+L 01/20/2020 - 15:32:26: World triggered "Round_Start"
+L 01/20/2020 - 15:32:59: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" killed "<Warrior> Player<15><STEAM_1:0:599517282><CT>" with "scout"
+L 01/20/2020 - 15:33:14: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" killed "youssefinourar<24><STEAM_2:1:1406980619><CT>" with "scout"
+L 01/20/2020 - 15:33:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "8")
+L 01/20/2020 - 15:33:14: World triggered "Round_End"
+L 01/20/2020 - 15:33:18: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><TERRORIST>" joined team "CT"
+L 01/20/2020 - 15:33:18: "<><><>" triggered "amx_chat" (text "[PTB] Transfered CEKC UHCTPYKTOP` to CT")
+L 01/20/2020 - 15:33:20: World triggered "Round_Start"
+L 01/20/2020 - 15:33:27: [REUNION]: RENA (195.199.249.153) authorized as RevEmu
+L 01/20/2020 - 15:33:27: "RENA<27><STEAM_1:1:1067376667><>" connected, address "195.199.249.153:36923"
+L 01/20/2020 - 15:33:32: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><CT>" killed "<Warrior> Player<15><STEAM_1:0:599517282><CT>" with "tracktrain"
+L 01/20/2020 - 15:33:39: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><CT>" committed suicide with "world"
+L 01/20/2020 - 15:34:33: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><CT>" joined team "TERRORIST"
+L 01/20/2020 - 15:34:41: [REUNION]: killer boss (178.217.88.220) authorized as RevEmu
+L 01/20/2020 - 15:34:41: "killer boss<28><STEAM_1:0:280969512><>" connected, address "178.217.88.220:5027"
+L 01/20/2020 - 15:34:57: "killer boss<28><STEAM_1:0:280969512><>" entered the game
+L 01/20/2020 - 15:35:06: "killer boss<28><STEAM_1:0:280969512><>" joined team "CT"
+L 01/20/2020 - 15:35:38: Team "TERRORIST" triggered "Hostages_Not_Rescued" (CT "5") (T "9")
+L 01/20/2020 - 15:35:38: World triggered "Round_End"
+L 01/20/2020 - 15:35:44: World triggered "Round_Start"
+L 01/20/2020 - 15:35:57: Server cvar "mp_timelimit" = "0.000000"
+L 01/20/2020 - 15:36:15: "killer boss<28><STEAM_1:0:280969512><CT>" killed "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" with "m4a1"
+L 01/20/2020 - 15:36:34: Server cvar "amx_nextmap" = "Cb_Tanks"
+L 01/20/2020 - 15:36:43: "youssefinourar<24><STEAM_2:1:1406980619><CT>" triggered "Touched_A_Hostage"
+L 01/20/2020 - 15:36:56: "<Warrior> Player<15><STEAM_1:0:599517282><CT>" killed "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><TERRORIST>" with "m4a1"
+L 01/20/2020 - 15:36:56: Team "CT" triggered "CTs_Win" (CT "6") (T "9")
+L 01/20/2020 - 15:36:56: World triggered "Round_End"
+L 01/20/2020 - 15:37:00: "youssefinourar<24><STEAM_2:1:1406980619><CT>" triggered "Killed_A_Hostage"
+L 01/20/2020 - 15:37:01: "<Warrior> Player<15><STEAM_1:0:599517282><CT>" joined team "TERRORIST"
+L 01/20/2020 - 15:37:01: "<><><>" triggered "amx_chat" (text "[PTB] Transfered <Warrior> Player to TERRORIST")
+L 01/20/2020 - 15:37:02: World triggered "Round_Start"
+L 01/20/2020 - 15:37:02: Server cvar "sv_maxspeed" = "0.000000"
+L 01/20/2020 - 15:37:02: Server cvar "mp_friendlyfire" = "1"
+L 01/20/2020 - 15:37:13: Server cvar "sv_maxspeed" = "900.000000"
+L 01/20/2020 - 15:37:13: Server cvar "mp_friendlyfire" = "0"
+L 01/20/2020 - 15:37:13: Server cvar "mp_timelimit" = "20.000000"
+L 01/20/2020 - 15:37:14: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: AMX Mod X
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: Reunion
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: ReAuthCheck
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: WHBlocker
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: ReSemiclip
+L 01/20/2020 - 15:37:14: [META] ini: Read plugin config for: Revoice
+L 01/20/2020 - 15:37:14: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/20/2020 - 15:37:14: [META] dll: Updating plugins...
+L 01/20/2020 - 15:37:14: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/20/2020 - 15:37:14: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/20/2020 - 15:37:14: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/20/2020 - 15:37:14: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/20/2020 - 15:37:14: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/20/2020 - 15:37:14: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/20/2020 - 15:37:14: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/20/2020 - 15:37:14: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/20/2020 - 15:37:14: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/20/2020 - 15:37:14: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/20/2020 - 15:37:14: "CEKC UHCTPYKTOP`<26><STEAM_1:0:1540573555><TERRORIST>" disconnected
+L 01/20/2020 - 15:37:14: "<Warrior> Player<15><STEAM_1:0:599517282><TERRORIST>" disconnected
+L 01/20/2020 - 15:37:14: "SABBY UwU<22><STEAM_2:1:1500161593><TERRORIST>" disconnected
+L 01/20/2020 - 15:37:14: "youssefinourar<24><STEAM_2:1:1406980619><CT>" disconnected
+L 01/20/2020 - 15:37:14: "killer boss<28><STEAM_1:0:280969512><CT>" disconnected
+L 01/20/2020 - 15:37:14: World triggered "Round_Draw" (CT "6") (T "9")
+L 01/20/2020 - 15:37:14: World triggered "Round_End"
+L 01/20/2020 - 15:37:14: Log file closed

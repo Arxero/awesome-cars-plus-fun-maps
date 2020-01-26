@@ -1,0 +1,163 @@
+L 01/04/2020 - 21:06:59: Log file started (file "logs/L0104073.log") (game "cstrike") (version "48/1.1.2.7/Stdio/1621")
+L 01/04/2020 - 21:06:59: Server cvar "mp_buytime" = "1"
+L 01/04/2020 - 21:06:59: Server cvar "mp_c4timer" = "35"
+L 01/04/2020 - 21:06:59: Server cvar "mp_flashlight" = "1"
+L 01/04/2020 - 21:06:59: Server cvar "mp_freezetime" = "1"
+L 01/04/2020 - 21:06:59: Server cvar "mp_hostagepenalty" = "0"
+L 01/04/2020 - 21:06:59: Server cvar "mp_limitteams" = "1"
+L 01/04/2020 - 21:06:59: Server cvar "mp_roundtime" = "2.3"
+L 01/04/2020 - 21:06:59: Server cvar "mp_startmoney" = "850"
+L 01/04/2020 - 21:06:59: Server cvar "sv_contact" = "feruchio599@gmail.com"
+L 01/04/2020 - 21:06:59: Server cvar "sv_maxrate" = "50000"
+L 01/04/2020 - 21:06:59: Server cvar "sv_maxspeed" = "320"
+L 01/04/2020 - 21:06:59: Server cvar "sv_minrate" = "10000"
+L 01/04/2020 - 21:06:59: Server cvar "max_queries_sec_global" = "***PROTECTED***"
+L 01/04/2020 - 21:06:59: Server cvar "max_queries_sec" = "***PROTECTED***"
+L 01/04/2020 - 21:06:59: Server cvar "decalfrequency" = "0"
+L 01/04/2020 - 21:06:59: Server cvar "sv_airaccelerate" = "100"
+L 01/04/2020 - 21:06:59: Server cvar "sv_friction" = "3"
+L 01/04/2020 - 21:06:59: "jesse_pinkman<1><STEAM_0:1:526796648><>" connected, address "91.148.164.81:27005"
+L 01/04/2020 - 21:07:00: Server cvar "sv_friction" = "4"
+L 01/04/2020 - 21:07:00: "jesse_pinkman<1><STEAM_0:1:526796648><>" STEAM USERID validated
+L 01/04/2020 - 21:07:03: "jesse_pinkman<1><STEAM_0:1:526796648><>" entered the game
+L 01/04/2020 - 21:07:05: "jesse_pinkman<1><STEAM_0:1:526796648><>" joined team "CT"
+L 01/04/2020 - 21:07:05: Server cvar "mp_timelimit" = "10"
+L 01/04/2020 - 21:07:07: World triggered "Round_Start"
+L 01/04/2020 - 21:07:19: "Maverick<2><STEAM_0:0:37264973><>" connected, address "130.204.36.29:27005"
+L 01/04/2020 - 21:07:20: "Maverick<2><STEAM_0:0:37264973><>" STEAM USERID validated
+L 01/04/2020 - 21:07:22: "Maverick<2><STEAM_0:0:37264973><>" entered the game
+L 01/04/2020 - 21:07:24: "Maverick<2><STEAM_0:0:37264973><>" joined team "TERRORIST"
+L 01/04/2020 - 21:07:25: World triggered "Game_Commencing"
+L 01/04/2020 - 21:07:25: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/04/2020 - 21:07:25: World triggered "Round_End"
+L 01/04/2020 - 21:07:29: World triggered "Round_Start"
+L 01/04/2020 - 21:08:35: "Maverick<2><STEAM_0:0:37264973><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 21:08:35: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 01/04/2020 - 21:08:35: World triggered "Round_End"
+L 01/04/2020 - 21:08:41: World triggered "Round_Start"
+L 01/04/2020 - 21:09:12: [REUNION]: xXGhost_ReaperXx (212.25.57.169) authorized as RevEmu
+L 01/04/2020 - 21:09:12: "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><>" connected, address "212.25.57.169:27005"
+L 01/04/2020 - 21:09:15: "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><>" entered the game
+L 01/04/2020 - 21:09:20: "Expe<4><STEAM_0:1:357012><>" connected, address "85.163.27.254:27005"
+L 01/04/2020 - 21:09:24: "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><>" joined team "TERRORIST"
+L 01/04/2020 - 21:09:28: "Player<5><STEAM_0:0:54719118><>" connected, address "78.90.55.18:27005"
+L 01/04/2020 - 21:09:29: "Player<5><STEAM_0:0:54719118><>" STEAM USERID validated
+L 01/04/2020 - 21:09:29: [REUNION]: Mr.Knife (87.243.99.49) authorized as RevEmu
+L 01/04/2020 - 21:09:29: "Mr.Knife<6><STEAM_1:1:1973042010><>" connected, address "87.243.99.49:27005"
+L 01/04/2020 - 21:09:35: "Mr.Knife<6><STEAM_1:1:1973042010><>" entered the game
+L 01/04/2020 - 21:09:35: Kick: "Expe<4><STEAM_0:1:357012><>" was kicked by "Console" (message "Error! Idle Timeout (1).")
+L 01/04/2020 - 21:09:39: "Mr.Knife<6><STEAM_1:1:1973042010><>" joined team "CT"
+L 01/04/2020 - 21:09:54: "jesse_pinkman<1><STEAM_0:1:526796648><CT>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 21:09:54: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 01/04/2020 - 21:09:54: World triggered "Round_End"
+L 01/04/2020 - 21:10:00: World triggered "Round_Start"
+L 01/04/2020 - 21:10:29: [REUNION]: BAD BOY (178.169.239.222) authorized as RevEmu
+L 01/04/2020 - 21:10:29: "BAD BOY<7><STEAM_1:1:175462098><>" connected, address "178.169.239.222:27005"
+L 01/04/2020 - 21:10:35: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 21:10:40: "BAD BOY<7><STEAM_1:1:175462098><>" entered the game
+L 01/04/2020 - 21:10:59: "BAD BOY<7><STEAM_1:1:175462098><>" joined team "CT"
+L 01/04/2020 - 21:11:03: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "knife"
+L 01/04/2020 - 21:11:03: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 01/04/2020 - 21:11:03: World triggered "Round_End"
+L 01/04/2020 - 21:11:07: "jesse_pinkman<1><STEAM_0:1:526796648><CT>" joined team "TERRORIST"
+L 01/04/2020 - 21:11:07: "<><><>" triggered "amx_chat" (text "[PTB] Transfered jesse_pinkman to TERRORIST")
+L 01/04/2020 - 21:11:09: World triggered "Round_Start"
+L 01/04/2020 - 21:11:27: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 21:11:43: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" killed "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" with "knife"
+L 01/04/2020 - 21:11:58: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "knife"
+L 01/04/2020 - 21:11:58: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 01/04/2020 - 21:11:58: World triggered "Round_End"
+L 01/04/2020 - 21:12:04: World triggered "Round_Start"
+L 01/04/2020 - 21:12:38: [REUNION]: IP 193.42.110.171 banned for 10 minutes for query flooding (PPS: 331)
+L 01/04/2020 - 21:12:40: "Player<8><STEAM_0:0:54719118><>" connected, address "78.90.55.18:27005"
+L 01/04/2020 - 21:12:40: "Player<8><STEAM_0:0:54719118><>" STEAM USERID validated
+L 01/04/2020 - 21:12:44: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" killed "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" with "knife"
+L 01/04/2020 - 21:13:10: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "knife"
+L 01/04/2020 - 21:13:24: "Maverick<2><STEAM_0:0:37264973><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 21:13:24: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 01/04/2020 - 21:13:24: World triggered "Round_End"
+L 01/04/2020 - 21:13:29: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" joined team "TERRORIST"
+L 01/04/2020 - 21:13:29: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Mr.Knife to TERRORIST")
+L 01/04/2020 - 21:13:30: World triggered "Round_Start"
+L 01/04/2020 - 21:13:49: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "Mr.Knife<6><STEAM_1:1:1973042010><TERRORIST>" with "knife"
+L 01/04/2020 - 21:13:56: "Mr.Knife<6><STEAM_1:1:1973042010><TERRORIST>" joined team "CT"
+L 01/04/2020 - 21:14:08: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "knife"
+L 01/04/2020 - 21:14:13: "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "tracktrain"
+L 01/04/2020 - 21:14:20: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" with "knife"
+L 01/04/2020 - 21:14:20: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 01/04/2020 - 21:14:20: World triggered "Round_End"
+L 01/04/2020 - 21:14:25: "BAD BOY<7><STEAM_1:1:175462098><CT>" joined team "TERRORIST"
+L 01/04/2020 - 21:14:25: "<><><>" triggered "amx_chat" (text "[PTB] Transfered BAD BOY to TERRORIST")
+L 01/04/2020 - 21:14:26: World triggered "Round_Start"
+L 01/04/2020 - 21:14:49: "BAD BOY<7><STEAM_1:1:175462098><TERRORIST>" killed "Mr.Knife<6><STEAM_1:1:1973042010><CT>" with "knife"
+L 01/04/2020 - 21:14:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "1")
+L 01/04/2020 - 21:14:49: World triggered "Round_End"
+L 01/04/2020 - 21:14:53: "BAD BOY<7><STEAM_1:1:175462098><TERRORIST>" committed suicide with "world"
+L 01/04/2020 - 21:14:53: "BAD BOY<7><STEAM_1:1:175462098><TERRORIST>" joined team "CT"
+L 01/04/2020 - 21:14:55: World triggered "Round_Start"
+L 01/04/2020 - 21:15:05: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 21:15:20: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "knife"
+L 01/04/2020 - 21:15:32: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" with "knife"
+L 01/04/2020 - 21:15:32: Team "CT" triggered "CTs_Win" (CT "7") (T "1")
+L 01/04/2020 - 21:15:32: World triggered "Round_End"
+L 01/04/2020 - 21:15:38: World triggered "Round_Start"
+L 01/04/2020 - 21:15:48: Server cvar "amx_nextmap" = "cart_attack"
+L 01/04/2020 - 21:15:50: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 21:15:51: "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "tracktrain"
+L 01/04/2020 - 21:15:59: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" killed "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" with "knife"
+L 01/04/2020 - 21:15:59: Team "CT" triggered "CTs_Win" (CT "8") (T "1")
+L 01/04/2020 - 21:15:59: World triggered "Round_End"
+L 01/04/2020 - 21:16:03: "Mr.Knife<6><STEAM_1:1:1973042010><CT>" joined team "TERRORIST"
+L 01/04/2020 - 21:16:03: "<><><>" triggered "amx_chat" (text "[PTB] Transfered Mr.Knife to TERRORIST")
+L 01/04/2020 - 21:16:05: World triggered "Round_Start"
+L 01/04/2020 - 21:16:19: "Mr.Knife<6><STEAM_1:1:1973042010><TERRORIST>" killed "BAD BOY<7><STEAM_1:1:175462098><CT>" with "knife"
+L 01/04/2020 - 21:16:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "2")
+L 01/04/2020 - 21:16:19: World triggered "Round_End"
+L 01/04/2020 - 21:16:25: World triggered "Round_Start"
+L 01/04/2020 - 21:16:44: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" with "knife"
+L 01/04/2020 - 21:16:46: [REUNION]: 4_-_four_-_4 (94.156.7.20) authorized as RevEmu
+L 01/04/2020 - 21:16:46: "4_-_four_-_4<9><STEAM_2:1:494350868><>" connected, address "94.156.7.20:27005"
+L 01/04/2020 - 21:16:47: "BAD BOY<7><STEAM_1:1:175462098><CT>" killed "Maverick<2><STEAM_0:0:37264973><TERRORIST>" with "knife"
+L 01/04/2020 - 21:16:59: Server cvar "mp_timelimit" = "0.000000"
+L 01/04/2020 - 21:16:59: "4_-_four_-_4<9><STEAM_2:1:494350868><>" entered the game
+L 01/04/2020 - 21:17:02: "4_-_four_-_4<9><STEAM_2:1:494350868><>" joined team "CT"
+L 01/04/2020 - 21:17:03: "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" killed "BAD BOY<7><STEAM_1:1:175462098><CT>" with "knife"
+L 01/04/2020 - 21:17:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "3")
+L 01/04/2020 - 21:17:03: World triggered "Round_End"
+L 01/04/2020 - 21:17:09: World triggered "Round_Start"
+L 01/04/2020 - 21:17:09: Server cvar "sv_maxspeed" = "0.000000"
+L 01/04/2020 - 21:17:09: Server cvar "mp_friendlyfire" = "1"
+L 01/04/2020 - 21:17:13: "4_-_four_-_4<9><STEAM_2:1:494350868><CT>" killed "BAD BOY<7><STEAM_1:1:175462098><CT>" with "grenade"
+L 01/04/2020 - 21:17:19: "4_-_four_-_4<9><STEAM_2:1:494350868><CT>" committed suicide with "world"
+L 01/04/2020 - 21:17:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "4")
+L 01/04/2020 - 21:17:19: World triggered "Round_End"
+L 01/04/2020 - 21:17:20: Server cvar "sv_maxspeed" = "320.000000"
+L 01/04/2020 - 21:17:20: Server cvar "mp_friendlyfire" = "0"
+L 01/04/2020 - 21:17:20: Server cvar "mp_timelimit" = "10.000000"
+L 01/04/2020 - 21:17:21: [META] ini: Begin re-reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: SafeNameAndChat
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: AMX Mod X
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: Reunion
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: ReAuthCheck
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: WHBlocker
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: ReSemiclip
+L 01/04/2020 - 21:17:21: [META] ini: Read plugin config for: Revoice
+L 01/04/2020 - 21:17:21: [META] ini: Finished reading plugins list: /home/rented/public9/cstrike/addons/metamod/plugins.ini; Found 7 plugins
+L 01/04/2020 - 21:17:21: [META] dll: Updating plugins...
+L 01/04/2020 - 21:17:21: [META] WARNING: Cannot clear plugin 'SafeNameAndChat'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 21:17:21: [META] dll: Unloaded plugin 'SafeNameAndChat' for reason 'file on disk is newer'
+L 01/04/2020 - 21:17:21: [META] dll: Loaded plugin 'SafeNameAndChat': SafeNameAndChat v1.1 2017.02.01, WPMG.PRoSToC0der
+L 01/04/2020 - 21:17:21: [META] WARNING: Cannot clear plugin 'WHBlocker'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 21:17:21: [META] dll: Unloaded plugin 'WHBlocker' for reason 'file on disk is newer'
+L 01/04/2020 - 21:17:21: [META] dll: Loaded plugin 'WHBlocker': WHBlocker v1.5.692 2017-04-13, s1lent
+L 01/04/2020 - 21:17:21: [META] WARNING: Cannot clear plugin 'ReSemiclip'; not marked as failed, empty, or open (status=valid)
+L 01/04/2020 - 21:17:21: [META] dll: Unloaded plugin 'ReSemiclip' for reason 'file on disk is newer'
+L 01/04/2020 - 21:17:21: [META] dll: Loaded plugin 'ReSemiclip': ReSemiclip v2.3.9 13/02/17, s1lent & Adidasman
+L 01/04/2020 - 21:17:21: [META] dll: Finished updating 14 plugins; kept 0, loaded 0, unloaded 0, reloaded 3, delayed 0
+L 01/04/2020 - 21:17:21: "jesse_pinkman<1><STEAM_0:1:526796648><TERRORIST>" disconnected
+L 01/04/2020 - 21:17:21: "Maverick<2><STEAM_0:0:37264973><TERRORIST>" disconnected
+L 01/04/2020 - 21:17:21: "xXGhost_ReaperXx<3><STEAM_1:0:1874631957><TERRORIST>" disconnected
+L 01/04/2020 - 21:17:21: "BAD BOY<7><STEAM_1:1:175462098><CT>" disconnected
+L 01/04/2020 - 21:17:21: "Mr.Knife<6><STEAM_1:1:1973042010><TERRORIST>" disconnected
+L 01/04/2020 - 21:17:21: "4_-_four_-_4<9><STEAM_2:1:494350868><CT>" disconnected
+L 01/04/2020 - 21:17:21: Log file closed
