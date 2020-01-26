@@ -6,6 +6,7 @@ This is the Awesome Cars + Fun Maps as you see it today, I am sharing it with th
 Visit our links
 * [Forum](https://awesomecs.syntrwave.com/)
 * [Old Forum](https://www.tapatalk.com/groups/awesomecs/)
+* [Forum topic about this repo](https://awesomecs.syntrwave.com/viewtopic.php?f=2&t=1504)
 * [Timeline](https://awesomecars-timeline.netlify.com/)
 * [Wiki](https://awesomecars-wiki.netlify.com/)
 * [Discord](https://discord.gg/aVUVup9)
