@@ -75,6 +75,12 @@ supercrazytank
 tankfight2
 woohoo_cars
 
+!tank_wars!
+b2_autodrome
+de_bikinibottom
+ka_killbox
+fun_aquapark
+
 //cs_whiteXmas
 //de_christmas
 //xmas_crazytank
