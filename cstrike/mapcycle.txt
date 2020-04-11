@@ -77,7 +77,7 @@ woohoo_cars
 
 !tank_wars!
 b2_autodrome
-de_bikinibottom
+de_bikinibottom_v2
 ka_killbox
 fun_aquapark
 
