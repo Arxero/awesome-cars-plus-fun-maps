@@ -44,6 +44,7 @@ de_tesco
 de_westwood
 de_railroad
 de_survivor
+de_bikinibottom_v2
 fun_cars
 fun_gta
 fun_gulfofoman
@@ -75,11 +76,13 @@ supercrazytank
 tankfight2
 woohoo_cars
 
-!tank_wars!
-b2_autodrome
-de_bikinibottom_v2
-ka_killbox
-fun_aquapark
+
+fun_atraccions
+he_offroad
+happyvalley_2nd_lt
+fun_rollercoaster
+he_glass
+
 
 //cs_whiteXmas
 //de_christmas
