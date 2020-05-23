@@ -1,0 +1,43 @@
+[en]
+MENU_HEAD = Become a ghost?
+MENU_YES = Yes!
+MENU_NO = No!^n^n
+MENU_ALWAYS_YES = \r[Always yes!]
+GHOST_SUICIDE = Ghost can`t suicide!
+USER_ALIVE = Available only for dead players!
+USER_GHOST = You have become a ghost before!
+ROUND_END = Round is finished!
+GHOST_IN_SAY = (GHOST)
+
+[ru]
+MENU_HEAD = Стать призраком?
+MENU_YES = Да!
+MENU_NO = Нет!^n^n
+MENU_ALWAYS_YES = \r[Всегда да!]
+GHOST_SUICIDE = Призрак не может совершить суицид!
+USER_ALIVE = Доступно только мертвым игрокам!
+USER_GHOST = Вы стали призраком ранее!
+ROUND_END = Раунд окончен!
+GHOST_IN_SAY = (Призрак)
+
+[fr]
+MENU_HEAD = Voulez vous devenir un fantome?
+MENU_YES = Oui!
+MENU_NO = Non!^n^n
+MENU_ALWAYS_YES = \r[Toujours oui!]
+GHOST_SUICIDE = Le fantome ne peut pas se suicider!
+USER_ALIVE = Disponible uniquement pour les joueurs morts!
+USER_GHOST = Vous etes devenu un fantome auparavant!
+ROUND_END = La partie est termine!
+GHOST_IN_SAY = (Fantome)
+
+[pl]
+MENU_HEAD = Chcesz Zostac duchem ?
+MENU_YES = Tak!
+MENU_NO = Nie!^n^n
+MENU_ALWAYS_YES = \r[Zawsze tak!]
+GHOST_SUICIDE = Duch nie moze sie zabic!
+USER_ALIVE = Dostepne tylko dla martwych graczy!
+USER_GHOST = Stales sie duchem przed!
+ROUND_END = Runda zakonczona!
+GHOST_IN_SAY = (DUCH)
