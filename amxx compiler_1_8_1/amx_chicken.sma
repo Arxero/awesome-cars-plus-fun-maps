@@ -1159,6 +1159,7 @@ public round_start()
 			UsersTransform[j] = 0
 		}
 	g_FreezeTime = false
+	unchicken_user(0)
 }
 //----------------------------------------------------------------------------------------------
 /* ROUND END EVENT CODE */
