@@ -1,0 +1,57 @@
+commonSettings
+{
+	cvars
+	{
+		max_fps 60.00
+		r_powerof2textures 1.00
+		r_lighting_g 255.00
+		r_wireframecolor_b 0.00
+		r_wireframecolor_g 0.00
+		r_wireframecolor_r 255.00
+		r_lighting_b 255.00
+		r_lighting_r 255.00
+	}
+}
+gameConfigs
+{
+}
+hlmvSettings
+{
+	//No active config
+	recentFiles
+	{
+		recentFile C:\Users\Maverick\Downloads\knife_pk.mdl
+		recentFile C:\Users\Maverick\Desktop\models\player\gsg9\gsg9.mdl
+		recentFile "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike_downloads\models\player\overct\overct.mdl"
+		recentFile "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike\models\player\leet\leet.mdl"
+	}
+	useTimerForFrame false
+	invertHorizontalDraggingDirection false
+	invertVerticalDraggingDirection false
+	groundColor "216 216 175"
+	backgroundColor "63 127 127"
+	crosshairColor "255 0 0"
+	floorLength 100.000000
+	studiomdl ""
+	mdldec ""
+	StudioMdlConfigs
+	{
+	}
+	MdlDecConfigs
+	{
+	}
+	defaultOutputFileDir ""
+	window
+	{
+		maximized true
+		x -8
+		y -8
+		width 1936
+		height 1056
+	}
+	controlPanelState
+	{
+		cameraName "Free View"
+		controlPanelName "Model Display"
+	}
+}
