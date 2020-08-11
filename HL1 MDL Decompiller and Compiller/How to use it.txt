@@ -1,0 +1,54 @@
+VIDEO -> https://www.youtube.com/watch?v=EuhCSDx_EDg
+BG Version of tutorial -> https://www.amxx-bg.info/viewtopic.php?t=149
+You've probably noticed that some player models are made up of two parts.
+
+1) model name.mdl
+2) the model nameT.mdl
+
+They should be together in one folder.
+
+If, for example, there is a zombie class on the server, the model of which consists of 2 parts, but only the model without the T model is placed, then when someone enters the server it will be discarded due to the lack of the T model.
+
+How to remove T.mdl?
+
+
+1. Place the model and T model in the HL1 MDL Compiler & Decompiler folder
+2. Decompile the model without T using mdldec12
+3. Remove *.mdl and *T.mdl from the folder
+4. Find the file with the extension *.qc
+5. Open it with any text editor, and delete $ externaltextures
+6. Save the *.qc file after editing
+7. Paste the *.qc file into compiler.bat, then press Enter
+8. It remains to wait a bit, and the model without *T.mdl appears in the folder
+
+If *T.mdl cannot be removed on some models
+Then this plugin can be used:
+/////////////////////
+#include <amxmodx>
+ 
+#define PLUGIN "Tmodel"
+#define VERSION "1.0"
+#define AUTHOR "modelT"
+ 
+public plugin_init () {
+register_plugin (PLUGIN, VERSION, AUTHOR)
+}
+
+public plugin_precache ()
+{
+precache_model ("models / player / model / modelT.mdl")
+precache_model ("models / player / model2 / model2T.mdl")
+precache_model ("models / player / model3 / model3T.mdl")
+precache_model ("models / player / model4 / model4T.mdl")
+}
+
+/////////////////////
+instead
+
+precache_model ("models / player / model / modelT.mdl")
+precache_model ("models / player / model2 / model2T.mdl")
+precache_model ("models / player / model3 / model3T.mdl")
+precache_model ("models / player / model4 / model4T.mdl")
+
+
+We write the path to our models.
