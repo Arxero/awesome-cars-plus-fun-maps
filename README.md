@@ -4,9 +4,9 @@
 This is the Awesome Cars + Fun Maps as you see it today, I am sharing it with the world cause I do realize that one day it will not exist anymore and it would be a shame if all that effort spend in making it to be lost forever.
 
 Visit our links
-* [Forum](https://awesomecs.syntrwave.com/)
+* [Forum](http://awesomecs.epizy.com/)
 * [Old Forum](https://www.tapatalk.com/groups/awesomecs/)
-* [Forum topic about this repo](https://awesomecs.syntrwave.com/viewtopic.php?f=2&t=1504)
+* [Forum topic about this repo](http://awesomecs.epizy.com/viewtopic.php?f=2&t=1504)
 * [Timeline](https://awesomecars-timeline.netlify.com/)
 * [Wiki](https://awesomecars-wiki.netlify.com/)
 * [Discord](https://discord.gg/aVUVup9)
