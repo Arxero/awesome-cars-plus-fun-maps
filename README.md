@@ -64,7 +64,33 @@ Edit [roundsound.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/
 ### Knife Models
 Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/KnifeModels.ini) just uncomment xmas knifes and comment the normal ones.
 
+
+## Switch to Halloween Theme
+Enable these two plugins
+
+    TreeSpawner.amxx
+    present_halloween.amxx
+
+Also uncomment those maps from `mapcycle.txt`
+
+    blahhhh
+    cs_evilcrazy
+    cs_horror2
+    de_halloween_night
+
+About **Sounds** and **Knife** models you can pretty much follow what it say in the Christmas update.
+Additionally you would need to edit the [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the halloween changes, just like in for sounds and knife config files.
+
+For better spooky atmosphere you can use these commands in the console
+
+    amx_fog 1 "0 0 0" 1 - Would make a black fog which you can hardly see.
+    amx_fog 1 0 0 - Would use the default values for the fog.
+    amx_fog 0 0 0 - Would turn the fog off.
+    amx_fog 1 "116 137 147" 9 - Would make a realistic gray fog and it would be really hard to see anything.
+    amx_fog 1 "0 0 200" 3 - Would make a cool blue fog.
+
 ## Make Admins and VIPs
 Edit [users.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/users.ini), there are already added so you should be just fine following what is written in it.
+
 
 After that edit [ap_prefixes.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/ap_prefixes.ini) to add them the right prefix.
