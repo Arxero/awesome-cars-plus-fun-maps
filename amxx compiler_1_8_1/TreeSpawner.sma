@@ -2,7 +2,7 @@
 #include < amxmisc >
 #include < engine >
 
-new const MODEL[ ] = "models/christmas_tree1.mdl";
+new const MODEL[ ] = "models/bright_pumpkin.mdl";
 
 new g_szConfigFile[ 128 ];
 
