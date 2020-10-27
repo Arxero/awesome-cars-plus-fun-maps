@@ -77,6 +77,7 @@ Also uncomment those maps from `mapcycle.txt`
     cs_evilcrazy
     cs_horror2
     de_halloween_night
+    cs_rhs22
 
 About **Sounds** and **Knife** models you can pretty much follow what it say in the Christmas update.
 Additionally you would need to edit the [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the halloween changes, just like in for sounds and knife config files.
