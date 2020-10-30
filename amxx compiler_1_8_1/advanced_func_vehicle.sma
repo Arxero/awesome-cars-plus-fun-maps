@@ -217,12 +217,12 @@ public forward_cmdstart(id, uc_handle) {
 				get_global_vector(GL_v_right, v_right);
 				entity_get_vector(userVehicle[id], EV_VEC_velocity, vector);
 				if (vector[2] == 0.0) {
-					new Float:force = floatdiv(vector_length(vector), 4.0);
+					new Float:force = floatdiv(vector_length(vector), 0.4);
 					vector[0] = v_right[0] * force;
 					vector[1] = v_right[1] * force;
 					set_pev(userVehicle[id], pev_basevelocity, vector);
 				}
-				return PLUGIN_HANDLED;
+				return PLUGIN_CONTINUE;
 			}
 			if ((Button & IN_MOVERIGHT) && (OldButtons & IN_MOVERIGHT)) {
 				new Float:vector[3];
@@ -232,12 +232,12 @@ public forward_cmdstart(id, uc_handle) {
 				get_global_vector(GL_v_right,v_right);
 				entity_get_vector(userVehicle[id], EV_VEC_velocity, vector);
 				if (vector[2] == 0.0) {
-					new Float:force = floatdiv(vector_length(vector),4.0) * -1.0;
+					new Float:force = floatdiv(vector_length(vector), 0.4) * -1.0;
 					vector[0] = v_right[0] * force;
 					vector[1] = v_right[1] * force;
 					set_pev(userVehicle[id], pev_basevelocity, vector);
 				}
-				return PLUGIN_HANDLED;
+				return PLUGIN_CONTINUE;
 			}
 		}
 
@@ -268,27 +268,27 @@ public forward_cmdstart(id, uc_handle) {
 				}
 			}
 			else if(strcmp(vWeapon, "HORN") == 0) {
-				if (get_gametime() > LastShootTime[vIndex] + 3.0) {
+				if (get_gametime() > LastShootTime[vIndex] + 2.0) {
 					emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/car_horn.wav", 1.0, ATTN_NORM, 0, PITCH_NORM);
 					fired_weapon = true;
 				}
 			}
 			else if(strcmp(vWeapon,"TRUCK_HORN") == 0) {
-				if (get_gametime() > LastShootTime[vIndex] + 10.0) {
+				if (get_gametime() > LastShootTime[vIndex] + 3.0) {
 					emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/truck_horn.wav", 1.0, ATTN_NORM, 0, PITCH_NORM);
 					fired_weapon = true;
 				}
 			}
 			else if(strcmp(vWeapon,"SHIP_HORN") == 0) {
-				if (get_gametime() > LastShootTime[vIndex] + 15.0) {
+				if (get_gametime() > LastShootTime[vIndex] + 5.0) {
 					emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/ship_horn.wav", 1.0, ATTN_NORM, 0, PITCH_NORM);
 					fired_weapon = true;
 				}
 			}
 			else if (strcmp(vWeapon, "NOS") == 0) {
-				if (get_gametime() > LastShootTime[vIndex] + 10.0) {
+				if (get_gametime() > LastShootTime[vIndex] + 5.0) {
 					new Float:speed = vehicleDefaultSpeeds[vIndex];
-					speed = floatadd(speed, floatmul(floatdiv(vehicleDefaultSpeeds[vIndex],100.0), 40.0));
+					speed = floatadd(speed, floatmul(floatdiv(vehicleDefaultSpeeds[vIndex],100.0), 1000.0));
 					set_pdata_float(userVehicle[id], m_iSpeed, speed, 4);
 
 					new args[1];
@@ -322,8 +322,6 @@ public forward_cmdstart(id, uc_handle) {
 				}
 			} else if (strcmp(vWeapon,"AUTO_CANNON") == 0) {
 				if (get_gametime() > LastShootTime[vIndex] + 0.8) {
-					//client_print(id, print_chat, "[AFV] Firing %s", vWeapon);
-					//fire_auto_cannon(id, vIndex);
 					fireShot(id, vIndex, "afv_auto_cannon");
 					fired_weapon = true
 				}
@@ -347,7 +345,7 @@ public forward_cmdstart(id, uc_handle) {
 
 			new Float:vVehicleVelocity[3];
 			entity_get_vector( userVehicle[id], EV_VEC_velocity, vVehicleVelocity);
-			vVehicleVelocity[2] = 100.0;
+			vVehicleVelocity[2] = 2000.0;
 			entity_set_vector(userVehicle[id], EV_VEC_velocity, vVehicleVelocity);
 
 			// new height logic
@@ -369,16 +367,13 @@ public forward_cmdstart(id, uc_handle) {
 				//server_print("set height down for %d %f", userVehicle[id], floatsub(default_vehicle_height, origin_difference));
 			}
 
-			Button &= ~IN_ATTACK;
-			set_uc(uc_handle, UC_Buttons, Button);
-
-			return PLUGIN_HANDLED;
+			return PLUGIN_CONTINUE;
 		}
 		else if ((Button & IN_DUCK) && (OldButtons & IN_DUCK)) {
 
 			new Float:vVehicleVelocity[3];
 			entity_get_vector( userVehicle[id], EV_VEC_velocity, vVehicleVelocity);
-			vVehicleVelocity[2] = -100.0;
+			vVehicleVelocity[2] = -2000.0;
 			entity_set_vector(userVehicle[id], EV_VEC_velocity, vVehicleVelocity);
 
 			// new height logic
@@ -400,10 +395,7 @@ public forward_cmdstart(id, uc_handle) {
 				//server_print("set height down for %d %f", userVehicle[id], floatsub(default_vehicle_height,origin_difference));
 			}
 
-			Button &= ~IN_DUCK;
-			set_uc(uc_handle, UC_Buttons, Button);
-
-			return PLUGIN_HANDLED;
+			return PLUGIN_CONTINUE;
 		}
 		else {
 			new Float:vVehicleVelocity[3];
@@ -442,8 +434,8 @@ public forward_playerprethink(id) {
 }
 
 public checkDelay(id, vIndex) {
-	if (get_gametime() < LastShootTime[vIndex] + 10.0) {
-  		client_print(id,print_chat, "[AFV] Try again in %d seconds.",floatround( LastShootTime[vIndex] + 10.0 - get_gametime()+ 1));
+	if (get_gametime() < LastShootTime[vIndex] + 5.0) {
+  		client_print(id,print_chat, "[AFV] Try again in %d seconds.",floatround( LastShootTime[vIndex] + 5.0 - get_gametime()+ 1));
 		return false;
 	} else {
 		return true;
