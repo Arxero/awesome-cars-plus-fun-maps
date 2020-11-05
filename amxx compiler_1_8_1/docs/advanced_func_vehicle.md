@@ -11,11 +11,11 @@ A short description of how to configure the plugin
 * Increase boost `speed` of the cars
 
 
-      speed = 40.0 -> 400.0
+      speed = 40.0 -> 1000.0
 
 * Vertical speed of the choppers. Change up speed - `100` or down seed `-100`.
 
-      vVehicleVelocity[2] = 100 -> 1000
+      vVehicleVelocity[2] = 100 -> 2000
 
 * Drifting
 
