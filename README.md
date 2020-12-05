@@ -45,6 +45,8 @@ also comment
 
     models_menu.amxx
     cso_emotion_v23.amxx
+    TreeSpawner.amxx
+    present_halloween.amxx
 
 ### Maps
 Edit [mapcycle.txt](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/mapcycle.txt) Just uncomment xmas maps in the bottom.
@@ -64,9 +66,12 @@ Edit [roundsound.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/
 ### Knife Models
 Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/KnifeModels.ini) just uncomment xmas knifes and comment the normal ones.
 
+### Weapon Models and Player skins
+
+Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) christmas changes, just like in for sounds and knife config files.
 
 ## Switch to Halloween Theme
-Enable these two plugins
+Enable these two plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)
 
     TreeSpawner.amxx
     present_halloween.amxx
@@ -79,8 +84,21 @@ Also uncomment those maps from `mapcycle.txt`
     de_halloween_night
     cs_rhs22
 
-About **Sounds** and **Knife** models you can pretty much follow what it say in the Christmas update.
-Additionally you would need to edit the [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the halloween changes, just like in for sounds and knife config files.
+Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini).
+
+
+
+### Sounds
+Edit [roundsound.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/roundsound.ini) just uncomment halloween sounds and comment the normal ones.
+
+### Knife Models
+Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/KnifeModels.ini) just uncomment halloween knifes and comment the normal ones.
+
+### Weapon Models and Player skins
+
+Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the halloween changes, just like in for sounds and knife config files.
+
+### Spooky Fog
 
 For better spooky atmosphere you can use these commands in the console
 
