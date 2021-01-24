@@ -262,7 +262,7 @@ public ghost(id){
 	}
 	
 	if(use_menu[id])
-		set_task(0.1,"ghost_respawn",id+TASK_RESPAWN);
+		set_task(1.0,"ghost_respawn",id+TASK_RESPAWN);
 	else {
 		if(!use_menu_always_no[id]) {
 			ghost_menu(id);
@@ -276,7 +276,7 @@ public ghost_respawn(id){
 	
 	old_team[id] = cs_get_user_team(id);
 	
-	if(is_user_alive(id) || is_user_bot(id) || old_team[id] == CS_TEAM_SPECTATOR || old_team[id] == CS_TEAM_UNASSIGNED)
+	if(endround || is_user_alive(id) || is_user_bot(id) || old_team[id] == CS_TEAM_SPECTATOR || old_team[id] == CS_TEAM_UNASSIGNED)
 		return;
 	
 	is_ghost[id] = true;
