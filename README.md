@@ -68,7 +68,7 @@ Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob
 
 ### Weapon Models and Player skins
 
-Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) christmas changes, just like in for sounds and knife config files.
+Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the christmas changes, just like in for sounds and knife config files.
 
 ## Switch to Halloween Theme
 Enable these two plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)
@@ -97,6 +97,8 @@ Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob
 ### Weapon Models and Player skins
 
 Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the halloween changes, just like in for sounds and knife config files.
+
+Optinally you can edit [user_models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/user_models.ini) for default vip/admins player skins so they don't have to select it every new map.
 
 ### Spooky Fog
 
