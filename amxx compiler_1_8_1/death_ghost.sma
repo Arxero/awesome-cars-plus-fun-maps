@@ -262,7 +262,7 @@ public ghost(id){
 	}
 	
 	if(use_menu[id])
-		set_task(1.0,"ghost_respawn",id+TASK_RESPAWN);
+		set_task(3.0,"ghost_respawn",id+TASK_RESPAWN);
 	else {
 		if(!use_menu_always_no[id]) {
 			ghost_menu(id);
