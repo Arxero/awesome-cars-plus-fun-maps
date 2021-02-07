@@ -87,10 +87,16 @@ public client_disconnected(id) {
 
 	if (task_exists(id+TASK_RESPAWN)) remove_task(id+TASK_RESPAWN);
 	if (task_exists(id+TASK_RESPAWN+1)) remove_task(id+TASK_RESPAWN+1);
+	if (task_exists(id+TASK_RESPAWN+2)) remove_task(id+TASK_RESPAWN+2);
 }
 
 public event_round_start() {
 	end_round = false;
+	for (new id = 1; id <= 32; id++) {
+		if (is_ghost[id] && is_user_connected(id)) {
+			revert_ghost(id);
+		}
+	}
 }
 
 // spec bug fix
@@ -98,8 +104,8 @@ public fw_EvTeamInfo() {
 	static id; id = read_data(1);
 	static szTeam[2]; read_data(2, szTeam, 1);
 
-	if (is_ghost[id] && is_user_connected(id) && (equal(szTeam[0], "C") || equal(szTeam[0], "T"))) {
-		revert_ghost(id);
+	if (!end_round && is_ghost[id] && is_user_connected(id) && (equal(szTeam[0], "C") || equal(szTeam[0], "T"))) {
+		revert_ghost_team(id);
 		user_silentkill(id);
 	}
 }
@@ -115,7 +121,7 @@ public event_round_end() {
 	end_round = true;
 	for (new id = 1; id <= 32; id++) {
 		if (is_ghost[id] && is_user_connected(id)) {
-			revert_ghost(id);
+			revert_ghost_team(id);
 		}
 	}
 }
@@ -148,7 +154,7 @@ public ghost(id) {
 	}
 
 	if (use_menu[id]) {
-		make_ghost(id);
+		set_task(1.0, "make_ghost", id + TASK_RESPAWN);
 	} else {
 		if (!use_menu_always_no[id]) {
 			ghost_menu(id);
@@ -156,17 +162,18 @@ public ghost(id) {
 	}
 }
 
-public make_ghost(id) {
-	if (!is_user_alive(id)) {
-		is_ghost[id] = true;
+public make_ghost(tid) {
+	new id = (tid - TASK_RESPAWN);
+	if (!is_user_alive(id) && !end_round) {
+		is_ghost[id] = true;	
 		old_team[id] = cs_get_user_team(id);
 		cs_set_user_team(id, CS_TEAM_SPECTATOR);
-		set_task(3.0, "ghost_respawn", id + TASK_RESPAWN);
+		set_task(3.0, "ghost_respawn", id + TASK_RESPAWN+1);
 	}
 }
 
 public ghost_respawn(tid) {
-	new id = (tid - TASK_RESPAWN);
+	new id = (tid - TASK_RESPAWN - 1);
 	if (!end_round && is_user_connected(id) && is_ghost[id] && cs_get_user_team(id) == CS_TEAM_SPECTATOR && (old_team[id] == CS_TEAM_T || old_team[id] == CS_TEAM_CT)) {
 		new origin[3];
 		get_user_origin(id,origin);
@@ -185,15 +192,15 @@ public ghost_respawn(tid) {
 
 		// Actual Spawn
 		ExecuteHamB(Ham_CS_RoundRespawn, id);
-		set_task(1.0, "handle_ghost", (id+TASK_RESPAWN+1));
+		set_task(1.0, "handle_ghost", (id+TASK_RESPAWN+2));
 	} else if (!end_round && is_user_alive(id)) {
 		user_silentkill(id);
 	}
 }
 
 public handle_ghost(tid) {
-	new id = (tid - TASK_RESPAWN - 1);
-	if (!is_ghost[id] || !is_user_connected(id) && !is_user_bot(id)) {
+	new id = (tid - TASK_RESPAWN - 2);
+	if (!end_round && !is_ghost[id] || !is_user_connected(id) && !is_user_bot(id)) {
 		return;
 	}
 
@@ -213,15 +220,19 @@ public handle_ghost(tid) {
 	// ExecuteForward
 }
 
-public revert_ghost(id) {
+public revert_ghost_team(id) {
 	cs_set_user_team(id, old_team[id]);
+	set_pev(id, pev_solid, SOLID_SLIDEBOX);
+}
+
+public revert_ghost(id) {
 	cs_reset_user_model(id);
 	set_rendering(id, kRenderFxNone, 0,0,0, kRenderTransAlpha, 255);
 	set_user_godmode(id);
-	set_pev(id, pev_solid, SOLID_SLIDEBOX);
 	set_user_footsteps(id,0);
 	if (task_exists(id+TASK_RESPAWN)) remove_task(id+TASK_RESPAWN);
 	if (task_exists(id+TASK_RESPAWN+1)) remove_task(id+TASK_RESPAWN+1);
+	if (task_exists(id+TASK_RESPAWN+2)) remove_task(id+TASK_RESPAWN+2);
 	is_ghost[id] = false;
 }
 
@@ -277,10 +288,10 @@ public menu_handler(id, menu, item) {
 	new key = str_to_num(s_Data);
 	switch (key) {
 		case 1:
-			make_ghost(id);
+			set_task(1.0, "make_ghost", id + TASK_RESPAWN);
 		case 3: {
 			use_menu[id] = true;
-			make_ghost(id);
+			set_task(1.0, "make_ghost", id + TASK_RESPAWN);
 		}
 		case 4: use_menu_always_no[id] = true;
 		default:{
