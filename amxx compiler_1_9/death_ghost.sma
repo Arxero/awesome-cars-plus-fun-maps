@@ -15,6 +15,8 @@
 #define AUTHOR "R3T"
 
 #define TASK_RESPAWN 10300
+#define TASK_STRIP 11300
+#define TASK_BACK 12300
 
 new bool:is_ghost[33];
 new CsTeams:old_team[33];
@@ -23,7 +25,23 @@ new bool:use_menu_always_no[33];
 new bool:end_round;
 new sprite_death;
 
-new g_hideHUD;
+//new g_hideHUD;
+
+new const g_szMaps[][] =
+{
+	"most_wanted",
+	"most_wanteD2",
+	"fun_atraccions",
+	"fun_box",
+	"awesome_cars",
+	"awesome_cars2",
+	"nojarq_fun_zone",
+	"fun_cars",
+	"woohoo_cars",
+	"he_offroad",
+	"happyvalley_2nd_lt",
+	"he_glass"
+};
 
 public plugin_init() {
 	register_plugin(PLUGIN, VERSION, AUTHOR);
@@ -52,6 +70,7 @@ public plugin_init() {
 	//Events
 	register_event("HLTV", "event_round_start", "a", "1=0", "2=0");
 	register_logevent("event_round_end",2,"1=Round_End");
+	register_event("CurWeapon","CurWeapon","be");
 
 	register_event("TeamInfo" , "fw_EvTeamInfo" , "a");
 	register_event("DeathMsg","DeathMsg","ade");
@@ -62,8 +81,11 @@ public plugin_init() {
 	// clcmds
 	register_clcmd("say /ghost","ghost_use_menu");
 
+	register_clcmd("chooseteam", "team_change");
+	register_clcmd("jointeam", "team_change");
+
 	// GMSG
-	g_hideHUD = get_user_msgid("HideWeapon");
+	//g_hideHUD = get_user_msgid("HideWeapon");
 
 	// Menus
 	register_clcmd("ghost_menu", "ghost_menu");
@@ -96,7 +118,72 @@ public event_round_start() {
 		if (is_ghost[id] && is_user_connected(id)) {
 			revert_ghost(id);
 		}
+
+		if (task_exists(id+TASK_BACK)) {
+			remove_task(id+TASK_BACK);
+		}
+
+		set_task(1.0, "back_item", id+TASK_BACK);
 	}
+}
+
+public team_change(id) {
+	if (is_ghost[id]) {
+		return PLUGIN_HANDLED;
+	}
+	return PLUGIN_CONTINUE;
+}
+
+public back_item(id) {
+	id-=TASK_BACK;
+	give_item(id, "weapon_knife");
+
+	new szMap[32], bool:isKnifeMap
+	get_mapname(szMap, charsmax(szMap))
+
+	for(new i; i < sizeof(g_szMaps); i++)
+	{
+		if(equali(szMap, g_szMaps[i]))
+		{
+			isKnifeMap = true;
+			break;
+		}
+	}
+
+	if (isKnifeMap) {
+		return;
+	}
+
+	if (get_user_flags(id) & ADMIN_RESERVATION) {
+		cs_set_user_armor(id, 100, CS_ARMOR_VESTHELM)
+		give_item(id, "weapon_hegrenade")
+		give_item(id, "weapon_flashbang")
+		cs_set_user_bpammo(id, CSW_FLASHBANG, 2)
+		give_item(id, "weapon_smokegrenade")
+	}
+
+	switch(old_team[id]){
+		case CS_TEAM_CT: {
+			give_item(id,"weapon_usp");
+			cs_set_user_bpammo(id, CSW_USP, 100)
+		}
+		case CS_TEAM_T: {
+			give_item(id,"weapon_glock18");
+			cs_set_user_bpammo(id, CSW_GLOCK18, 120)
+		}
+	}
+}
+
+public CurWeapon(id){
+	if(is_user_connected(id) && is_user_alive(id) && is_ghost[id]){
+		if(get_user_weapon(id) != CSW_KNIFE)
+			set_task(0.1,"strip_user_weap",id+TASK_STRIP);
+	}
+}
+
+public strip_user_weap(id){
+	id-=TASK_STRIP;
+	strip_user_weapons(id);
 }
 
 // spec bug fix
@@ -191,7 +278,7 @@ public ghost_respawn(tid) {
 		message_end();
 
 		// Actual Spawn
-		ExecuteHamB(Ham_CS_RoundRespawn, id);
+		ExecuteHam(Ham_CS_RoundRespawn, id);
 		set_task(1.0, "handle_ghost", (id+TASK_RESPAWN+2));
 	} else if (!end_round && is_user_alive(id)) {
 		user_silentkill(id);
@@ -213,9 +300,9 @@ public handle_ghost(tid) {
 	set_user_footsteps(id);
 
 	// Hide hud for ghost
-	message_begin(MSG_ONE, g_hideHUD, _, id);
-	write_byte( 1<<0 | 1<<1 | 1<<3 | 1<<4 | 1<<5 | 1<<6 );
-	message_end();
+	//message_begin(MSG_ONE, g_hideHUD, _, id);
+	//write_byte( 1<<0 | 1<<1 | 1<<3 | 1<<4 | 1<<5 | 1<<6 );
+	//message_end();
 
 	// ExecuteForward
 }
@@ -229,7 +316,7 @@ public revert_ghost(id) {
 	cs_reset_user_model(id);
 	set_rendering(id, kRenderFxNone, 0,0,0, kRenderTransAlpha, 255);
 	set_user_godmode(id);
-	set_user_footsteps(id,0);
+	set_user_footsteps(id, 0);
 	if (task_exists(id+TASK_RESPAWN)) remove_task(id+TASK_RESPAWN);
 	if (task_exists(id+TASK_RESPAWN+1)) remove_task(id+TASK_RESPAWN+1);
 	if (task_exists(id+TASK_RESPAWN+2)) remove_task(id+TASK_RESPAWN+2);
