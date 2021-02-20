@@ -123,7 +123,9 @@ public event_round_start() {
 			remove_task(id+TASK_BACK);
 		}
 
-		set_task(1.0, "back_item", id+TASK_BACK);
+		if (is_user_alive(id)) {
+			set_task(1.0, "back_item", id+TASK_BACK);
+		}
 	}
 }
 
@@ -136,6 +138,11 @@ public team_change(id) {
 
 public back_item(id) {
 	id-=TASK_BACK;
+
+	if (!is_user_alive(id)) {
+		return;
+	}
+
 	give_item(id, "weapon_knife");
 
 	new szMap[32], bool:isKnifeMap
@@ -297,6 +304,7 @@ public handle_ghost(tid) {
 	cs_set_user_model(id, "ghost");
 	strip_user_weapons(id);
 	strip_user_weapons(id);
+	set_ent_data(id, "CBasePlayer", "m_bNotKilled", false);
 	set_user_footsteps(id);
 
 	// Hide hud for ghost

@@ -284,7 +284,7 @@ public plugin_precache() {
 }
 
 public forward_cmdstart(id, uc_handle) {
-	if (is_user_alive(id) && cs_get_user_driving(id) > 0) {
+	if (is_user_alive(id) && cs_get_user_driving(id) > 0 && cs_get_user_team(id) != CS_TEAM_SPECTATOR) {
 		static Button, OldButtons, fired_weapon;
 		Button = get_uc(uc_handle, UC_Buttons);
 		OldButtons = pev(id, pev_oldbuttons);
