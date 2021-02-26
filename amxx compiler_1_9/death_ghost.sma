@@ -11,12 +11,14 @@
 #include <engine>
 
 #define PLUGIN "Ghost After Death"
-#define VERSION "0.9"
+#define VERSION "0.95"
 #define AUTHOR "R3T"
 
-#define TASK_RESPAWN 10300
-#define TASK_STRIP 11300
-#define TASK_BACK 12300
+enum(+=100){
+	TASK_RESPAWN = 100,
+	TASK_STRIP,
+	TASK_BACK
+}
 
 new bool:is_ghost[33];
 new CsTeams:old_team[33];
@@ -24,8 +26,6 @@ new bool:use_menu[33];
 new bool:use_menu_always_no[33];
 new bool:end_round;
 new sprite_death;
-
-//new g_hideHUD;
 
 new const g_szMaps[][] =
 {
@@ -107,6 +107,8 @@ public client_disconnected(id) {
 	use_menu[id] = false;
 	use_menu_always_no[id] = false;
 
+	if (task_exists(id+TASK_STRIP)) remove_task(id+TASK_STRIP);
+	if (task_exists(id+TASK_BACK)) remove_task(id+TASK_BACK);
 	if (task_exists(id+TASK_RESPAWN)) remove_task(id+TASK_RESPAWN);
 	if (task_exists(id+TASK_RESPAWN+1)) remove_task(id+TASK_RESPAWN+1);
 	if (task_exists(id+TASK_RESPAWN+2)) remove_task(id+TASK_RESPAWN+2);
@@ -200,7 +202,6 @@ public fw_EvTeamInfo() {
 
 	if (!end_round && is_ghost[id] && is_user_connected(id) && (equal(szTeam[0], "C") || equal(szTeam[0], "T"))) {
 		revert_ghost_team(id);
-		user_silentkill(id);
 	}
 }
 
@@ -248,7 +249,7 @@ public ghost(id) {
 	}
 
 	if (use_menu[id]) {
-		set_task(1.0, "make_ghost", id + TASK_RESPAWN);
+		set_task(0.1, "make_ghost", id + TASK_RESPAWN);
 	} else {
 		if (!use_menu_always_no[id]) {
 			ghost_menu(id);
@@ -285,7 +286,7 @@ public ghost_respawn(tid) {
 		message_end();
 
 		// Actual Spawn
-		ExecuteHam(Ham_CS_RoundRespawn, id);
+		ExecuteHamB(Ham_CS_RoundRespawn, id);
 		set_task(1.0, "handle_ghost", (id+TASK_RESPAWN+2));
 	} else if (!end_round && is_user_alive(id)) {
 		user_silentkill(id);
@@ -294,6 +295,7 @@ public ghost_respawn(tid) {
 
 public handle_ghost(tid) {
 	new id = (tid - TASK_RESPAWN - 2);
+	//set_ent_data(id, "CBasePlayer", "m_bNotKilled", false);
 	if (!end_round && !is_ghost[id] || !is_user_connected(id) && !is_user_bot(id)) {
 		return;
 	}
@@ -303,32 +305,24 @@ public handle_ghost(tid) {
 	set_user_rendering(id, kRenderFxHologram, 0, 0, 0, kRenderTransAlpha, 125)
 	cs_set_user_model(id, "ghost");
 	strip_user_weapons(id);
-	strip_user_weapons(id);
-	set_ent_data(id, "CBasePlayer", "m_bNotKilled", false);
 	set_user_footsteps(id);
-
-	// Hide hud for ghost
-	//message_begin(MSG_ONE, g_hideHUD, _, id);
-	//write_byte( 1<<0 | 1<<1 | 1<<3 | 1<<4 | 1<<5 | 1<<6 );
-	//message_end();
-
-	// ExecuteForward
 }
 
 public revert_ghost_team(id) {
 	cs_set_user_team(id, old_team[id]);
-	set_pev(id, pev_solid, SOLID_SLIDEBOX);
 }
 
 public revert_ghost(id) {
+	is_ghost[id] = false;
 	cs_reset_user_model(id);
+	set_pev(id, pev_solid, SOLID_SLIDEBOX);
 	set_rendering(id, kRenderFxNone, 0,0,0, kRenderTransAlpha, 255);
 	set_user_godmode(id);
 	set_user_footsteps(id, 0);
+
 	if (task_exists(id+TASK_RESPAWN)) remove_task(id+TASK_RESPAWN);
 	if (task_exists(id+TASK_RESPAWN+1)) remove_task(id+TASK_RESPAWN+1);
 	if (task_exists(id+TASK_RESPAWN+2)) remove_task(id+TASK_RESPAWN+2);
-	is_ghost[id] = false;
 }
 
 public fw_Touch(weapon,id) {
@@ -383,10 +377,10 @@ public menu_handler(id, menu, item) {
 	new key = str_to_num(s_Data);
 	switch (key) {
 		case 1:
-			set_task(1.0, "make_ghost", id + TASK_RESPAWN);
+			set_task(0.1, "make_ghost", id + TASK_RESPAWN);
 		case 3: {
 			use_menu[id] = true;
-			set_task(1.0, "make_ghost", id + TASK_RESPAWN);
+			set_task(0.1, "make_ghost", id + TASK_RESPAWN);
 		}
 		case 4: use_menu_always_no[id] = true;
 		default:{
