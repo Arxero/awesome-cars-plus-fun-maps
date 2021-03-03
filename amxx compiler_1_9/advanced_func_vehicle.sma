@@ -3,27 +3,35 @@
 #include <engine>
 #include <amxmisc>
 #include <cstrike>
-#include <hamsandwich> 
+#include <hamsandwich>
 #include <fun>
+#include <xs>
 
 #define FILE_DOMCFG "/advanced_func_vehicle/%s.cfg"
 
 const m_iHeight = 37;
 const m_iSpeed = 38;
 
-// defaults for sys_ticrate 100
-new Float:vtolVelocity = 200.0;
-new Float:NOSVelocity = 100.0;
-new Float:driftForce = 4.0;
+new Float:defaultVtolVelocity;
+new Float:defaultNOSVelocity;
+new Float:defaultdriftForce;
+
+new Float:defaultWeaponShellDelay;
+new Float:defaultWeaponConcCannonDelay;
+new Float:defaultWeaponGuidedMissileDelay;
+new Float:defaultWeaponCarHornDelay;
+new Float:defaultWeaponTruckHornDelay;
+new Float:defaultWeaponShipHornDelay;
 
 new explosion, explosion1, smoke, white, rocketsmoke;
-new bool:CanShoot[33];
+new bool:userAllowed[33];
 new userVehicle[33];
 new userControl[33];
 
 new vehiclesSpawned;
 new vehicleIds[64];
 new Float:vehicleLastShootTime[64];
+new bool:vehicleUsingNOS[64];
 
 //config
 enum _:vehicleWeapon {
@@ -94,9 +102,9 @@ new vehicleNames[64][32];
 new vehicleWeaponTypes[64];
 new vehicleTypes[64];
 new vehicleHPs[64];
-new vehicleWPN1_X[64];
-new vehicleWPN1_Y[64];
-new vehicleWPN1_Z[64];
+new vehicleWPN1_0[64];
+new vehicleWPN1_1[64];
+new vehicleWPN1_2[64];
 
 // map entity
 new Float:vehicleDefaultHeights[64];
@@ -112,9 +120,27 @@ public plugin_init() {
 	register_plugin("Advanced Func Vehicle", "1.0", "Retroyers");
 
 	if (find_ent_by_class(-1, "func_vehicle") != 0) {
+		
+		new launchFixEnabled = register_cvar("afv_launch_fix_enabled", "1");
+		if (get_pcvar_bool(launchFixEnabled)) {
+			register_think("func_vehicle", "vehicleThink");
+		}
+
+		defaultWeaponShellDelay = get_pcvar_float(register_cvar("afv_default_weapon_shell_delay", "10.0"));
+		defaultWeaponConcCannonDelay = get_pcvar_float(register_cvar("afv_default_weapon_conc_cannon_delay", "8.0"));
+		defaultWeaponGuidedMissileDelay = get_pcvar_float(register_cvar("afv_default_weapon_guided_missile_delay", "20.0"));
+		defaultWeaponCarHornDelay = get_pcvar_float(register_cvar("afv_default_weapon_car_horn_delay", "1.0"));
+		defaultWeaponTruckHornDelay = get_pcvar_float(register_cvar("afv_default_weapon_truck_horn_delay", "1.0"));
+		defaultWeaponShipHornDelay = get_pcvar_float(register_cvar("afv_default_weapon_ship_horn_delay", "1.0"));
+		
+		// defaults for sys_ticrate 100
+		defaultVtolVelocity = get_pcvar_float(register_cvar("afv_default_vtol_velocity", "100.0"));
+		defaultNOSVelocity = get_pcvar_float(register_cvar("afv_default_nos_velocity", "40.0"));
+		defaultdriftForce = get_pcvar_float(register_cvar("afv_default_drift_force", "4.0"));
+
 		vehicleWeaponsConfig = TrieCreate();
 		vehicleTypesConfig = TrieCreate();
-		
+
 		for (new i = 0; i < vehicleWeapon; i++) {
 			TrieSetCell(vehicleWeaponsConfig, vehicleWeaponNames[i], i);
 		}
@@ -128,7 +154,6 @@ public plugin_init() {
 		register_logevent("round_start", 2, "1=Round_Start");
 		register_forward(FM_CmdStart, "forward_cmdstart");
 		register_forward(FM_PlayerPreThink, "forward_playerprethink");
-	 	register_think("func_vehicle", "vehicleThink");
 
 		register_touch("*", "afv_shell_ap", "weaponTouchAp");
 		register_touch("*", "afv_shell_heat", "weaponTouchHeat");
@@ -142,14 +167,20 @@ public plugin_init() {
 		new iSysTicRate = get_pcvar_num(g_iTic);
 
 		if (iSysTicRate > 0) {
-			vtolVelocity = vtolVelocity * (iSysTicRate / 100.0);
-			NOSVelocity = NOSVelocity * (iSysTicRate / 100.0);
-			driftForce = driftForce / (iSysTicRate / 100.0);
+			defaultVtolVelocity = defaultVtolVelocity * (iSysTicRate / 100.0);
+			defaultNOSVelocity = defaultNOSVelocity * (iSysTicRate / 100.0);
+			defaultdriftForce = defaultdriftForce / (iSysTicRate / 100.0);
 		}
 
 		load_config();
 	}
 	return PLUGIN_CONTINUE;
+}
+
+public plugin_natives() {
+	register_library("advanced_func_vehicle");
+	register_native("damageVehicle", "_damageVehicle");
+	register_native("getUserDriving", "_getUserDriving");
 }
 
 public plugin_end() {
@@ -166,7 +197,7 @@ public pfn_spawn(ent) {
 	entity_get_string(ent, EV_SZ_classname, sz_classname, charsmax(sz_classname));
 
 	if (equal(sz_classname, "func_vehicle")) {
-		server_print("spawned func vehicle %d %d", ent, vehiclesSpawned);
+		//server_print("spawned func vehicle %d %d", ent, vehiclesSpawned);
 		vehicleIds[vehiclesSpawned] = ent;
 		vehiclesSpawned++;
 	}
@@ -174,11 +205,10 @@ public pfn_spawn(ent) {
 }
 
 public vehicleThink(id) {
-	new Float:launchTime;
+	static Float:launchTime;
 	launchTime = get_ent_data_float(id, "CFuncVehicle", "m_flLaunchTime");
 	if (launchTime != -1) {
-		new Float:timeSinceLaunch = get_gametime() - launchTime;
-		set_ent_data_float(id, "CFuncVehicle", "m_flLaunchTime", launchTime + (timeSinceLaunch / 40)); // divide less = add more = go further
+		set_ent_data_float(id, "CFuncVehicle", "m_flLaunchTime", launchTime + ((get_gametime() - launchTime) / 40)); // divide less = add more = go further
 	}
 }
 
@@ -194,21 +224,18 @@ public round_start() {
 		vehicleCurrentHPs[index] = vehicleHPs[index];
 
 		if  (is_valid_ent(vehicleIds[index]) && strlen(vehicleNames[index]) > 0) {
-			set_pev(vehicleIds[index], pev_basevelocity, {0.0, 0.0, 0.0}); //drift reset
+			if (vehicleTypes[index] == VTYPE_CAR_RWD) {
+				set_pev(vehicleIds[index], pev_basevelocity, {0.0, 0.0, 0.0}); //drift reset
+			}
 
 			new Float:vVehicleOrigin[3];
 			entity_get_vector(vehicleIds[index], EV_VEC_origin, vVehicleOrigin);
-			server_print("func vehicle origin 1 %f", vVehicleOrigin[2]);
 			vVehicleOrigin[2] = vehicleDefaultOrigins[index];
 			entity_set_origin(vehicleIds[index], vVehicleOrigin);
-			server_print("func vehicle origin 2 %f", vVehicleOrigin[2]);
 
-			new Float:vehicle_height = vehicleDefaultHeights[index];
-			server_print("set default for %d %f", vehicleIds[index], vehicle_height);
-			set_pdata_float(vehicleIds[index], m_iHeight, vehicle_height, 4);
+			set_pdata_float(vehicleIds[index], m_iHeight, vehicleDefaultHeights[index], 4);
 			set_pdata_float(vehicleIds[index], m_iSpeed, vehicleDefaultSpeeds[index], 4);
 
-			//set_rendering( vehicleIds[index], kRenderFxNone , 255, 255, 255, kRenderNormal, 16);
 			entity_set_vector(vehicleIds[index], EV_VEC_rendercolor, vehicleDefaultRenderColors[index]);
 			entity_set_int(vehicleIds[index], EV_INT_rendermode, vehicleDefaultRenderModes[index]);
 			entity_set_float(vehicleIds[index], EV_FL_renderamt, vehicleDefaultRenderAmts[index]);
@@ -225,9 +252,9 @@ public burn_vehicle(args[]) {
 		entity_get_vector(args[0], EV_VEC_origin, vVehicleOrigin);	
 		message_begin(MSG_BROADCAST ,SVC_TEMPENTITY);
 		write_byte(TE_SMOKE);
-		write_coord(floatround(vVehicleOrigin[0]));
-		write_coord(floatround(vVehicleOrigin[1]));
-		write_coord(floatround(vVehicleOrigin[2]));
+		engfunc(EngFunc_WriteCoord, vVehicleOrigin[0]);
+		engfunc(EngFunc_WriteCoord, vVehicleOrigin[1]);
+		engfunc(EngFunc_WriteCoord, vVehicleOrigin[2]);
 		write_short(smoke);
 		write_byte(125);
 		write_byte(5);
@@ -259,6 +286,11 @@ public FuncVehicle_OnUse(iVehicle, id) {
 
 public FuncVehicle_OnControls(iVehicle, id) {
 	userVehicle[id] = iVehicle;
+	if (cs_get_user_team(id) != CS_TEAM_SPECTATOR) {
+		userAllowed[id] = true;
+	} else {
+		userAllowed[id] = false;
+	}
 	return HAM_IGNORED;
 }
 
@@ -284,7 +316,7 @@ public plugin_precache() {
 }
 
 public forward_cmdstart(id, uc_handle) {
-	if (is_user_alive(id) && cs_get_user_driving(id) > 0 && cs_get_user_team(id) != CS_TEAM_SPECTATOR) {
+	if (userAllowed[id] && is_user_alive(id) && cs_get_user_driving(id) > 0) {
 		static Button, OldButtons, fired_weapon;
 		Button = get_uc(uc_handle, UC_Buttons);
 		OldButtons = pev(id, pev_oldbuttons);
@@ -314,6 +346,12 @@ public forward_cmdstart(id, uc_handle) {
 		vWeapon = vehicleWeaponTypes[vIndex];
 		static vType;
 		vType = vehicleTypes[vIndex];
+		
+		if (vehicleUsingNOS[vIndex] && (Button & IN_BACK)) {
+			new args[1];
+			args[0] = vIndex;
+			set_task(0.1, "turnOffNOS", 0, args, 1);
+		}
 
 		// DRIFTING
 		if (vType == VTYPE_CAR_RWD && (OldButtons & IN_FORWARD)) {
@@ -325,7 +363,7 @@ public forward_cmdstart(id, uc_handle) {
 				get_global_vector(GL_v_right, v_right);
 				entity_get_vector(userVehicle[id], EV_VEC_velocity, vector);
 				if (vector[2] == 0.0) {
-					new Float:force = floatdiv(vector_length(vector), driftForce);
+					new Float:force = floatdiv(vector_length(vector), defaultdriftForce);
 					vector[0] = v_right[0] * force;
 					vector[1] = v_right[1] * force;
 					set_pev(userVehicle[id], pev_basevelocity, vector);
@@ -340,7 +378,7 @@ public forward_cmdstart(id, uc_handle) {
 				get_global_vector(GL_v_right,v_right);
 				entity_get_vector(userVehicle[id], EV_VEC_velocity, vector);
 				if (vector[2] == 0.0) {
-					new Float:force = floatdiv(vector_length(vector), driftForce) * -1.0;
+					new Float:force = floatdiv(vector_length(vector), defaultdriftForce) * -1.0;
 					vector[0] = v_right[0] * force;
 					vector[1] = v_right[1] * force;
 					set_pev(userVehicle[id], pev_basevelocity, vector);
@@ -353,52 +391,53 @@ public forward_cmdstart(id, uc_handle) {
 		if ((Button & IN_ATTACK2) && !(OldButtons & IN_ATTACK2)) {
 			switch (vWeapon) {
 				case VWEAPON_SHELL_HEAT: {
-					if (checkVehicleAngle(id) && checkDelay(id, vIndex)) {
+					if (checkVehicleAngle(id) && checkDelay(id, vIndex, defaultWeaponShellDelay, true)) {
 						fireShell(id, vIndex, "heat", 2500);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_SHELL_AP: {
-					if (checkVehicleAngle(id) && checkDelay(id, vIndex)) {
+					if (checkVehicleAngle(id) && checkDelay(id, vIndex, defaultWeaponShellDelay, true)) {
 						fireShell(id, vIndex, "ap", 2750);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_SHELL_HE: {
-					if (checkVehicleAngle(id) && checkDelay(id, vIndex)) {
+					if (checkVehicleAngle(id) && checkDelay(id, vIndex, defaultWeaponShellDelay, true)) {
 						fireShell(id, vIndex, "he", 2250);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_CONC_CANNON: {
-					if (checkVehicleAngle(id) && checkDelay(id, vIndex)) {
+					if (checkVehicleAngle(id) && checkDelay(id, vIndex, defaultWeaponConcCannonDelay, true)) {
 						client_print(id, print_chat, "[AFV] Firing concussion cannon");
 						fireConcCannon(id, vIndex);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_HORN: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 2.0) {
-						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/car_horn.wav", 1.0, ATTN_NORM, 0, PITCH_NORM);
+					if (checkDelay(id, vIndex, 3.0, false)) {
+						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/car_horn.wav", defaultWeaponCarHornDelay, ATTN_NORM, 0, PITCH_NORM);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_TRUCK_HORN: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 3.0) {
-						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/truck_horn.wav", 1.0, ATTN_NORM, 0, PITCH_NORM);
+					if (checkDelay(id, vIndex, 10.0, false)) {
+						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/truck_horn.wav", defaultWeaponTruckHornDelay, ATTN_NORM, 0, PITCH_NORM);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_SHIP_HORN: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 5.0) {
-						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/ship_horn.wav", 1.0, ATTN_NORM, 0, PITCH_NORM);
+					if (checkDelay(id, vIndex, 15.0, false)) {
+						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/ship_horn.wav", defaultWeaponShipHornDelay, ATTN_NORM, 0, PITCH_NORM);
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_NOS: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 10.0) {
+					if (checkDelay(id, vIndex, 8.0, false) && !(Button & IN_BACK)) {
+						vehicleUsingNOS[vIndex] = true;
 						new Float:speed = vehicleDefaultSpeeds[vIndex];
-						speed = floatadd(speed, floatmul(floatdiv(vehicleDefaultSpeeds[vIndex],100.0), NOSVelocity));
+						speed = floatadd(speed, floatmul(floatdiv(vehicleDefaultSpeeds[vIndex],100.0), defaultNOSVelocity));
 						set_pdata_float(userVehicle[id], m_iSpeed, speed, 4);
 
 						new args[1];
@@ -408,7 +447,7 @@ public forward_cmdstart(id, uc_handle) {
 					}
 				}
 				case VWEAPON_GUIDED_MISSILE: {
-					if (checkVehicleAngle(id) && checkDelay(id, vIndex)) {
+					if (checkVehicleAngle(id) && checkDelay(id, vIndex, defaultWeaponGuidedMissileDelay, true)) {
 						client_print(id, print_chat, "[AFV] Firing guided missile");
 						fireGuidedMissile(id, vIndex);
 						fired_weapon = true;
@@ -416,30 +455,30 @@ public forward_cmdstart(id, uc_handle) {
 				}
 			}
 		}
-
+		
 		if ((Button & IN_ATTACK2) && (OldButtons & IN_ATTACK2) && checkVehicleAngle(id)) {
 
 			switch (vWeapon) {
 				case VWEAPON_LMG1: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 0.1) {
+					if (checkDelay(id, vIndex, 0.1, false)) {
 						fireShot(id, vIndex, "afv_lmg1");
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_HMG1: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 0.2) {
+					if (checkDelay(id, vIndex, 0.2, false)) {
 						fireShot(id, vIndex, "afv_hmg1");
 						fired_weapon = true;
 					}
 				}
 				case VWEAPON_AUTO_CANNON: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 0.8) {
+					if (checkDelay(id, vIndex, 0.8, false)) {
 						fireShot(id, vIndex, "afv_auto_cannon");
 						fired_weapon = true
 					}
 				}
 				case VWEAPON_MINIGUN: {
-					if (get_gametime() > vehicleLastShootTime[vIndex] + 0.05) {
+					if (checkDelay(id, vIndex, 0.05, false)) {
 						fireShot(id, vIndex, "afv_minigun");
 						fired_weapon = true;
 					}
@@ -451,13 +490,13 @@ public forward_cmdstart(id, uc_handle) {
 			vehicleLastShootTime[vIndex] = get_gametime();
 		}
 
-		// VTOL
+		// UP + DOWN
 		if (vType != VTYPE_HELI && vType != VTYPE_VTOL) {
 			return FMRES_IGNORED;
 		}
-		else if ((Button & IN_ATTACK) && (OldButtons & IN_ATTACK)) {
+		if ((Button & IN_ATTACK) && (OldButtons & IN_ATTACK)) {
 			new Float:velocity[3] = {0.0, 0.0, 0.0};
-			velocity[2] = vtolVelocity;
+			velocity[2] = defaultVtolVelocity;
 			set_pev(userVehicle[id], pev_basevelocity, velocity);
 
 			// new height logic
@@ -470,19 +509,17 @@ public forward_cmdstart(id, uc_handle) {
 				new Float:origin_difference = floatsub(vVehicleOrigin[2], vDefaultVehicleOrigin);
 				new Float:default_vehicle_height = vehicleDefaultHeights[vIndex];
 				set_pdata_float(userVehicle[id], m_iHeight, floatadd(default_vehicle_height, origin_difference), 4);
-				//server_print("set height up for %d %f", userVehicle[id], floatadd(default_vehicle_height, origin_difference));
 			}
-			else if(vVehicleOrigin[2] < vDefaultVehicleOrigin) {
+			else if (vVehicleOrigin[2] < vDefaultVehicleOrigin) {
 				new Float:origin_difference = floatsub(vDefaultVehicleOrigin, vVehicleOrigin[2]);
 				new Float:default_vehicle_height = vehicleDefaultHeights[vIndex];
 				set_pdata_float(userVehicle[id], m_iHeight, floatsub(default_vehicle_height, origin_difference), 4);
-				//server_print("set height down for %d %f", userVehicle[id], floatsub(default_vehicle_height, origin_difference));
 			}
 			return FMRES_IGNORED;
 		}
 		else if ((Button & IN_DUCK) && (OldButtons & IN_DUCK)) {
 			new Float:velocity[3] = {0.0, 0.0, 0.0};
-			velocity[2] = -vtolVelocity;
+			velocity[2] = -defaultVtolVelocity;
 			set_pev(userVehicle[id], pev_basevelocity, velocity);
 
 			// new height logic
@@ -495,13 +532,11 @@ public forward_cmdstart(id, uc_handle) {
 				new Float:origin_difference = floatsub(vVehicleOrigin[2], vDefaultVehicleOrigin);
 				new Float:default_vehicle_height = vehicleDefaultHeights[vIndex];
 				set_pdata_float(userVehicle[id], m_iHeight, floatadd(default_vehicle_height,origin_difference), 4);
-				//server_print("set height up for %d %f", userVehicle[id], floatadd(default_vehicle_height,origin_difference));
 			}
-			else if(vVehicleOrigin[2] < vDefaultVehicleOrigin) {
+			else if (vVehicleOrigin[2] < vDefaultVehicleOrigin) {
 				new Float:origin_difference = floatsub(vDefaultVehicleOrigin, vVehicleOrigin[2]);
 				new Float:default_vehicle_height = vehicleDefaultHeights[vIndex];
 				set_pdata_float(userVehicle[id], m_iHeight, floatsub(default_vehicle_height,origin_difference), 4);
-				//server_print("set height down for %d %f", userVehicle[id], floatsub(default_vehicle_height,origin_difference));
 			}
 			return FMRES_IGNORED;
 		}
@@ -515,6 +550,7 @@ public forward_cmdstart(id, uc_handle) {
 public turnOffNOS(args[]) {
 	if  (is_valid_ent(vehicleIds[args[0]])) {
 		set_pdata_float(vehicleIds[args[0]], m_iSpeed, vehicleDefaultSpeeds[args[0]], 4);
+		vehicleUsingNOS[args[0]] = false;
 	}
 }
 
@@ -538,12 +574,12 @@ public forward_playerprethink(id) {
 	return FMRES_IGNORED;
 }
 
-public checkDelay(id, vIndex) {
-	if (get_gametime() < vehicleLastShootTime[vIndex] + 5.0) {
-  		client_print(id,print_chat, "[AFV] Try again in %d seconds",floatround( vehicleLastShootTime[vIndex] + 5.0 - get_gametime()+ 1));
-		return false;
-	} else {
+public checkDelay(id, vIndex, Float:delay, showMessage) {
+	if (get_gametime() > vehicleLastShootTime[vIndex] + delay) {
 		return true;
+	}
+  	if (showMessage) {
+		client_print(id,print_chat, "[AFV] Try again in %d seconds", floatround(vehicleLastShootTime[vIndex] + delay - get_gametime()+ 1));
 	}
 	return false; 
 }
@@ -571,7 +607,65 @@ public checkVehicleAngle(id) {
 	return true;
 }
 
-public damage_vehicle(vehicle_id, weaponClass[]) {
+public _getUserDriving(plugin, params) {
+	if (params != 1) {
+		return PLUGIN_CONTINUE;
+	}
+
+	new vehicle_id = get_param(1);
+	if (!vehicle_id) {
+		return PLUGIN_CONTINUE;
+	}
+
+	return getUserDriving(vehicle_id);
+}
+
+public getUserDriving(vehicle_id) {
+	static vIndex = -1;
+	new index;
+	while (index < 63) {
+		if (vehicle_id == vehicleIds[index]) {
+			vIndex = index;
+			break;
+		}
+		index++;
+	}
+
+	if (vIndex < 0 || vehicleCurrentHPs[vIndex] <= 0) {
+		return 0;
+	}
+
+	new i;
+	for (i = 1;i <= 32; i++) {
+		if (is_user_connected(i) && userVehicle[i] == vehicle_id && cs_get_user_driving(i) > 0) {
+			return i;
+		}
+	}
+
+	return 0;
+}
+
+public _damageVehicle(plugin, params) {
+	if (params != 2) {
+		return PLUGIN_CONTINUE;
+	}
+
+	new vehicle_id = get_param(1);
+	if (!vehicle_id) {
+		return PLUGIN_CONTINUE;
+	}
+
+	new weaponClass[16];
+	get_string(2, weaponClass, 16);
+
+	new Float:sourceOrigin[3];
+
+	damageVehicle(vehicle_id, weaponClass, sourceOrigin);
+	return PLUGIN_HANDLED;
+}
+
+public damageVehicle(vehicle_id, weaponClass[], Float:sourceOrigin[3]) {
+
 	new damage = 0;
 	new Float:damageMultipler = 1.0;
 	new targetname[32];
@@ -586,7 +680,7 @@ public damage_vehicle(vehicle_id, weaponClass[]) {
 		index++;
 	}
 
-	if (vehicleCurrentHPs[vIndex] <= 0) {
+	if (vIndex < 0 || vehicleCurrentHPs[vIndex] <= 0) {
 		return false;
 	}
 
@@ -621,6 +715,9 @@ public damage_vehicle(vehicle_id, weaponClass[]) {
 	}
 
 	// ANTI
+	else if (equal(weaponClass, "afv_av_mine")) {
+		damage = 1000;
+	}
 	else if (equal(weaponClass, "afv_anti_materiel_round")) {
 		damage = 150;
 	}
@@ -680,6 +777,56 @@ public damage_vehicle(vehicle_id, weaponClass[]) {
 		}
 	}
 
+	new Float:endOrigin[3]
+	entity_get_vector(vehicle_id, EV_VEC_origin, endOrigin);
+	
+	// directional damage and pens for shells
+	if (equal(weaponClass, "afv_shell_he") || equal(weaponClass, "afv_shell_heat") || equal(weaponClass, "afv_shell_ap")) {
+
+		new Float:fVector[3];
+		new Float:fAngle[3];
+
+		new Float:vAngle[3];
+		pev(vehicle_id, pev_angles, vAngle);
+		while (vAngle[1] < 0.0) {
+			vAngle[1] += 360.0;
+		}
+		while (vAngle[1] > 360.0) {
+			vAngle[1] -= 360.0;
+		}
+
+		xs_vec_sub(sourceOrigin, endOrigin, fVector);
+		vector_to_angle(fVector, fAngle);
+		while (fAngle[1] < 0.0) {
+			fAngle[1] += 360.0;
+		}
+		while (fAngle[1] > 360.0) {
+			fAngle[1] -= 360.0;
+		}
+
+		if ((vAngle[1] - fAngle[1]) > 135 || (fAngle[1] - vAngle[1]) > 135) {
+			// FRONT
+			//server_print("target vehicle Direction: FRONT");
+		} else if ((vAngle[1] - fAngle[1]) > 45 || (fAngle[1] - vAngle[1]) > 45) {
+			// SIDE
+			damageMultipler = floatadd(damageMultipler, 0.10);
+			//server_print("target vehicle Direction: SIDE");
+		} else {
+			// REAR
+			damageMultipler = floatadd(damageMultipler, 0.50);
+			//server_print("target vehicle Direction: REAR");
+		}
+		// end directional
+
+		// penetrating hits
+		new Float:distance = get_distance_f(endOrigin, sourceOrigin);
+		//server_print("target vehicle distance: %f", distance);
+		if (distance < 400.0) {
+			damageMultipler = floatadd(damageMultipler, 0.50);
+			//server_print("target vehicle Direction: PEN HIT");
+		}
+	}
+
 	damage = floatround(floatmul(float(damage), damageMultipler), floatround_ceil);
 
 	if (damage < vehicleCurrentHPs[vIndex]) {
@@ -687,17 +834,14 @@ public damage_vehicle(vehicle_id, weaponClass[]) {
 	} else {
 		vehicleCurrentHPs[vIndex] = 0;
 
-		new Float:EndOrigin[3];
-		entity_get_vector(vehicle_id, EV_VEC_origin, EndOrigin);
-
 		emit_sound(vehicle_id, CHAN_WEAPON, "weapons/mortarhit.wav", VOL_NORM, ATTN_NORM, 0, PITCH_LOW);
 		emit_sound(vehicle_id, CHAN_VOICE, "weapons/mortarhit.wav", VOL_NORM, ATTN_NORM, 0, PITCH_LOW);
 
 		message_begin(MSG_BROADCAST, SVC_TEMPENTITY); // explosion sprite
 		write_byte(TE_SPRITE);
-		write_coord(floatround(EndOrigin[0]));
-		write_coord(floatround(EndOrigin[1]));
-		write_coord(floatround(EndOrigin[2]) + 64);
+		engfunc(EngFunc_WriteCoord, endOrigin[0]);
+		engfunc(EngFunc_WriteCoord, endOrigin[1]);
+		engfunc(EngFunc_WriteCoord, endOrigin[2] + 64);
 		write_short(explosion);
 		write_byte(40); //scale
 		write_byte(240);
@@ -705,12 +849,12 @@ public damage_vehicle(vehicle_id, weaponClass[]) {
 		
 		message_begin(MSG_BROADCAST, SVC_TEMPENTITY); // Blast wave
 		write_byte(TE_BEAMCYLINDER);
-		write_coord(floatround(EndOrigin[0]));
-		write_coord(floatround(EndOrigin[1]));
-		write_coord(floatround(EndOrigin[2]));
-		write_coord(floatround(EndOrigin[0]));
-		write_coord(floatround(EndOrigin[1]));
-		write_coord(floatround(EndOrigin[2]) + 320);
+		engfunc(EngFunc_WriteCoord, endOrigin[0]);
+		engfunc(EngFunc_WriteCoord, endOrigin[1]);
+		engfunc(EngFunc_WriteCoord, endOrigin[2]);
+		engfunc(EngFunc_WriteCoord, endOrigin[0]);
+		engfunc(EngFunc_WriteCoord, endOrigin[1]);
+		engfunc(EngFunc_WriteCoord, endOrigin[2] + 320);
 		write_short(white);
 		write_byte(0);
 		write_byte(0);
@@ -768,19 +912,17 @@ public fireShell(id, vIndex, shellType[], shellVelocity) {
 	strtoupper(shellTypeU);
 	client_print(id, print_chat, "[AFV] Firing %s shell", shellTypeU);
 
-	CanShoot[id] = false;
-
 	new Float:firedOrigin[3], Float:firedOffset[3];
-	firedOffset[0] = float(vehicleWPN1_X[vIndex]); // forwards
-	firedOffset[1] = float(vehicleWPN1_Y[vIndex]); // side
-	firedOffset[2] = float(vehicleWPN1_Z[vIndex]); // up
+	firedOffset[0] = float(vehicleWPN1_0[vIndex]); // forwards
+	firedOffset[1] = float(vehicleWPN1_1[vIndex]); // side
+	firedOffset[2] = float(vehicleWPN1_2[vIndex]); // up
 	get_position(userVehicle[id], firedOffset[0], firedOffset[1], firedOffset[2], firedOrigin);
 
 	message_begin(MSG_BROADCAST ,SVC_TEMPENTITY);
 	write_byte(TE_SPRITE);
-	write_coord(floatround(firedOrigin[0]));
-	write_coord(floatround(firedOrigin[1]));
-	write_coord(floatround(firedOrigin[2]));
+	engfunc(EngFunc_WriteCoord, firedOrigin[0]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[1]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[2]);
 	write_short(explosion1);
 	write_byte(64);
 	write_byte(230);
@@ -805,10 +947,10 @@ public fireShell(id, vIndex, shellType[], shellVelocity) {
 	new Float:Velocity[3];
 	VelocityByAim(id, shellVelocity, Velocity); // 1800-3000
 	entity_set_vector(RocketEnt, EV_VEC_velocity, Velocity);
-	
+
 	vector_to_angle(Velocity, Angle);
 	entity_set_vector(RocketEnt, EV_VEC_angles, Angle);
-	
+
 	new Float:aVelocity[3];
 	aVelocity[2] = 600.0; //spin shell
 	entity_set_vector(RocketEnt, EV_VEC_avelocity, aVelocity);
@@ -820,19 +962,17 @@ public fireShell(id, vIndex, shellType[], shellVelocity) {
 
 public fireConcCannon(id, vIndex) {
 
-	CanShoot[id] = false;
-
 	new Float:firedOrigin[3], Float:firedOffset[3];
-	firedOffset[0] = float(vehicleWPN1_X[vIndex]); // forwards
-	firedOffset[1] = float(vehicleWPN1_Y[vIndex]); // side
-	firedOffset[2] = float(vehicleWPN1_Z[vIndex]); // up
+	firedOffset[0] = float(vehicleWPN1_0[vIndex]); // forwards
+	firedOffset[1] = float(vehicleWPN1_1[vIndex]); // side
+	firedOffset[2] = float(vehicleWPN1_2[vIndex]); // up
 	get_position(userVehicle[id], firedOffset[0], firedOffset[1], firedOffset[2], firedOrigin);
 
 	message_begin(MSG_BROADCAST ,SVC_TEMPENTITY);
 	write_byte(TE_SMOKE);
-	write_coord(floatround(firedOrigin[0]));
-	write_coord(floatround(firedOrigin[1]));
-	write_coord(floatround(firedOrigin[2]));
+	engfunc(EngFunc_WriteCoord, firedOrigin[0]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[1]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[2]);
 	write_short(smoke);
 	write_byte(64);
 	write_byte(10);
@@ -878,19 +1018,18 @@ public fireConcCannon(id, vIndex) {
 }
 
 public fireGuidedMissile(id, vIndex) {
-	CanShoot[id] = false;
 
 	new Float:firedOrigin[3], Float:firedOffset[3];
-	firedOffset[0] = float(vehicleWPN1_X[vIndex]); // forwards
-	firedOffset[1] = float(vehicleWPN1_Y[vIndex]); // side
-	firedOffset[2] = float(vehicleWPN1_Z[vIndex]); // up
+	firedOffset[0] = float(vehicleWPN1_0[vIndex]); // forwards
+	firedOffset[1] = float(vehicleWPN1_1[vIndex]); // side
+	firedOffset[2] = float(vehicleWPN1_2[vIndex]); // up
 	get_position(userVehicle[id], firedOffset[0], firedOffset[1], firedOffset[2], firedOrigin);
 
 	message_begin(MSG_BROADCAST ,SVC_TEMPENTITY);
 	write_byte(TE_SMOKE);
-	write_coord(floatround(firedOrigin[0]));
-	write_coord(floatround(firedOrigin[1]));
-	write_coord(floatround(firedOrigin[2]));
+	engfunc(EngFunc_WriteCoord, firedOrigin[0]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[1]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[2]);
 	write_short(smoke);
 	write_byte(96); //scale
 	write_byte(10);	//framerate
@@ -971,9 +1110,9 @@ public weaponTouch(touched, toucher, className[], maxDamage, damageRadius, guide
 
 	message_begin(MSG_BROADCAST, SVC_TEMPENTITY); // explosion sprite
 	write_byte(TE_SPRITE);
-	write_coord(floatround(EndOrigin[0]));
-	write_coord(floatround(EndOrigin[1]));
-	write_coord(floatround(EndOrigin[2]) + 128);
+	engfunc(EngFunc_WriteCoord, EndOrigin[0]);
+	engfunc(EngFunc_WriteCoord, EndOrigin[1]);
+	engfunc(EngFunc_WriteCoord, EndOrigin[2] + 128);
 	write_short(explosion);
 	write_byte(30);
 	write_byte(255);
@@ -981,9 +1120,9 @@ public weaponTouch(touched, toucher, className[], maxDamage, damageRadius, guide
 
 	message_begin(MSG_BROADCAST, SVC_TEMPENTITY); // smoke
 	write_byte(TE_SMOKE);
-	write_coord(floatround(EndOrigin[0]));
-	write_coord(floatround(EndOrigin[1]));
-	write_coord(floatround(EndOrigin[2]) + 256);
+	engfunc(EngFunc_WriteCoord, EndOrigin[0]);
+	engfunc(EngFunc_WriteCoord, EndOrigin[1]);
+	engfunc(EngFunc_WriteCoord, EndOrigin[2] + 256);
 	write_short(smoke);
 	write_byte(125);
 	write_byte(5);
@@ -1001,7 +1140,7 @@ public weaponTouch(touched, toucher, className[], maxDamage, damageRadius, guide
 
 			distance = get_distance(PlayerPos, NonFloatEndOrigin);
 			if (distance <= damageRadius) { // damage radius
-				message_begin(MSG_ONE, get_user_msgid("ScreenShake"), {0,0,0}, i);  // shake
+				message_begin(MSG_ONE, get_user_msgid("ScreenShake"), {0,0,0}, i); // shake
 				write_short(1<<14);
 				write_short(1<<14);
 				write_short(1<<14);
@@ -1089,7 +1228,9 @@ public weaponTouch(touched, toucher, className[], maxDamage, damageRadius, guide
 		entity_get_string(touched, EV_SZ_classname, sz_classname, charsmax(sz_classname));
 
 		if (equal(sz_classname, "func_vehicle")) {
-			damage_vehicle(touched, className);
+			new Float:vVehicleOrigin[3];
+			entity_get_vector(userVehicle[entity_get_edict(toucher, EV_ENT_owner)], EV_VEC_origin, vVehicleOrigin);
+			damageVehicle(touched, className, vVehicleOrigin);
 		}
 	}
 
@@ -1102,8 +1243,7 @@ public weaponTouch(touched, toucher, className[], maxDamage, damageRadius, guide
 }
 
 /* vehicle bullets */
-stock Float:fpev(_index, _value)
-{
+stock Float:fpev(_index, _value) {
 	static Float:fl;
 	pev(_index, _value, fl);
 	return fl;
@@ -1127,9 +1267,9 @@ stock fireShot(id, vIndex, weaponClass[]) {
 	entity_get_vector(id, EV_VEC_angles, playerAngle);
 
 	static Float:firedOrigin[3], Float:firedOffset[3];
-	firedOffset[0] = float(vehicleWPN1_X[vIndex]); // forwards
-	firedOffset[1] = float(vehicleWPN1_Y[vIndex]); // side
-	firedOffset[2] = float(vehicleWPN1_Z[vIndex]); // up
+	firedOffset[0] = float(vehicleWPN1_0[vIndex]); // forwards
+	firedOffset[1] = float(vehicleWPN1_1[vIndex]); // side
+	firedOffset[2] = float(vehicleWPN1_2[vIndex]); // up
 	get_position(userVehicle[id], firedOffset[0], firedOffset[1], firedOffset[2], firedOrigin);
 
 	playerAngle[0] *= -1.0;
@@ -1166,7 +1306,7 @@ stock fireShot(id, vIndex, weaponClass[]) {
 		entity_get_string(pHit, EV_SZ_classname, sz_classname, charsmax(sz_classname));
 
 		if (equal(sz_classname, "func_vehicle")) {
-			damage_vehicle(pHit, weaponClass);
+			damageVehicle(pHit, weaponClass, firedOrigin);
 		}
 	}
 
@@ -1196,43 +1336,30 @@ stock fireShot(id, vIndex, weaponClass[]) {
 		}
 	}
 
-	tracer(firedOrigin, vecEndPos);
-	gunshot(vecEndPos, pHit);
-	free_tr2(tr);
-	return true;
-}
-
-tracer(Float:startF[3], Float:endF[3]) {
-	new start[3], end[3];
-	FVecIVec(startF, start);
-	FVecIVec(endF, end);
 	message_begin(MSG_BROADCAST, SVC_TEMPENTITY);
 	write_byte(TE_TRACER);
-	write_coord(start[0]);
-	write_coord(start[1]);
-	write_coord(start[2]);
-	write_coord(end[0]);
-	write_coord(end[1]);
-	write_coord(end[2]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[0]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[1]);
+	engfunc(EngFunc_WriteCoord, firedOrigin[2]);
+	engfunc(EngFunc_WriteCoord, vecEndPos[0]);
+	engfunc(EngFunc_WriteCoord, vecEndPos[1]);
+	engfunc(EngFunc_WriteCoord, vecEndPos[2]);
 	message_end();
-}
 
-gunshot(Float:originF[3], hit) {
-	if (!pev_valid(hit)) {
-		hit = 0;
+	if (!pev_valid(pHit)) {
+		pHit = 0;
 	}
-	if (!ExecuteHam(Ham_IsBSPModel, hit)) {
-		return;
+	if (ExecuteHam(Ham_IsBSPModel, pHit)) {
+		message_begin(MSG_BROADCAST, SVC_TEMPENTITY);
+		write_byte(TE_GUNSHOT);
+		engfunc(EngFunc_WriteCoord, vecEndPos[0]);
+		engfunc(EngFunc_WriteCoord, vecEndPos[1]);
+		engfunc(EngFunc_WriteCoord, vecEndPos[2]);
+		message_end();
 	}
-	new origin[3];
-	FVecIVec(originF,origin);
 
-	message_begin(MSG_BROADCAST, SVC_TEMPENTITY);
-	write_byte(TE_GUNSHOT);
-	write_coord(origin[0]);
-	write_coord(origin[1]);
-	write_coord(origin[2]);
-	message_end();
+	free_tr2(tr);
+	return true;
 }
 
 public load_config() {
@@ -1272,11 +1399,11 @@ public load_config() {
 						}
 
 						vehicleHPs[id_index] = str_to_num(vehicle_hp);
-						vehicleWPN1_X[id_index] = str_to_num(vehicle_wpn1_x);
-						vehicleWPN1_Y[id_index] = str_to_num(vehicle_wpn1_y);
-						vehicleWPN1_Z[id_index] = str_to_num(vehicle_wpn1_z);
+						vehicleWPN1_0[id_index] = str_to_num(vehicle_wpn1_x);
+						vehicleWPN1_1[id_index] = str_to_num(vehicle_wpn1_y);
+						vehicleWPN1_2[id_index] = str_to_num(vehicle_wpn1_z);
 
-						server_print("Loaded: %s - %d - %d - %d - %d - %d - %d", vehicleNames[id_index], vehicleTypes[id_index], vehicleHPs[id_index], vehicleWeaponTypes[id_index], vehicleWPN1_X[id_index], vehicleWPN1_Y[id_index], vehicleWPN1_Z[id_index])
+						//server_print("Loaded: %s - %d - %d - %d - %d - %d - %d", vehicleNames[id_index], vehicleTypes[id_index], vehicleHPs[id_index], vehicleWeaponTypes[id_index], vehicleWPN1_0[id_index], vehicleWPN1_1[id_index], vehicleWPN1_2[id_index])
 
 						if  (is_valid_ent(vehicleIds[id_index])) {
 							drop_to_floor(vehicleIds[id_index]); // quick fix for some BROKEN maps
@@ -1296,15 +1423,13 @@ public load_config() {
 public delayedDroppedToFloor(args[]) {
 	new id_index = args[0];
 
-	new Float:vehicle_height = get_pdata_float(vehicleIds[id_index], m_iHeight, 4);
-	vehicleDefaultHeights[id_index] = vehicle_height;
+	vehicleDefaultHeights[id_index] = get_pdata_float(vehicleIds[id_index], m_iHeight, 4);
 
 	new Float:vVehicleOrigin[3];
-	entity_get_vector(vehicleIds[id_index], EV_VEC_origin, vVehicleOrigin)
+	entity_get_vector(vehicleIds[id_index], EV_VEC_origin, vVehicleOrigin);
 	vehicleDefaultOrigins[id_index] = vVehicleOrigin[2];
 
-	new Float:vVehicleSpeed = get_pdata_float(vehicleIds[id_index], m_iSpeed, 4);
-	vehicleDefaultSpeeds[id_index] = vVehicleSpeed;
+	vehicleDefaultSpeeds[id_index] = get_pdata_float(vehicleIds[id_index], m_iSpeed, 4);
 
 	// colors for darkening
 	new Float:renderColor[3];
@@ -1314,8 +1439,7 @@ public delayedDroppedToFloor(args[]) {
 	vehicleDefaultRenderModes[id_index] = entity_get_int(vehicleIds[id_index], EV_INT_rendermode);
 	vehicleDefaultRenderAmts[id_index] = entity_get_float(vehicleIds[id_index], EV_FL_renderamt);
 
-	server_print("Map defaults  %s - height %f / origin %f / speed %f", 
-		vehicleNames[id_index], vehicleDefaultHeights[id_index], vehicleDefaultOrigins[id_index], vehicleDefaultSpeeds[id_index])
+	//server_print("Map defaults  %s - height %f / origin %f / speed %f", vehicleNames[id_index], vehicleDefaultHeights[id_index], vehicleDefaultOrigins[id_index], vehicleDefaultSpeeds[id_index])
 }
 
 get_configfile(file[], len) {
