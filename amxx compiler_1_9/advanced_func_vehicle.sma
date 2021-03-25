@@ -24,6 +24,7 @@ new Float:defaultWeaponTruckHornDelay;
 new Float:defaultWeaponShipHornDelay;
 
 new explosion, explosion1, smoke, white, rocketsmoke;
+new bool:endOfRound;
 new bool:userAllowed[33];
 new userVehicle[33];
 new userControl[33];
@@ -152,6 +153,7 @@ public plugin_init() {
 		RegisterHam(Ham_OnControls, "func_vehicle", "FuncVehicle_OnControls", 1);
 
 		register_logevent("round_start", 2, "1=Round_Start");
+		register_logevent("round_end",2,"1=Round_End");
 		register_forward(FM_CmdStart, "forward_cmdstart");
 		register_forward(FM_PlayerPreThink, "forward_playerprethink");
 
@@ -213,8 +215,8 @@ public vehicleThink(id) {
 }
 
 public round_start() {
+	endOfRound = false;
 	new index = 0;
-
 	while (index < 63) {
 		new burn_task_id = 8397 + index;
 		if (task_exists(burn_task_id)) {
@@ -242,6 +244,10 @@ public round_start() {
 		}
 		index++;
 	}
+}
+
+public round_end() {
+	endOfRound = true;
 }
 
 public burn_vehicle(args[]) {
@@ -285,6 +291,10 @@ public FuncVehicle_OnUse(iVehicle, id) {
 }
 
 public FuncVehicle_OnControls(iVehicle, id) {
+	if (endOfRound) {
+		return HAM_IGNORED;
+	}
+
 	userVehicle[id] = iVehicle;
 	if (cs_get_user_team(id) != CS_TEAM_SPECTATOR) {
 		userAllowed[id] = true;
@@ -316,7 +326,7 @@ public plugin_precache() {
 }
 
 public forward_cmdstart(id, uc_handle) {
-	if (userAllowed[id] && is_user_alive(id) && cs_get_user_driving(id) > 0) {
+	if (!endOfRound && userAllowed[id] && is_user_alive(id) && cs_get_user_driving(id) > 0) {
 		static Button, OldButtons, fired_weapon;
 		Button = get_uc(uc_handle, UC_Buttons);
 		OldButtons = pev(id, pev_oldbuttons);
@@ -1449,3 +1459,4 @@ get_configfile(file[], len) {
 	format(file[strlen(file)], len - strlen(file), FILE_DOMCFG, map);
 	return file_exists(file);
 }
+
