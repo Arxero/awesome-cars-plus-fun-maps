@@ -215,12 +215,13 @@ public afk_action(id, alive, CsTeams:team)
 		new name[32]
 		get_user_name(id, name, sizeof name - 1)
 		client_print(0, print_chat, "%s%L", PREFIX, LANG_SERVER, "SPEC_TRANSFERRED", name)
+		set_pev(id, pev_solid, SOLID_NOT)
 
-		cs_reset_user_model(id)
-		set_pev(id, pev_solid, SOLID_SLIDEBOX)
-		set_rendering(id, kRenderFxNone, 0,0,0, kRenderTransAlpha, 255)
-		set_user_godmode(id)
-		set_user_footsteps(id, 0)
+		// cs_reset_user_model(id)
+		// set_pev(id, pev_solid, SOLID_SLIDEBOX)
+		// set_rendering(id, kRenderFxNone, 0,0,0, kRenderTransAlpha, 255)
+		// set_user_godmode(id)
+		// set_user_footsteps(id, 0)
 
 	} else if((g_in_afk[id] == true) && (cv_kick_time != 0)) {
 		if(g_afk_ticks[id] % WARNING_MESSAGE_MODULO == 0)
