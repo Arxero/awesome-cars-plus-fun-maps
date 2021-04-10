@@ -128,6 +128,11 @@ public event_round_start() {
 		if (is_user_alive(id)) {
 			set_task(1.0, "back_item", id+TASK_BACK);
 		}
+
+		new CsTeams:current_team = cs_get_user_team(id);
+		if (current_team != CS_TEAM_T && current_team != CS_TEAM_CT) {
+			set_pev(id, pev_solid, SOLID_NOT);
+		}
 	}
 }
 
@@ -260,10 +265,13 @@ public ghost(id) {
 public make_ghost(tid) {
 	new id = (tid - TASK_RESPAWN);
 	if (!is_user_alive(id) && !end_round) {
-		is_ghost[id] = true;	
-		old_team[id] = cs_get_user_team(id);
-		cs_set_user_team(id, CS_TEAM_SPECTATOR);
-		set_task(3.0, "ghost_respawn", id + TASK_RESPAWN+1);
+		new CsTeams:current_team = cs_get_user_team(id);
+		if (current_team == CS_TEAM_T || current_team == CS_TEAM_CT) {
+			is_ghost[id] = true;
+			old_team[id] = current_team;
+			cs_set_user_team(id, CS_TEAM_SPECTATOR);
+			set_task(3.0, "ghost_respawn", id + TASK_RESPAWN+1);
+		}
 	}
 }
 
