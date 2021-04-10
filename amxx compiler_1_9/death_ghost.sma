@@ -129,9 +129,11 @@ public event_round_start() {
 			set_task(1.0, "back_item", id+TASK_BACK);
 		}
 
-		new CsTeams:current_team = cs_get_user_team(id);
-		if (current_team != CS_TEAM_T && current_team != CS_TEAM_CT) {
-			set_pev(id, pev_solid, SOLID_NOT);
+		if (is_user_connected(id)) {
+			new CsTeams:current_team = cs_get_user_team(id);
+			if (current_team != CS_TEAM_T && current_team != CS_TEAM_CT) {
+				set_pev(id, pev_solid, SOLID_NOT);
+			}
 		}
 	}
 }
