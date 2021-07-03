@@ -1,0 +1,535 @@
+[en]
+BaseNoSpawnedRunes = [Runemod] Players have %d runes, and there are still %d runes in the world
+BaseDMRunesSpawned = [Runemod] %d Runes on players, %d on world. Spawning %d/%d new
+BaseRunesSpawnedNames = [Runemod] %s was spawned
+BaseRunesSpawned = [Runemod] There is %d runes in world, spawning %d new runes
+BaseDropItemChat = [Runemod] Please bind a button to dropitem instead of using chat to do it
+BaseDropedRune = [Runemod] You have dropped your %s rune
+BaseNoRuneToDrop = [Runemod] You dont have a rune to drop
+BaseCantPickUp = [Runemod] You cant pickup %s you allready have %s
+BasePickUpRune = [Runemod] You have picked up the %s rune
+BasePickUpOneTimeRune = You picked up %s
+BaseRunesOnPlayersTitle = Runes in player control:
+BaseRunesOnPlayers = There are %d runes held by players
+BaseCannotDrop = [Runemod] You cannot drop this rune ( automatically removed on round end )
+BaseGenHtmlFile = [Runemod] Generated a runelist html file in %s
+
+ControlUnKnownError = [Runemod] Unknown error has happend
+ControlRuneIsEnabled = [Runemod] Rune was allready enabled
+ControlRuneIsDisabled = [Runemod] Rune was allready disabled
+ControlEnableRune = [Runemod] Rune with index %d is now enabled
+ControlDisableRune = [Runemod] Rune with index %d is now disabled
+ControlWrongCommand = [Runemod] You entered a wrong command, valid commands are: amx_rmc <reload/pause/unpause/enable or disable <IndexOfRune>
+ControlShutDown = [Runemod] accepted the shutdown command
+ControlReload = [Runemod] Runemod as Successfully loaded runemod cvar settings(This may take 1 round to take effect)
+ControlReloadFailed = [Runemod] Runemod has failed to load the new settings, base plugin paused?
+
+PowerStateCoolDown = PowerState: In Cooldown(%d left)
+PowerStateReady = PowerState: Ready
+PowerStateActive = PowerState: Active (%d)
+
+LowRecoilName = Low Recoil
+LowRecoilDisc = You have a lower recoil firing weapons
+
+DismayName = Dismay
+DismayDesc = Enemies loose HP when attack you
+
+SelfExplodeName = Self Explode
+Self ExplodeDisc = You explode when you pick this rune up
+
+HighRecoilName = High recoil
+HighRecoilDisc = You have a high recoil firing weapons
+
+LifeDrainName =Life Drain
+LifeDrainDisc = You slowly loose life
+
+WeaknessName = Weakness
+WeaknessDisc = You do 30% less damage with all weapons
+
+SpyName = Spy
+SpyDisc = You see closed enemy on radar, and see status of them when looking at them
+
+BadTreasureName = Money Stealer
+BadTreasureMoneyTaken = [Runemod] You just lost %d $
+
+NoPrimaryName = No Primary Weapon
+NoPrimaryDisc = You cannot have a hold a primary weapon when you have this rune
+NoPrimaryWeaponDroped = [Runemod] This rune prevents you from having a primary weapon
+
+UnlimitedAmmoName = Unlimited Ammo
+UnlimitedAmmoDesc = [*] Temporarily gives you unlimited ammo
+UnlimitedAmmoSwitchedWeapon = [Runemod] You switched weapon, and your power is now in cooldown
+UnlimitedAmmoStart = [Runemod] Starting unlimited ammo
+
+VampirismName = Vampirism
+VampirismDesc = You steal part of the damage you deal out
+VampirismStoleHP = You took %d health from %s
+
+FearName = Fear
+FearDesc = Looking at enemies makes them move slower & shake
+FearMakeShake = [Runemod] You make %s shake in fear
+FearGetsShaken = [Runemod] %s makes you shake in fear
+
+FeatherName = Feather
+FeatherDisc = Increased speed, and lower gravity
+
+FrenzyName = Frenzy
+FrenzyDesc = You get a damage increase for everyone you kill
+FrenzyCurDmgIncr = [Runemod] You damage increase is now %s%
+
+HEMasterName = HE Master
+HEMAsterDesc = HE Grenades do extra dmg, and you can aim them
+
+HunterName = Hunter
+HunterDesc = No footstep sounds & knife instant kill
+
+InvisibilityName = Invisibility
+InvisibilityDesc = [*] Using knife makes you go invisible
+InvisibilityActive =  PowerState: You are invisible now(%d left)
+InvisibilityVisable = [Runemod] You are visable
+
+InvulnerabillityName = Invulnerabillity
+InvulnerabillityDesc = [*] Using the knife gives you invulnerabillity +extra damage/speed
+InvulnerabillityRage = PowerState: You are raged(%d left)
+InvulnerabillityPowerActive = [Runemod] Power is active
+InvulnerabillityPowerDeactive = [Runemod] Power is deactive
+
+KamikazeName = Kamikaze
+KamikazeDesc = You explode when you die
+
+KineticsName = Kinetics
+KineticsDesc = [*] Using knife flight & you steal money with pistols
+KineticsNoAmmo = [Runemod] %s does not have any money to steal
+KineticsAmmoFull = [Runemod] You allready have %d, and cant steal from %s
+KineticsStole = [Runemod] You have stolen %d$ from %s
+KineticsStoleFromPlayer = [Runemod] %s stole %d$ from you
+
+MedkitName = Medkit
+LongjumpName = Longjump
+
+NinjaName = Ninja
+NinjaDisc = Bunny Jump & Hook Mod(With knife, it can steal primary weapons)
+NinjaCantSteal = [Runemod] You cant steal weapons while having a primary weapon yourself
+NinjaStole = [Runemod] You stole the %s from %s
+NinjaNoPrimary = [Runemod] %s does not have a primary weapon to steal
+
+PhantomName = Phantom
+PhantomDisc = [*] Allows you to walk through walls
+PhantomTeleportBack = [Runemod] You where teleported back
+
+PoisonName = Poison
+PoisonDisc = Pistol & knives give extra residual damage
+PoisonDotOn = [Runemod] You have placed a DOT on %s
+
+PistoleerName = Pistoleer
+PistoleerDisc = Pistols knockback & adds 20% extra damage
+
+ProtectionName = Protection
+ProtectionDisc = Immunity to headshots/Flashban & Repel HE Nades
+ProtectionIgnoreFlash = [Runemod] You ignored the effect of a flashbang
+
+RedeemName = Redeem
+RedeemDisc = When you go below 50 HP you will be teleported away
+RedeemTelepAway = [Runemod] You where teleported away
+
+RegenerationName = Life
+RegenerationDisc = Your HP regenerates up to 160 (Other teammates to 100)
+
+ResistanceName = Resistance
+ResistanceDisc = You resist 50% of the damage dealt to you
+ResistanceResAmount = You resisted %d damage from %s
+
+SeerName = Seer
+SeerDisc = Holding a knife shows a line to the closest enemy
+
+SoulName = Soul
+SoulDisc = You get 100 HP when you kill someone
+SoulKilled = You have %.0f HP after killing %s
+
+SpeedName = Speed
+SpeedDisc = Increases your max speed by 100%
+
+StrengthName = Strength
+StrengthDisc = You do 40% more damage with rifles & pistols
+
+TeleportName = Teleport
+TeleportDisc = Teleport back to spawn with knife
+
+TheifName = Theif
+TheifDisc = You steal ammo from ppl you shot
+TheifStealing = [Runemod] %s is stealing ammo from you
+
+SmokeName = Smoke
+SmokeDisc = You are surrounded by smoke
+
+ArmorName = Armor
+TreasureName = Treasure
+
+NoBlockName = No Block
+NoBlockNameDisc = You can walk trough other players
+NoBlockActive = Active (%d)
+
+ConcretBootsName = Concret boots
+ConcretBootsDisc = You cannot move
+ConcretBootsActive = [Runemod] You picked up Concret boots and cannot move
+
+[de]
+BaseNoSpawnedRunes = [Runemod] Rune(n) bei Spieler(n) - %d, Rune(n) auf der Map - %d.
+BaseDMRunesSpawned = [Runemod] Rune(n) auf Spieler verteilt - %d, auf der Map - %d. Generiere %d/%d neu.
+BaseRunesSpawnedNames = [Runemod] %s wurde generiert.
+BaseRunesSpawned = [Runemod] Rune(n) in Benutzung - %d, somit werden keine neuen Runen generiert.
+BaseDropItemChat = [Runemod] Statt /droprune bitte Taste belegen.
+BaseDropedRune = [Runemod] Du hast die %s Rune fallen gelassen.
+BaseNoRuneToDrop = [Runemod] Du hast keine Rune zum Fallenlassen.
+BaseCantPickUp = [Runemod] Du kannst %s nicht aufheben. Du hast bereits %s.
+BasePickUpRune = [Runemod] Du hast die %s Rune aufgenommen.
+BasePickUpOneTimeRune = Du hast %s aufgenommen.
+BaseRunesOnPlayersTitle = Runen in Benutzung durch Spieler:
+BaseRunesOnPlayers = %d Rune(n) in Benutzung durch Spieler
+BaseCannotDrop = [Runemod] Du kannst diese Rune nicht fallenlassen (wird bei Rundenende automatisch entfernt) 
+BaseGenHtmlFile = [Runemod] HTML Runenliste in %s erzeugt 
+      
+ControlUnKnownError = [Runemod] Unbekannter Fehler ist aufgetreten.
+ControlRuneIsEnabled = [Runemod] Rune war bereits aktiviert.
+ControlRuneIsDisabled = [Runemod] Rune war bereits deaktiviert.
+ControlEnableRune = [Runemod] Rune mit Index %d ist nun aktiviert.
+ControlDisableRune = [Runemod] Rune mit Index %d ist nun deaktiviert.
+ControlWrongCommand = [Runemod] Du hast ein falsches Kommando eingegeben, gueltige Kommandos sind: amx_rmc <reload/pause/unpause/enable or disable <IndexOfRune>
+ControlShutDown = [Runemod] Kommando zum Herunterfahren akzeptiert.
+ControlReload = [Runemod] Runemod hat die CVar Einstellung erfolgreich geladen (Dauert 1 Runde fuer Aktivierung)
+ControlReloadFailed = [Runemod] Runemod hat die Einstellungen nicht erfolgreich geladen, evtl. Base Plugin pausiert?
+
+SpyName = Spion 
+SpyDisc = Nahe Feinde werden auf dem Radar sichtbar und Du siehst deren Status beim anschauen der Gegner 
+      
+SmokeName = Rauch 
+SmokeDisc = Du bist von Rauch umgeben 
+  
+BadTreasureName = Gelddieb 
+BadTreasureMoneyTaken = [Runemod] Du hast gerade $%d verloren 
+     
+NoPrimaryName = Keine Primaerwaffe 
+NoPrimaryDisc = Du kannst keine Primaerwaffe halten, wenn Du diese Rune besitzt 
+NoPrimaryWeaponDroped = [Runemod] Diese Rune verhindert den Besitz einer Primaerwaffe 
+      
+LowRecoilName = Geringer Rueckstoss 
+LowRecoilDisc = Du hast einen geringeren Rueckstoss beim Abfeuern von Schusswaffen 
+  
+SelfExplodeName = Selbstexplosion 
+Self ExplodeDisc = Du explodierst beim Aufnehmen dieser Rune 
+  
+HighRecoilName = Starker Rueckstoss 
+HighRecoilDisc = Du hast einen staerkeren Rueckstoss beim Abfeuern von Schusswaffen 
+      
+LifeDrainName = Lebensentzug 
+LifeDrainDisc = Du verlierst langsam Lebensengergie 
+    
+WeaknessName = Schwaeche 
+WeaknessDisc = Du machst 30% weniger Schaden mit allen Waffen 
+  
+DismayName = Schrecken
+DismayDesc = Dein Gegner verliert HP, wenn er Dich attackiert.
+
+PowerStateCoolDown = Energiezustand: Regenerierung (%d verbleibend)
+PowerStateReady = Energiezustand: Bereit
+PowerStateActive = Energiezustand: Aktiv (%d)
+
+UnlimitedAmmoName = Unbegrenzte Munition
+UnlimitedAmmoDesc = [*] Gibt Dir kurzzeitig unbegrenzte Munition
+UnlimitedAmmoSwitchedWeapon = [Runemod] Du hast Deine Waffe gewechselt, Energie wird aufgeladen
+UnlimitedAmmoStart = [Runemod] Starte unbegrenzte Munition
+
+VampirismName = Vampirismus
+VampirismDesc = Ein Teil des angerichteten Schadens bekommst Du zurueck.
+VampirismStoleHP = Du hast %d HP von %s abgesaugt.
+
+FearName = Furcht
+FearDesc = Wenn Du auf einen Gegner zielst, dann wird er langsamer und zittert.
+FearMakeShake = [Runemod] Du laesst %s vor Furcht erzittern.
+FearGetsShaken = [Runemod] %s laesst Dich aus Furcht erzittern.
+
+FeatherName = Feder
+FeatherDisc = Erhoehte Geschwindigkeit und geringere Schwerkraft.
+
+FrenzyName = Raserei
+FrenzyDesc = Du bekommst einen Schadensbonus fuer jeden den Du toetest.
+FrenzyCurDmgIncr = [Runemod] Dein Schadensbonus betraegt nun %s
+
+HEMasterName = Sprengmeister
+HEMAsterDesc = HE Granaten machen mehr Schaden, und Du kannst mit Ihnen zielen.
+
+HunterName = Jaeger
+HunterDesc = Keine Laufgeraeusch und Sofortkill mit Messer.
+
+InvisibilityName = Unsichtbarkeit
+InvisibilityDesc = [*] Die Benutzung des Messers macht Dich unsichtbar.
+InvisibilityActive =  Energiezustand: Du bist nun unsichtbar (%d verbleibend) 
+InvisibilityVisable = [Runemod] Du bist nun sichtbar.
+
+InvulnerabillityName = Unverwundbarkeit
+InvulnerabillityDesc = [*] Benutzung des Messers macht Dich unverwundbar + extra Schaden / Geschwindigkeit. 
+InvulnerabillityRage = Energiezustand: Du bist in Raserei (%d verbleibend) 
+InvulnerabillityPowerActive = [Runemod] Energie ist aktiviert
+InvulnerabillityPowerDeactive = [Runemod] Energie ist deaktiviert
+
+KamikazeName = Selbstmord
+KamikazeDesc = Du explodierst, wenn Du stirbst.
+
+KineticsName = Kinetik
+KineticsDesc = [*] Mit dem Messer kannst Du fliegen und Geld mit den Pisolen stehlen.
+KineticsNoAmmo = [Runemod] %s hat kein Geld zum Stehlen
+KineticsAmmoFull = [Runemod] Du hast bereits %d und kannst von %s nichts mehr stehlen 
+KineticsStole = [Runemod] Du hast %d von %s gestohlen
+KineticsStoleFromPlayer = [Runemod] %s hat %d von Dir gestohlen
+
+MedkitName = Erste Hilfe
+LongjumpName = Weiter Sprung
+
+NinjaName = Ninja
+NinjaDisc = Bunny Jump & Hook Mod (Mit Messer kannst du Primaerwaffen stehlen) 
+NinjaCantSteal = [Runemod] Du kannst keine Primaerwaffe stehlen, wenn Du selber eine hast
+NinjaStole = [Runemod] Du hast die %s von %s gestohlen
+NinjaNoPrimary = [Runemod] %s hat keine Primaerwaffen zum Stehlen
+
+PhantomName = Geist
+PhantomDisc = [*] Ermoeglicht es Dir, durch Waende zu gehen.
+PhantomTeleportBack = [Runemod] Du wurdest zurueckteleportiert
+
+PoisonName = Gift
+PoisonDisc = Pistole & Messer geben extra Schaden.
+PoisonDotOn = [Runemod] Du hast %s vergiftet
+
+PistoleerName = Pistoleer
+PistoleerDisc = Rueckstoss des Gegners bei Treffer + 20% extra Schaden.
+
+ProtectionName = Schutz
+ProtectionDisc = Immunitaet gegen Kopfschuesse, Flashbangs & HE Granaten.
+ProtectionIgnoreFlash = [Runemod] Du hast den Effekt einer Flashbang ignoriert
+
+RedeemName = Erloesung
+RedeemDisc = Wenn Du weniger als 50 HP hast, wirst Du zu einem Teamkameraden teleportiert.
+RedeemTelepAway = [Runemod] Du wurdest teleportiert
+
+RegenerationName = Leben
+RegeneratioDisc = Deine HP regenerieren sich auf 160 (Teamkaeraden auf 100)
+
+ResistanceName = Resistenz
+ResistanceDisc = Der Schaden auf Dich wird um 50% reduziert.
+ResistanceResAmount = Du hast %d Schaden von %s absorbiert
+
+SeerName = Durchblick
+SeerDisc = Durch Messer in der Hand zeigt eine Linie den naechsten Gegner.
+
+SoulName = Seele
+SoulDisc = Du bekommst wieder 100 HP wenn du einen Gegner toetest.
+SoulKilled = Du hast wieder %.0f nachdem Du %s getoetet hast
+
+SpeedName = Geschwindigkeit
+SpeedDisc = Erhoeht Deine maximale Geschwindigkeit um 100%.
+
+StrengthName = Staerke
+StrengthDisc = Du richtest 40% mehr Schaden mit Gewehren & Pistolen an.
+
+TeleportName = Teleport
+TeleportDisc = Bei Benutzung des Messers wirst Du zu Deinem Startpunkt teleportiert.
+
+TheifName = Dieb
+TheifDisc = Munitionsraub pro Treffer am Gegner mit Gutschrift auf eigenes Magazin.
+TheifStealing = [Runemod] %s stiehlt Munition von Dir
+
+SmokeName = Smoke
+SmokeDisc = You are surrounded by smoke
+
+SpyName = Spy
+SpyDisc = You see closed enemy on radar, and see status of them when looking at them
+
+ArmorName = Panzerung
+TreasureName = Schatz
+
+BadTreasureName = Money Stealer
+NoPrimaryName = No Primary Weapon
+NoPrimaryDisc = You cannot have a hold a primary weapon when you have this rune
+NoPrimaryWeaponDroped = [Runemod] This rune prevents you from having a primary weapon
+
+NoBlockName = Kein Block
+NoBlockNameDisc = Du kannst durch andere Spieler hindurch laufen
+NoBlockActive = Aktiv (%d)
+ 
+ConcretBootsName = Betonstiefel
+ConcretBootsDisc = Du kannst Dich nicht bewegen
+ConcretBootsActive = [Runemod] Du hast Betonstiefel aufgesammelt und kannst Dich nicht bewegen 
+
+[nl]
+BaseNoSpawnedRunes = [Runemod] Spelers hebben %d runes, en er zijn nog %d andere runes in de wereld
+BaseDMRunesSpawned = [Runemod] %d Runes op spelers, %d op de wereld. Spawning %d/%d nieuwe
+BaseRunesSpawnedNames = [Runemod] %s was spawned
+BaseRunesSpawned = [Runemod] Er zijn %d runes in de wereld, spawning %d nieuwe runes
+BaseDropItemChat = [Runemod] bind een knop to dropitem inplaats van het in de chat te doen
+BaseDropedRune = [Runemod] Je hebt je %s rune laten vallen
+BaseNoRuneToDrop = [Runemod] Je hebt geen rune om te laten vallen
+BaseCantPickUp = [Runemod] Je kan geen %s oprapen , je hebt al een %s
+BasePickUpRune = [Runemod] Je hebt de %s rune opgeraapt
+BasePickUpOneTimeRune = Je hebt %s opgeraapt
+BaseRunesOnPlayersTitle = Runes die in een spelers bezit zijn:
+BaseRunesOnPlayers = Er zijn %d runes gedragen door de spelers
+BaseCannotDrop = [Runemod] Je kan deze rune niet laten vallen ( Automatisch verwijdert op einde van de ronde )
+BaseGenHtmlFile = [Runemod] Heeft een html bestand gegenereert in %s
+
+ControlUnKnownError = [Runemod] Een onbekende fout is opgedoken
+ControlRuneIsEnabled = [Runemod] Rune is al geladen
+ControlRuneIsDisabled = [Runemod] Rune is al ongeladen
+ControlEnableRune = [Runemod] Rune met index %d is nu geladen
+ControlDisableRune = [Runemod] Rune with index %d is nu ongeladen
+ControlWrongCommand = [Runemod] Je hebt een verkeerde commando ingetikt, Geldige commandos zijn: amx_rmc <reload/pause/unpause/enable or disable <IndexOfRune>
+ControlShutDown = [Runemod] heeft de sluit opdracht geaccepteert
+ControlReload = [Runemod] Runemod heeft de cvars goed geladen(Dit kan een ronde in beslag nemen voor het effect heeft)
+ControlReloadFailed = [Runemod] Runemod heeft de nieuwe settings niet kunnen laden, heb je de basis plugin gepauzeerd?
+
+PowerStateCoolDown = PowerState: Aan het herladen(%d nog over)
+PowerStateReady = PowerState: Klaar
+PowerStateActive = PowerState: Actief (%d)
+
+LowRecoilName = Lage Recoil
+LowRecoilDisc = Je hebt een wapen met een lage recoil
+
+DismayName = Dismay
+DismayDesc = Vijanden verliezen Bloed wanneer ze je aanvallen
+
+SelfExplodeName = Zelf Explosie
+Self ExplodeDisc = Je ontploft wanneer je deze rune opraapt
+
+HighRecoilName = High recoil
+HighRecoilDisc = Je hebt een wapen met hoge recoil
+
+LifeDrainName =Life Drain
+LifeDrainDisc = Je verliest langzaam bloed
+
+WeaknessName = Zwakte
+WeaknessDisc = Je wapens zijn 30% minder sterk
+
+SpyName = Spion
+SpyDisc = Je ziet de dichtste vijanden op je radar, en je ziet hun status wanneer je ze aankijkt
+
+BadTreasureName = Geld Steler
+BadTreasureMoneyTaken = [Runemod] Je hebt juist %d $ verloren
+
+NoPrimaryName = Geen primaire wapen
+NoPrimaryDisc = Je kan niet Geen Primaire Wapen hebben wanneer je deze rune hebt
+NoPrimaryWeaponDroped = [Runemod] Deze rune zorgt ervoor dat je geen primaire wapen kan hebben
+
+UnlimitedAmmoName = Oneindige kogels
+UnlimitedAmmoDesc = [*] Geeft je tijdelijk oneindige kogels
+UnlimitedAmmoSwitchedWeapon = [Runemod] You hebt je wapen verwisselt, en je kracht is nu in Herladen
+UnlimitedAmmoStart = [Runemod] Starten van oneindige kogels
+
+VampirismName = Vampirism
+VampirismDesc = Je steelt een deel van de aanval dat je uitgeeft
+VampirismStoleHP = Je hebt %d bloed genomen van %s
+
+FearName = Angst
+FearDesc = Het aankijken van de vijand zorgt ervoor dat ze trager lopen en beven
+FearMakeShake = [Runemod] Je hebt %s laten beven in angst
+FearGetsShaken = [Runemod] %s heeft je laten beven van angst
+
+FeatherName = Veer
+FeatherDisc = Verhoogt je snelheid en verlaagt je zwaartekracht
+
+FrenzyName = Frenzy
+FrenzyDesc = Je aanval vergroot iedere keer dat je iemand dood
+FrenzyCurDmgIncr = [Runemod] Je verhoogde aanval is nu %s%
+
+HEMasterName = HE Master
+HEMAsterDesc = HE Grenades doen extra aanval, en je kan hen richten
+
+HunterName = Hunter
+HunterDesc = Je voetstappen hoort men niet meer en je dood mensen instantly met een mes
+
+InvisibilityName = Onzichtbaar
+InvisibilityDesc = [*] Messen gebruiken maken je onzichtbaar
+InvisibilityActive =  PowerState: Je bent nu onzichtbaar (%d nog over)
+InvisibilityVisable = [Runemod] Je bent weer zichtbaar
+
+InvulnerabillityName = Onsterfelijk
+InvulnerabillityDesc = [*] Messen zorgen ervoor dat je meer aanval doet en verhoogt je snelheid ook
+InvulnerabillityRage = PowerState: You are raged(%d left)
+InvulnerabillityPowerActive = [Runemod] Kracht is actief is active
+InvulnerabillityPowerDeactive = [Runemod] Kracht is niet meer actief
+
+KamikazeName = Zelfmoord
+KamikazeDesc = Je ontploft wanneer je doodgaat
+
+KineticsName = Kinetics
+KineticsDesc = [*] Je kan vliegen wanneer je mes gebruikt , en je steelt geld wanneer je pistolen gebruikt
+KineticsNoAmmo = [Runemod] %s heeft geen geld om te stelen
+KineticsAmmoFull = [Runemod] Je hebt al %d, en kan geen geld meer stelen van %s
+KineticsStole = [Runemod] Je hebt %d$ gestolen van %s
+KineticsStoleFromPlayer = [Runemod] %s heeft %d$ van je gestolen
+
+MedkitName = Medkit
+LongjumpName = Longjump
+
+NinjaName = Ninja
+NinjaDisc = Bunny Jump & Hook Mod(Met mes, Het kan primaire wapens stelen)
+NinjaCantSteal = [Runemod] Je kan geen primaire wapen stelen wanneer je al één hebt
+NinjaStole = [Runemod] Je hebt de %s gestolen van %s
+NinjaNoPrimary = [Runemod] %s heeft geen primaire wapen om te stelen
+
+PhantomName = Phantom
+PhantomDisc = [*] Laat je door muren lopen
+PhantomTeleportBack = [Runemod] Je bent terug geteleporteerd
+
+PoisonName = Poison
+PoisonDisc = Pistolen & messen geven je extra aanval
+PoisonDotOn = [Runemod] Je hebt een punt geplaatst op %s
+
+PistoleerName = Pistoleer
+PistoleerDisc = Pistolen duwt iemand weg en heeft 20% meer aanval
+
+ProtectionName = Protection
+ProtectionDisc = Immuun voor kogels in het hoofd en tegen Flashbangs en Repel Nades
+ProtectionIgnoreFlash = [Runemod] Je hebt het effect van een flashbang getrotseerd
+
+RedeemName = Redeem
+RedeemDisc = Wanneer je bloed valt onder 50% wordt je terug geteleporteerd
+RedeemTelepAway = [Runemod] Je bent weg geteleporteerd
+
+RegenerationName = Life
+RegenerationDisc = Je bloed wordt geregeneerd tot 160 (Van andere teammates tot 100)
+
+ResistanceName = Resistance
+ResistanceDisc = Je reflecteerd 50% van de aanval
+ResistanceResAmount = Je hebt %d van de aanval van %s geblokkeerd
+
+SeerName = Seer
+SeerDisc = Wanneer je een mes vast houdt tekent het een lijn op de dichste vijand
+
+SoulName = Soul
+SoulDisc = Je krijgt 100% van je bloed als je iemand dood
+SoulKilled = Je hebt %.0f bloed achter de dood van %s
+
+SpeedName = Speed
+SpeedDisc = Versnelt je snelheid met 100%
+
+StrengthName = Strength
+StrengthDisc = Je doet 40% meer aanval met rifles en pistolen
+
+TeleportName = Teleport
+TeleportDisc = Teleporteerd je terug om te spawnen met een mes
+
+TheifName = Theif
+TheifDisc = Je steelt kogels van mensen die je schiet
+TheifStealing = [Runemod] %s is kogels van je aan het stelen
+
+SmokeName = Smoke
+SmokeDisc = Je bent omsingeld door rook
+
+ArmorName = Armor
+TreasureName = Treasure
+
+ConcretBootsName = Conret boots
+ConcretBootsDisc = Je kunt niet bewegen
+ConcretBootsActive = [Runemod] Je pakte Concret boots en kunt niet bewegen
+
+NoBlockName = Niet Blokken
+NoBlockNameDisc = Je kunt door andere spelers lopen
+NoBlockActive = Aktief (%d)
