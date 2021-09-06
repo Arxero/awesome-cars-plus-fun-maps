@@ -307,7 +307,6 @@ public FuncVehicle_OnControls(iVehicle, id) {
 public plugin_precache() {  
 	precache_sound ("advanced_func_vehicle/car_horn.wav");
 	precache_sound ("advanced_func_vehicle/truck_horn.wav");
-	precache_sound ("advanced_func_vehicle/ship_horn.wav");
 	precache_model("models/rpgrocket.mdl");
 	precache_sound("weapons/rocketfire1.wav");
 	precache_sound("weapons/hks2.wav");
@@ -439,7 +438,7 @@ public forward_cmdstart(id, uc_handle) {
 				}
 				case VWEAPON_SHIP_HORN: {
 					if (checkDelay(id, vIndex, 15.0, false)) {
-						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/ship_horn.wav", defaultWeaponShipHornDelay, ATTN_NORM, 0, PITCH_NORM);
+						emit_sound(id, CHAN_ITEM, "advanced_func_vehicle/truck_horn.wav", defaultWeaponShipHornDelay, ATTN_NORM, 0, PITCH_NORM);
 						fired_weapon = true;
 					}
 				}
