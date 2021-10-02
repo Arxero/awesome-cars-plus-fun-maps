@@ -1,0 +1,26 @@
+"Vexd Disco"
+fr:"Discotheque Vexd"
+
+"- creates a disco where you are"
+fr:"- cree une discotheque ou vous etes"
+
+"[*(all)] - removes a disco"
+fr:"[*(toutes)] - supprime une discotheque"
+
+"Maximum limit of discos reached."
+fr:"Limite maximale de discotheques atteinte."
+
+"You can't create a disco when you are dead."
+fr:"Vous ne pouvez pas creer une discotheque lorsque vous etes mort."
+
+"You have created a disco."
+fr:"Vous avez cree une discotheque."
+
+"There is no disco to remove."
+fr:"Il n'y a aucune discotheque a supprimer."
+
+"You have removed %d disco(s)."
+fr:"Vous avez supprime %d discotheque(s)."
+
+"You have removed the lastest disco created (#%d)."
+fr:"Vous avez supprime la derniere discotheque cree (numero %d)."
