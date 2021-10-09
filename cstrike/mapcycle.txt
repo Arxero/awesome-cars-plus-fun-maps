@@ -16,7 +16,6 @@ big_city2
 bridge
 car_fight
 car_wars
-cars_assault
 cars_n_robots
 cart_attack
 cc_boathouse
@@ -27,6 +26,7 @@ city_of_roadrage2
 climb
 crazytank
 crazytank_x
+cs_assault
 cs_carzzz
 cs_jeep_rally2
 cs_militia
@@ -45,7 +45,6 @@ de_jeepathon6k
 de_lidl
 de_lostcars
 de_mon
-de_railroad
 de_tesco
 de_westwood
 fun_atraccions
@@ -59,7 +58,6 @@ gijoehq_cs
 gijoehq_de
 gmoney_cars_b4
 happyvalley_2nd_lt
-helipcotero_battle
 isengard_battle
 jp_cars
 junglerescue_b4
@@ -85,8 +83,11 @@ tankfight2
 the_big_rescue
 woohoo_cars
 
-de_dust2_2020
-ricewars
+de_dust2
+de_aztec
+de_nuke
+de_cbble
+
 
 ;blahhhh
 ;cs_evilcrazy
