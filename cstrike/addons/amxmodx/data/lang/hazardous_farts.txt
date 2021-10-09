@@ -1,0 +1,38 @@
+"Hazardous Farts - Sprite Missing"
+fr:"Pets Hasardeux - Sprite Manquant"
+
+"Hazardous Farts: WARNING! Sprite file ^"%s^" is missing on the server. Plugin locked."
+fr:"Pets Hasardeux : ATTENTION ! Le fichier sprite ^"%s^" est manquant sur le serveur. Plugin verrouille."
+
+"Hazardous Farts: WARNING! Sound file ^"%s^" doesn't exist on the server."
+fr:"Pets Hasardeux : ATTENTION ! Le fichier son ^"%s^" n'existe pas sur le serveur."
+
+"Hazardous Farts"
+fr:"Pets Hasardeux"
+
+"- makes you fart hazardously (bind a key to ^"hazardous_fart^")"
+fr:"- vous fait peter hasardeusement (bindez une touche sur ^"hazardous_fart^")"
+
+"The plugin ^"Hazardous Farts^" is disabled."
+fr:"Le plugin ^"Pets Hasardeux^" est inactif."
+
+"Only admins can make a hazardous fart."
+fr:"Seulement les admins peuvent faire un pet hasardeux."
+
+"You can't make a hazardous fart when you are dead."
+fr:"Vous ne pouvez pas faire un pet hasardeux lorsque vous etes mort."
+
+"You can't make a hazardous fart more than %d time(s) per each spawning."
+fr:"Vous ne pouvez pas faire un pet hasardeux plus de %d fois par apparition."
+
+"You can't make a hazardous fart now, you have to wait %.0f second(s)."
+fr:"Vous ne pouvez pas faire un pet hasardeux maintenant, vous devez attendre %.0f seconde(s)."
+
+"You have made a hazardous fart!"
+fr:"Vous avez fait un pet hasardeux !"
+
+"%s farted too hard and he blew up! Laugh at him!"
+fr:"%s a pete trop fortement et a implose ! Honte a lui !"
+
+"Error: Unable to create a hazardous fart."
+fr:"Erreur : impossible de creer un pet hasardeux."
