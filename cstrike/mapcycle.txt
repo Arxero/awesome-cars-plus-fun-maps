@@ -89,11 +89,11 @@ de_nuke
 de_cbble
 
 
-;blahhhh
-;cs_evilcrazy
-;cs_horror2
-;de_halloween_night
-;cs_rhs22
+blahhhh
+cs_evilcrazy
+cs_horror2
+de_halloween_night
+cs_rhs22
 
 ;cs_whiteXmas
 ;de_christmas

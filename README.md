@@ -71,10 +71,11 @@ Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob
 Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the christmas changes, just like in for sounds and knife config files.
 
 ## Switch to Halloween Theme
-Enable these two plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)
+Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)
 
     TreeSpawner.amxx
     present_halloween.amxx
+    death_ghost_halloween.amxx ; comment death_ghost.amxx - only used model is different
 
 Also uncomment those maps from `mapcycle.txt`
 
