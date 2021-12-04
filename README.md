@@ -40,6 +40,8 @@ Go to [this line](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/7785
     we_player_models_ext.amxx ; comment models_menu.amxx for this to work 
     we_christmas_lights.amxx
     we_grenades.amxx
+    we_bonusround.amxx
+
   
 also comment 
 

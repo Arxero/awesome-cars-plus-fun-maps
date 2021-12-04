@@ -13,8 +13,7 @@
 
 #define GET_MONEY(%0)		zp_cs_get_user_money(%0)
 #define SET_MONEY(%0,%1) 	zp_cs_set_user_money(%0,%1)
-#define GET_EXP(%0)			get_user_exp(%0)
-#define SET_EXP(%0,%1)		set_user_exp(%0, get_user_exp(%0) + %1)
+
 
 
 /*
@@ -154,14 +153,6 @@ new HamHook:g_HamHookTakeDamage;
 	native GET_MONEY(pPlayer)
 	native SET_MONEY(pPlayer, iValue)
 #endif
-#if defined ENABLED_SUPPORT_LEVELSYSTEM
-	native GET_EXP(pPlayer)
-	native SET_EXP(pPlayer, iValue)
-#endif
-
-#if SUPPORT_MOD == SUPPORT_HUEHUE
-	#include <rank_system_huehue>
-#endif
 
 #if SUPPORT_MOD == SUPPORT_CRX
 	#include <crxranks>
@@ -255,15 +246,6 @@ public Snowman_Reward(const pEntity, const pPlayer)
 	#if defined ENABLED_SUPPORT_BUYMENU
 		SET_MONEY(pPlayer, GET_MONEY(pPlayer) + GIVE_REWARD);
 	#endif	
-	#if defined ENABLED_SUPPORT_LEVELSYSTEM
-		SET_EXP(pPlayer, GET_EXP(pPlayer) + GIVE_EXP);
-	#endif	
-	#if SUPPORT_MOD == SUPPORT_HUEHUE
-		SET_EXP(pPlayer, GET_EXP(pPlayer) + GIVE_EXP)
-	#endif
-	#if SUPPORT_MOD == SUPPORT_CRX
-		SET_EXP(pPlayer, GET_EXP(pPlayer) + GIVE_EXP)
-	#endif
 }
 #if defined BR_BLOCK_DAMAGE && BR_BLOCK_DAMAGE == true
 public CBasePlayer_TraceAttack(pPlayer, pAttacker)
