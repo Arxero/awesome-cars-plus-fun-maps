@@ -33,11 +33,13 @@ cs_militia
 cs_rio
 csde_nokia
 de_airninja
+de_aztec
 de_bikinibottom_v2
 de_boatseason2c
 de_boxcar3
 de_carmageddon
 de_crazytank
+de_dust2
 de_eldorado
 de_farmrush
 de_jeepathon2k
@@ -83,21 +85,16 @@ tankfight2
 the_big_rescue
 woohoo_cars
 
-de_dust2
-de_aztec
-de_nuke
-de_cbble
 
+;blahhhh
+;cs_evilcrazy
+;cs_horror2
+;de_halloween_night
+;cs_rhs22
 
-blahhhh
-cs_evilcrazy
-cs_horror2
-de_halloween_night
-cs_rhs22
-
-;cs_whiteXmas
-;de_christmas
-;xmas_crazytank
-;xmas_lodge
-;xmas_nipperhouse
-;x-mas_tree
+cs_whiteXmas
+de_christmas
+xmas_crazytank
+xmas_lodge
+xmas_nipperhouse
+x-mas_tree

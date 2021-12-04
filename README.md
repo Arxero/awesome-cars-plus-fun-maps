@@ -47,6 +47,7 @@ also comment
     cso_emotion_v23.amxx
     TreeSpawner.amxx
     present_halloween.amxx
+    death_ghost_halloween.amxx
 
 ### Maps
 Edit [mapcycle.txt](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/mapcycle.txt) Just uncomment xmas maps in the bottom.
