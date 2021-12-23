@@ -4,7 +4,7 @@
 This is the Awesome Cars + Fun Maps as you see it today, I am sharing it with the world cause I do realize that one day it will not exist anymore and it would be a shame if all that effort spend in making it to be lost forever.
 
 Visit our links
-* [Forum](http://awesomecs.epizy.com/)
+* [Forum](http://awesomecs.gamewaver.com/)
 * [Old Forum](https://www.tapatalk.com/groups/awesomecs/)
 * [Forum topic about this repo](http://awesomecs.epizy.com/viewtopic.php?f=2&t=1504)
 * [Timeline](https://awesomecars-timeline.netlify.com/)
