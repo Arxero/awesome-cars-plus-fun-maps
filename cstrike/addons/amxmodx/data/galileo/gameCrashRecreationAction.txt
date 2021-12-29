@@ -1,0 +1,4 @@
+Game Crash Action Flag File
+
+See the cvar 'gal_game_crash_recreation'.
+Do not delete it.
