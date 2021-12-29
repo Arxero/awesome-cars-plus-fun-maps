@@ -207,6 +207,185 @@ Edit > Connection > FTP > Active mode > Active mode IP > User the folowwing Ip a
 4. Lod domain and get link to `cstrike` folder
 5. Update the value of `sv_downloadurl` "http://svdl2.myserv.eu/rented/81-27017/cstrike/" (example link) in your server `server.cfg` file
 
+# UFW and IP tables
+
+[How To Set Up a Firewall with UFW on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04)
+[How To List and Delete Iptables Firewall Rules](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)
+
+- List the currently configured iptables rules:
+
+        iptables -L
+
+- Add rule
+
+        sudo iptables -A INPUT -p udp -m udp --sport 27000:27030 --dport 1025:65355 -j ACCEPT
+        sudo iptables -A INPUT -p udp -m udp --sport 4380 --dport 1025:65355 -j ACCEPT
+
+- Delete rule
+
+        sudo iptables -D INPUT -p udp -m udp --sport 27000:27030 --dport 1025:65355 -j ACCEPT
+
+- Saving Changes
+
+        sudo ufw status
+        sudo /sbin/iptables-save
+
+
+- Add rule with `ufw` 
+
+        sudo ufw allow 27000:27030/tcp
+
+- No need for TeamViewer port to be allowed in the firewall
+
+
+# NGINX and sv_downloadurl setup
+[How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
+[Configuring an Nginx HTTPs Reverse Proxy on Ubuntu Bionic](https://www.scaleway.com/en/docs/tutorials/nginx-reverse-proxy/)
+
+
+1. Installing Nginx
+
+        sudo apt update
+        sudo apt install nginx
+        sudo ufw app list
+        sudo ufw allow 'Nginx HTTP'
+
+
+2. Setup Nginx
+Open the public folder of nginx in the file system
+
+        cd /var/www/
+
+3. here we would need to create a folder with the name of our website
+
+        sudo mkdir fastdl.gamewaver.com
+        cd fastdl.gamewaver.com
+
+4. Add A record in cloudflare for your domain
+
+5. Create symbolink link to your cstrike folder
+
+        sudo ln -s /home/steam/Steam/fastdl /var/www/fastdl.gamewaver.com
+
+6. Unlink the default page because we won't need it anymore you can also move or rename it so its not anymore used
+
+        sudo unlink /etc/nginx/sites-enabled/default
+
+7. Create new .conf file for our website
+
+        cd /etc/nginx/sites-available
+        nano fastdl.gamewaver.com.conf
+
+`fastdl.gamewaver.com.conf` 
+```conf
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /var/www/fastdl.gamewaver.com/fastdl;
+
+        server_name fastdl.gamewaver.com www.fastdl.gamewaver.com;
+
+        location / {
+                autoindex on;
+                autoindex_exact_size on;
+        }
+}
+
+```
+
+with this you will get 403 error from nginx and this is how to solve it
+
+```txt
+Another way to solve this issue is to allow Nginx to list directories if the index file is unavailable. Enable this module by adding the following entry to the configuration file.
+
+location / {
+autoindex on;
+autoindex_exact_size on;
+}
+NOTE: We do not recommend this method on publicly accessible servers.
+```
+
+8. Link `fastdl.gamewaver.com.conf` to `sites-enabled` directory
+
+        sudo ln -s /etc/nginx/sites-available/fastdl.gamewaver.com.conf /etc/nginx/sites-enabled/fastdl.gamewaver.com.conf
+
+And if you need to change something you have to change it in the file located in sites-available directory
+
+In the end this would be the result `http://fastdl.gamewaver.com/cstrike/`
+
+9. Restart Commands
+
+        sudo systemctl restart nginx
+        sudo systemctl reload nginx
+
+
+# Server startup script
+[Running Script or Command as Another User in Linux](https://www.baeldung.com/linux/run-as-another-user)
+
+1. Switch to steam user and create `start.sh` file in the home directory for example
+2. Give `start.sh` file permissions to be executable
+
+        chmod +x start.sh
+
+`start.sh`
+```sh
+echo "Running annie-script.sh as user $(whoami)"
+echo "Working directory is $(pwd)"
+```
+
+3. Switch to your main user and and run the script from it but on behave of `steam` one
+
+        su -c '/home/steam/start.sh' steam
+
+Use this command when you are logged in as main user and want to start/restart the server
+
+it would ask you for password and it should execute
+
+4. Disabling the Password Prompt
+Firstly, we open up the file /etc/pam.d/su with any text editor.
+
+        sudo nano /etc/pam.d/su
+
+Then, we’ll add the following lines into the file right after the line auth sufficient pam_rootok.so:
+
+        auth  [success=ignore default=1] pam_succeed_if.so user = steam
+        auth  sufficient                 pam_succeed_if.so use_uid user = <your main user>
+
+After you save it and execute the above command (in 3.) it should not ask you for a password for the steam user
+
+5. Update `start.sh` with the following:
+
+```sh
+screen -X -S csserver kill
+cd /home/steam/Steam/csserver
+screen -A -m -d -S csserver ./hlds_run -game cstrike +ip 192.168.0.11 +port 27017 +maxplayers 21 +sv_lan 0 -insecure -pingboost 3 +sys_ticrate 1030 -debug +condebug +map awesome_cars2
+echo "==========Server has been booted=========="
+```
+
+6. Run `start.sh` script on system startup
+
+[Run a Script on Startup in Linux](https://www.baeldung.com/linux/run-script-on-startup)
+First login as the user you want to execute the script from, then open crontab and add the required line at the bottom of the file
+
+        crontab -e
+        @reboot sh /home/steam/start.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
