@@ -98,7 +98,7 @@ If everything is ok, interrupt the server by typing quit or pressing CTRL+C.
     iptables -A INPUT -p udp -m udp --sport 27000:27030 --dport 1025:65355 -j ACCEPT
     iptables -A INPUT -p udp -m udp --sport 4380 --dport 1025:65355 -j ACCEPT
 
-# Problems and solutoins
+# Problems and solutions
 
 - P: this message when start server
 ```txt
@@ -155,7 +155,7 @@ See running screen sessions
 
 [How To Set Up vsftpd for a User's Directory on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-20-04)
 
-## vsftpd
+## [vsftpd](http://vsftpd.beasts.org/vsftpd_conf.html)
 
     sudo apt-get install vsftpd
     sudo nano /etc/vsftpd.conf
@@ -210,11 +210,12 @@ Edit > Connection > FTP > Active mode > Active mode IP > User the folowwing Ip a
 # UFW and IP tables
 
 [How To Set Up a Firewall with UFW on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04)
+
 [How To List and Delete Iptables Firewall Rules](https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules)
 
 - List the currently configured iptables rules:
 
-        iptables -L
+        sudo iptables -L
 
 - Add rule
 
@@ -235,11 +236,17 @@ Edit > Connection > FTP > Active mode > Active mode IP > User the folowwing Ip a
 
         sudo ufw allow 27000:27030/tcp
 
+- Enable disable firewall
+
+        sudo ufw enable
+        sudo ufw disable
+
 - No need for TeamViewer port to be allowed in the firewall
 
 
 # NGINX and sv_downloadurl setup
 [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
+
 [Configuring an Nginx HTTPs Reverse Proxy on Ubuntu Bionic](https://www.scaleway.com/en/docs/tutorials/nginx-reverse-proxy/)
 
 
@@ -274,7 +281,7 @@ Open the public folder of nginx in the file system
 7. Create new .conf file for our website
 
         cd /etc/nginx/sites-available
-        nano fastdl.gamewaver.com.conf
+        sudo nano fastdl.gamewaver.com.conf
 
 `fastdl.gamewaver.com.conf` 
 ```conf
@@ -291,10 +298,11 @@ server {
                 autoindex_exact_size on;
         }
 }
-
 ```
 
 with this you will get 403 error from nginx and this is how to solve it
+
+[How to fix NGINX 403 Forbidden](https://linuxhint.com/fix-nginx-403-forbidden/)
 
 ```txt
 Another way to solve this issue is to allow Nginx to list directories if the index file is unavailable. Enable this module by adding the following entry to the configuration file.
@@ -305,6 +313,7 @@ autoindex_exact_size on;
 }
 NOTE: We do not recommend this method on publicly accessible servers.
 ```
+Also make sure the user you are logged in have the correct permission to access the fastdl folder `chmod -R 777 fastdl`
 
 8. Link `fastdl.gamewaver.com.conf` to `sites-enabled` directory
 
@@ -349,8 +358,8 @@ Firstly, we open up the file /etc/pam.d/su with any text editor.
 
 Then, we’ll add the following lines into the file right after the line auth sufficient pam_rootok.so:
 
-        auth  [success=ignore default=1] pam_succeed_if.so user = steam
-        auth  sufficient                 pam_succeed_if.so use_uid user = <your main user>
+    auth  [success=ignore default=1] pam_succeed_if.so user = steam
+    auth  sufficient                 pam_succeed_if.so use_uid user = <your main user>
 
 After you save it and execute the above command (in 3.) it should not ask you for a password for the steam user
 
@@ -368,8 +377,8 @@ echo "==========Server has been booted=========="
 [Run a Script on Startup in Linux](https://www.baeldung.com/linux/run-script-on-startup)
 First login as the user you want to execute the script from, then open crontab and add the required line at the bottom of the file
 
-        crontab -e
-        @reboot sh /home/steam/start.sh
+    crontab -e
+    @reboot sh /home/steam/start.sh
 
 
 
