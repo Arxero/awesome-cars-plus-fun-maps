@@ -381,6 +381,25 @@ First login as the user you want to execute the script from, then open crontab a
     @reboot sh /home/steam/start.sh
 
 
+# Gametacker.com setup, migrating old IP to a new one with DNS the feature
+
+[How do I migrate player stats or rank between server pages?](https://www.gametracker.com/forums/forum.php?site=1&thread=108256)
+
+[The dns (domain) name simply represents an IP address.](https://www.gametracker.com/forums/forum.php?site=1&post=416647#post416654)
+
+1. Go to the original server page and enter your DNS address.
+2. Point the DNS to the new IP at your DNS provider.
+
+    - At this point you might notice some discrepancy when you load your gametracekr page with old ip or domain name which is okay.
+    - When you load the gametracker link with the new IP (the one you put in your dns provider, Step 2) it will say no such server exist therefore:
+
+3. Add your server in gametracker and claim it
+4. Wait until that new server you added is deleted and all the stats and ranked is trasnfered to your gt page with the domain ip like > https://www.gametracker.com/server_info/ac.gamewaver.com:27017/, this might take some time like some hours or even until next day rank is adjusted for gt servers.
+
+
+
+
+
 
 
 
