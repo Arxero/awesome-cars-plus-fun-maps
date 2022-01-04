@@ -150,6 +150,12 @@ See running screen sessions
 - P: terminal does not my username that I created with `useradd`
 - [S:](https://askubuntu.com/questions/388440/why-is-there-no-name-showing-at-the-command-line) sudo chsh -s /bin/bash `<username>` 
 
+- P: When upload file/folder with ftp it has wrong permission
+- [S](https://serverfault.com/a/573056): add these two setting to `/etc/vsftpd.conf`
+
+    file_open_mode=0777
+    local_umask=002
+
 
 # Setup FTP access
 
@@ -179,6 +185,9 @@ listen_port=<ftp port>
 force_local_logins_ssl=NO
 force_local_data_ssl=NO
 use_localtime=YES
+
+file_open_mode=0777
+local_umask=002
 ```
 
     sudo systemctl restart vsftpd
