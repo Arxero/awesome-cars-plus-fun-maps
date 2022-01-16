@@ -140,7 +140,8 @@ Use the key sequence `Ctrl-a` + `Ctrl-d` to detach from the screen session.
 
 Reattach to the screen session by typing 
 
-    screen -r [session id/name].
+    screen -r [session id/name]
+    screen -r csserver
 
 See running screen sessions
 
