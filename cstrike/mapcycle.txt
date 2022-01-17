@@ -89,6 +89,7 @@ cars_assault
 de_railroad
 helipcotero_battle
 ricewars
+de_junglestrike
 
 ;blahhhh
 ;cs_evilcrazy
