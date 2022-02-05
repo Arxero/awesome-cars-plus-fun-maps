@@ -357,7 +357,7 @@ echo "Working directory is $(pwd)"
 
         su -c '/home/steam/start.sh' steam
 
-Use this command when you are logged in as main user and want to start/restart the server
+Use this command when you are logged in as main user and want to `start/restart the server`, must be executed from main user home directory `cd + enter`.
 
 it would ask you for password and it should execute
 
