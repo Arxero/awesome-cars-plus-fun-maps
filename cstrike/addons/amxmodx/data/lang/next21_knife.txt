@@ -1,0 +1,31 @@
+[ru]
+DHUD_BUY = Чтобы сменить нож нажмите B^n Чтобы купить предметы нажмите N
+
+ITEM_RET_HAVE = У вас уже есть этот предмет
+ITEM_RET_NOT = Невозможно купить предмет
+ITEM_RET_DEAD = Вы мертвы и не можете купить этот предмет
+ITEM_RET_ALIVE = Вы живы и не можете купить этот предмет
+
+ITEM_NOT_MONEY = Недостаточно денег
+
+SHOP_NAME = Магазин
+HATS_NAME = Шапки
+
+KNIFE_NEXT_ROUND = Вы сможете сменить нож только в следующем раунде
+KNIFE_ALREADY_HAVE = У вас уже есть этот нож
+
+[en]
+DHUD_BUY = to replace a knife click B^n to buy item click N
+
+ITEM_RET_HAVE = you already this item
+ITEM_RET_NOT = Cannot buy a item
+ITEM_RET_DEAD = you are dead and can't buy this item
+ITEM_RET_ALIVE = you are alive and can't buy this item
+
+ITEM_NOT_MONEY = Not enough money
+
+SHOP_NAME = Shop
+HATS_NAME = Hats
+
+KNIFE_NEXT_ROUND = you can replace a knife only in the following round
+KNIFE_ALREADY_HAVE = you already have this knife
