@@ -1,0 +1,89 @@
+[en]
+
+MSG_VOTE_AS_DISABLED = That feature has been disabled by the admin.
+
+MSG_VOTE_AS_VOTING = Currently voting.
+
+MSG_VOTE_AS_SOON = Can't start another vote so soon.
+
+MSG_VOTE_AS_SEMICOLONS = Cannot have ^";^"s in /vote command line.
+
+MSG_VOTE_AS_INVALID1 = You are not allowed to vote for ^"%s^"
+
+MSG_VOTE_AS_INVALID2 = For a list of things you can vote for, type /vote
+
+MSG_VOTE_AS_STARTED = %s started a vote.
+
+MSG_VOTE_AS_EXECUTE_Q = Execute ^"%s^" on server console?
+
+MSG_VOTE_AS_YES = Yes
+
+MSG_VOTE_AS_NO = No
+
+MSG_VOTE_AS_MAYBE = I'm too cool to vote
+
+MSG_VOTE_AS_EXECUTE = Executeing %s on server console.
+
+MSG_VOTE_AS_NO_EXECUTE = ~NOT~ Executeing %s on server console.
+
+MSG_VOTE_AS_ADVERTISE = To create a client vote for something to be executed on server console, type /vote
+
+[es]
+
+MSG_VOTE_AS_DISABLED = Esta caracteristica ha sido deshabilitada por el Admin.
+
+MSG_VOTE_AS_VOTING = Actualmente votando.
+
+MSG_VOTE_AS_SOON = No se puede iniciar otra votacion tan pronto.
+
+MSG_VOTE_AS_SEMICOLONS = No puedes tener ^";^"s en la linea de comando /vote .
+
+MSG_VOTE_AS_INVALID1 = No estas autorizado a votar por ^"%s^"
+
+MSG_VOTE_AS_INVALID2 = Para una lista de cosas que puedes votar, escribe /vote
+
+MSG_VOTE_AS_STARTED = %s empezo una votacion.
+
+MSG_VOTE_AS_EXECUTE_Q = Ejecutar ^"%s^" en la consola del servidor?
+
+MSG_VOTE_AS_YES = Si
+
+MSG_VOTE_AS_NO = No
+
+MSG_VOTE_AS_MAYBE = Soy lo Maximo como para votar
+
+MSG_VOTE_AS_EXECUTE = Executando %s en el servidor de la consola.
+
+MSG_VOTE_AS_NO_EXECUTE = ~No~ ejecutando %s en el servidor de la consola.
+
+MSG_VOTE_AS_ADVERTISE = Para crear una votacion de cliente para que algo se ejecute en el servidor de la consola, escribe /vote
+
+[de]
+
+MSG_VOTE_AS_DISABLED = Das Feature wurde von dem Admin deaktiviert.
+
+MSG_VOTE_AS_VOTING = Laufende Abstimmung.
+
+MSG_VOTE_AS_SOON = Kann keine weitere Abstimmung so frueh starten.
+
+MSG_VOTE_AS_SEMICOLONS = Kann keine ^";^"s in /vote Befehlszeilen haben.
+
+MSG_VOTE_AS_INVALID1 = Dir ist es nicht erlaubt fuer ^"%s^" abzustimmen
+
+MSG_VOTE_AS_INVALID2 = Schreibe /vote fuer eine Liste von Dingen, fuer die du abstimmen kannst
+
+MSG_VOTE_AS_STARTED = %s startete eine Abstimmung.
+
+MSG_VOTE_AS_EXECUTE_Q = Fuehre ^"%s^" in der Server Console aus?
+
+MSG_VOTE_AS_YES = Ja
+
+MSG_VOTE_AS_NO = Nein
+
+MSG_VOTE_AS_MAYBE = Ich bin zu cool zum Abstimmen
+
+MSG_VOTE_AS_EXECUTE = Fuehre %s in der Server Console aus.
+
+MSG_VOTE_AS_NO_EXECUTE = Fuehre %s ~NICHT~ in der Server Console aus.
+
+MSG_VOTE_AS_ADVERTISE = Schreibe /vote um eine Client Abstimmung zu erstellen fuer irgendwas, was in der Server Console ausgefuehrt werden soll
