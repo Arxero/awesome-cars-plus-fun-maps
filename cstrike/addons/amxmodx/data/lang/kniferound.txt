@@ -1,0 +1,35 @@
+[en]
+KR_STARTED = %s Kniferound has started!
+KR_WIN_CT = %s CT's win,they will decide to swap teams or not shortly!
+KR_WIN_T = %s T's win,they will decide to swap teams or not shortly!
+KR_SWITCH_TEAMS = %s The winning team decided to switch teams!
+KR_STAY_IN = %s The winning team decided to stay in!
+KR_VOTE_YES = %s %s voted for.
+KR_VOTE_NO = %s %s voted aganist.
+
+[ru]
+KR_STARTED = %s Nachalsya Round na nojax!
+KR_WIN_CT = %s CT viigrali! Oni viberyt: pomenyatsa komandami ili net!
+KR_WIN_T = %s T viigrali! Oni viberyt: pomenyatsa komandami ili net!
+KR_SWITCH_TEAMS = %s Viigravshaya komanda rewila pomenyatsa komandami!
+KR_STAY_IN = %s Viigravshaya komanda rewila ostatsya v etoi komande!
+KR_VOTE_YES = %s %s progolosoval za.
+KR_VOTE_NO = %s %s progolosoval protiv.
+
+[nl]
+KR_STARTED = %s kniferonde is gestart!
+KR_WIN_CT = %s CT's winnen, zij zullen beslissen of de teams worden veranderd of niet!
+KR_WIN_T = %s T's winnen, zij zullen beslissen of de teams worden veranderd of niet!
+KR_SWITCH_TEAMS = %s Het winnende team heeft besloten om de teams te veranderen!
+KR_STAY_IN = %s The winning team decided to stay in!
+KR_VOTE_YES = %s %s voted for.
+KR_VOTE_NO = %s %s voted aganist.
+
+[pl]
+KR_STARTED = %s Runda nozowa rozpoczeta !
+KR_WIN_CT = %s Anty-Terrorysci wygrali, juz nie dlugo beda mogli decydowac o zamianie zespolami!
+KR_WIN_T = %s Terrorysci wygrali, juz nie dlugo beda mogli decydowac o zamianie zespolami!
+KR_SWITCH_TEAMS = %s Zwyciezka druzyna postanowila zamienic sie zespolami!
+KR_STAY_IN = %s The winning team decided to stay in!
+KR_VOTE_YES = %s %s voted for.
+KR_VOTE_NO = %s %s voted aganist.
