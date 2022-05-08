@@ -75,7 +75,8 @@ public plugin_init() {
 	register_clcmd( "say /kniferound", "CmdKnifeRound", ADMIN_BAN, "Start Knife Round" );
 	register_clcmd( "say /rr", "CmdRestartRound", ADMIN_BAN, "Restart Round" );
 	register_clcmd( "say /swap", "CmdSwapTeams", ADMIN_BAN, "Swap teams" );
-	register_clcmd("kf", "CmdKnifeRound", ADMIN_BAN, "Swap teams" );
+	register_clcmd("kf", "CmdKnifeRound", ADMIN_BAN, "Start Knife Round" );
+	register_srvcmd("kf", "CmdKnifeRound", ADMIN_BAN, "Start Knife Round" );
 	
 	register_clcmd( "shield", "BlockCmds" );
 	register_clcmd( "cl_rebuy", "BlockCmds" );
