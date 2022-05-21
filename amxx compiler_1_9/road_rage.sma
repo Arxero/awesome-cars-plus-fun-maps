@@ -4,17 +4,22 @@
 */
 
 #include <amxmodx>
-#include <amxmisc>
-#include <colorchat>
-#include <fun>
-#include <cstrike>
 #include <hamsandwich>
+#include <cstrike>
+#include <fun>
 #include <fakemeta>
 #include <engine>
+#include <amxmisc>
+#include <colorchat>
 
 #define VERSION	"0.1"
 #define PLUGIN "Roadrage"
 #define AUTHOR "Maverick"
+
+enum(+=100) {
+	TASK_STRIP = 100,
+	TASK_BACK
+}
 
 new yes = 0;
 new no = 0;
@@ -23,8 +28,8 @@ new voteDelay;
 new voteTime;
 new isRoadRageOneRound;
 
-new gVoteMenu;
 new const tag[] = "[^1AMXX^4]^1";
+new const rrTag[] = "^3Roadrage^1";
 new const soundStartVote[] = "buttons/bell1.wav";
 new const soundVoteSuccess[] = "sank_sounds/woo.wav";
 new const soundVoteFail[] = "buttons/button10.wav";
@@ -36,6 +41,22 @@ new voteInitiator[64];
 new bool:isRoadRageOn = false;
 new bool:isRoadRageInProgress = false;
 new bool:isRoadRageEndInitiated = false;
+
+new const g_szMaps[][] =
+{
+	"most_wanted",
+	"most_wanteD2",
+	"fun_atraccions",
+	"fun_box",
+	"awesome_cars",
+	"awesome_cars2",
+	"nojarq_fun_zone",
+	"fun_cars",
+	"woohoo_cars",
+	"he_offroad",
+	"happyvalley_2nd_lt",
+	"he_glass"
+};
 
 public plugin_precache() {
 	precache_sound(soundStartVote);
@@ -62,10 +83,6 @@ public plugin_init() {
     voteDelay = register_cvar("rr_vote_delay","10.0");
     voteTime = register_cvar("rr_vote_time","5.0");
     isRoadRageOneRound = register_cvar("rr_one_round", "0");
-
-    // if (get_pcvar_num(isRoadRageOneRoundCvar) == 1) {
-    //     isRoadRageOneRound = true;
-    // }
 }
 
 public StartVote(id) {
@@ -74,12 +91,12 @@ public StartVote(id) {
         return PLUGIN_HANDLED;
     } else if (!isAllowedToVoteAgain) {
         client_cmd(0, "speak ^"sound/%s^"", soundVoteFail);
-        ColorChat(id, GREEN, "%s Not allowed to vote so soon again", tag);
+        ColorChat(id, GREEN, "%s Not allowed to vote so soon again, wait ^4%d ^1seconds!", tag, get_pcvar_num(voteDelay));
         return PLUGIN_HANDLED;
     }
     
     if (isRoadRageInProgress && !isRoadRageEndInitiated) {
-        ColorChat(id, GREEN, "%s Roadrage is already in progress", tag);
+        ColorChat(id, GREEN, "%s %s is already in progress", tag, rrTag);
         return PLUGIN_HANDLED;
     }
 
@@ -87,17 +104,18 @@ public StartVote(id) {
     isVoting = true;
     isAllowedToVoteAgain = false;
     get_user_name(id, voteInitiator, 63);
+    new g_menu
 
     if (isRoadRageEndInitiated) {
-        ColorChat(0, GREEN, "%s A vote to end Roadrage has been started by ^3%s", tag, voteInitiator);
-        gVoteMenu = menu_create("Disable Roadrage mode?", "menu_handler");
+        ColorChat(0, GREEN, "%s A vote to end %s has been started by ^4%s", tag, rrTag, voteInitiator);
+        g_menu = menu_create("Disable Roadrage mode?", "menu_handler");
     } else {
-        ColorChat(0, GREEN, "%s A vote for Roadrage has been started by ^3%s", tag, voteInitiator);
-        gVoteMenu = menu_create("Enable Roadrage mode?", "menu_handler");
+        ColorChat(0, GREEN, "%s A vote for %s has been started by ^4%s", tag, rrTag, voteInitiator);
+        g_menu = menu_create("Enable Roadrage mode?", "menu_handler");
     }
 
-    menu_additem(gVoteMenu, "Yes", "1", 0);
-    menu_additem(gVoteMenu, "No", "2", 0);
+    menu_additem(g_menu, "Yes", "1", 0);
+    menu_additem(g_menu, "No", "2", 0);
 
     new players[32], pnum, tempId;
     get_players(players, pnum);
@@ -105,25 +123,27 @@ public StartVote(id) {
     for (new i = 0; i < pnum; i++) {
         tempId = players[i]; 
         client_cmd(tempId, "speak ^"sound/%s^"", soundStartVote);
-        menu_display(tempId, gVoteMenu, 0);
+        menu_display(tempId, g_menu, 0);
     }
 
     set_task(get_pcvar_float(voteDelay),"allow_to_vote_again");
-    set_task(get_pcvar_float(voteTime), "EndVote");
+    new menuParam[1];
+    menuParam[0] = g_menu;
+    set_task(get_pcvar_float(voteTime), "EndVote", 0, menuParam);
     return PLUGIN_HANDLED;
 }
 
-public EndVote() {
+public EndVote(params[]) {
     ColorChat(0, GREEN, "%s Results from the vote: ^4%d - Yes ^1vs ^4%d - No", tag, yes, no);
     
     if (yes > no) {
         client_cmd(0, "speak ^"sound/%s^"", soundVoteSuccess);
 
         if (isRoadRageEndInitiated) {
-            ColorChat(0, GREEN, "%s Due to the result of the vote, Roadrage will be disabled next round", tag);
+            ColorChat(0, GREEN, "%s Due to the result of the vote, %s will be disabled next round", tag, rrTag);
             isRoadRageOn = false;
         } else {
-            ColorChat(0, GREEN, "%s Due to the result of the vote, the next round/s will be Roadrage", tag);
+            ColorChat(0, GREEN, "%s Due to the result of the vote, the next round/s will be %s", tag, rrTag);
             isRoadRageOn = true;
         }
     } else {
@@ -134,7 +154,9 @@ public EndVote() {
     isVoting = false;
     voteInitiator = "";
     show_menu(0, 0, "^n", 1);
-    menu_destroy(gVoteMenu);
+
+    // probably should destory menu even if it closes itself
+    // menu_destroy(params[0]);
 }
 
 // handle menu click results
@@ -160,20 +182,33 @@ public allow_to_vote_again() {
 }
 
 public event_round_start() {
-    if (!isRoadRageOn) {
-        return PLUGIN_HANDLED;
+    if (isRoadRageOn) {
+        ColorChat(0, GREEN, "%s %s has started. Enjoy ^4no weapons ^1and ^4bunny hop^1!", tag, rrTag);
+        client_cmd(0, "speak ^"sound/%s^"", soundStartRr);
+        isRoadRageInProgress = true;
     }
-
-    ColorChat(0, GREEN, "%s Roadrage has started. Enjoy ^4no weapons ^1and ^4bunny hop^1!", tag);
-    client_cmd(0, "speak ^"sound/%s^"", soundStartRr);
-    isRoadRageInProgress = true;
 
     new players[32], pnum, id; 
     get_players(players, pnum); 
 
     for (new i = 0; i < pnum; i++) {
         id = players[i];
-        set_task(0.1,"strip", id);
+
+        if (task_exists(id+TASK_STRIP)) {
+			remove_task(id+TASK_STRIP);
+		}
+
+        if (task_exists(id+TASK_BACK)) {
+			remove_task(id+TASK_BACK);
+		}
+
+        if (is_user_alive(id)) {
+            if (isRoadRageOn) {
+                set_task(1.2,"strip", id+TASK_STRIP);
+            } else {
+                set_task(1.0, "back_item", id+TASK_BACK);
+            }
+        }
     }
 
     return PLUGIN_CONTINUE;
@@ -197,7 +232,7 @@ public event_round_end() {
 public EndRoadrage(id) {
     if (isRoadRageInProgress) {
         if (get_pcvar_num(isRoadRageOneRound)) {
-            ColorChat(0, GREEN, "%s Can't vote to disable Roadrage when its only for one round", tag);
+            ColorChat(0, GREEN, "%s Can't vote to disable %s when its only for one round", tag, rrTag);
         } else {
             isRoadRageEndInitiated = true;
             StartVote(id);
@@ -205,11 +240,51 @@ public EndRoadrage(id) {
     }
 }
 
+// give user pistor according to their team after roadrage ends
+public back_item(id) {
+    id-=TASK_BACK;
+    give_item(id, "weapon_knife");
+
+    new szMap[32], bool:isKnifeMap
+	get_mapname(szMap, charsmax(szMap))
+
+	for(new i; i < sizeof(g_szMaps); i++)
+	{
+		if(equali(szMap, g_szMaps[i]))
+		{
+			isKnifeMap = true;
+			break;
+		}
+	}
+
+	if (isKnifeMap) {
+		return;
+	}
+
+    give_vip_items(id);
+
+    new CsTeams:current_team = cs_get_user_team(id);
+	switch(current_team){
+		case CS_TEAM_CT: {
+			give_item(id,"weapon_usp");
+			cs_set_user_bpammo(id, CSW_USP, 100);
+		}
+		case CS_TEAM_T: {
+			give_item(id,"weapon_glock18");
+			cs_set_user_bpammo(id, CSW_GLOCK18, 120);
+		}
+	}
+}
+
 // remove user weapons, but give him the VIP items if he is VIP
 public strip(id) {
-    strip_user_weapons(id)
+    id-=TASK_STRIP;
+    strip_user_weapons(id);
     give_item(id,"weapon_knife");
- 
+    give_vip_items(id);
+}
+
+public give_vip_items(id) {
     if (get_user_flags(id) & ADMIN_RESERVATION) {
         cs_set_user_armor(id, 100, CS_ARMOR_VESTHELM);
 	    give_item(id, "weapon_hegrenade");
@@ -217,20 +292,24 @@ public strip(id) {
 	    cs_set_user_bpammo(id, CSW_FLASHBANG, 2);
 	    give_item(id, "weapon_smokegrenade");
     }
-} 
+}
 
 // restrict use to buy weapons during roadrage
 public CS_OnBuyAttempt(id) {
     if (isRoadRageInProgress) {        
-	    client_print(id, print_center, "Buying weapons is not allowed during Roadage mode")
+	    client_print(id, print_center, "Buying weapons is not allowed during Roadage mode");
 	    return PLUGIN_HANDLED;
     }
 
     return PLUGIN_CONTINUE;
 }
 
-// restrict use from getting any weapon from ground during roadrage
+// restrict user from getting any weapon from ground during roadrage
 public disarm(id) {
+    if (!is_user_alive(id)) {
+        return PLUGIN_HANDLED;
+    }
+
 	new weaponid, ammo, wep;
     new weaponName[32];
 
@@ -238,12 +317,18 @@ public disarm(id) {
     get_weaponname(weaponid, weaponName, 31);
     new bool:isWepAllowed = equal(weaponName, "weapon_knife") || equal(weaponName, "weapon_smokegrenade") || equal(weaponName, "weapon_flashbang") || equal(weaponName, "weapon_hegrenade");
 	
+    if (task_exists(id+TASK_STRIP)) {
+		remove_task(id+TASK_STRIP);
+	}
+
 	if (isRoadRageInProgress && !isWepAllowed) {
 		client_print(id, print_center, "Can't pick up weapons during Roadage mode");
 		new params[2];
 		params[0] = id;
 		params[1] = weaponName[31];
-		set_task(0.2,"drop_weapon", 0, params, 2, "a", 1);	
+        set_task(0.5,"strip", id+TASK_STRIP);
+        // this for some odd reason crashes the server, therefore stip is used as an alternative
+		// set_task(0.3,"drop_weapon", 0, params, 2, "a", 1);	
 	}
 	
 	return PLUGIN_CONTINUE;
