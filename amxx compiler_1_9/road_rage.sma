@@ -12,7 +12,7 @@
 #include <amxmisc>
 #include <colorchat>
 
-#define VERSION	"0.1"
+#define VERSION	"0.2"
 #define PLUGIN "Roadrage"
 #define AUTHOR "Maverick"
 
@@ -154,9 +154,7 @@ public EndVote(params[]) {
     isVoting = false;
     voteInitiator = "";
     show_menu(0, 0, "^n", 1);
-
-    // probably should destory menu even if it closes itself
-    // menu_destroy(params[0]);
+    menu_destroy(params[0]);
 }
 
 // handle menu click results
@@ -172,7 +170,6 @@ public menu_handler(id, menu, item) {
 	}
 
     isVoting = false;
-    menu_destroy(menu);
     return PLUGIN_HANDLED;
 }
 
@@ -183,7 +180,7 @@ public allow_to_vote_again() {
 
 public event_round_start() {
     if (isRoadRageOn) {
-        ColorChat(0, GREEN, "%s %s has started. Enjoy ^4no weapons ^1and ^4bunny hop^1!", tag, rrTag);
+        ColorChat(0, GREEN, "%s %s has started. Enjoy ^4no weapons ^1and ^4bunny hop^1! Say ^3/endrr to end it.", tag, rrTag);
         client_cmd(0, "speak ^"sound/%s^"", soundStartRr);
         isRoadRageInProgress = true;
     }
