@@ -180,7 +180,7 @@ public allow_to_vote_again() {
 
 public event_round_start() {
     if (isRoadRageOn) {
-        ColorChat(0, GREEN, "%s %s has started. Enjoy ^4no weapons ^1and ^4bunny hop^1! Say ^3/endrr to end it.", tag, rrTag);
+        ColorChat(0, GREEN, "%s %s has started. Enjoy ^4no weapons ^1and ^4bunny hop^1! Say ^3/endrr ^1to end it.", tag, rrTag);
         client_cmd(0, "speak ^"sound/%s^"", soundStartRr);
         isRoadRageInProgress = true;
     }
@@ -192,7 +192,8 @@ public event_round_start() {
         id = players[i];
 
         if (task_exists(id+TASK_STRIP)) {
-			remove_task(id+TASK_STRIP);
+            // not removing the task cause grenades need to be replenished every round start
+			// remove_task(id+TASK_STRIP);
 		}
 
         if (task_exists(id+TASK_BACK)) {
@@ -279,6 +280,11 @@ public strip(id) {
     strip_user_weapons(id);
     give_item(id,"weapon_knife");
     give_vip_items(id);
+
+    give_item(id, "weapon_hegrenade");
+    cs_set_user_bpammo(id, CSW_HEGRENADE, 50);
+    give_item(id, "weapon_smokegrenade");
+    cs_set_user_bpammo(id, CSW_SMOKEGRENADE, 50);
 }
 
 public give_vip_items(id) {
@@ -315,7 +321,7 @@ public disarm(id) {
     new bool:isWepAllowed = equal(weaponName, "weapon_knife") || equal(weaponName, "weapon_smokegrenade") || equal(weaponName, "weapon_flashbang") || equal(weaponName, "weapon_hegrenade");
 	
     if (task_exists(id+TASK_STRIP)) {
-		remove_task(id+TASK_STRIP);
+		// remove_task(id+TASK_STRIP);
 	}
 
 	if (isRoadRageInProgress && !isWepAllowed) {
