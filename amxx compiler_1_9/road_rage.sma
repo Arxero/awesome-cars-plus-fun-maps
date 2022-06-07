@@ -204,6 +204,7 @@ public event_round_start() {
             if (isRoadRageOn) {
                 set_task(1.2,"strip", id+TASK_STRIP);
             } else {
+                client_print(0, print_console, "[AMXX] Back Item given");
                 set_task(1.0, "back_item", id+TASK_BACK);
             }
         }
