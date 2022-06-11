@@ -190,6 +190,7 @@ public event_round_start() {
 
     for (new i = 0; i < pnum; i++) {
         id = players[i];
+        // client_print(0, print_console, "[AMXX] Player id %d", id);
 
         if (task_exists(id+TASK_STRIP)) {
             // not removing the task cause grenades need to be replenished every round start
@@ -200,14 +201,20 @@ public event_round_start() {
 			remove_task(id+TASK_BACK);
 		}
 
-        if (is_user_alive(id)) {
-            if (isRoadRageOn) {
-                set_task(1.2,"strip", id+TASK_STRIP);
-            } else {
-                client_print(0, print_console, "[AMXX] Back Item given");
-                set_task(1.0, "back_item", id+TASK_BACK);
-            }
+        if (isRoadRageOn) {
+            set_task(1.2,"strip", id+TASK_STRIP);
+        } else {
+            set_task(1.0, "back_item", id+TASK_BACK);
         }
+
+        // commented cause it appear that player in not alive (is_user_alive(id) = false) at this point
+        // if (is_user_alive(id)) {
+        //     if (isRoadRageOn) {
+        //         set_task(1.2,"strip", id+TASK_STRIP);
+        //     } else {
+        //         set_task(1.0, "back_item", id+TASK_BACK);
+        //     }
+        // }
     }
 
     return PLUGIN_CONTINUE;
