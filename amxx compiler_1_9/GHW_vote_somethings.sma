@@ -38,7 +38,14 @@ new no
 new menusid
 new configfile[200]
 
-new pdelay, plasts, ptoggle, padvertise
+new pdelay, plasts, ptoggle, padvertise;
+
+new const clientCommands[][] =
+{
+	"amx_chicken *",
+	"amx_unchicken *",
+
+};
 
 public plugin_init()
 {
@@ -202,6 +209,12 @@ public tally()
 	if(yes>no)
 	{
 		client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_EXECUTE",votething)
+		if (isClientCommand(votething)) {
+			client_cmd(0, votething);
+
+			return PLUGIN_HANDLED;
+		}
+
 		server_cmd(votething)
 	}
 	else
@@ -214,4 +227,17 @@ public tally()
 public advertise()
 {
 	client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_ADVERTISE")
+}
+
+public isClientCommand(command[200]) {
+	new bool:isClientCommand = false;
+
+	for(new i = 0; i < sizeof(clientCommands); i++) {
+		if(equali(command, clientCommands[i])) {
+			isClientCommand = true;
+			break;
+		}
+	}
+
+	return isClientCommand;
 }

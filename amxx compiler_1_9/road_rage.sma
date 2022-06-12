@@ -206,15 +206,6 @@ public event_round_start() {
         } else {
             set_task(1.0, "back_item", id+TASK_BACK);
         }
-
-        // commented cause it appear that player in not alive (is_user_alive(id) = false) at this point
-        // if (is_user_alive(id)) {
-        //     if (isRoadRageOn) {
-        //         set_task(1.2,"strip", id+TASK_STRIP);
-        //     } else {
-        //         set_task(1.0, "back_item", id+TASK_BACK);
-        //     }
-        // }
     }
 
     return PLUGIN_CONTINUE;
@@ -254,10 +245,8 @@ public back_item(id) {
     new szMap[32], bool:isKnifeMap
 	get_mapname(szMap, charsmax(szMap))
 
-	for(new i; i < sizeof(g_szMaps); i++)
-	{
-		if(equali(szMap, g_szMaps[i]))
-		{
+	for(new i = 0; i < sizeof(g_szMaps); i++) {
+		if(equali(szMap, g_szMaps[i])) {
 			isKnifeMap = true;
 			break;
 		}
