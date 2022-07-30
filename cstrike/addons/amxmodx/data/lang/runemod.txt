@@ -470,7 +470,7 @@ LongjumpName = Longjump
 
 NinjaName = Ninja
 NinjaDisc = Bunny Jump & Hook Mod(Met mes, Het kan primaire wapens stelen)
-NinjaCantSteal = [Runemod] Je kan geen primaire wapen stelen wanneer je al één hebt
+NinjaCantSteal = [Runemod] Je kan geen primaire wapen stelen wanneer je al ï¿½ï¿½n hebt
 NinjaStole = [Runemod] Je hebt de %s gestolen van %s
 NinjaNoPrimary = [Runemod] %s heeft geen primaire wapen om te stelen
 
@@ -533,3 +533,12 @@ ConcretBootsActive = [Runemod] Je pakte Concret boots en kunt niet bewegen
 NoBlockName = Niet Blokken
 NoBlockNameDisc = Je kunt door andere spelers lopen
 NoBlockActive = Aktief (%d)
+
+GravityCrashName = Gravity Crash
+GravityCrashDesc = You have extreme gravity
+GravityCrashActive = [RuneMod] You picked up Gravity Crash
+
+RespawnName = Respawn
+RespawnDesc = You have a 50 percent chance to respawn
+RespawnSucceed = [RuneMod] You respawned
+RespawnFail = [RuneMod] You failed to respawn
