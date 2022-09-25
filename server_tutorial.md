@@ -126,6 +126,18 @@ The dumb thing? Sharing this library between client and server causes more probl
 - P: When you close terminal server goes offline
 - S: Use [Screen](https://linuxize.com/post/how-to-use-linux-screen/)
 
+- P: How to delete all the `.ztmp` files - (execute from the folder you want files gone - `cstrike`)
+    
+        find . -name "*.ztmp" -type f -delete
+
+- Update Ubuntu:
+
+        sudo apt update && sudo apt upgrade -y
+
+- Check hard diskspace in linux
+
+        ncdu
+
 Go in the folder of the server and use this command (first switch to `steam` user `sudo su - steam`)
 
         cd ~/Steam/csserver
@@ -245,6 +257,7 @@ Edit > Connection > FTP > Active mode > Active mode IP > User the folowwing Ip a
 - Add rule with `ufw` 
 
         sudo ufw allow 27000:27030/tcp
+        sudo ufw allow 27000:27030/udp
 
 - Enable disable firewall
 
