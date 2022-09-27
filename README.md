@@ -20,9 +20,6 @@ Visit our links
 
 
 [![gametracker.com](https://cache.gametracker.com/server_info/ac.gamewaver.com:27017/b_560_95_1.png)](https://www.gametracker.com/server_info/ac.gamewaver.com:27017/)
-
-[![gametracker.rs](https://banners.gametracker.rs/ac.gamewaver.com:27017/small/blue/banner.jpg)](https://www.gametracker.rs/server_info/ac.gamewaver.com:27017)
-
 ## Switch to Christmas Theme
 You need to change those files to enable it:
 
