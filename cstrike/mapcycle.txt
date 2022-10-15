@@ -40,7 +40,7 @@ de_boatseason2c
 de_boxcar3
 de_carmageddon
 de_crazytank
-de_dust2
+;de_dust2
 de_eldorado
 de_farmrush
 de_jeepathon2k
@@ -69,7 +69,6 @@ happyvalley_2nd_lt
 helipcotero_battle
 isengard_battle
 jp_cars
-jp_riverride
 junglerescue_b4
 lakehouse
 map_of_confusion
@@ -77,7 +76,6 @@ megacrazycar
 minicity
 most_wanteD2
 motorway2
-nd_watercars_v2
 nipperhouse
 nippers100
 nojarq_fun_zone
@@ -86,7 +84,6 @@ nw_gasstation
 ow_cc_crazytank
 peng!peng!_cars
 rr_meh
-rubber_sled
 ship_fight
 shipwreck
 space_battle_beta
@@ -99,15 +96,15 @@ thewhitewhale_v1
 woohoo_cars
 
 fy_m3loop_v1
-fy_desert_v1
-GravityWarBETA
 de_satellite11_v1
 
-;blahhhh
-;cs_evilcrazy
-;cs_horror2
-;de_halloween_night
-;cs_rhs22
+blahhhh
+cs_evilcrazy
+cs_horror2
+de_halloween_night
+cs_rhs22
+de_dust2_halloween_v2
+cs_evian
 
 ;cs_whiteXmas
 ;de_christmas

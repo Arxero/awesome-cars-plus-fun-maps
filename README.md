@@ -84,6 +84,8 @@ Also uncomment those maps from `mapcycle.txt`
     cs_horror2
     de_halloween_night
     cs_rhs22
+    de_dust2_halloween_v2
+    cs_evian
 
 Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini).
 
