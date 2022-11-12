@@ -75,6 +75,7 @@ Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plu
 
     TreeSpawner.amxx
     present_halloween.amxx
+    alt_end_round_sounds(beta).amxx
     death_ghost_halloween.amxx ; comment death_ghost.amxx - only used model is different
 
 Also uncomment those maps from `mapcycle.txt`
