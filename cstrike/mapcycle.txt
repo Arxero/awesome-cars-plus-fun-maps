@@ -40,7 +40,7 @@ de_boatseason2c
 de_boxcar3
 de_carmageddon
 de_crazytank
-;de_dust2
+de_dust2
 de_eldorado
 de_farmrush
 de_jeepathon2k
