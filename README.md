@@ -38,6 +38,7 @@ Go to [this line](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/7785
     we_christmas_lights.amxx
     we_grenades.amxx
     we_bonusround.amxx
+    death_ghost_christmas.amxx
 
   
 also comment 
@@ -63,12 +64,20 @@ Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/
 ### Sounds
 Edit [roundsound.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/roundsound.ini) just uncomment xmas sounds and comment the normal ones.
 
+Edit [SND-LIST.CFG](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/06750585424cb3153ad2adb5920bb94a159b57eb/cstrike/addons/amxmodx/configs/SND-LIST.CFG#L7) to enable `hoho` sound as welcome and in general chat
+
 ### Knife Models
 Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/KnifeModels.ini) just uncomment xmas knifes and comment the normal ones.
 
 ### Weapon Models and Player skins
 
 Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the christmas changes, just like in for sounds and knife config files.
+
+### MOTD background
+Open [Awesome-Cars-MOTD-Wiki]() repo and uncomment [this line](https://github.com/Arxero/Awesome-Cars-MOTD-Wiki/blob/f7e3b4316e41308c95747dc0a76ce0a376638847/style.css#L59).
+
+    cd /var/www/awesomecars-wiki.gamewaver.com/Awesome-Cars-MOTD-Wiki
+    git pull
 
 ## Switch to Halloween Theme
 Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)

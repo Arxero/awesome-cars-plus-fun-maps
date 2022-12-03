@@ -40,7 +40,7 @@ de_boatseason2c
 de_boxcar3
 de_carmageddon
 de_crazytank
-de_dust2
+;de_dust2
 de_eldorado
 de_farmrush
 de_jeepathon2k
@@ -58,7 +58,7 @@ fun_cars
 fun_gta
 fun_gulfofoman
 fun_zone
-fy_buzzkill
+;fy_buzzkill
 fy_cablecars3
 fy_jeepbattle
 gijoe_cars
@@ -76,7 +76,7 @@ megacrazycar
 minicity
 most_wanteD2
 motorway2
-nipperhouse
+;nipperhouse
 nippers100
 nojarq_fun_zone
 nojarq_neighborhood
@@ -107,12 +107,14 @@ de_satellite11_v1
 ;cs_evian
 ;ac_fun_halloween_v1
 
-;cs_whiteXmas
-;de_christmas
-;xmas_crazytank
-;xmas_lodge
-;xmas_nipperhouse
-;x-mas_tree
-;csb_snomowarz
-;de_dust2_xmas
-;35HP_XMAS2015
+cs_whiteXmas
+de_christmas
+xmas_crazytank
+xmas_lodge
+xmas_nipperhouse
+x-mas_tree
+csb_snomowarz
+de_dust2_xmas
+35HP_XMAS2015
+rush_xmas
+de_eggnog_lethal
