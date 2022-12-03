@@ -12,8 +12,8 @@
 #define AUTHOR  "Huehue"
 #define GAMETRACKER "we_player_models"
 
-#define VIP_FLAG	ADMIN_LEVEL_G
-#define ADMIN_FLAG 	ADMIN_LEVEL_C
+#define VIP_FLAG	ADMIN_RESERVATION
+#define ADMIN_FLAG 	ADMIN_BAN
 
 new g_szModel[33][32]
 
@@ -24,12 +24,13 @@ new const g_szPlayerModels[][] =
 
 new const g_szVipModels[][] =
 {
-	"", "we_vip_tt", "we_vip_ct"
+	"", "christmas_girl_red", "christmas_girl_blue"
 }
+// old > "", "we_vip_tt", "we_vip_ct"
 
-new const g_szAdminModels[][] =
+new const g_szAdminModels[][] = 
 {
-	"", "we_admin_tt", "we_admin_ct"
+	"", "christmas_girl_red", "christmas_girl_blue"
 }
 
 public plugin_init()
