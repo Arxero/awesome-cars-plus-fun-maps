@@ -55,7 +55,8 @@ new const g_szMaps[][] =
 	"woohoo_cars",
 	"he_offroad",
 	"happyvalley_2nd_lt",
-	"he_glass"
+	"he_glass",
+    "35HP_XMAS2015"
 };
 
 public plugin_precache() {
