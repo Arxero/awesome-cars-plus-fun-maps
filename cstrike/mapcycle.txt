@@ -50,7 +50,7 @@ de_lidl
 de_lostcars
 de_mon
 de_railroad
-de_savannah_v2
+de_savannah_v3
 de_tesco
 de_westwood
 fun_atraccions
