@@ -107,7 +107,7 @@ Age=1420199389
 [GHW_vote_somethings.sma]
 Age=1422682636
 [road_rage.sma]
-Age=1435017996
+Age=1446339951
 [road_rage copy.sma]
 Age=1420266395
 [basic_vote_menu.sma]
@@ -132,3 +132,7 @@ Age=1428853395
 Age=1434684203
 [amx_parachute.sma]
 Age=1435076110
+[remove_spawn_weapons.sma]
+Age=1446339877
+[Map_Spawns_Editor.sma]
+Age=1446340743
