@@ -8,7 +8,7 @@
 //     https://alliedmods.net/amxmodx-license
 
 //
-// GeoIP Module Functions
+// GeoIP+ Module Functions
 //
 
 #if defined geoip_included
@@ -59,7 +59,7 @@ native bool:geoip_code3_ex(const ip[], result[4]);
  *
  * @return          The result length.
  */
-#pragma deprecated Use geoip_code2_ex() instead.
+//#pragma deprecated Use geoip_code2_ex() instead.
 native geoip_code2(const ip[], ccode[3]);
 
 /**
@@ -74,7 +74,7 @@ native geoip_code2(const ip[], ccode[3]);
  *
  * @return          The result length.
  */
-#pragma deprecated Use geoip_code3_ex() instead.
+//#pragma deprecated Use geoip_code3_ex() instead.
 native geoip_code3(const ip[], result[4]);
 
 /**
@@ -87,7 +87,7 @@ native geoip_code3(const ip[], result[4]);
  *
  * @return          The result length.
  */
-#pragma deprecated Use geoip_country_ex() instead.
+//#pragma deprecated Use geoip_country_ex() instead.
 native geoip_country(const ip[], result[], len = 45);
 
 /**

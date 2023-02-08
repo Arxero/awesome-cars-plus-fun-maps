@@ -1,0 +1,54 @@
+[en]
+SJ_MOTD_PLAYER = Player
+SJ_MOTD_TOP = Best
+SJ_MOTD_STATS = Stats
+SJ_MOTD_URSTATS = Yours
+SJ_MOTD_STITLE = Match statistics
+SJ_MOTD_GOL = Goals
+SJ_MOTD_AST = Assists
+SJ_MOTD_STL = Steals
+SJ_MOTD_GSV = Saves
+SJ_MOTD_SMK = Smacks
+SJ_MOTD_HNT = Hunts
+SJ_MOTD_DTH = Deaths
+SJ_MOTD_BLS = Ball losses
+SJ_MOTD_PAS = Passes
+SJ_MOTD_BKL = Ball kills
+SJ_MOTD_HITS = Knife hits
+SJ_MOTD_BHITS = Knife hits ballholder
+SJ_MOTD_DIS = Disarms
+SJ_MOTD_DISED = Got disarmed
+SJ_MOTD_POS = Possession
+SJ_MOTD_FGL = Furthest goal
+SJ_MOTD_FT = ft.
+SJ_MOTD_TOTALP = Total players
+SJ_MOTD_RANK = Your rank is
+SJ_MOTD_OF = of
+
+SJ_HELP_MOTD = SOCCERJAM HELP
+
+SJ_MOTD_HELP_GENINFO_TITLE = CONTROLS
+SJ_MOTD_HELP_CONTR_KICK = <font color=orange><b>E</b></font>	-	shoot/pass
+SJ_MOTD_HELP_CONTR_TURBO = <font color=orange><b>G</b></font>	-	sprint
+SJ_MOTD_HELP_CONTR_CURVE = <font color=orange><b>Z <font color=yellow>/</font> X</b></font>		-	curve the ball left / right
+SJ_MOTD_HELP_CONTR_UPMENU = <font color=orange><b>Q</b></font>	-	skills upgrade menu
+SJ_MOTD_HELP_CONTR_1 = <font color=orange><b>SPACE <font color=yellow>+</font> A <font color=yellow>/</font> D</b></font>	-	"long jump" (doesn't work while turbo is active, holding W, or holding the ball)
+
+SJ_MOTD_HELP_SKILLS_TITLE = SKILLS
+SJ_MOTD_HELP_SKILLS_STA = <font color=orange><b>STAMINA</b></font> - increases HP
+SJ_MOTD_HELP_SKILLS_STR = <font color=orange><b>STRENGTH</b></font> - increases ball kicking power
+SJ_MOTD_HELP_SKILLS_AGI = <font color=orange><b>AGILITY</b></font> - increases movement speed
+SJ_MOTD_HELP_SKILLS_DEX = <font color=orange><b>DEXTERITY</b></font> - improves catching
+SJ_MOTD_HELP_SKILLS_DIS = <font color=orange><b>DISARM</b></font> - stealing ball from enemy
+
+
+SJ_MOTD_HELP_CHAT_TITLE = CHAT COMMANDS
+SJ_MOTD_HELP_CHAT_STATS = <font color=orange><b>/stats [player]</b></font> - show match [player] statistics
+SJ_MOTD_HELP_CHAT_SKILLS = <font color=orange><b>/skills [player]</b></font> - show your [player] skills
+SJ_MOTD_HELP_CHAT_RESET = <font color=orange><b>/reset</b></font> - reset your skills
+SJ_MOTD_HELP_CHAT_CAM = <font color=orange><b>/cam</b></font> - toggle camera view
+SJ_MOTD_HELP_CHAT_DONATE = <font color=orange><b>/$ <player> <money> </b></font> - donate/give (depends on server CVAR) <money> to the <player>
+SJ_MOTD_HELP_CHAT_SPEC = <font color=orange><b>/spec</b></font> - go to spec
+SJ_MOTD_HELP_CHAT_RTV = <font color=orange><b>/rtv</b></font> - vote for a map change
+SJ_MOTD_HELP_CHAT_WHOIS = <font color=orange><b>/whois</b></font> - show player's country
+SJ_MOTD_HELP_CHAT_HELP = <font color=orange><b>/help</b></font> - show help

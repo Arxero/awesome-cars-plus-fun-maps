@@ -55,7 +55,7 @@
 
 #define BASE_HP 100		  	//starting hp
 #define BASE_SPEED 	250.0 	//starting run speed
-#define BASE_DISARM	10 		//starting disarm from lvl 1
+#define BASE_DISARM	80 		//starting disarm from lvl 1
 
 #define COUNTDOWN_TIME 10	//Countdown time between rounds.
 #define GOALY_DELAY 8.0		//Delay for goaly exp
@@ -1289,7 +1289,7 @@ public touchNet(ball, goalpost)
 		flameWave(netOrig2)
 		get_user_name(ballowner,aname,63)
 		new frags = get_user_frags(ballowner)
-		entity_set_float(ballowner, EV_FL_frags, float(frags + 10))
+		entity_set_float(ballowner, EV_FL_frags, float(frags + 1))
 
 		play_wav(0, SCORED_GOAL)
 
