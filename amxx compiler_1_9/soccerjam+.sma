@@ -316,13 +316,13 @@ new GAME_SETS = SETS_DEFAULT
 
 #define STARTING_CREDITS 	12
 
-#define MVP_GOAL	100
-#define MVP_ASSIST	60
-#define MVP_STEAL	30
-#define MVP_GOALSAVE	10
-#define MVP_HUNT	3
-#define MVP_LOSSES	-15
-#define MVP_DISHITS	5
+#define MVP_GOAL	1
+#define MVP_ASSIST	1
+#define MVP_STEAL	1
+#define MVP_GOALSAVE	1
+#define MVP_HUNT	1
+#define MVP_LOSSES	-1
+#define MVP_DISHITS	1
 
 #define MAX_ASSISTERS 	 2
 #define MAX_PENSHOOTERS  5
@@ -2833,7 +2833,7 @@ public PlayerSpawnedSettings(id, szEntity){
 		CsSetUserScore(id, g_MVP_points[id], MadeRecord[id][DEATH])
 		set_speedchange(id)
 
-		set_pev(id, pev_health, float(100 + (PlayerUpgrades[id][STA] * AMOUNT_STA)))
+		set_pev(id, pev_health, float(1 + (PlayerUpgrades[id][STA] * AMOUNT_STA)))
 		PlayerUpgrades_STR[id][STR] = PlayerUpgrades[id][STR]
 
 		// prevent bug when transfered from spec or non-team
@@ -3248,20 +3248,20 @@ public ChatCommands(id){
 	if(x == sz_len && !sz_empty)
 		return PLUGIN_HANDLED_MAIN
 
-	for(new i = 1; i <= g_maxplayers; i++){
-		if(~IsUserConnected(i) || (IsUserBot(i) && !is_user_hltv(i)))
-			continue
+	// for(new i = 1; i <= g_maxplayers; i++){
+	// 	if(~IsUserConnected(i) || (IsUserBot(i) && !is_user_hltv(i)))
+	// 		continue
 
-		get_user_name(id, sz_name, 31)
+	// 	get_user_name(id, sz_name, 31)
 
-		if(sz_team == T){
-			ColorChat(i, RED, "%s ^1: %s", sz_name, said)
-		} else if(sz_team == CT) {
-			ColorChat(i, BLUE, "%s ^1: %s", sz_name, said)
-		} else {
-			ColorChat(i, GREY, "%s ^1: %s", sz_name, said)
-		}
-	}
+	// 	if(sz_team == T){
+	// 		ColorChat(i, RED, "%s ^1: %s", sz_name, said)
+	// 	} else if(sz_team == CT) {
+	// 		ColorChat(i, BLUE, "%s ^1: %s", sz_name, said)
+	// 	} else {
+	// 		ColorChat(i, GREY, "%s ^1: %s", sz_name, said)
+	// 	}
+	// }
 
 	return PLUGIN_HANDLED_MAIN
 
