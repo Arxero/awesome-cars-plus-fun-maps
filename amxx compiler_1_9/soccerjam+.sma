@@ -3248,6 +3248,7 @@ public ChatCommands(id){
 	if(x == sz_len && !sz_empty)
 		return PLUGIN_HANDLED_MAIN
 
+	// no need for another chat
 	// for(new i = 1; i <= g_maxplayers; i++){
 	// 	if(~IsUserConnected(i) || (IsUserBot(i) && !is_user_hltv(i)))
 	// 		continue
@@ -3463,20 +3464,21 @@ public ChatCommands_team(id){
 	if(x == sz_len && !sz_empty)
 		return PLUGIN_HANDLED_MAIN
 
-	for(new i = 1; i <= g_maxplayers; i++){
-		if(~IsUserConnected(i) || IsUserBot(i) || get_user_team(i) != sz_team)
-			continue
+	// no need for team another chat
+	// for(new i = 1; i <= g_maxplayers; i++){
+	// 	if(~IsUserConnected(i) || IsUserBot(i) || get_user_team(i) != sz_team)
+	// 		continue
 
-		get_user_name(id, sz_name, 31)
+	// 	get_user_name(id, sz_name, 31)
 
-		if(sz_team == T) {
-			ColorChat(i, RED, "^1(Terrorist) ^3%s ^1: %s", sz_name, said)
-		} else if(sz_team == CT) {
-			ColorChat(i, BLUE, "^1(Counter-Terrorist) ^3%s ^1: %s", sz_name, said)
-		} else {
-			ColorChat(i, GREY, "^1(Spectator) ^3%s ^1: %s", sz_name, said)
-		}
-	}
+	// 	if(sz_team == T) {
+	// 		ColorChat(i, RED, "^1(Terrorist) ^3%s ^1: %s", sz_name, said)
+	// 	} else if(sz_team == CT) {
+	// 		ColorChat(i, BLUE, "^1(Counter-Terrorist) ^3%s ^1: %s", sz_name, said)
+	// 	} else {
+	// 		ColorChat(i, GREY, "^1(Spectator) ^3%s ^1: %s", sz_name, said)
+	// 	}
+	// }
 
 	return PLUGIN_HANDLED_MAIN
 }
