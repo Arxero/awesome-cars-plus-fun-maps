@@ -68,7 +68,6 @@ gijoehq_cs
 gijoehq_de
 gmoney_cars_b4
 happyvalley_2nd_lt
-helipcotero_battle
 isengard_battle
 jp_cars
 junglerescue_b4
@@ -94,21 +93,27 @@ supercrazycars
 supercrazytank
 tankfight2
 the_big_rescue_rerad
-thewhitewhale_v1
 woohoo_cars
 soccerjam
 sj_trix_zone
 sj_basket_click21
 sj_legend
 sj_galaxy
-soccerjam2017
-sj_danger_final
+sj_downunder
+sj_mxsoccer_small
+sj_volleybeach
+sj_soccerbeach
 
-fy_m3loop_v1
-de_supermarket_v1
-tower_wars_v1
 de_island_v1
-fy_real_v1
+
+
+; retired for now
+;helipcotero_battle
+;thewhitewhale_v1
+;fy_m3loop_v1
+;de_supermarket_v1
+;tower_wars_v1
+;fy_real_v1
 
 
 ;blahhhh
@@ -119,6 +124,7 @@ fy_real_v1
 ;de_dust2_halloween_v2
 ;cs_evian
 ;ac_fun_halloween_v1
+
 
 ;cs_whiteXmas
 ;de_christmas
