@@ -105,6 +105,7 @@ sj_volleybeach
 sj_soccerbeach
 
 de_island_v1
+tower_wars_v2
 
 
 ; retired for now
