@@ -1,56 +1,9 @@
 [en]
-RR_MENU_1:
-\yRadio Commands\w^n^n
-1. ^"Cover Me^"\w^n
-2. ^"You Take the Point^"\w^n
-3. ^"Hold This Position^"\w^n
-4. ^"Regroup Team^"\w^n
-5. ^"Follow Me^"\w^n
-6. ^"Taking Fire, Need Assistance^"\w^n
-7. ^"Let's Go^"\w^n
-8. ^"Teammate Down^"\w^n
-9. ^"Flank Them^"\w^n
-^n0. Exit
-:
-RR_MENU_2:
-\yGroup Radio Commands\w^n^n
-1. ^"Go^"\w^n
-2. ^"Fall Back^"\w^n
-3. ^"Stick Together Team^"\w^n
-4. ^"Get in Position^"\w^n
-5. ^"Storm the Front^"\w^n
-6. ^"Report In^"\w^n
-7. ^"Get Out^"\w^n
-8. ^"Infiltrate^"\w^n
-9. ^"Roger^"\w^n
-^n0. Exit
-:
-RR_MENU_3:
-\yRadio Responses/Reports\w^n^n
-1. ^"Affirmative^"\w^n
-2. ^"Enemy Spotted^"\w^n
-3. ^"Need Backup^"\w^n
-4. ^"Sector Clear^"\w^n
-5. ^"I'm in Position^"\w^n
-6. ^"Reporting In^"\w^n
-7. ^"She's gonna Blow!^"\w^n
-8. ^"Negative^"\w^n
-9. ^"Enemy Down^"\w^n
-^n0. Exit
-:
-RR_MENU_4:
-\yRadio Misc\w^n^n
-1. ^"I'll Take Point^"\w^n
-2. ^"Follow my Command^"\w^n
-3. ^"Meet at Rendezvous^"\w^n
-4. ^"Move Out^"\w^n
-5. ^"Hostage down!^"\w^n
-6. ^"I'm Hit^"\w^n
-7. ^"HitAssist!^"\w^n
-8. ^"Circle Back^"\w^n
-9. ^"Lock n Load^"\w^n
-^n0. Exit
-:
+RR_MENU_1 = \yRadio Commands\w^n^n1. "Cover Me"\w^n2. "You Take the Point"\w^n3. "Hold This Position"\w^n4. "Regroup Team"\w^n5. "Follow Me"\w^n6. "Taking Fire, Need Assistance"\w^n7. "Let's Go"\w^n8. "Teammate Down"\w^n9. "Flank Them"\w^n^n0. Exit
+RR_MENU_2 = \yGroup Radio Commands\w^n^n1. "Go"\w^n2. "Fall Back"\w^n3. "Stick Together Team"\w^n4. "Get in Position"\w^n5. "Storm the Front"\w^n6. "Report In"\w^n7. "Get Out"\w^n8. "Infiltrate"\w^n9. "Roger"\w^n^n0. Exit
+RR_MENU_3 = \yRadio Responses/Reports\w^n^n1. "Affirmative"\w^n2. "Enemy Spotted"\w^n3. "Need Backup"\w^n4. "Sector Clear"\w^n5. "I'm in Position"\w^n6. "Reporting In"\w^n7. "She's gonna Blow!"\w^n8. "Negative"\w^n9. "Enemy Down"\w^n^n0. Exit
+RR_MENU_4 = \yRadio Misc\w^n^n1. "I'll Take Point"\w^n2. "Follow my Command"\w^n3. "Meet at Rendezvous"\w^n4. "Move Out"\w^n5. "Hostage down!"\w^n6. "I'm Hit"\w^n7. "HitAssist!"\w^n8. "Circle Back"\w^n9. "Lock n Load"\w^n^n0. Exit
+
 RR_MSG_COVERME = #Cover_me
 RR_MSG_TAKEPOS = #You_take_the_point
 RR_MSG_HOLDPOS = #Hold_this_position
