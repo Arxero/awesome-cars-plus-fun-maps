@@ -1,0 +1,539 @@
+[en]
+RR_MENU_1:
+\yRadio Commands\w^n^n
+1. ^"Cover Me^"\w^n
+2. ^"You Take the Point^"\w^n
+3. ^"Hold This Position^"\w^n
+4. ^"Regroup Team^"\w^n
+5. ^"Follow Me^"\w^n
+6. ^"Taking Fire, Need Assistance^"\w^n
+7. ^"Let's Go^"\w^n
+8. ^"Teammate Down^"\w^n
+9. ^"Flank Them^"\w^n
+^n0. Exit
+:
+RR_MENU_2:
+\yGroup Radio Commands\w^n^n
+1. ^"Go^"\w^n
+2. ^"Fall Back^"\w^n
+3. ^"Stick Together Team^"\w^n
+4. ^"Get in Position^"\w^n
+5. ^"Storm the Front^"\w^n
+6. ^"Report In^"\w^n
+7. ^"Get Out^"\w^n
+8. ^"Infiltrate^"\w^n
+9. ^"Roger^"\w^n
+^n0. Exit
+:
+RR_MENU_3:
+\yRadio Responses/Reports\w^n^n
+1. ^"Affirmative^"\w^n
+2. ^"Enemy Spotted^"\w^n
+3. ^"Need Backup^"\w^n
+4. ^"Sector Clear^"\w^n
+5. ^"I'm in Position^"\w^n
+6. ^"Reporting In^"\w^n
+7. ^"She's gonna Blow!^"\w^n
+8. ^"Negative^"\w^n
+9. ^"Enemy Down^"\w^n
+^n0. Exit
+:
+RR_MENU_4:
+\yRadio Misc\w^n^n
+1. ^"I'll Take Point^"\w^n
+2. ^"Follow my Command^"\w^n
+3. ^"Meet at Rendezvous^"\w^n
+4. ^"Move Out^"\w^n
+5. ^"Hostage down!^"\w^n
+6. ^"I'm Hit^"\w^n
+7. ^"HitAssist!^"\w^n
+8. ^"Circle Back^"\w^n
+9. ^"Lock n Load^"\w^n
+^n0. Exit
+:
+RR_MSG_COVERME = #Cover_me
+RR_MSG_TAKEPOS = #You_take_the_point
+RR_MSG_HOLDPOS = #Hold_this_position
+RR_MSG_REGROUP = #Regroup_team
+RR_MSG_FOLLOWME = #Follow_me
+RR_MSG_TAKINGFIRE = #Taking_fire
+RR_MSG_LETSGO = Ok, let's go!
+RR_MSG_MATEDOWN = Team mate down.
+RR_MSG_FLANKTHEM = Flank them.
+RR_MSG_GOGOGO = #Go_go_go
+RR_MSG_FALLBACK = #Team_fall_back
+RR_MSG_STICKTOG = #Stick_together_team
+RR_MSG_GETINPOS = #Get_in_position_and_wait
+RR_MSG_STORMFRONT = #Storm_the_front
+RR_MSG_REPORT = #Report_in_team
+RR_MSG_GETOUT = Team, let's get out of here.
+RR_MSG_ELIMIN = Team, infiltrate and eliminate.
+RR_MSG_ROGER = #Roger_that
+RR_MSG_AFFIRM = #Affirmative
+RR_MSG_ENEMYSPOTTED = #Enemy_spotted
+RR_MSG_NEEDBACKUP = #Need_backup
+RR_MSG_SECTORCLEAR = #Sector_clear
+RR_MSG_INPOSITION = #In_position
+RR_MSG_REPORTING = #Reporting_in
+RR_MSG_GETOUTBLOW = #Get_out_of_there
+RR_MSG_NEGATIVE = #Negative
+RR_MSG_ENEMYDOWN = #Enemy_down
+RR_MSG_ITAKEPOINT = I'll take the point!
+RR_MSG_FOLLOWCOM = Ok team, follow my command.
+RR_MSG_RENDEZVOUS = Meet at the rendez-vous point.
+RR_MSG_MOUVEOUT = Allright let's move out.
+RR_MSG_HOSDOWN = Hostage down.
+RR_MSG_IMHIT = I'm hit.
+RR_MSG_HITASSIST = I'm hit need assistance !
+RR_MSG_CIRCLEBACK = Circle 'em back!
+RR_MSG_LOCKNLOAD = Lock and load.
+
+[fr]
+RR_MENU_1:
+\yOrdres\w^n^n
+1. ^"Couvrez-moi^"\w^n
+2. ^"Vous prenez le point^"\w^n
+3. ^"Tenez cette position^"\w^n
+4. ^"Regroupement^"\w^n
+5. ^"Suivez-moi^"\w^n
+6. ^"On me tire dessus, couvrez-moi^"\w^n
+7. ^"On y va^"\w^n
+8. ^"Equipier à terre^"\w^n
+9. ^"Contournez-les^"\w^n
+^n0. Exit
+:
+RR_MENU_2:
+\yOrdres au groupe\w^n^n
+1. ^"En avant^"\w^n
+2. ^"Repli^"\w^n
+3. ^"Restez groupés^"\w^n
+4. ^"Prenez position^"\w^n
+5. ^"Lancez l'assault !^"\w^n
+6. ^"Au rapport !^"\w^n
+7. ^"On sort^"\w^n
+8. ^"Infiltrez^"\w^n
+9. ^"Bien compris^"\w^n
+^n0. Exit
+:
+RR_MENU_3:
+\yReponses/Rapports\w^n^n
+1. ^"Affirmatif^"\w^n
+2. ^"Ennemi repéré^"\w^n
+3. ^"Soutien !^"\w^n
+4. ^"Zone securisée^"\w^n
+5. ^"Je suis en position^"\w^n
+6. ^"Au rapport^"\w^n
+7. ^"Elle va exploser !^"\w^n
+8. ^"Negatif^"\w^n
+9. ^"Ennemi à terre^"\w^n
+^n0. Exit
+:
+RR_MENU_4:
+\yRadio Divers\w^n^n
+1. ^"Je prends le point^"\w^n
+2. ^"Suivez mes ordres^"\w^n
+3. ^"Tous au rendez-vous^"\w^n
+4. ^"C'est parti^"\w^n
+5. ^"Otage à terre !^"\w^n
+6. ^"Je suis touché^"\w^n
+7. ^"J'ai besoin d'aide !^"\w^n
+8. ^"Prenez-les à revers^"\w^n
+9. ^"Tenez-vous prêts^"\w^n
+^n0. Exit
+:
+RR_MSG_COVERME = #Cover_me
+RR_MSG_TAKEPOS = #You_take_the_point
+RR_MSG_HOLDPOS = #Hold_this_position
+RR_MSG_REGROUP = #Regroup_team
+RR_MSG_FOLLOWME = #Follow_me
+RR_MSG_TAKINGFIRE = #Taking_fire
+RR_MSG_LETSGO = Ok, allons-y!
+RR_MSG_MATEDOWN = Equipier à terre!
+RR_MSG_FLANKTHEM = Contournez-les!
+RR_MSG_GOGOGO = #Go_go_go
+RR_MSG_FALLBACK = #Team_fall_back
+RR_MSG_STICKTOG = #Stick_together_team
+RR_MSG_GETINPOS = #Get_in_position_and_wait
+RR_MSG_STORMFRONT = #Storm_the_front
+RR_MSG_REPORT = #Report_in_team
+RR_MSG_GETOUT = A toute l'équipe, on sort.
+RR_MSG_ELIMIN = Infiltrez et éliminez.
+RR_MSG_ROGER = #Roger_that
+RR_MSG_AFFIRM = #Affirmative
+RR_MSG_ENEMYSPOTTED = #Enemy_spotted
+RR_MSG_NEEDBACKUP = #Need_backup
+RR_MSG_SECTORCLEAR = #Sector_clear
+RR_MSG_INPOSITION = #In_position
+RR_MSG_REPORTING = #Reporting_in
+RR_MSG_GETOUTBLOW = #Get_out_of_there
+RR_MSG_NEGATIVE = #Negative
+RR_MSG_ENEMYDOWN = #Enemy_down
+RR_MSG_ITAKEPOINT = Je prends le point.
+RR_MSG_FOLLOWCOM = Suivez mes ordres.
+RR_MSG_RENDEZVOUS = Tous au point de rendez-vous.
+RR_MSG_MOUVEOUT = Ok, c'est parti.
+RR_MSG_HOSDOWN = Otage à terre!
+RR_MSG_IMHIT = Je suis touché.
+RR_MSG_HITASSIST = Je suis touché j'ai besoin d'aide!
+RR_MSG_CIRCLEBACK = Prenez-les à revers
+RR_MSG_LOCKNLOAD = Tenez-vous prêts
+
+[de]
+RR_MENU_1:
+\yRadio Befehle\w^n^n
+1. ^"Deckt mich^"\w^n
+2. ^"Halte die Stellung^"\w^n
+3. ^"Bleib hier^"\w^n
+4. ^"Team sammeln^"\w^n
+5. ^"Folge mir^"\w^n
+6. ^"Werde angegriffen, brauche Hilfe^"\w^n
+7. ^"Los gehts^"\w^n
+8. ^"Kamerad gefallen^"\w^n
+9. ^"Flankiert Sie^"\w^n
+^n0. Ende
+:
+RR_MENU_2:
+\yGruppen Radio Befehle\w^n^n
+1. ^"Los^"\w^n
+2. ^"Rueckzug^"\w^n
+3. ^"Zusammenhalten Team^"\w^n
+4. ^"Geht auf Position^"\w^n
+5. ^"Front stürmen^"\w^n
+6. ^"Bericht abgeben^"\w^n
+7. ^"Geh Raus hier^"\w^n
+8. ^"Eindringen^"\w^n
+9. ^"Alles Klar^"\w^n
+^n0. Ende
+:
+RR_MENU_3:
+\yRadio Antworten/Meldungen\w^n^n
+1. ^"Bestaetigt^"\w^n
+2. ^"Feind gesichtet^"\w^n
+3. ^"Brauche Unterstuetzung^"\w^n
+4. ^"Sektor sicher^"\w^n
+5. ^"Bin in Position^"\w^n
+6. ^"Erstatte Bericht^"\w^n
+7. ^"Sie explodiert gleich!^"\w^n
+8. ^"Negativ^"\w^n
+9. ^"Feind gefallen^"\w^n
+^n0. Ende
+:
+RR_MENU_4:
+\yRadio Sonstiges\w^n^n
+1. ^"Ich bleibe hier^"\w^n
+2. ^"Folge meinem Befehl^"\w^n
+3. ^"Treffen am Sammelplatz^"\w^n
+4. ^"Geh raus^"\w^n
+5. ^"Geisel gefallen!^"\w^n
+6. ^"Ich bin getroffen^"\w^n
+7. ^"Brauche Hilfe!^"\w^n
+8. ^"Kreis bilden^"\w^n
+9. ^"Warten und Nachladen^"\w^n
+^n0. Ende
+:
+RR_MSG_COVERME = #Cover_me
+RR_MSG_TAKEPOS = #You_take_the_point
+RR_MSG_HOLDPOS = #Hold_this_position
+RR_MSG_REGROUP = #Regroup_team
+RR_MSG_FOLLOWME = #Follow_me
+RR_MSG_TAKINGFIRE = #Taking_fire
+RR_MSG_LETSGO = Ok, los gehts!
+RR_MSG_MATEDOWN = Kamerad gefallen.
+RR_MSG_FLANKTHEM = Flankiert Sie.
+RR_MSG_GOGOGO = #Go_go_go
+RR_MSG_FALLBACK = #Team_fall_back
+RR_MSG_STICKTOG = #Stick_together_team
+RR_MSG_GETINPOS = #Get_in_position_and_wait
+RR_MSG_STORMFRONT = #Storm_the_front
+RR_MSG_REPORT = #Report_in_team
+RR_MSG_GETOUT = Team, lasst uns hier verschwinden.
+RR_MSG_ELIMIN = Team, eindringen und vernichten.
+RR_MSG_ROGER = #Roger_that
+RR_MSG_AFFIRM = #Affirmative
+RR_MSG_ENEMYSPOTTED = #Enemy_spotted
+RR_MSG_NEEDBACKUP = #Need_backup
+RR_MSG_SECTORCLEAR = #Sector_clear
+RR_MSG_INPOSITION = #In_position
+RR_MSG_REPORTING = #Reporting_in
+RR_MSG_GETOUTBLOW = #Get_out_of_there
+RR_MSG_NEGATIVE = #Negative
+RR_MSG_ENEMYDOWN = #Enemy_down
+RR_MSG_ITAKEPOINT = Ich werde hier bleiben!
+RR_MSG_FOLLOWCOM = Ok Team, folgt meinem Befehl.
+RR_MSG_RENDEZVOUS = Treffen am Sammelplatz.
+RR_MSG_MOUVEOUT = Alles klar, gehen wir.
+RR_MSG_HOSDOWN = Geisel gefallen.
+RR_MSG_IMHIT = Ich bin getroffen.
+RR_MSG_HITASSIST = Ich bin getroffen, brauche Hilfe !
+RR_MSG_CIRCLEBACK = Kreist sie ein!
+RR_MSG_LOCKNLOAD = Warten und Nachladen.
+
+[pl]
+RR_MENU_1:
+\yKomendy\w^n^n
+1. ^"Oslaniac mnie^"\w^n
+2. ^"Przejmuj ten punkt^"\w^n
+3. ^"Utrzymaj ta pozycje^"\w^n
+4. ^"Przegrupowac sie^"\w^n
+5. ^"Za mna^"\w^n
+6. ^"Prowadze ostrzal, potrzebuje wsparcia^"\w^n
+7. ^"Idziemy^"\w^n
+8. ^"Nasz zginal^"\w^n
+9. ^"Ostrzelac ich^"\w^n
+^n0. Wyjdz
+:
+RR_MENU_2:
+\yGrupowe komendy\w^n^n
+1. ^"Ruszac sie^"\w^n
+2. ^"Cofnac sie^"\w^n
+3. ^"Wbijamy razem^"\w^n
+4. ^"Na pozycje^"\w^n
+5. ^"Cisniemy przodem^"\w^n
+6. ^"Zglaszac sie^"\w^n
+7. ^"Wychodzic^"\w^n
+8. ^"Przeniknac^"\w^n
+9. ^"W porzadku^"\w^n
+^n0. Wyjdz
+:
+RR_MENU_3:
+\yOdpowiedzi/zgloszenia\w^n^n
+1. ^"Potwierdzam^"\w^n
+2. ^"Zauwazylem nieprzyjaciela^"\w^n
+3. ^"Potrzebuje wsparcia^"\w^n
+4. ^"U mnie czysto^"\w^n
+5. ^"Jestem na pozycji^"\w^n
+6. ^"Zglaszam sie^"\w^n
+7. ^"Zaraz wybuchnie!^"\w^n
+8. ^"Odmawiam^"\w^n
+9. ^"Nieprzyjaciel zginal^"\w^n
+^n0. Wyjdz
+:
+RR_MENU_4:
+\yRozne\w^n^n
+1. ^"Biore ten punkt^"\w^n
+2. ^"Sluchaj moich komend^"\w^n
+3. ^"Spotkamy sie na miejscu^"\w^n
+4. ^"Wychodzic^"\w^n
+5. ^"Zakladnik zginal!^"\w^n
+6. ^"Trafili mnie^"\w^n
+7. ^"Trafili mnie, potrzebuje wsparcia!^"\w^n
+8. ^"Okrazyc i uderzyc w plecy^"\w^n
+9. ^"Zamykac i ladowac^"\w^n
+^n0. Wyjdz
+:
+RR_MSG_COVERME = Oslaniac mnie
+RR_MSG_TAKEPOS = Przejmuj ten punkt
+RR_MSG_HOLDPOS = Utrzymaj ta pozycje
+RR_MSG_REGROUP = Przegrupowac sie
+RR_MSG_FOLLOWME = Za mna
+RR_MSG_TAKINGFIRE = Prowadze ostrzal
+RR_MSG_LETSGO = Dobra, idziemy!
+RR_MSG_MATEDOWN = Nasz zginal.
+RR_MSG_FLANKTHEM = Ostrzelac ich.
+RR_MSG_GOGOGO = Ruszac sie
+RR_MSG_FALLBACK = Cofnac sie
+RR_MSG_STICKTOG = Wbijamy razem
+RR_MSG_GETINPOS = Na pozycje i czekac
+RR_MSG_STORMFRONT = Cisniemy przodem
+RR_MSG_REPORT = Zglaszac sie
+RR_MSG_GETOUT = Uciekamy stad.
+RR_MSG_ELIMIN = Przeniknac i wyeliminowac.
+RR_MSG_ROGER = W porzadku
+RR_MSG_AFFIRM = Potwierdzam
+RR_MSG_ENEMYSPOTTED = Zauwazylem nieprzyjaciela
+RR_MSG_NEEDBACKUP = Potrzebuje wsparcia
+RR_MSG_SECTORCLEAR = U mnie czysto
+RR_MSG_INPOSITION = Jestem na pozycji
+RR_MSG_REPORTING = Zglaszam sie
+RR_MSG_GETOUTBLOW = Uciekamy
+RR_MSG_NEGATIVE = Odmawiam
+RR_MSG_ENEMYDOWN = Nieprzyjaciel zginal
+RR_MSG_ITAKEPOINT = Biore ten punkt!
+RR_MSG_FOLLOWCOM = Sluchajcie moich komend.
+RR_MSG_RENDEZVOUS = Spotkamy sie na umowionym miejscu.
+RR_MSG_MOUVEOUT = Ok, wychodzimy.
+RR_MSG_HOSDOWN = Zakladnik zginal.
+RR_MSG_IMHIT = Trafili mnie.
+RR_MSG_HITASSIST = Trafili mnie, potrzebuje wsparcia !
+RR_MSG_CIRCLEBACK = Okrazyc i uderzyc w plecy!
+RR_MSG_LOCKNLOAD = Zamykac i ladowac.
+
+[tr]
+RR_MENU_1:
+\yTelsiz Komutlari\w^n^n
+1. ^"Koruyun Beni^"\w^n
+2. ^"Sen Burayi Al^"\w^n
+3. ^"Pozisyonunu Koru^"\w^n
+4. ^"Takim Toparlanin^"\w^n
+5. ^"Beni Takip Edin^"\w^n
+6. ^"Ates Altindayim, Yardim Edin^"\w^n
+7. ^"Tamam Gidiyoruz^"\w^n
+8. ^"Bizden Biri Oldu^"\w^n
+9. ^"Bolgeyi Kusatin^"\w^n
+^n0. Cik
+:
+RR_MENU_2:
+\yTakim Telsiz Emirleri\w^n^n
+1. ^"Hadi^"\w^n
+2. ^"Geri Cekil^"\w^n
+3. ^"Takim Halinde Gidelim^"\w^n
+4. ^"Pozisyon Alin^"\w^n
+5. ^"Onden Girelim^"\w^n
+6. ^"Rapor Ver^"\w^n
+7. ^"Hadi Cikalim^"\w^n
+8. ^"Giriyoruz^"\w^n
+9. ^"Anlasildi^"\w^n
+^n0. Cik
+:
+RR_MENU_3:
+\yTelsiz Cevaplari/Raporlar\w^n^n
+1. ^"Olumlu^"\w^n
+2. ^"Dusman Goruldu^"\w^n
+3. ^"Yardim Ihtiyacim Var^"\w^n
+4. ^"Bolge Temiz^"\w^n
+5. ^"Yerimdeyim^"\w^n
+6. ^"Rapor Veriyorum^"\w^n
+7. ^"Uzaklasin Bomba Patlamak Uzere!^"\w^n
+8. ^"Olumsuz^"\w^n
+9. ^"Dusmani Indirdim^"\w^n
+^n0. Cik
+:
+RR_MENU_4:
+\yTelsiz Cesiti\w^n^n
+1. ^"Bolge Bende^"\w^n
+2. ^"Komuta Bende^"\w^n
+3. ^"Randevu Noktasina Gec^"\w^n
+4. ^"Bitirelim Su Isi^"\w^n
+5. ^"Rehine Oldu!^"\w^n
+6. ^"Vuruldum^"\w^n
+7. ^"Vuruldum Yardim Edin!^"\w^n
+8. ^"Arkamda Daire Olusturun^"\w^n
+9. ^"Hadi Bitiriyoruz^"\w^n
+^n0. Cik
+:
+RR_MSG_COVERME = #Cover_me
+RR_MSG_TAKEPOS = #You_take_the_point
+RR_MSG_HOLDPOS = #Hold_this_position
+RR_MSG_REGROUP = #Regroup_team
+RR_MSG_FOLLOWME = #Follow_me
+RR_MSG_TAKINGFIRE = #Taking_fire
+RR_MSG_LETSGO = Tamam, gidiyoruz!
+RR_MSG_MATEDOWN = Bizden Biri Oldu.
+RR_MSG_FLANKTHEM = Bolgeyi Kusatin.
+RR_MSG_GOGOGO = #Go_go_go
+RR_MSG_FALLBACK = #Team_fall_back
+RR_MSG_STICKTOG = #Stick_together_team
+RR_MSG_GETINPOS = #Get_in_position_and_wait
+RR_MSG_STORMFRONT = #Storm_the_front
+RR_MSG_REPORT = #Report_in_team
+RR_MSG_GETOUT = Hadi cikalim buradan.
+RR_MSG_ELIMIN = Takim, Giriyoruz.
+RR_MSG_ROGER = #Roger_that
+RR_MSG_AFFIRM = #Affirmative
+RR_MSG_ENEMYSPOTTED = #Enemy_spotted
+RR_MSG_NEEDBACKUP = #Need_backup
+RR_MSG_SECTORCLEAR = #Sector_clear
+RR_MSG_INPOSITION = #In_position
+RR_MSG_REPORTING = #Reporting_in
+RR_MSG_GETOUTBLOW = #Get_out_of_there
+RR_MSG_NEGATIVE = #Negative
+RR_MSG_ENEMYDOWN = #Enemy_down
+RR_MSG_ITAKEPOINT = Bolge Bende!
+RR_MSG_FOLLOWCOM = Takim, komuta bende.
+RR_MSG_RENDEZVOUS = Randevu noktasina gec.
+RR_MSG_MOUVEOUT = Hadi bitirelim su isi.
+RR_MSG_HOSDOWN = Rehine Oldu.
+RR_MSG_IMHIT = Vuruldum.
+RR_MSG_HITASSIST = Vuruldum yardim edin !
+RR_MSG_CIRCLEBACK = Arkamda daire olusturun!
+RR_MSG_LOCKNLOAD = Hadi bitiriyoruz.
+
+[ro]
+RR_MENU_1:
+\yRadio Commands\w^n^n
+1. ^"Acoperiţi-mã !^"\w^n
+2. ^"Ocupã tu poziţia^"\w^n
+3. ^"Menţineţi aceastã poziţie !^"\w^n
+4. ^"Echipã Regrupaţi-vã !^"\w^n
+5. ^"Urmaţi-mã^"\w^n
+6. ^"Sunt atacat, Asistaţi-mã !^"\w^n
+7. ^"Sã mergem !^"\w^n
+8. ^"Coechipier cãzut !^"\w^n
+9. ^"Atacaţi pe flancuri !^"\w^n
+^n0. Ieşire
+:
+RR_MENU_2:
+\yGroup Radio Commands\w^n^n
+1. ^"Atacaţi !^"\w^n
+2. ^"Retragerea !^"\w^n
+3. ^"Echipã, nu vã desparţiţi^"\w^n
+4. ^"Ocupaţi-vã poziţiile^"\w^n
+5. ^"Furtunã drept înainte^"\w^n
+6. ^"Raportaţi^"\w^n
+7. ^"Iesiţi afarã !^"\w^n
+8. ^"Infiltraţi-vã^"\w^n
+9. ^"Recepţionat^"\w^n
+^n0. Ieşire
+:
+RR_MENU_3:
+\yRadio Responses/Reports\w^n^n
+1. ^"Afirmativ^"\w^n
+2. ^"Inamic detectat^"\w^n
+3. ^"Asistaţi-mã !^"\w^n
+4. ^"Sector Liber^"\w^n
+5. ^"Mã aflu în Poziţie^"\w^n
+6. ^"Raportez^"\w^n
+7. ^"O sã explodeze !^"\w^n
+8. ^"Negativ^"\w^n
+9. ^"Inamic cãzut !^"\w^n
+^n0. Ieşire
+:
+RR_MENU_4:
+\yRadio Misc\w^n^n
+1. ^"Voi lua poziţia^"\w^n
+2. ^"La comanda mea^"\w^n
+3. ^"Întalnire la punctul stabilit.^"\w^n
+4. ^"Ieşiţi afarã^"\w^n
+5. ^"Ostatic cãzut !^"\w^n
+6. ^"Am fost lovit !^"\w^n
+7. ^"Sunt lovit, Necesit asistenţã !^"\w^n
+8. ^"Ocoliţi inapoi^"\w^n
+9. ^"Pregatiţi-vã !^"\w^n
+^n0. Ieşire
+:
+RR_MSG_COVERME = Acoperiţi-mã !
+RR_MSG_TAKEPOS = Ocupã tu poziţia
+RR_MSG_HOLDPOS = Menţineţi aceastã poziţie !
+RR_MSG_REGROUP = Echipã Regrupaţi-vã !
+RR_MSG_FOLLOWME = Urmaţi-mã
+RR_MSG_TAKINGFIRE = Sunt atacat !
+RR_MSG_LETSGO = Sã mergem !
+RR_MSG_MATEDOWN = Coechipier cãzut !
+RR_MSG_FLANKTHEM = Atacaţi pe flancuri !
+RR_MSG_GOGOGO = Atacaţi !
+RR_MSG_FALLBACK = Echipã, Retragerea !
+RR_MSG_STICKTOG = Echipã, nu vã desparţiţi
+RR_MSG_GETINPOS = Ocupaţi-vã poziţiile şi aşteptaţi
+RR_MSG_STORMFRONT = Furtunã drept înainte
+RR_MSG_REPORT = Echipã, Raportaţi
+RR_MSG_GETOUT = Echipã, sã ieşim de aici !
+RR_MSG_ELIMIN = Echipã, infiltraţi-vã şi eliminaţi.
+RR_MSG_ROGER = Recepţionat
+RR_MSG_AFFIRM = Afirmativ
+RR_MSG_ENEMYSPOTTED = Inamic detectat
+RR_MSG_NEEDBACKUP = Asistaţi-mã !
+RR_MSG_SECTORCLEAR = Sector Liber
+RR_MSG_INPOSITION = Mã aflu în Poziţie
+RR_MSG_REPORTING = Raportez
+RR_MSG_GETOUTBLOW = Iesiţi de acolo !
+RR_MSG_NEGATIVE = Negativ
+RR_MSG_ENEMYDOWN = Inamic cãzut !
+RR_MSG_ITAKEPOINT = Voi lua poziţia
+RR_MSG_FOLLOWCOM = Echipã, La comanda mea.
+RR_MSG_RENDEZVOUS = Întalnire la punctul stabilit.
+RR_MSG_MOUVEOUT = În regulã, sã mergem.
+RR_MSG_HOSDOWN = Ostatic cãzut !
+RR_MSG_IMHIT = Am fost lovit !
+RR_MSG_HITASSIST = Sunt lovit, Necesit asistenţã !
+RR_MSG_CIRCLEBACK = Ocoliţi-i prin spate !
+RR_MSG_LOCKNLOAD = Pregatiţi-vã !
