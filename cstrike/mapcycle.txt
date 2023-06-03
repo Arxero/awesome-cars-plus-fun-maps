@@ -2,8 +2,8 @@
 Cb_Tanks
 Fun_Tank_Arena_v2b
 GM_StarWars
-The_Prosecutor_Area69_v1
-ac_fun_v2
+The_Prosecutor_Area69
+ac_fun
 ac_fun2_v1
 air_combat
 air_fight2
@@ -51,12 +51,12 @@ de_lidl
 de_lostcars
 de_mon
 de_railroad
-de_savannah_v3
+de_savannah
 de_tesco
 de_westwood
 de_tmtydj3
-de_satellite11_v1
-de_island_v1
+de_satellite11
+de_island
 fun_atraccions
 fun_cars
 fun_gta
@@ -109,12 +109,11 @@ fy_beachy
 
 ; retired for now
 ;helipcotero_battle
-;thewhitewhale_v1
-;fy_m3loop_v1
-;de_supermarket_v1
-;tower_wars_v1
-;fy_real_v1
-;tower_wars_v2
+;thewhitewhale
+;fy_m3loop
+;de_supermarket
+;fy_real
+;tower_wars
 
 
 ;blahhhh
@@ -124,7 +123,7 @@ fy_beachy
 ;cs_rhs22
 ;de_dust2_halloween_v2
 ;cs_evian
-;ac_fun_halloween_v1
+;ac_fun_halloween
 
 
 ;cs_whiteXmas
@@ -138,4 +137,4 @@ fy_beachy
 ;35HP_XMAS2015
 ;rush_xmas
 ;de_eggnog_lethal
-;ac_fun_xmas_v1
+;ac_fun_xmas
