@@ -128,3 +128,6 @@ Edit [users.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/maste
 
 
 After that edit [ap_prefixes.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/ap_prefixes.ini) to add them the right prefix.
+
+## Enable Quake mode
+Add [GameMaster](https://gamebanana.com/mods/36134) module and plugin to the server
