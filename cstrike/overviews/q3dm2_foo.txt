@@ -1,0 +1,14 @@
+// overview description file for q3dm2_foo.bsp
+
+global 
+{
+	ZOOM	2.91
+	ORIGIN	0.00 	0.00	414.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/q3dm2_foo.bmp"
+	HEIGHT	-5.00
+}
