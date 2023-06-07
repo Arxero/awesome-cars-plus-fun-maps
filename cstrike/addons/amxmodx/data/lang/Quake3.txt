@@ -1,0 +1,36 @@
+[en]
+NOTICE_GAMESTART = Game is starting... Please Wait!
+NOTICE_PLAYERREQUIRED = Waiting for players...
+NOTICE_COUNTDOWN_WARMUP = Game will start in %i second(s)!
+NOTICE_VOTINGSTART = Mode Vote will be started soon!
+NOTICE_VOTINGSTARTED = Mode Vote has been started. Vote now!
+NOTICE_COUNTDOWN_WAD = Change Weapon in %i second(s)!
+NOTICE_WAD_NEWWPN = Next Weapon is !t%s!n
+NOTICE_FLAG_PICK = You've picked up Enemy's Flag!
+NOTICE_BRINGFLAG_HOME = %s has brought his team flag home!
+NOTICE_FLAGSTOLEN_R = %s has stolen the Red Flag!
+NOTICE_FLAGSTOLEN_B = %s has stolen the Blue Flag!
+NOTICE_FLAGSTOLEN2_R = %s has scored for Red Team!
+NOTICE_FLAGSTOLEN2_B = %s has scored for Blue Team!
+
+MENU_VOTE_NAME = Vote for next mode
+MENU_VOTE_FFA = Free For All
+MENU_VOTE_TDM = Team Deathmatch
+MENU_VOTE_CTF = Capture The Flag
+MENU_VOTE_WAD = Weapon Arena DeathMatch
+
+GAME_FFA_WIN = [Free For All] WINNER!
+GAME_FFA_WIN2 = #NAME# is the Winner!
+
+GAME_TDM_WIN = [Team Deathmatch] WINNER!
+GAME_TDM_WIN_B = #NAME# of the Blue Team is the Winner!
+GAME_TDM_WIN_R = #NAME# of the Red Team is the Winner!
+
+GAME_CTF_WIN = [Capture The Flag] WINNER!
+GAME_CTF_WIN_B = #NAME# of the Blue Team is the Winner!
+GAME_CTF_WIN_R = #NAME# of the Red Team is the Winner!
+
+GAME_WAD_WIN = [WAD] WINNER!
+GAME_WAD_WIN2 = #NAME# is the Winner!
+
+NOTICE_USERTOP = %s has taken !tA.C.E!n!
