@@ -23,9 +23,10 @@
 `3.` Install Package from repositories
 
     sudo add-apt-repository multiverse
+    sudo apt install software-properties-common
     sudo dpkg --add-architecture i386
     sudo apt update
-    sudo apt install lib32gcc1 steamcmd 
+    sudo apt install lib32gcc-s1 steamcmd
 
 `4.`  Link the steamcmd executable:
 
@@ -33,7 +34,7 @@
 
 `5.` Install the dependencies required to run SteamCMD:
 
-    sudo apt-get install lib32gcc1
+    sudo apt-get install lib32gcc-s1
 
 `6.` Switch to steam user:
 
