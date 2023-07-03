@@ -34,8 +34,8 @@ const BOT_NUM = 2;	// If you, for some reason, want more bots.
 // You do, however, have to add more to this list if you change BOT_NUM
 new const DefaultNames[BOT_NUM][ ] = 
 {
-	"Real 1",
-	"Real 2"
+	"Discord: gg.gamewaver.com",
+	"Web: awesomecs.gamewaver.com"
 };
 
 //----------------------------------------------------------------------------------------
