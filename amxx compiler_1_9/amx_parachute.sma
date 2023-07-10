@@ -38,7 +38,7 @@ public native_filter(const name[], index, trap)
 
 public plugin_precache()
 {
-	precache_model("models/parachutem3v2.mdl")
+	precache_model("models/parachute_ac.mdl")
 }
 
 public client_connect(id)
@@ -136,7 +136,7 @@ public client_PreThink(id)
 					entity_set_edict(para_ent[id], EV_ENT_aiment, id)
 					entity_set_edict(para_ent[id], EV_ENT_owner, id)
 					entity_set_int(para_ent[id], EV_INT_movetype, MOVETYPE_FOLLOW)
-					entity_set_model(para_ent[id], "models/parachutem3v2.mdl")
+					entity_set_model(para_ent[id], "models/parachute_ac.mdl")
 					entity_set_int(para_ent[id], EV_INT_sequence, 0)
 					entity_set_int(para_ent[id], EV_INT_gaitsequence, 1)
 					entity_set_float(para_ent[id], EV_FL_frame, 0.0)
