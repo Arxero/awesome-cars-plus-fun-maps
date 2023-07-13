@@ -111,6 +111,7 @@ q3dm1_foo
 q3dm17_remake
 
 de_bowling_plaza
+ac_fun2_p2
 
 ; retired for now
 ;helipcotero_battle
