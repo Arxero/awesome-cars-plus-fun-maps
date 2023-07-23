@@ -93,7 +93,7 @@ public plugin_init() {
 }
 
 public plugin_precache(){
-	precache_model("models/player/whiteout/whiteout.mdl");
+	precache_model("models/player/skeleton/skeleton.mdl");
 	sprite_death = precache_model("sprites/93skull1.spr");
 }
 
@@ -314,7 +314,7 @@ public handle_ghost(tid) {
 	set_user_godmode(id, 1);
 	set_pev(id, pev_solid, SOLID_NOT);
 	set_user_rendering(id, kRenderFxHologram, 0, 0, 0, kRenderTransAlpha, 125)
-	cs_set_user_model(id, "whiteout");
+	cs_set_user_model(id, "skeleton");
 	strip_user_weapons(id);
 	set_user_footsteps(id);
 }
