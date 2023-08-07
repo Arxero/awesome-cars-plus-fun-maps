@@ -1,0 +1,38 @@
+[en] -- OciXCrom
+ADVMUTE_CANT_MUTE = You &x03can't &x01mute this player due to his &x04immunity&x01.
+ADVMUTE_MENU_HEADER = \yChoose a player to toggle his \rmute status\y:\d
+ADVMUTE_MUTE_ALL = \yMute all players
+ADVMUTE_UNMUTE_ALL = \yUnmute all players
+ADVMUTE_NEXT_PAGE = \yNext page
+ADVMUTE_PREVIOUS_PAGE = \yPrevious page
+ADVMUTE_EXIT = \yClose the \rMute Menu
+ADVMUTE_MUTED_ALL = You have &x03muted &x04all players&x01.
+ADVMUTE_UNMUTED_ALL = You have &x03unmuted &x04all players&x01.
+ADVMUTE_MUTED_PLAYER = You have &x03muted &x04%s&x01.
+ADVMUTE_UNMUTED_PLAYER = You have &x03unmuted &x04%s&x01.
+
+[mk] -- OciXCrom
+ADVMUTE_CANT_MUTE = &x03Ne mozesh &x01da go mjutnesh ovoj igrach zatoa shto ima &x04imunitet&x01.
+ADVMUTE_MENU_HEADER = \yIzberi igrach za \rmjut\y:\d
+ADVMUTE_MUTE_ALL = \yMjutni gi site igrachi
+ADVMUTE_UNMUTE_ALL = \yOdmjutni gi site igrachi
+ADVMUTE_NEXT_PAGE = \ySledna stranica
+ADVMUTE_PREVIOUS_PAGE = \yPrethodna stranica
+ADVMUTE_EXIT = \yZatvori go \rMjut Menito
+ADVMUTE_MUTED_ALL = Gi &x03mjutna &x04site igrachi&x01.
+ADVMUTE_UNMUTED_ALL = Gi &x03odmjutna &x04site igrachi&x01
+ADVMUTE_MUTED_PLAYER = Go &x03mjutna &x04%s&x01.
+ADVMUTE_UNMUTED_PLAYER = Go &x03odmjutna &x04%s&x01.
+
+[ru] -- Kin[g]
+ADVMUTE_CANT_MUTE = Вы &x03не можете &x01отключить звук этого игрока из-за его &x04иммунитета&x01.
+ADVMUTE_MENU_HEADER = \yВыберите игрока, чтобы переключить его \rmute статус\y: \d
+ADVMUTE_MUTE_ALL = \yОтключить всех игроков
+ADVMUTE_UNMUTE_ALL = \yОтключить всех игроков
+ADVMUTE_NEXT_PAGE = \yСледующая страница
+ADVMUTE_PREVIOUS_PAGE = \yПредыдущая страница
+ADVMUTE_EXIT = \yЗакрыть \rМеню отключения звука
+ADVMUTE_MUTED_ALL = У вас &x03мутировали & x04все игроки & x01.
+ADVMUTE_UNMUTED_ALL = У вас есть &x03unmuted &x04all игроков&x01.
+ADVMUTE_MUTED_PLAYER = У вас &x03muted &x04%s&x01.
+ADVMUTE_UNMUTED_PLAYER = У вас есть &x03unmuted &x04%s&x01.
