@@ -1,0 +1,43 @@
+--------------------------------
+	fun_checkmate
+--------------------------------
+	v.1
+-------------------------------- 
+Автор оригинала: Nexon
+Автор портирования: KRYSIS (https://vk.com/maximovg)
+--------------------------------
+** Портированная карта из игры CSO.
+Полностью адаптированная под CS 1.6
+--------------------------------
+Поддерживаемые моды:
+- CSDM (Основной)
+- Knife
+- GunGame
+*** Для корректной работы в других модах
+требуются плагины!
+--------------------------------
+Список файлов (Указаны только не стандартные)
+cstrike (папка)
+	maps (папка)
+	fun_checkmate.bsp (Карта)
+	fun_checkmate.res (Ресурсы)
+	fun_checkmate.txt (информация)
+
+	models (папка)
+		fun_checkmate (папка)
+		bishop.mdl
+		bishop_dark.mdl
+		cushion.mdl
+		flowerpot.mdl
+		king.mdl
+		king_dark.mdl
+		knight.mdl
+		knight_dark.mdl
+		pawn.mdl
+		pawn_dark.mdl
+		queen.mdl
+		queen_dark.mdl
+		rock.mdl
+		rock_dark.mdl
+		standlight.mdl
+		wind.mdl

@@ -1,0 +1,17 @@
+SHAHMAT- Fight Yard
+map by ZPhugeFan
+
+Info:
+This is an actual chess board where you can play
+actual chess!! CTs control the white pieces and Ts
+control the black. Set the map's round time to infinite
+and the map's overall time limit to infinite and 
+you're ready to play a game of chess in Counter-Strike!
+How crazy is that?!
+
+Notes:
+Shoot the gong to declare end of your turn. Use TV screens
+to look at the board. Use the button on the side
+when you need to promote a pawn or need a spare piece.
+
+(press Fire to continue)                        
