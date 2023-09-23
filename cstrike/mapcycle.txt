@@ -117,6 +117,7 @@ surf_ski_2
 fun_checkmate
 fy_shahmat
 skull_war_chess_2001
+de_opposing_life
 
 ; retired for now
 ;helipcotero_battle

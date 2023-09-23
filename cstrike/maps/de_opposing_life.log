@@ -1,0 +1,353 @@
+hlcsg v3.4 VL33 (Feb  2 2014)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlcsg -----
+Command line: D:/Games/J.A.C.K/halflife/hlcsg.exe "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" 
+Arguments: "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" -low -wadautodetect 
+Entering D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       4 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+reset logfile         [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 33554432 ] [ 33554432 ]
+max lighting memory   [ 50331648 ] [ 50331648 ]
+priority              [     Low ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [     off ] [     off ]
+clip hull type        [  simple ] [  simple ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+wad configuration file[    None ] [    None ]
+wad.cfg group name    [    None ] [    None ]
+nullfile              [    None ] [    None ]
+nullify trigger       [      on ] [      on ]
+min surface area      [   0.000 ] [   0.000 ]
+brush union threshold [   0.000 ] [   0.000 ]
+map scaling           [    None ] [    None ]
+light name optimize   [      on ] [      on ]
+UTF8 game_text        [      on ] [      on ]
+
+Using mapfile wad configuration
+Wadfiles not in use by the map will be excluded
+Wadinclude list :
+[zhlt.wad]
+
+CreateBrush:
+ (0.79 seconds)
+CSGBrush:
+ (0.87 seconds)
+
+added 16 additional animating textures.
+Including Wadfile: \Games\J.A.C.K\halflife\zhlt.wad
+ - Contains 2 used textures, 1.96 percent of map (19 textures in wad)
+Using Wadfile: \Games\Half-Life\valve\halflife.wad
+ - Contains 93 used textures, 91.18 percent of map (3116 textures in wad)
+Using Wadfile: \Games\Half-Life\valve\liquids.wad
+ - Contains 1 used texture, 0.98 percent of map (32 textures in wad)
+Using Wadfile: \Games\Counter-Strike 1.6\cstrike\OPFOR.WAD
+ - Contains 6 used textures, 5.88 percent of map (10 textures in wad)
+
+Wad files required to run the map: "halflife.wad;liquids.wad;OPFOR.WAD;"
+Texture usage is at 1.03 mb (of 32.00 mb MAX)
+2.00 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 VL33 (Feb  2 2014)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlbsp -----
+Command line: D:/Games/J.A.C.K/halflife/hlbsp.exe "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" 
+Arguments: "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" -low -chart 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [      on ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+priority            [     Low ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noinsidefill        [     off ] [     off ]
+noopt               [     off ] [     off ]
+no clipnode merging [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+nobrink             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 65536)
+remove hull 2       [     off ] [     off ]
+
+
+SolidBSP [hull 0] 500...1000...1500...Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (64,-1260,49)-(83,-1214,85) in hull 0 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+2000...2500...2565 (0.53 seconds)
+BSP generation successful, writing portal file 'D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life.prt'
+SolidBSP [hull 1] 500...1000...1500...2000...Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (273,-1197,87)-(293,-1151,103) in hull 1 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (231,-1295,93)-(248,-1255,109) in hull 1 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (172,-1416,88)-(274,-1193,157) in hull 1 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (49,-1239,74)-(72,-1186,103) in hull 1 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+2500...3000...3145 (0.63 seconds)
+SolidBSP [hull 2] 500...1000...1500...2000...Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (33,-1223,70)-(56,-1170,99) in hull 2 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+2500...2893 (0.58 seconds)
+SolidBSP [hull 3] 500...1000...1500...2000...2500...Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (231,-1296,103)-(249,-1253,121) in hull 3 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (237,-1281,75)-(248,-1255,103) in hull 3 of model 0 (entity: classname "worldspawn", origin "", targetname "")
+3000...3355 (0.74 seconds)
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1793,129,-8)-(-1728,208,32) in hull 0 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1791,112,-8)-(-1775,132,32) in hull 0 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1775,96,37)-(-1753,123,68) in hull 1 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1816,136,54)-(-1744,224,68) in hull 1 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1816,136,54)-(-1744,224,68) in hull 1 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1793,164,12)-(-1744,224,54) in hull 1 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-51848,-60973,-5840)-(49504,62896,80000) in hull 1 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1890,45,-80000)-(-1763,201,80000) in hull 1 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1759,80,41)-(-1743,100,64) in hull 2 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1832,152,50)-(-1760,240,64) in hull 2 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1832,152,50)-(-1760,240,64) in hull 2 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-51866,-60959,-5836)-(49486,62910,80000) in hull 2 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1906,61,-80000)-(-1776,220,80000) in hull 2 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1759,80,44)-(-1743,100,64) in hull 2 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1775,96,19)-(-1753,123,50) in hull 3 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1790,167,-26)-(-1744,224,50) in hull 3 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1816,136,36)-(-1790,167,50) in hull 3 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1807,147,-80000)-(49504,62862,80000) in hull 3 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1816,136,-12)-(-1790,167,36) in hull 3 of model 17 (entity: classname "func_breakable", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1704,112,76)-(-1664,145,108) in hull 1 of model 18 (entity: classname "func_breakable", origin "", targetname "mortarpit_breakable_1")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (1020,-3604,-1096)-(1076,-3560,-1052) in hull 0 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (1032,-3604,-1044)-(1040,-3376,-1040) in hull 1 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (1032,-3645,-1085)-(1081,-3600,-1040) in hull 1 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (957,-3568,-1044)-(1001,-3538,-1040) in hull 1 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (984,-3636,-1064)-(1085,-3616,-1044) in hull 2 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (992,-3636,-1136)-(1104,-3632,-1129) in hull 2 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (1032,-3604,-1062)-(1040,-3376,-1058) in hull 3 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (1032,-3664,-1122)-(1088,-3600,-1058) in hull 3 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (993,-3616,-1074)-(1025,-3556,-1058) in hull 3 of model 40 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1348,753,0)-(-1298,839,32) in hull 0 of model 49 (entity: classname "func_wall", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1364,737,-36)-(-1314,823,68) in hull 1 of model 49 (entity: classname "func_wall", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1380,721,-32)-(-1330,807,64) in hull 2 of model 49 (entity: classname "func_wall", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-1364,737,-18)-(-1314,823,50) in hull 3 of model 49 (entity: classname "func_wall", origin "", targetname "")
+Warning: No visible brushes in solid entity: model 87 (entity: classname "func_recharge", origin "", targetname "", range (1522,-27,91) - (1537,0,160))
+Warning: No visible brushes in solid entity: model 88 (entity: classname "func_recharge", origin "", targetname "", range (-1080,873,36) - (-1062,905,69))
+Reduced 10754 clipnodes to 10220
+Reduced 863 texinfos to 724
+Reduced 102 texdatas to 97 (6716 bytes to 5384)
+Reduced 19754 planes to 6393
+FixBrinks:
+Increased 10220 clipnodes to 10616.
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models            107/512         6848/32768    (20.9%)
+planes           6393/32768     127860/655360   (19.5%)
+vertexes         6728/65535      80736/786420   (10.3%)
+nodes            3079/32767      73896/786408   ( 9.4%)
+texinfos          724/32767      28960/1310680  ( 2.2%)
+faces            5241/65535     104820/1310700  ( 8.0%)
+* worldfaces     3328/32768          0/0        (10.2%)
+clipnodes       10616/32767      84928/262136   (32.4%)
+leaves           2063/32760      57764/917280   ( 6.3%)
+* worldleaves    1223/8192           0/0        (14.9%)
+marksurfaces     6369/65535      12738/131070   ( 9.7%)
+surfedges       23770/512000     95080/2048000  ( 4.6%)
+edges           12143/256000     48572/1024000  ( 4.7%)
+texdata          [variable]       5384/33554432 ( 0.0%)
+lightdata        [variable]          0/50331648 ( 0.0%)
+visdata          [variable]          0/8388608  ( 0.0%)
+entdata          [variable]      38169/2097152  ( 1.8%)
+* AllocBlock       10/64             0/0        (15.6%)
+97 textures referenced
+=== Total BSP file data space used: 765755 bytes ===
+Wad files required to run the map: "halflife.wad;liquids.wad;OPFOR.WAD;"
+4.89 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 VL33 (Feb  2 2014)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlvis -----
+Command line: D:/Games/J.A.C.K/halflife/hlvis.exe -fast "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" 
+Arguments: -fast "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" -low 
+1223 portalleafs
+4549 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+max vis distance    [       0 ] [       0 ]
+priority            [     Low ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (1.25 seconds)
+average leafs visible: 700
+g_visdatasize:149394  compressed from 187119
+1.35 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 VL33 (Feb  2 2014)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlrad -----
+Command line: D:/Games/J.A.C.K/halflife/hlrad.exe "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" 
+Arguments: "D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life" -low 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 4 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [          33554432 ] [          33554432 ]
+max lighting memory  [          50331648 ] [          50331648 ]
+priority             [               Low ] [            Normal ]
+
+fast rad             [               off ] [               off ]
+vismatrix algorithm  [            Sparse ] [            Sparse ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 8 ] [                 8 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+light limit threshold[           188.000 ] [           188.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+smoothing threshold 2[         no change ] [         no change ]
+direct threshold     [            10.000 ] [            10.000 ]
+direct light scale   [             1.000 ] [             1.000 ]
+coring threshold     [             0.010 ] [             0.010 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global light scale   [ 2.000 2.000 2.000 ] [ 2.000 2.000 2.000 ]
+global gamma         [ 0.550 0.550 0.550 ] [ 0.550 0.550 0.550 ]
+global light scale   [             2.000 ] [             2.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+spread angles        [                on ] [                on ]
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+minimum final light  [                 0 ] [                 0 ]
+size of transfer     [         1 (16bit) ] [         1 (16bit) ]
+size of rgbtransfer  [         2 (32bit) ] [         2 (32bit) ]
+soft sky             [                on ] [                on ]
+translucent depth    [             2.000 ] [             2.000 ]
+block opaque         [                on ] [                on ]
+ignore textures      [               off ] [               off ]
+reflectivity gamma   [             1.760 ] [             1.760 ]
+reflectivity scale   [             0.700 ] [             0.700 ]
+blur size            [             1.500 ] [             1.500 ]
+no emitter range     [               off ] [               off ]
+wall bleeding fix    [                on ] [                on ]
+
+
+Load Textures:
+Using Wadfile: D:\Games\Counter-Strike 1.6\cstrike\maps\de_opposing_life.wa_
+97 textures referenced
+Reading texlights from 'D:\Games\J.A.C.K\halflife\lights.rad'
+0 opaque models
+0 opaque faces
+5241 faces
+Create Patches : 22886 base patches
+812300 square feet [116971288.00 square inches]
+15 direct lights and 65544 fast direct lights
+5 light styles
+Warning: More than one light_environments are in use. Add entity info_sunlight to clarify the sunlight's brightness for in-game model(.mdl) rendering.
+
+FindFacePositions:
+ (41.85 seconds)
+BuildFacelights:
+ (545.46 seconds)
+BuildVisLeafs:
+ (51.83 seconds)
+visibility matrix   :   4.0 megs
+MakeScales:
+ (40.78 seconds)
+Transfer Lists :     7367496 :     7.37M transfers
+       Indices :     6334204 :     6.04M bytes
+          Data :    14767683 :    14.08M bytes
+Bounce 1 GatherLight:
+ (0.68 seconds)
+Bounce 2 GatherLight:
+ (0.74 seconds)
+Bounce 3 GatherLight:
+ (0.81 seconds)
+Bounce 4 GatherLight:
+ (0.79 seconds)
+Bounce 5 GatherLight:
+ (0.78 seconds)
+Bounce 6 GatherLight:
+ (1.13 seconds)
+Bounce 7 GatherLight:
+ (1.05 seconds)
+Bounce 8 GatherLight:
+ (0.76 seconds)
+CreateTriangulations:
+ (1.91 seconds)
+AddPatchLights:
+ (43.06 seconds)
+FinalLightFace:
+ (0.12 seconds)
+733.92 seconds elapsed [12m 13s]
+
+-----   END   hlrad -----
+
+
+
