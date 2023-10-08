@@ -3,8 +3,9 @@ Cb_Tanks
 Fun_Tank_Arena_v2b
 GM_StarWars
 The_Prosecutor_Area69
-ac_fun
+; ac_fun
 ac_fun2_v1
+ac_fun2_p2
 air_combat
 air_fight2
 as_cliffsea
@@ -105,19 +106,15 @@ bl_islands
 bl_pena_earth
 bl_snow
 q3ctf1_foo
-q3dm_csassault_china
 q3dm_tau1
 q3dm1_foo
 q3dm17_remake
 
 de_bowling_plaza
-ac_fun2_p2
 de_crossfire
 surf_ski_2
-fun_checkmate
-fy_shahmat
 skull_war_chess_2001
-de_opposing_life
+; de_opposing_life
 
 ; retired for now
 ;helipcotero_battle
@@ -128,14 +125,14 @@ de_opposing_life
 ;tower_wars
 
 
-;blahhhh
-;cs_evilcrazy
-;cs_horror2
-;de_halloween_night
-;cs_rhs22
-;de_dust2_halloween_v2
-;cs_evian
-;ac_fun_halloween
+blahhhh
+cs_evilcrazy
+cs_horror2
+de_halloween_night
+cs_rhs22
+de_dust2_halloween_v2
+cs_evian
+ac_fun_halloween
 
 
 ;cs_whiteXmas
