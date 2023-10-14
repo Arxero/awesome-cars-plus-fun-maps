@@ -1,0 +1,18 @@
+[en]
+ASK_VOTE = \yWhat do you think about %s?\w^n^n1.  Very Good ! !^n2.  Medium .^n3.  So Bad . . .
+CONDUCT = * Conducting a survey of players...
+GOOD = * %s selected Very Good!!
+MEDIUM = * %s selected Medium!
+BAD = * %s selected So Bad..!!
+NOW_RATE= * Now Rate : Very Good!!!(%.2f) Medium.(%.2f) So Bad...(%.2f)
+TOTAL_RATE = * Total Rate : Very Good!!!(%.2f) Medium.(%.2f) So Bad...(%.2f)
+DATA_LOGGED = Good = %i Okay = %i Bad = %i Total Votes = %i
+
+[de]
+ASK_VOTE = \yWas haeltst Du von %s?\w^n^n1.  Sehr gut! !^n2.  Geht so.^n3.  Scheisse. . .  
+CONDUCT = * Starte Wahl zur Mapbewertung...  
+GOOD = * %s waehlten: Sehr Gut!!  
+MEDIUM = * %s waehlten: Geht so!  
+BAD = * %s waehlten: Scheisse..!!  
+NOW_RATE= * Gewaehlt: Sehr gut!!!(%.2f) Geht so.(%.2f) Scheisse...(%.2f)  
+TOTAL_RATE = * Total Rate : Sehr gut!!(%.2f) Geht so.(%.2f) Scheisse...(%.2f)
