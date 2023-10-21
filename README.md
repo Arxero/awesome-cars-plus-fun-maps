@@ -123,6 +123,8 @@ For better spooky atmosphere you can use these commands in the console
     amx_fog 1 "116 137 147" 9 - Would make a realistic gray fog and it would be really hard to see anything.
     amx_fog 1 "0 0 200" 3 - Would make a cool blue fog.
 
+**amx_fog_default 1** in `amxx.cfg`to apply for every map
+
 ## Make Admins and VIPs
 Edit [users.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/users.ini), there are already added so you should be just fine following what is written in it.
 
