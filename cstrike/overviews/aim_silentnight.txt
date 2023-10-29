@@ -1,0 +1,14 @@
+// overview description file for aim_silentnight.bsp
+
+global 
+{
+	ZOOM	3.37
+	ORIGIN	0 	16	32
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_silentnight.bmp"
+	HEIGHT	32
+}

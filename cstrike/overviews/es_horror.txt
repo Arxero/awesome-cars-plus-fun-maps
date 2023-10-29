@@ -1,0 +1,14 @@
+//overview description file for es_horror.bsp
+
+global
+{
+	ZOOM	1.51
+	ORIGIN	115         315 	  630
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/es_horror.tga"
+	HEIGHT	-331
+} 

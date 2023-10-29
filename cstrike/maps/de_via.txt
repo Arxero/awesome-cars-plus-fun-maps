@@ -1,0 +1,20 @@
+Map: Via - Bomb/Defuse
+by: Naitsirk di Fire
+Version: 03 - as of 07.06.2023
+Assets: Naitsirk
+	Bram Eulaers "backgroundpine"
+	Daank "cf_m_win1", ref."matt_outwooden"
+Spec. thx to MistaX88, Tatu Eugen, Shash7, arutama. and all
+others that enjoyed and helped in creating content through
+the years. Wish y'all the best!
+
+Theme: ...
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the mansion or the lighthouse.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the aforementioned areas.
+
+Other Notes: There are 2 bomb targets
+in the mission.

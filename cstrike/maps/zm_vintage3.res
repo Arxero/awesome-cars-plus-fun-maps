@@ -1,0 +1,22 @@
+//zm_vintage3 res file (FD nelietis)
+sound/ngyl_mns3/bell.wav
+sound/ngyl_mns3/chirp.wav
+sound/ngyl_mns3/chr.wav
+sound/ngyl_mns3/crow.wav
+sound/ngyl_mns3/fire.wav
+sound/ngyl_mns3/flw.wav
+sound/ngyl_mns3/ghost.wav
+sound/ngyl_mns3/howl.wav
+sound/ngyl_mns3/hvyd.wav
+sound/ngyl_mns3/kid.wav
+sound/ngyl_mns3/piano.wav
+sound/ngyl_mns3/play.wav
+sound/ngyl_mns3/ticker.wav
+//
+sprites/ngyl_mns3/aiz.spr
+sprites/ngyl_mns3/fire.spr
+sprites/ngyl_mns3/jol.spr
+sprites/ngyl_mns3/torch.spr
+//
+models/ngyl_mns3/sink.mdl
+models/ngyl_mns3/wc.mdl

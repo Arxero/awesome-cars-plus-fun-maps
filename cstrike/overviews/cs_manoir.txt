@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.56
+	ORIGIN	40	32	-433
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_manoir.bmp"
+	HEIGHT	-433
+}

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.83
+	ORIGIN	-234.69	-1856	-97
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_asylum.bmp"
+	HEIGHT	-97
+}

@@ -1,0 +1,15 @@
+rainy_estate - Hostage-Rescue
+Mapping by:
+Gimli  (GimliW@gmx.net)
+Textures/Graphics by:
+Zaphod Beeblebrox (zaphod@mapcore.com)
+torque_mod (torque_mod@planethalflife.com)
+
+Counter-Terrorists: Rescue the three
+hostages being held captive in the mansion.
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the hostages.
+
+
+(Press FIRE to continue)

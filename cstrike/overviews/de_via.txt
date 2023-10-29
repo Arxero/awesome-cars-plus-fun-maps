@@ -1,0 +1,14 @@
+ Zoom 1.15, Map Origin (-839.38, -4.63, 304.00), Z Min 993.00, Z Max -385.00, Rotated 1
+
+global 
+{
+	ZOOM	1.15
+	ORIGIN	-839.38	-4.63	304
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_via_revisited.bmp"
+	HEIGHT	-385
+}

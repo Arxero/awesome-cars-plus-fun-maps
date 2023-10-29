@@ -1,0 +1,14 @@
+// overview description file for cs_rainy_estate.bsp
+
+global 
+{
+	ZOOM	2.39
+	ORIGIN	-644 	-1426	186
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_rainy_estate.bmp"
+	HEIGHT	186
+}
