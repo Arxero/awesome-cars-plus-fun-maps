@@ -104,6 +104,8 @@ Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/
 ### Sounds
 Edit [roundsound.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/roundsound.ini) just uncomment halloween sounds and comment the normal ones.
 
+Edit [SND-LIST.CFG](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/SND-LIST.CFG) just uncomment halloween sounds and comment the normal ones.
+
 ### Knife Models
 Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/KnifeModels.ini) just uncomment halloween knifes and comment the normal ones.
 
