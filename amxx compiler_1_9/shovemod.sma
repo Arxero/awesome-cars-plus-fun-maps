@@ -74,6 +74,12 @@ public shovePlayer(id)
 	if(!Index) {
 		return PLUGIN_HANDLED;
 	}
+
+	if(!is_user_alive(Index) || get_user_godmode(Index)) {
+		return PLUGIN_CONTINUE;
+	} else if (!is_user_alive(Index)) {
+		return PLUGIN_HANDLED;
+	}
 	
 	// Comment to allow shove while crouching
 	// new Float:size[3]

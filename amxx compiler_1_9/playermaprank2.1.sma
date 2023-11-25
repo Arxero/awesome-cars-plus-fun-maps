@@ -277,8 +277,9 @@
 	}
 	tans[1] = 1.00 - (tans[0] + tans[2])
 
-	if (get_cvar_num("amx_mapvotemode")== 1){ //no print
-		} else if (get_cvar_num("amx_mapvotemode")== 2) {  //admin print
+	if (get_cvar_num("amx_mapvotemode")== 1){ //print only total rate
+		client_print(0,print_chat,"%L",LANG_PLAYER,"TOTAL_RATE",tans[0],tans[1],tans[2])
+	} else if (get_cvar_num("amx_mapvotemode")== 2) {  //admin print
 		new players[32], num
 		get_players(players, num)
 		new i
@@ -287,7 +288,7 @@
 			if (!(get_user_flags(id)&ADMIN_IMMUNITY))     return PLUGIN_CONTINUE
 			client_print(i,print_chat,"%L",LANG_PLAYER,"TOTAL_RATE",tans[0],tans[1],tans[2])
 		}
-		} else {
+	} else {
 		client_print(0,print_chat,"%L",LANG_PLAYER,"TOTAL_RATE",tans[0],tans[1],tans[2])
 	}
 
