@@ -73,11 +73,21 @@ Edit [KnifeModels.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob
 
 Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/weapons_by_ThePro.ini) and [models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/models.ini) to accomodate for the christmas changes, just like in for sounds and knife config files.
 
+### Christmas Fog
+In `amxx.cfg`
+
+    amx_fog_default 1
+    amx_fog_color "255 250 250"
+    amx_fog_amount 1
+
 ### MOTD background
 Open [Awesome-Cars-MOTD-Wiki]() repo and uncomment [this line](https://github.com/Arxero/Awesome-Cars-MOTD-Wiki/blob/f7e3b4316e41308c95747dc0a76ce0a376638847/style.css#L59).
 
     cd /var/www/awesomecars-wiki.gamewaver.com/Awesome-Cars-MOTD-Wiki
     git pull
+
+### Sank sounds
+Eidt `SND-LIST.CFG` to use `xoxo` as welcome message
 
 ## Switch to Halloween Theme
 Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)

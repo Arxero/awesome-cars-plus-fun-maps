@@ -3,7 +3,7 @@ Cb_Tanks
 Fun_Tank_Arena_v2b
 GM_StarWars
 The_Prosecutor_Area69
-ac_fun
+; ac_fun
 ac_fun2_v1
 ac_fun2_p2
 air_combat
@@ -42,7 +42,7 @@ de_boatseason2c
 de_boxcar3
 de_carmageddon
 de_crazytank
-de_dust2
+; de_dust2
 de_eldorado
 de_farmrush
 de_jeepathon2k
@@ -153,16 +153,16 @@ deathrace_seaside
 ;--== Halloween Update==--
 
 ;--==Christmas Update==--
-;35HP_XMAS2015
-;ac_fun_xmas
-;cs_whiteXmas
-;csb_snomowarz
-;de_christmas
-;de_dust2_xmas
-;de_eggnog_lethal
-;rush_xmas
-;x-mas_tree
-;xmas_crazytank
-;xmas_lodge
-;xmas_nipperhouse
+35HP_XMAS2015
+ac_fun_xmas
+cs_whiteXmas
+csb_snomowarz
+de_christmas
+de_dust2_xmas
+de_eggnog_lethal
+rush_xmas
+x-mas_tree
+xmas_crazytank
+xmas_lodge
+xmas_nipperhouse
 ;--==Christmas Update==--
