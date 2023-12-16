@@ -1,0 +1,14 @@
+// overview description file for cs_mad_christmas
+
+global 
+{
+	ZOOM	1.55
+	ORIGIN	-552 256.69 -368
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_mad_christmas.bmp"
+	HEIGHT	-368
+}

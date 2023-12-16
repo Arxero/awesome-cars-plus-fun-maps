@@ -165,4 +165,10 @@ xmas_lodge
 xmas_nipperhouse
 de_supermarket
 de_survivor
+
+; cs_mad_christmas
+; cs_xmas_house
+; de_xmas_freimaurer
+; fy_flake
+; xmas_shrooms
 ;--==Christmas Update==--

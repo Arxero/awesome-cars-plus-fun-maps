@@ -1,0 +1,14 @@
+// overview description file for cs_xmas_house.bsp by M@NI@K & 3AXBAT
+
+global 
+{
+	ZOOM	2.29
+	ORIGIN	42 -398.81 -277
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_xmas_house.bmp"
+	HEIGHT	-277
+}
