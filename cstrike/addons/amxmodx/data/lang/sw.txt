@@ -1,0 +1,12 @@
+[pl]
+MSG_WELCOME = ~~~ Snowball war v%s by FakeNick ~~~
+WIN_BLUE = Niebiescy zwyciezyli!
+WIN_RED = Czerwoni zwyciezyli!
+WIN_NO_ONE = Remis...
+
+
+[en]
+MSG_WELCOME = ~~~ Snowball war v%s by FakeNick ~~~
+WIN_BLUE = Blue team wins!
+WIN_RED = Red team wins!
+WIN_NO_ONE = Draw...
