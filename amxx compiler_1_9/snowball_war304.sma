@@ -97,9 +97,9 @@ new const sound_pain[][] = { "player/pl_pain2.wav","player/pl_pain4.wav","player
 new const sound_hit[][] = { "player/pl_snow1.wav","player/pl_snow2.wav","player/pl_snow3.wav","player/pl_snow4.wav","player/pl_snow5.wav","player/pl_snow6.wav" }
 new const sound_chill[][] = { "sw/chill.wav" }
 new const sound_unchill[][] = { "sw/unchill.wav" }
-new const sound_win_blue[][] = { "sw/blue1.wav" }
-new const sound_win_red[][] = { "sw/red1.wav" }
-new const sound_win_no_one[][] = { "sw/draw.wav" }
+new const sound_win_blue[][] = { "" }
+new const sound_win_red[][] = { "" }
+new const sound_win_no_one[][] = { "" }
 
 /*================================================================================
  [CUSTOMIZATION ENDS HERE!]
@@ -504,17 +504,17 @@ public fw_PlayerSpawn(id)
 	g_god[id] = false
 	
 	//Strip player weapons
-	fm_strip_user_weapons(id)
+	// fm_strip_user_weapons(id)
 	
 	//Give him knife and "snowball"
-	fm_give_item(id,"weapon_knife")
+	// fm_give_item(id,"weapon_knife")
 	fm_give_item(id,"weapon_hegrenade")
 	
 	//Reset his model
 	sw_reset_user_model(id)
 	
 	//Strip his cash ;]
-	sw_set_user_money(id,0,0)
+	// sw_set_user_money(id,0,0)
 	
 	//Hide money displaying
 	sw_money(id)
