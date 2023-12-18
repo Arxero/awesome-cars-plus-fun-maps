@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.43
+	ORIGIN	334.81	1072	-1705
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/xmas_wallmart.bmp"
+	HEIGHT	-1705
+}
