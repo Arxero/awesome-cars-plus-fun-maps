@@ -35,7 +35,7 @@
 ; cs_jeep_rally2
 ; cs_militia
 ; cs_rio
-; csde_nokia
+csde_nokia
 ; de_airninja
 ; de_bikinibottom_v2
 ; de_boatseason2c
