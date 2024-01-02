@@ -111,6 +111,8 @@ q3dm17_remake
 de_bowling_plaza
 surf_ski_2
 skull_war_chess_2001
+awp_ruins
+awp_forest_cs
 
 deathrace_alley
 deathrace_seaside

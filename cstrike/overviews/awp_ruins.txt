@@ -1,0 +1,14 @@
+//overview description file for awp_ruins.bsp
+
+global
+{
+	ZOOM	2.91
+	ORIGIN	280           -112 	    -144
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/awp_ruins.bmp"
+	HEIGHT	-497
+} 
