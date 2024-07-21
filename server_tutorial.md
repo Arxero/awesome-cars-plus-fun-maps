@@ -405,6 +405,19 @@ First login as the user you want to execute the script from, then open crontab a
     @reboot sh /home/steam/start.sh
 
 
+# Replacing screen with pm2
+1. Stop the screen session `screen -X -S csserver kill`
+2. Navigate to `cd /home/ubuntu/Steam/csserver`
+3. Create `start2.sh` with content
+
+```sh
+cd /home/ubuntu/Steam/csserver
+./hlds_run -game cstrike +ip 135.125.238.196 +port 27017 +maxplayers 21 +sv_lan 0 -insecure -pingboost 3 +sys_ticrate 1030 -debug +condebug +map awesome_cars2
+echo "==========Server has been booted=========="
+```
+4. Make the script executable: `chmod +x start2.sh`
+5. Start the server: `pm2 start ./start2.sh --name csserver`
+
 # Gametacker.com setup, migrating old IP to a new one with DNS the feature
 
 [How do I migrate player stats or rank between server pages?](https://www.gametracker.com/forums/forum.php?site=1&thread=108256)
