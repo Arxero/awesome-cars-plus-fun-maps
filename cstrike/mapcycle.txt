@@ -4,7 +4,7 @@ Fun_Tank_Arena_v2b
 GM_StarWars
 The_Prosecutor_Area69
 ac_fun
-ac_fun2_v1
+ac_fun2
 ac_fun2_p2
 air_combat
 air_fight2
