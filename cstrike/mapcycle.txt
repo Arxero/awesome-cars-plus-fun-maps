@@ -114,6 +114,7 @@ surf_ski_2
 skull_war_chess_2001
 awp_ruins
 awp_forest_cs
+troll_military
 
 deathrace_alley
 deathrace_seaside
