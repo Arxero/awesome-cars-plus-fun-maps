@@ -1,0 +1,14 @@
+de_amr - Bomb/Defuse
+
+Version 1.0
+
+by Tatu Eugen - www.tatueugen.info
+
+Amr map has action into dust style, with arab streets, with 2 bomb sites.
+X1 close for ts but hard to plant the bomb.
+X2 Long way for ts but with more zones for entry.
+
+CTS stay in x1 and x2 and kill all ts.
+TS plant the bomb in x1 or x2
+
+ENJOY
