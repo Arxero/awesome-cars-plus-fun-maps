@@ -35,6 +35,7 @@ new const g_szMaps[][] =
 	"fun_box",
 	"awesome_cars",
 	"awesome_cars2",
+	"awesome_cars3",
 	"nojarq_fun_zone",
 	"fun_cars",
 	"woohoo_cars",

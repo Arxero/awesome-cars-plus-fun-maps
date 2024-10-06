@@ -15,6 +15,7 @@ as_crazytank2
 as_crazytank3
 awesome_cars
 awesome_cars2
+awesome_cars3
 awp_snowfun2
 beach_attack
 big_city
