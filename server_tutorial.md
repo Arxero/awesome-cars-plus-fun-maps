@@ -170,6 +170,8 @@ See running screen sessions
     file_open_mode=0777
     local_umask=002
 
+- P: Server refused our key
+- S check logs in `/var/log/auth.log` and add [this line](https://unix.stackexchange.com/questions/721606/ssh-server-gives-userauth-pubkey-key-type-ssh-rsa-not-in-pubkeyacceptedalgorit) `PubkeyAcceptedAlgorithms +ssh-rsa` in `/etc/ssh/sshd_config` and then restart `sudo systemctl restart ssh`
 
 # Setup FTP access
 
@@ -408,15 +410,17 @@ First login as the user you want to execute the script from, then open crontab a
 # Replacing screen with pm2
 1. Stop the screen session `screen -X -S csserver kill`
 2. Navigate to `cd /home/ubuntu/Steam/csserver`
-3. Create `start2.sh` with content
+3. Create `start.sh` with content
 
 ```sh
 cd /home/ubuntu/Steam/csserver
 ./hlds_run -game cstrike +ip 135.125.238.196 +port 27017 +maxplayers 21 +sv_lan 0 -insecure -pingboost 3 +sys_ticrate 1030 -debug +condebug +map awesome_cars2
 echo "==========Server has been booted=========="
 ```
-4. Make the script executable: `chmod +x start2.sh`
-5. Start the server: `pm2 start ./start2.sh --name csserver`
+4. Make the script executable: `chmod +x start.sh`
+5. Start the server: `pm2 start ./start.sh --name csserver`
+6. `pm2 save`
+7. To save the process after each restart `pm2 startup`
 
 # Gametacker.com setup, migrating old IP to a new one with DNS the feature
 
