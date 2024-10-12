@@ -341,6 +341,8 @@ NOTE: We do not recommend this method on publicly accessible servers.
 ```
 Also make sure the user you are logged in have the correct permission to access the fastdl folder `chmod -R 777 fastdl`
 
+P.S.: You might need to `chmod -R 777 ubuntu` (current user home folder).
+
 8. Link `fastdl.gamewaver.com.conf` to `sites-enabled` directory
 
         sudo ln -s /etc/nginx/sites-available/fastdl.gamewaver.com.conf /etc/nginx/sites-enabled/fastdl.gamewaver.com.conf
