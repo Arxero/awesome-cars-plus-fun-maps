@@ -171,7 +171,15 @@ See running screen sessions
     local_umask=002
 
 - P: Server refused our key
-- S check logs in `/var/log/auth.log` and add [this line](https://unix.stackexchange.com/questions/721606/ssh-server-gives-userauth-pubkey-key-type-ssh-rsa-not-in-pubkeyacceptedalgorit) `PubkeyAcceptedAlgorithms +ssh-rsa` in `/etc/ssh/sshd_config` and then restart `sudo systemctl restart ssh`
+- S: check logs in `/var/log/auth.log` and add [this line](https://unix.stackexchange.com/questions/721606/ssh-server-gives-userauth-pubkey-key-type-ssh-rsa-not-in-pubkeyacceptedalgorit) `PubkeyAcceptedAlgorithms +ssh-rsa` in `/etc/ssh/sshd_config` and then restart `sudo systemctl restart ssh`
+- S2: [SSH doesn’t like it if your home or ~/.ssh directories have group write permissions. Your home directory should be writable only by you, ~/.ssh should be 700, and authorized_keys should be 600 :](https://chemicloud.com/kb/article/ssh-authentication-refused-bad-ownership-or-modes-for-directory/)
+
+```
+chmod go-w /home/ubuntu
+chmod 700 /home/ubuntu/.ssh
+chmod 600 /home/ubuntu/.ssh/authorized_keys
+```
+
 
 # Setup FTP access
 
