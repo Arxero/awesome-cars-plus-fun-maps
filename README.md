@@ -97,18 +97,9 @@ Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plu
     alt_end_round_sounds(beta).amxx
     death_ghost_halloween.amxx ; comment death_ghost.amxx - only used model is different
 
-Also uncomment those maps from `mapcycle.txt`
-
-    blahhhh
-    cs_evilcrazy
-    cs_horror2
-    de_halloween_night
-    cs_rhs22
-    de_dust2_halloween_v2
-    cs_evian
+Also uncomment `--== Halloween Update==--` maps from `mapcycle.txt`
 
 Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini).
-
 
 
 ### Sounds
@@ -135,7 +126,21 @@ For better spooky atmosphere you can use these commands in the console
     amx_fog 1 "116 137 147" 9 - Would make a realistic gray fog and it would be really hard to see anything.
     amx_fog 1 "0 0 200" 3 - Would make a cool blue fog.
 
-**amx_fog_default 1** in `amxx.cfg` to apply for every map
+- amx_fog_default 1
+- amx_fog_amount 1
+- amx_fog_color "0 0 0"
+
+in `amxx.cfg` to apply for every map
+
+### Galileo, in `galileo.cfg` change those cvars values
+- gal_emptyserver_wait 0
+- gal_banrecent 3
+
+# MOTD halloween background
+Open [Awesome-Cars-MOTD-Wiki]() repo and uncomment [this line](https://github.com/Arxero/Awesome-Cars-MOTD-Wiki/blob/f7e3b4316e41308c95747dc0a76ce0a376638847/style.css#L59).
+
+    cd /var/www/awesomecars-wiki.gamewaver.com/Awesome-Cars-MOTD-Wiki
+    git pull
 
 ## Make Admins and VIPs
 Edit [users.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/users.ini), there are already added so you should be just fine following what is written in it.
