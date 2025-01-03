@@ -114,6 +114,7 @@ awesome_cars2
 ; awp_forest_cs
 ; troll_military
 ; as_labirint
+de_arctic
 
 ; retired for now
 ; helipcotero_battle
