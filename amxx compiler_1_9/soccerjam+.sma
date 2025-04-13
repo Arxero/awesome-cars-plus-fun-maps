@@ -594,6 +594,19 @@ new aball
 new is_kickball
 
 new msg_roundtime
+
+new const tag[] = "^4[SJ]^1";
+new const soundStartVote[] = "buttons/bell1.wav";
+new const soundVoteSuccess[] = "sank_sounds/woo.wav";
+new const soundVoteFail[] = "buttons/button10.wav";
+
+new yes = 0;
+new no = 0;
+new voteDelay;
+new voteTime;
+new bool:isVoting = false;
+new bool:isAllowedToVoteAgain = true;
+new voteInitiator[64];
 /*
 +-----------------------+--------------------------------------------------------------------------+
 |			| ************************************************************************ |
@@ -764,6 +777,9 @@ public plugin_precache(){
 	precache_sound(snd_boomchaka)
 	precache_sound(snd_whistle)
 	precache_sound(snd_whistle_long)
+	precache_sound(soundStartVote);
+	precache_sound(soundVoteSuccess);
+	precache_sound(soundVoteFail);
 
 	//precache_generic("sound/misc/loading/ussr.mp3")
 }
@@ -997,6 +1013,8 @@ public plugin_init(){
 	cv_antideveloper	=	register_cvar("sj_antideveloper", "1")
 	cv_description		=	register_cvar("sj_description", "1")
 	cv_timer		=	register_cvar("sj_timer",	"1")
+	voteDelay = register_cvar("sj_vote_delay","120.0");
+    voteTime = register_cvar("sj_vote_time","5.0");
 	
 	register_touch("PwnBall", "player", 		"touch_Player")
 	register_touch("PwnBall", "soccerjam_goalnet",	"touch_Goalnet")
@@ -1036,6 +1054,8 @@ public plugin_init(){
 	register_concmd("amx_restart", 	"Restart",	ADMIN_KICK, 	"Restart server")
 	register_concmd("sj_version", 	"Version",	_, 		"Shows plugin's version info")
 	//register_concmd("jointeam", 	"BlockCommand")
+	register_clcmd( "say /sjvote", "VoteMenu", ADMIN_ALL, "Starts a vote for SJ game mode" );
+	register_clcmd( "sjvote", "VoteMenu", ADMIN_ALL, "Starts a vote for SJ game mode" );
 
 	register_menucmd(register_menuid("Team_Select",1), (1<<0)|(1<<1)|(1<<4)|(1<<5), "team_select")
 
@@ -6684,10 +6704,155 @@ public cvar_result4(id, const cvar[], const value[])
     }
 }
 
+public VoteMenu(id) {
+	new voteMenu = menu_create("Start a vote for SJ game mode", "handle_vote_menu");
+	menu_additem(voteMenu, "ROCKETBALL!", "1", 0);
+    menu_additem(voteMenu, "Head to Head", "2", 0);
+    menu_additem(voteMenu, "Multi Ball", "3", 0);
+	menu_display(id, voteMenu, 0);
+
+	return PLUGIN_HANDLED;
+}
+
+public handle_vote_menu(id, menu, item) {
+	if(item == MENU_EXIT){
+		menu_destroy(menu);
+		return PLUGIN_HANDLED;
+	}
+
+	new data[6], name[64], access, callback;
+    menu_item_getinfo(menu, item, access, data, charsmax(data), name, charsmax(name), callback);
+	new key = str_to_num(data);
+
+	switch (key) {
+		case 1: {
+			StartVote(id, key);
+		}
+		case 2: {
+			StartVote(id, key);
+		}
+		case 3: {
+			StartVote(id, key);
+		}
+	}
+
+    menu_destroy(menu);
+	return PLUGIN_HANDLED;
+}
+
+public StartVote(id, game_mode) {
+    if (isVoting) {
+        ColorChat(id, GREEN, "%s There is already a vote in progress started by ^3%s", tag, voteInitiator);
+        return PLUGIN_HANDLED;
+    } else if (!isAllowedToVoteAgain && game_mode != 3) {
+        client_cmd(0, "speak ^"sound/%s^"", soundVoteFail);
+        ColorChat(id, GREEN, "%s Not allowed to vote so soon again, wait ^4%d ^1seconds!", tag, get_pcvar_num(voteDelay));
+        return PLUGIN_HANDLED;
+    }
+    
+    yes = no = 0;
+    isVoting = true;
+    isAllowedToVoteAgain = false;
+    get_user_name(id, voteInitiator, 63);
+	new menu_title[64];
+	new mode_name_chat[64];
+
+	switch (game_mode) {
+		case 1: {
+			menu_title = "Start ROCKETBALL?";
+			mode_name_chat = "for ROCKETBALL";
+		}
+		case 2: {
+			menu_title = "Start Head to Head?";
+			mode_name_chat = "for Head to Head";
+		}
+		case 3: {
+			menu_title = "Toggle Multi Ball?";
+			mode_name_chat = "to toggle Multi Ball";
+		}
+	}
+
+    ColorChat(0, GREEN, "%s A vote %s has been started by ^4%s", tag, mode_name_chat, voteInitiator);
+    new g_menu = menu_create(menu_title, "handle_game_mode_vote");
+
+    menu_additem(g_menu, "Yes", "1", 0);
+    menu_additem(g_menu, "No", "2", 0);
+
+    new players[32], pnum, tempId;
+    get_players(players, pnum);
+
+    for (new i = 0; i < pnum; i++) {
+        tempId = players[i]; 
+        client_cmd(tempId, "speak ^"sound/%s^"", soundStartVote);
+        menu_display(tempId, g_menu, 0);
+    }
+
+	if (game_mode != 3) {
+    	set_task(get_pcvar_float(voteDelay),"allow_to_vote_again");
+	}
+
+    new menuParams[3];
+    menuParams[0] = g_menu;
+    menuParams[1] = game_mode;
+    menuParams[2] = id;
+    set_task(get_pcvar_float(voteTime), "EndVote", 0, menuParams, sizeof(menuParams));
+    return PLUGIN_HANDLED;
+}
+
+public handle_game_mode_vote(id, menu, item) {
+    new s_Data[6], s_Name[64], i_Access, i_Callback;
+    menu_item_getinfo(menu, item, i_Access, s_Data, charsmax(s_Data), s_Name, charsmax(s_Name), i_Callback);
+    
+    new key = str_to_num(s_Data);
+
+    switch (key) {
+		case 1: yes++;
+		case 2: no++;
+	}
+
+    isVoting = false;
+    return PLUGIN_HANDLED;
+}
+
+public allow_to_vote_again() {
+	isAllowedToVoteAgain = true;
+	return PLUGIN_HANDLED;
+}
+
+public EndVote(params[]) {
+	new menu = params[0];
+	new game_mode = params[1];
+	new id = params[2];
+
+    ColorChat(0, GREEN, "%s Results from the vote: ^4%d - Yes ^1vs ^4%d - No", tag, yes, no);
+    
+    if (yes > no) {
+        client_cmd(0, "speak ^"sound/%s^"", soundVoteSuccess);
+
+		switch (game_mode) {
+			case 1: {
+				SwitchGameSettings(id, SETS_ROCKET);
+			}
+			case 2: {
+				SwitchGameSettings(id, SETS_HEADTOHEAD);
+			}
+			case 3: {
+				MultiBall(id, 0, 0);
+			}
+		}
+    } else {
+        client_cmd(0, "speak ^"sound/%s^"", soundVoteFail);
+        ColorChat(0, GREEN, "%s Not enough ^4Yes ^1votes were cast for the vote to succeed", tag);
+    }
+
+    isVoting = false;
+    voteInitiator = "";
+    show_menu(0, 0, "^n", 1);
+    menu_destroy(menu);
+}
 
 /****************************PLUGIN-END******************************/
 
 public plugin_end(){
-	TrieDestroy(gTrieStats)
-
+	TrieDestroy(gTrieStats);
 }
