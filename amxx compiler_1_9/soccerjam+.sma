@@ -4904,8 +4904,7 @@ public ApplyGameSettings(sz_data[]){
 	get_user_name(sz_data[0], sz_name, charsmax(sz_name))
 	for(new i = 1; i <= g_maxplayers; i++){
 		if(IsUserConnected(i)){
-			ColorChat(i, sz_symb, "^4[SJ] ^1- %s%L ^1(%L: %s)",
-			sz_color, i, sz_langsets, i, "SJ_ADMIN", sz_name)
+			ColorChat(i, sz_symb, "^4[SJ] ^1- %s%L ^1(%s)", sz_color, i, sz_langsets, i, sz_name)
 			seconds[i] = 0
 		}
 	}
@@ -4957,9 +4956,9 @@ public MultiBall(id, level, cid){
 	get_user_name(id, sz_name, 31)
 	for(i = 1; i <= g_maxplayers; i++){
 		if(IsUserConnected(i)){
-			ColorChat(i, RED, "^4[SJ] ^1- %L: %s%L! ^1(%L: %s)",
+			ColorChat(i, RED, "^4[SJ] ^1- %L: %s%L! ^1(%s)",
 			i, "SJ_MULTIBALL", g_count_balls?("^4"):("^3"),
-			i, g_count_balls?("SJ_ON"):("SJ_OFF"), i, "SJ_ADMIN", sz_name)
+			i, g_count_balls?("SJ_ON"):("SJ_OFF"), sz_name)
 
 			//g_count_balls?(g_showhud[i] = false):(g_showhud[i] = true)
 		}
@@ -5218,8 +5217,9 @@ public ShowHelp(id, x){
 	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_STATS")
 	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_RESET")
 	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_SPEC")
-	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_WHOIS")	
-	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L", id, "SJ_MOTD_HELP_CHAT_RTV")		
+	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_WHOIS")
+	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_RTV")
+	sz_len += format(sz_temp[sz_len], charsmax(sz_temp) - sz_len, "%L<br>", id, "SJ_MOTD_HELP_CHAT_SJVOTE")
 	show_motd(id, sz_temp, help_title)
 }
 
@@ -6752,7 +6752,6 @@ public StartVote(id, game_mode) {
     
     yes = no = 0;
     isVoting = true;
-    isAllowedToVoteAgain = false;
     get_user_name(id, voteInitiator, 63);
 	new menu_title[64];
 	new mode_name_chat[64];
@@ -6788,6 +6787,7 @@ public StartVote(id, game_mode) {
     }
 
 	if (game_mode != 3) {
+		isAllowedToVoteAgain = false;
     	set_task(get_pcvar_float(voteDelay),"allow_to_vote_again");
 	}
 

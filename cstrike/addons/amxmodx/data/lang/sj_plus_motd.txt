@@ -52,3 +52,4 @@ SJ_MOTD_HELP_CHAT_SPEC = <font color=orange><b>/spec</b></font> - go to spec
 SJ_MOTD_HELP_CHAT_RTV = <font color=orange><b>/rtv</b></font> - vote for a map change
 SJ_MOTD_HELP_CHAT_WHOIS = <font color=orange><b>/whois</b></font> - show player's country
 SJ_MOTD_HELP_CHAT_HELP = <font color=orange><b>/help</b></font> - show help
+SJ_MOTD_HELP_CHAT_SJVOTE = <font color=orange><b>/sjvote</b></font> - vote for mode
