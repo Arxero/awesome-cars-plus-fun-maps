@@ -127,8 +127,8 @@ de_arctic
 ; sj_basket_click21
 ; sj_downunder
 ; de_amr
-; deathrace_alley
-; deathrace_seaside
+deathrace_alley
+deathrace_seaside
 ; q3dm_tau1
 ; q3dm17_remake
 ; bl_pena_earth
