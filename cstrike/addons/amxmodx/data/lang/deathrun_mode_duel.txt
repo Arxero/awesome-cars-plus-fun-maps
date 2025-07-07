@@ -1,0 +1,43 @@
+[en]
+DRD_SET_SPAWNS = You must set two spawns.
+DRD_SPAWNS_SAVED = Spawns saved.
+DRD_DUEL_START_TIME = Duel will start in %d seconds.
+DRD_TIME_OVER = Duel time is over.
+DRD_SHOOT_TIME = You have %d seconds.
+DRD_DUEL_OFFER = \yDo you want start duel?
+DRD_YES = Yes
+DRD_NO = No
+DRD_DUEL_WINNER = Duel winner is^3 %s^1.
+
+[ru]
+DRD_SET_SPAWNS = Вы должны установить две точки спавна.
+DRD_SPAWNS_SAVED = Точки спавна сохранены.
+DRD_DUEL_START_TIME = Дуэль начнется через %d сек.
+DRD_TIME_OVER = Время дуэли закончилось.
+DRD_SHOOT_TIME = У вас осталось %d сек.
+DRD_DUEL_OFFER = \yХотите начать дуэль?
+DRD_YES = Да
+DRD_NO = Нет
+DRD_DUEL_WINNER = Победитель дуэли^3 %s^1.
+
+[bp]
+DRD_SET_SPAWNS = Voce deve colocar dois spawns.
+DRD_SPAWNS_SAVED = Spawns salvos.
+DRD_DUEL_START_TIME = O duelo ira comecar em %d segundos.
+DRD_TIME_OVER = O tempo de duelo acabou.
+DRD_SHOOT_TIME = YVoce tem %d segundos.
+DRD_DUEL_OFFER = \yVoce quer comecar o duelo?
+DRD_YES = Sim
+DRD_NO = Nao
+DRD_DUEL_WINNER = O vencedor do duela eh^3 %s^1.
+
+[tr]
+DRD_SET_SPAWNS = Ikı dogma noktasi belirlemeniz gerekmektedir.
+DRD_SPAWNS_SAVED = Dogma noktalari kaydedildi.
+DRD_DUEL_START_TIME = Karsilasma %d saniye icinde baslayacak.
+DRD_TIME_OVER = Karsilasma zamani bitti.
+DRD_SHOOT_TIME = %d saniyeniz var.
+DRD_DUEL_OFFER = \yKarsilasmayi baslatmak istiyor musunuz?
+DRD_YES = Evet
+DRD_NO = Hayir
+DRD_DUEL_WINNER = Karsilasmanin kazanani^3 %s^1.
