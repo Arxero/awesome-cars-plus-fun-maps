@@ -223,7 +223,7 @@ Age=1482195972
 [deathrun_buttons_control.sma]
 Age=1525129040
 [deathrun_core.sma]
-Age=1525129040
+Age=1525456068
 [deathrun_informer.sma]
 Age=1525129040
 [deathrun_lifes.sma]
@@ -250,3 +250,5 @@ Age=1525129040
 Age=1525129040
 [deathrun_teleport_spot.sma]
 Age=1525129040
+[knife_mod.sma]
+Age=1525454145

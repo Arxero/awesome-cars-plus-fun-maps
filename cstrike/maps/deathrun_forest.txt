@@ -1,0 +1,18 @@
+Map: deathrun_forest
+Mode: Deathrun (DR)
+Version: Final
+Map created by: KroM
+Contact info: krom.mapper@yahoo.com
+Country: Romania
+CT Spawn: 30
+T Spawn: 2
+
+Thanks WATF Community for testing BETA Versions.
+
+
+
+
+
+
+
+

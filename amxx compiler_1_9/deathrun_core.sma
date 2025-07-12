@@ -346,6 +346,11 @@ public Ham_PlayerSpawn_Post(id)
     
     strip_user_weapons(id); //bug with m_bHasPrimary
     give_item(id, "weapon_knife");
+
+    if(cs_get_user_team(id) == CS_TEAM_CT) {
+        give_item(id, "weapon_usp");
+        cs_set_user_bpammo(id, CSW_USP, 100);
+    }
     
     return HAM_IGNORED;
 }
