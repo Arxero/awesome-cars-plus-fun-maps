@@ -77,7 +77,7 @@ public plugin_init()
         .name = "DRM_MODE_SNOW",
         .mark = "snow",
         .round_delay = 3,
-        .flags = DRM_BLOCK_CT_WEAPON | DRM_BLOCK_T_WEAPON | DRM_BLOCK_T_BUTTONS | DRM_ALLOW_BHOP
+        .flags = DRM_GIVE_USP | DRM_BLOCK_T_BUTTONS | DRM_ALLOW_BHOP
     );
 }
 public plugin_precache()

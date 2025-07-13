@@ -31,7 +31,7 @@ public plugin_init()
         .name = "DRM_MODE_FREE",
         .mark = "free",
         .round_delay = 0,
-        .flags = DRM_BLOCK_CT_WEAPON | DRM_BLOCK_T_WEAPON | DRM_BLOCK_T_BUTTONS | DRM_ALLOW_BHOP
+        .flags = DRM_GIVE_USP | DRM_BLOCK_T_BUTTONS | DRM_ALLOW_BHOP
     );
     
     g_iMaxPlayers = get_maxplayers();
@@ -53,10 +53,10 @@ public dr_selected_mode(id, mode)
     
     if(g_iModeFree == mode) {
         for(new i = 1; i <= g_iMaxPlayers; i++) {
-            if(is_user_alive(i)) {
-                strip_user_weapons(i);
-                give_item(i, "weapon_knife");
-            }
+            // if(is_user_alive(i)) {
+            //     strip_user_weapons(i);
+            //     give_item(i, "weapon_knife");
+            // }
         }
     }
 }

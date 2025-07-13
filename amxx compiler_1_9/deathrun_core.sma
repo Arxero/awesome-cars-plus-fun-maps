@@ -346,13 +346,19 @@ public Ham_PlayerSpawn_Post(id)
     
     strip_user_weapons(id); //bug with m_bHasPrimary
     give_item(id, "weapon_knife");
+    set_user_health(id, 35);
 
     if(cs_get_user_team(id) == CS_TEAM_CT) {
-        give_item(id, "weapon_usp");
-        cs_set_user_bpammo(id, CSW_USP, 100);
+        set_task(0.1, "give_pistol", id);
     }
     
     return HAM_IGNORED;
+}
+public give_pistol(id) {
+    if (!is_user_alive(id)) return;
+
+    give_item(id, "weapon_usp");
+    cs_set_user_bpammo(id, CSW_USP, 100);
 }
 public Ham_PlayerKilled_Post(id)
 {
