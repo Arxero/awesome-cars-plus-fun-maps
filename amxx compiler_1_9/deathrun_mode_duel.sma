@@ -18,9 +18,9 @@
 
 #pragma semicolon 1
 
-#define SHOW_MENU_FOR_LAST_CT
+// #define SHOW_MENU_FOR_LAST_CT
 
-#define PRESTART_TIME 10
+#define PRESTART_TIME 5
 #define FIRE_TIME 5
 #define DUEL_TIME 60
 #define MAX_DISTANCE 1500

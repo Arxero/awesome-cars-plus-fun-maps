@@ -53,10 +53,10 @@ public dr_selected_mode(id, mode)
     
     if(g_iModeFree == mode) {
         for(new i = 1; i <= g_iMaxPlayers; i++) {
-            // if(is_user_alive(i)) {
-            //     strip_user_weapons(i);
-            //     give_item(i, "weapon_knife");
-            // }
+            if(is_user_alive(i)) {
+                strip_user_weapons(i);
+                give_item(i, "weapon_knife");
+            }
         }
     }
 }

@@ -233,9 +233,9 @@ Age=1525129040
 [deathrun_mode_buttons.sma]
 Age=1525129040
 [deathrun_mode_duel.sma]
-Age=1525129040
+Age=1525983086
 [deathrun_mode_free.sma]
-Age=1525524794
+Age=1525918542
 [deathrun_mode_invis.sma]
 Age=1525129040
 [deathrun_mode_rambo.sma]
@@ -252,3 +252,5 @@ Age=1525129040
 Age=1525129040
 [knife_mod.sma]
 Age=1525454145
+[afk_slayer.sma]
+Age=1525918168
