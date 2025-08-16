@@ -219,6 +219,9 @@ Block_Commands()
     for(new i = 0; i < sizeof(blocked_commands); i++) {
         register_clcmd(blocked_commands[i], "Command_BlockCmds");
     }
+
+    set_cvar_num("mp_friendlyfire", 0);
+    set_cvar_float("mp_roundtime", 2.5);
 }
 public Command_BlockCmds(id)
 {

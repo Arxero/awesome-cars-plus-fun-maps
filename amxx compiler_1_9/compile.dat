@@ -219,11 +219,11 @@ Age=1479195303
 [amx_exec.sma]
 Age=1479256528
 [block_titles.sma]
-Age=1482195972
+Age=1527494866
 [deathrun_buttons_control.sma]
 Age=1525129040
 [deathrun_core.sma]
-Age=1525509352
+Age=1527421896
 [deathrun_informer.sma]
 Age=1525129040
 [deathrun_lifes.sma]
@@ -237,7 +237,7 @@ Age=1525983086
 [deathrun_mode_free.sma]
 Age=1525918542
 [deathrun_mode_invis.sma]
-Age=1525129040
+Age=1527161508
 [deathrun_mode_rambo.sma]
 Age=1525129040
 [deathrun_mode_skillmaster.sma]
@@ -247,7 +247,7 @@ Age=1525519224
 [deathrun_shop.sma]
 Age=1525129040
 [deathrun_shop_items.sma]
-Age=1525129040
+Age=1526989447
 [deathrun_teleport_spot.sma]
 Age=1525129040
 [knife_mod.sma]

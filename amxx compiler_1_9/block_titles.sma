@@ -19,6 +19,7 @@ public plugin_init()
 	register_plugin(PLUGIN, VERSION, AUTHOR);
 
 	register_message(get_user_msgid("TextMsg"), "handle_TextMsg");
+	set_cvar_float("mp_roundtime", 2.0);
 }
 
 public handle_TextMsg(msg_id, msg_dest, msg_entity)

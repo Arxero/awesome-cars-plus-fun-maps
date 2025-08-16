@@ -21,7 +21,7 @@ public plugin_init()
     
     register_event("HLTV", "Event_NewRound", "a", "1=0", "2=0");
     
-    dr_shop_add_item("Health", 100, ITEM_TEAM_T|ITEM_TEAM_CT, 0, "ShopItem_Health", "ShopItem_CanBuy_Health");
+    dr_shop_add_item("Health", 1000, ITEM_TEAM_T|ITEM_TEAM_CT, 0, "ShopItem_Health", "ShopItem_CanBuy_Health");
     dr_shop_add_item("Gravity", 100, ITEM_TEAM_T|ITEM_TEAM_CT, 0, "ShopItem_Gravity");
     dr_shop_add_item("Grenade HE", 100, ITEM_TEAM_CT, 0, "ShopItem_GrenadeHE", "ShopItem_CanBuy_GrenadeHE");
 }
@@ -43,8 +43,21 @@ public dr_selected_mode(id, mode)
 }
 public ShopItem_Health(id)
 {
-    set_user_health(id, get_user_health(id) + 150);
-    client_print(id, print_chat, "You bougth 150HP.");
+    new currentHealth = get_user_health(id);
+    if (currentHealth >= 100)
+    {
+        client_print(id, print_chat, "You already have 100 or more HP.");
+        return;
+    }
+
+    new newHealth = currentHealth + 65;
+    if (newHealth > 100)
+    {
+        newHealth = 100;
+    }
+
+    set_user_health(id, newHealth);
+    client_print(id, print_chat, "You bougth 65HP.");
 }
 public ShopItem_Gravity(id)
 {

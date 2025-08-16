@@ -10,7 +10,7 @@
 #define VERSION "1.0.2"
 #define AUTHOR "Mistrick"
 
-#define TERRORIST_HEALTH 150
+#define TERRORIST_HEALTH 35
 
 new g_iModeInvis, g_iCurMode;
 
