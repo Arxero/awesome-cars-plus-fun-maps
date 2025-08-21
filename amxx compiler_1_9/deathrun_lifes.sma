@@ -13,7 +13,7 @@
 #pragma semicolon 1
 
 #define ADD_LIFES 1
-#define ALIVE_CT_TO_RESPAWN 3
+#define ALIVE_CT_TO_RESPAWN 1
 
 new const PREFIX[] = "^4[DRL]";
 new g_iLifes[33], g_iMaxPlayers;
