@@ -1,4 +1,5 @@
 #include <amxmodx>
+#include <cstrike>
 #include <fun>
 #include <deathrun_shop>
 #include <deathrun_modes>
@@ -14,6 +15,8 @@
 new g_iGrenadeUsed[33];
 new g_iModeDuel;
 new g_bDuel;
+new g_iModeInvis;
+new g_bInvis;
 new is_healthBought[33];
 
 public plugin_init()
@@ -29,6 +32,7 @@ public plugin_init()
 public plugin_cfg()
 {
     g_iModeDuel = dr_get_mode_by_mark("duel");
+    g_iModeInvis = dr_get_mode_by_mark("invis");
 }
 public client_putinserver(id)
 {
@@ -43,6 +47,7 @@ public Event_NewRound()
 public dr_selected_mode(id, mode)
 {
     g_bDuel = (g_iModeDuel == mode) ? true : false;
+    g_bInvis = (g_iModeInvis == mode) ? true : false;
 }
 public ShopItem_Health(id)
 {
@@ -65,13 +70,15 @@ public ShopItem_CanBuy_Health(id)
         return ITEM_DISABLED;
     }
 
-    if (is_healthBought[id]) {
-        client_print(id, print_chat, "You already bought health.");
+    if (g_bInvis && cs_get_user_team(id) == CS_TEAM_T) {
         return ITEM_DISABLED;
     }
 
-    new currentHealth = get_user_health(id);
-    if (currentHealth >= 100)
+    if (is_healthBought[id]) {
+        return ITEM_DISABLED;
+    }
+
+    if (get_user_health(id) >= 100)
     {
         client_print(id, print_chat, "You already have 100 or more HP.");
         return ITEM_DISABLED;
