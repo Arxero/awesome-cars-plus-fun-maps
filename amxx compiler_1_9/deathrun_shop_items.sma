@@ -14,6 +14,7 @@
 new g_iGrenadeUsed[33];
 new g_iModeDuel;
 new g_bDuel;
+new is_healthBought[33];
 
 public plugin_init()
 {
@@ -32,10 +33,12 @@ public plugin_cfg()
 public client_putinserver(id)
 {
     g_iGrenadeUsed[id] = MAX_USE;
+    is_healthBought[id] = false;
 }
 public Event_NewRound()
 {
     arrayset(g_iGrenadeUsed, MAX_USE, sizeof(g_iGrenadeUsed));
+    arrayset(is_healthBought, false, sizeof(is_healthBought));
 }
 public dr_selected_mode(id, mode)
 {
@@ -43,21 +46,9 @@ public dr_selected_mode(id, mode)
 }
 public ShopItem_Health(id)
 {
-    new currentHealth = get_user_health(id);
-    if (currentHealth >= 100)
-    {
-        client_print(id, print_chat, "You already have 100 or more HP.");
-        return;
-    }
-
-    new newHealth = currentHealth + 65;
-    if (newHealth > 100)
-    {
-        newHealth = 100;
-    }
-
-    set_user_health(id, newHealth);
-    client_print(id, print_chat, "You bougth 65HP.");
+    is_healthBought[id] = true;
+    client_print(id, print_chat, "You bougth health.");
+    set_user_health(id, 100);
 }
 public ShopItem_Gravity(id)
 {
@@ -70,7 +61,23 @@ public ShopItem_GrenadeHE(id)
 }
 public ShopItem_CanBuy_Health(id)
 {
-    return g_bDuel ? ITEM_DISABLED : ITEM_ENABLED;
+    if (g_bDuel) {
+        return ITEM_DISABLED;
+    }
+
+    if (is_healthBought[id]) {
+        client_print(id, print_chat, "You already bought health.");
+        return ITEM_DISABLED;
+    }
+
+    new currentHealth = get_user_health(id);
+    if (currentHealth >= 100)
+    {
+        client_print(id, print_chat, "You already have 100 or more HP.");
+        return ITEM_DISABLED;
+    }
+
+    return ITEM_ENABLED;
 }
 public ShopItem_CanBuy_GrenadeHE(id)
 {

@@ -12,11 +12,11 @@ DRM_RANDOM_MODE = ^3Random^1 mode:
 DRM_MODE_NONE = None
 DRM_MODE_BUTTONS = Buttons
 DRM_MODE_FREE = Free
-DRM_MODE_INVIS = Invis
+DRM_MODE_INVIS = Invisible
 DRM_MODE_SNOW = Snow
 DRM_MODE_DUEL = Duel
 DRM_MODE_RAMBO = Rambo
-DRM_MODE_SKILLMASTER = Skill Master
+DRM_MODE_SKILLMASTER = Skill Master (R, F, G - keys for skill activation)
 
 [ru]
 DRM_BHOP_MSG = Bhop^3 %L^1.
@@ -52,11 +52,11 @@ DRM_RANDOM_MODE = Modo ^3aleatorio^1:
 DRM_MODE_NONE = None
 DRM_MODE_BUTTONS = Buttons
 DRM_MODE_FREE = Free
-DRM_MODE_INVIS = Invis
+DRM_MODE_INVIS = Invisible
 DRM_MODE_SNOW = Snow
 DRM_MODE_DUEL = Duel
 DRM_MODE_RAMBO = Rambo
-DRM_MODE_SKILLMASTER = Skill Master
+DRM_MODE_SKILLMASTER = Skill Master (R, F, G - keys for skill activation)
 
 [tr]
 DRM_BHOP_MSG = Bhop ^3 %L^1.
@@ -72,8 +72,8 @@ DRM_RANDOM_MODE = ^3Rastgele^1 mod:
 DRM_MODE_NONE = None
 DRM_MODE_BUTTONS = Buttons
 DRM_MODE_FREE = Free
-DRM_MODE_INVIS = Invis
+DRM_MODE_INVIS = Invisible
 DRM_MODE_SNOW = Snow
 DRM_MODE_DUEL = Duel
 DRM_MODE_RAMBO = Rambo
-DRM_MODE_SKILLMASTER = Skill Master
+DRM_MODE_SKILLMASTER = Skill Master (R, F, G - keys for skill activation)

@@ -1,3 +1,19 @@
+/*
+SKILL_PLEASE_STOP
+Triggered by the Reload key (default: R on keyboard).
+Effect: Stops all CTs by setting their velocity to 0
+================================================
+
+SKILL_BURN_BABY_BURN
+Triggered by Impulse 100, which is the Flashlight key (default: F on keyboard).
+Effect: Burns all CTs, dealing random damage (20–50 HP).
+================================================
+
+SKILL_KICK_IN_THE_ASS
+Triggered by the Drop weapon key (default: G on keyboard).
+Effect: Throws CTs by adding random velocity.
+*/
+
 #include <amxmodx>
 #include <cstrike>
 #include <engine>
@@ -32,9 +48,9 @@ enum Skills {
     SKILL_KICK_IN_THE_ASS
 };
 
-#define SKILL_PLEASE_STOP_COOLDOWN 30
-#define SKILL_BURN_BABY_BURN_COOLDOWN 45
-#define SKILL_KICK_IN_THE_ASS_COOLDOWN 45
+#define SKILL_PLEASE_STOP_COOLDOWN 15
+#define SKILL_BURN_BABY_BURN_COOLDOWN 15
+#define SKILL_KICK_IN_THE_ASS_COOLDOWN 15
 
 new g_bSkillInCooldown[Skills];
 new g_fSkillCooldowns[Skills] = {
@@ -71,7 +87,7 @@ public plugin_init()
         .name = "DRM_MODE_SKILLMASTER",
         .mark = "skillmaster",
         .round_delay = 0,
-        .flags = DRM_BLOCK_T_BUTTONS | DRM_ALLOW_BHOP | DRM_GIVE_USP
+        .flags = DRM_GIVE_USP
     );
 }
 public dr_selected_mode(id, mode)

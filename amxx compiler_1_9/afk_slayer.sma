@@ -24,6 +24,8 @@ public plugin_init()
 
 	pcvar = create_cvar("afk_loop_frequency", "5.0", FCVAR_NONE, "Time in seconds, how often the check for AFK happens ", .has_min = true, .min_val = 1.0)
 	bind_pcvar_float(pcvar, LoopFrequency)
+
+    register_event("HLTV", "new_round", "a", "1=0", "2=0")	// New Round
 }
 
 public OnConfigsExecuted()
@@ -75,7 +77,7 @@ public afk_manager_loop(ent)
             {
                 AfkTime[player] = 0.0
                 get_user_name(player, player_name, charsmax(player_name))
-                client_print_color(0, player, "^4[AFK Slayer]^3 %s^1 was slayed for being AFK too long.", player_name)
+                client_print_color(0, player, "^4[AFK]^3 %s^1 was slayed for being AFK.", player_name)
 
                 deaths = cs_get_user_deaths(player)
                 user_kill(player, 1)
@@ -89,4 +91,16 @@ public afk_manager_loop(ent)
 public client_connect(id)
 {
 	AfkTime[id] = 0.0
+}
+
+public new_round()
+{
+	static players[MAX_PLAYERS], player_count, player
+    get_players(players, player_count, "ch")
+
+    for (new i = 0; i < player_count; i++ ) 
+    {
+        player = players[i]
+        AfkTime[player] = 0.0
+    }
 }

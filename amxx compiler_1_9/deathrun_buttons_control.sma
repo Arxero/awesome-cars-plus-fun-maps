@@ -12,7 +12,7 @@
 
 #define MAX_BUTTONS 128
 #define BUTTON_MIN_DELAY 5.0
-#define BUTTON_MAX_USE 1
+#define BUTTON_MAX_USE 2
 
 #define PDATA_SAFE 2
 

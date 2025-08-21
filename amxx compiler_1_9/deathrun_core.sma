@@ -352,17 +352,25 @@ public Ham_PlayerSpawn_Post(id)
     set_user_health(id, 35);
 
     if(cs_get_user_team(id) == CS_TEAM_CT) {
-        set_task(0.1, "give_pistol", id);
+        set_task(0.1, "give_items", id);
     }
     
     return HAM_IGNORED;
 }
-public give_pistol(id) {
+public give_items(id) {
     if (!is_user_alive(id)) return;
 
     give_item(id, "weapon_usp");
     cs_set_user_bpammo(id, CSW_USP, 100);
+
+    if (get_user_flags(id) & ADMIN_RESERVATION) {
+        give_item(id, "weapon_hegrenade");
+        give_item(id, "weapon_flashbang");
+        cs_set_user_bpammo(id, CSW_FLASHBANG, 2);
+        give_item(id, "weapon_smokegrenade");
+    }
 }
+
 public Ham_PlayerKilled_Post(id)
 {
     if(g_bWarmUp && cs_get_user_team(id) == CS_TEAM_CT && _get_alive_players()) {
