@@ -60,6 +60,7 @@ de_mon
 de_railroad
 de_satellite11
 de_savannah
+de_savannah_2025
 de_tesco
 de_tmtydj3
 de_westwood
@@ -85,7 +86,7 @@ megacrazycar
 minicity
 most_wanteD2
 motorway2
-newdjelfa_garage
+newdjelfa_garage_v2
 nipperhouse
 nippers100
 nojarq_fun_zone
