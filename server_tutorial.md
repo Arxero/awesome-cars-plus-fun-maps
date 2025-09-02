@@ -431,6 +431,7 @@ echo "==========Server has been booted=========="
 5. Start the server: `pm2 start ./start.sh --name csserver`
 6. `pm2 save`
 7. To save the process after each restart `pm2 startup`
+8. Restart server with pm2 `pm2 restart csserver`
 
 # Gametacker.com setup, migrating old IP to a new one with DNS the feature
 
