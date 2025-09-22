@@ -59,7 +59,8 @@ new const g_szMaps[][] =
 	"happyvalley_2nd_lt",
 	"he_glass",
     "35HP_XMAS2015",
-    "newdjelfa_garage"
+    "newdjelfa_garage",
+    "newdjelfa_garage_v2",
 };
 
 public plugin_precache() {
