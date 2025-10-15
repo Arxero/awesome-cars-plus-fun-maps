@@ -137,11 +137,23 @@ in `amxx.cfg` to apply for every map
 - gal_emptyserver_wait 0
 - gal_banrecent 3
 
-# MOTD halloween background
-Open [Awesome-Cars-MOTD-Wiki]() repo and uncomment [this line](https://github.com/Arxero/Awesome-Cars-MOTD-Wiki/blob/f7e3b4316e41308c95747dc0a76ce0a376638847/style.css#L59).
+### Halloween Soccer
 
-    cd /var/www/awesomecars-wiki.gamewaver.com/Awesome-Cars-MOTD-Wiki
-    git pull
+- `sj_plus_maps.ini` - uncomment the halloween maps
+
+# MOTD halloween background
+Open `awesomecs/extra/motd/style.css` in awesomecs repo and uncomment the background style for halloween.
+
+```css
+body {
+	background: #000000;
+	/* background-image: url(./images/backgrounds/xmas-bg.jpg); */
+	/* background-image: url(./images/backgrounds/summer.png); */
+	background-image: url(./images/backgrounds/halloween.jpg);
+}
+```
+
+The upload the changes to the forum folder with FTP.
 
 ## Make Admins and VIPs
 Edit [users.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/users.ini), there are already added so you should be just fine following what is written in it.
