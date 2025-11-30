@@ -109,12 +109,14 @@ woohoo_cars
 awp_ruins
 awp_forest_cs
 surf_ski_2
+de_savannah_2025_v3
+
 soccerjam
 sj_trix_zone
 bl_dust
 bl_islands
-de_cheetah_castle
-de_savannah_2025_v3
+pb_castle
+paintwar
 
 deathrun_3h
 deathrun_4life_rmk
