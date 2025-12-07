@@ -45,10 +45,8 @@ Go to [this line](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/7785
 also comment 
 
     models_menu.amxx
+    death_ghost.amxx
     cso_emotion_v23.amxx
-    TreeSpawner.amxx
-    present_halloween.amxx
-    death_ghost_halloween.amxx
 
 ### Maps
 Edit [mapcycle.txt](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/mapcycle.txt) Just uncomment xmas maps in the bottom.
@@ -81,14 +79,26 @@ In `amxx.cfg`
     amx_fog_color "255 250 250"
     amx_fog_amount 1
 
-### MOTD background
-Open [Awesome-Cars-MOTD-Wiki]() repo and uncomment [this line](https://github.com/Arxero/Awesome-Cars-MOTD-Wiki/blob/f7e3b4316e41308c95747dc0a76ce0a376638847/style.css#L59).
+###  MOTD Christmas background
+Open `awesomecs/extra/motd/style.css` in awesomecs repo and uncomment the background style for halloween.
 
-    cd /var/www/awesomecars-wiki.gamewaver.com/Awesome-Cars-MOTD-Wiki
-    git pull
+```css
+body {
+	background: #000000;
+	background-image: url(./images/backgrounds/xmas-bg.jpg);
+	/* background-image: url(./images/backgrounds/summer.png); */
+	/* background-image: url(./images/backgrounds/halloween.jpg); */
+}
+```
+
+The upload the changes to the forum folder with FTP.
 
 ### Sank sounds
 Eidt `SND-LIST.CFG` to use `xoxo` as welcome message
+
+### Chistmas Soccer
+
+- `sj_plus_maps.ini` - uncomment the christmas maps
 
 ## Switch to Halloween Theme
 Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/plugins.ini)
