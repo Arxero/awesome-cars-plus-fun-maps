@@ -1,0 +1,27 @@
+//English
+[en]
+
+FILE_LOADED = File ^"%s^" loaded successfully!
+FILE_NOT_FOUND = Error! File ^"%s^" not found!
+WILL_HAVE_BALL = ^n%s will have the ball in^n[%d] seconds!
+RED_TEAM_SLAY = Red player: %s died, because he was on enemy terrain!
+BLUE_TEAM_SLAY = Blue player: %s died, because he was on enemy terrain!
+RED_TEAM_WIN = Last player who had the ball is: %s!^nRed team win 1 point!
+RED_TEAM_SCORE = Score: Red Team: %d | Blue Team: %d
+BLUE_TEAM_WIN = Last player who had the ball is: %s!^nBlue team win 1 point!
+BLUE_TEAM_SCORE = Score: Blue Team: %d | Red Team: %d
+WELCOME_MSG1 = Hi %s, welcome to %s! 
+WELCOME_MSG2 = This server is using VolleyBall Mod!
+HUD_SCOREBOARD = Total Score: %d^nTeam Score:^nBlue: %d | Red: %d^nTimeleft: %d:%02d^nPlayers: %d/%d
+DONT_HAVE_ACCESS = You don't have access to this command!
+GAME_WILL_START = The game will start now!
+GAME_WILL = The game will start now!
+CANNOT_SUICIDE = You can't commit suicide on this server!
+INFO_1 = Volley Ball Mod
+INFO_2 = It's just volleyball. Everyone knows how to play volleyball!
+INFO_3 = When the round starts, the game will choose a random player and it will spawn a ball above his head.
+INFO_4 = Pressing JUMP when the ball is comming at you and aiming up, will send the ball where you're aiming.
+INFO_5 = When a team drops the ball on enemy terrain, they will get 1 frag + 1 point for team.
+INFO_6 = Chat commands:
+INFO_7 = - /help - opens the console with info about the mod
+INFO_8 = - /reset - restarts the match [admin only]
