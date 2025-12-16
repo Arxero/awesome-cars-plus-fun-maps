@@ -203,5 +203,5 @@ xmas_krazzyhouse
 deathrun_arctic
 deathrun_christmas
 pb_snow
-sj_xmas_awesomecars_v1
+sj_xmas_awesomecars_v2
 ;--==Christmas Update==--
