@@ -1,7 +1,5 @@
 #include <amxmodx>
 #include <engine>
-#include <fun>
-#include <hamsandwich>
 
 #define PLUGIN_VERSION "1.0"
 
@@ -9,11 +7,7 @@ new const g_szEntities[][] = { "player_weaponstrip", "game_player_equip", "armou
 
 new const g_szMaps[][] =
 {
-	// "most_wanted",
-	// "most_wanteD2",
-	// "fun_atraccions",
-	// "fun_box",
-	"vb_snow"
+	"awp_snowfun2"
 }
 
 public plugin_init()
@@ -38,8 +32,7 @@ public plugin_init()
 		pause("ad")
 		return
 	}
-	
-	RegisterHam(Ham_Spawn, "player", "OnPlayerSpawn", 1)
+		
 	register_clcmd("drop", "OnWeaponDrop")
 	
 	for(new i, iEnt = -1; i < sizeof(g_szEntities); i++)
@@ -48,15 +41,6 @@ public plugin_init()
 		
 		while((iEnt = find_ent_by_class(iEnt, g_szEntities[i])) > 0)
 			remove_entity(iEnt)
-	}
-}
-
-public OnPlayerSpawn(id)
-{
-	if(is_user_alive(id))
-	{
-		strip_user_weapons(id)
-		give_item(id, "weapon_knife")
 	}
 }
 

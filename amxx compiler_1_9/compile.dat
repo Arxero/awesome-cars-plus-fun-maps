@@ -117,7 +117,7 @@ Age=1420452842
 [cshop_bunnyhop.sma]
 Age=1251244252
 [remove_weps_on_ground.sma]
-Age=1420457238
+Age=1545780483
 [restmenu.sma]
 Age=1420599978
 [amx_pm.sma]
@@ -268,3 +268,5 @@ Age=1196108841
 Age=1196108843
 [VolleyBallMod.sma]
 Age=1536061602
+[noawp_awpsnowfun2.sma]
+Age=1545779563
