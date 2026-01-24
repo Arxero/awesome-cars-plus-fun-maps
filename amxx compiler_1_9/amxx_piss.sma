@@ -98,55 +98,51 @@ public piss_on_player(id)
     get_user_origin(id,player_origin,0)
     get_players(players,inum,"b")
 
-    if (inum>0)
-    { 
-        new player_name[32]
-        get_user_name(id, player_name, 31)
-        count_piss[id]+=1
-        count_puddle[id]=1
-        new ids[1]
-        ids[0]=id
-        PissFlag[id]=true
-        aim[id]=false
-        for (new i=0;i<inum;i++)
+    new player_name[32]
+    get_user_name(id, player_name, 31)
+    count_piss[id]+=1
+    count_puddle[id]=1
+    new ids[1]
+    ids[0]=id
+    PissFlag[id]=true
+    aim[id]=false
+
+    for (new i=0;i<inum;i++)
+    {
+        if (players[i]!=id)
         {
-            if (players[i]!=id)
+            dist = get_distance(player_origin,player_origins[players[i]])
+            if (dist<last_dist)
             {
-                dist = get_distance(player_origin,player_origins[players[i]])
-                if (dist<last_dist)
-                {
-                    last_id = players[i]
-                    last_dist = dist
-                }
+                last_id = players[i]
+                last_dist = dist
             }
         }
-        
-        if (last_dist < 80)
-        {
-            new dead_name[32]
-            get_user_name(last_id, dead_name, 31)
-            client_print(0,print_chat,"%s Is Pissing On %s's Dead Body !! HaHaHaHa !!", player_name, dead_name)
-
-            client_cmd(id, "weapon_knife")
-            set_user_maxspeed(id, -1.0)
-
-            emit_sound(id,CHAN_VOICE,"piss/pissing.wav", 1.0, ATTN_NORM, 0, PITCH_NORM)
-            switch(get_cvar_num("amx_piss_effect"))
-            {
-                case 0:  set_task(0.2,"make_pee",1481+id,ids,1,"a",48)
-                case 1:  set_task(0.1,"make_pee",1481+id,ids,1,"a",102)
-                default: set_task(0.2,"make_pee",1481+id,ids,1,"a",48)
-            }
-            set_task(3.0,"place_puddle",3424+id,ids,1,"a",4)
-            set_task(12.0,"weapons_back",6794+id,ids,1) 
-        }
-        else
-        {
-            client_print(id,print_chat,"There are no dead bodies around you.")
-	    return PLUGIN_HANDLED
-            // client_print(0,print_chat,"%s Is Pissing !!", player_name)
-        }        
     }
+    
+    if (last_dist < 80)
+    {
+        new dead_name[32]
+        get_user_name(last_id, dead_name, 31)
+        client_print(0,print_chat,"%s Is Pissing On %s's Dead Body !! HaHaHaHa !!", player_name, dead_name)
+        set_user_maxspeed(id, -1.0)
+    }
+    else
+    {
+        client_print(0,print_chat,"%s Is Pissing !!", player_name)
+    } 
+
+    client_cmd(id, "weapon_knife")
+    emit_sound(id,CHAN_VOICE,"piss/pissing.wav", 1.0, ATTN_NORM, 0, PITCH_NORM)
+
+    switch(get_cvar_num("amx_piss_effect"))
+    {
+        case 0:  set_task(0.2,"make_pee",1481+id,ids,1,"a",48)
+        case 1:  set_task(0.1,"make_pee",1481+id,ids,1,"a",102)
+        default: set_task(0.2,"make_pee",1481+id,ids,1,"a",48)
+    }
+    set_task(3.0,"place_puddle",3424+id,ids,1,"a",4)
+    set_task(12.0,"weapons_back",6794+id,ids,1)  
 
     return PLUGIN_HANDLED
 }
