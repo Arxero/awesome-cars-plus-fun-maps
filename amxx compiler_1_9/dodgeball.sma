@@ -11,14 +11,15 @@
 
  #define ROLL_TIME 5.0 // maximum amount of time a dodgeball can roll around
  #define RESPAWN_DELAY 3.0 // time until you respawn
- #define TASK_RESPAWN 100 // base respawn task id
- #define TASK_REFRESH 200 // base refresh task id
- #define HS_DIST 26.3 // distance from head to ball for it to be a headshot
+#define TASK_RESPAWN 100 // base respawn task id
+#define TASK_REFRESH 200 // base refresh task id
+#define TASK_ROUNDSTART 300 // delayed round-start spawn task id
+#define HS_DIST 26.3 // distance from head to ball for it to be a headshot
 
- new beamspr;
+new beamspr;
 
- new canPickup;
- new roundStarted;
+new canPickup;
+new Float:lastRoundStart;
 
  // VERSION 0.13:
  //
@@ -56,11 +57,13 @@
 	register_event("AmmoPickup","event_nadepickup","b","1=11");
 	register_event("AmmoPickup","event_nadepickup","b","1=13");
 	register_event("WeapPickup","event_gotknife","b","1=29");
+	register_event("HLTV","event_roundstart","a","1=0","2=0");
 	register_event("RoundTime","event_roundstart","bc");
 	register_event("Damage","event_damage","b");
 	register_event("DeathMsg","event_deathmsg","a");
 
 	// thanks xeroblood
+	register_logevent("event_roundstart",2,"0=World triggered","1=Round_Start");
 	register_logevent("event_roundend",2,"0=World triggered","1=Round_End");
 
 	register_message(get_user_msgid("SendAudio"),"msg_sendaudio");
@@ -225,12 +228,24 @@
 		return PLUGIN_CONTINUE;
 	}
 
-	// fix for balls resetting midround
-	if(roundStarted) {
+	// De-dupe multiple start events and delay spawn until map entities are reset.
+	if(get_gametime() - lastRoundStart < 1.0) {
+		return PLUGIN_CONTINUE;
+	}
+	lastRoundStart = get_gametime();
+	remove_task(TASK_ROUNDSTART);
+	set_task(0.3,"roundstart_spawn",TASK_ROUNDSTART);
+
+	return PLUGIN_CONTINUE;
+ }
+
+ public roundstart_spawn() {
+	if(!get_cvar_num("dodgeball_on")) {
 		return PLUGIN_CONTINUE;
 	}
 
 	canPickup = 1;
+	remove_task(TASK_REFRESH);
 
 	new ent;
 
@@ -240,7 +255,6 @@
 	}
 
 	refresh_balls();
-	roundStarted = 1;
 
 	return PLUGIN_CONTINUE;
  }
@@ -252,6 +266,7 @@
 	}
 
 	canPickup = 0;
+	remove_task(TASK_ROUNDSTART);
 	remove_task(TASK_REFRESH);
 
 	new i;
@@ -269,10 +284,8 @@
 		remove_task(TASK_RESPAWN+i);
 	}
 
-	roundStarted = 0;
-
 	return PLUGIN_CONTINUE;
- }
+}
 
  // client commits suicide
  public client_kill(id) {
