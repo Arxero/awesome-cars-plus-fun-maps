@@ -60,6 +60,7 @@ de_mon
 de_railroad
 de_satellite11
 de_savannah
+de_savannah_2025_v3
 de_tesco
 de_tmtydj3
 de_westwood
@@ -109,7 +110,8 @@ woohoo_cars
 awp_ruins
 awp_forest_cs
 surf_ski_2
-de_savannah_2025_v3
+surf_iceday
+surf_green
 
 soccerjam
 soccerjam2017
