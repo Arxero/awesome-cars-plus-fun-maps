@@ -78,14 +78,25 @@ public hook_say(id)
 	trim(text)
 	if(equal(text,"/vote"))
 	{
-		new MOTD[1024]
-		new read[32], trash
+		new MOTD[1536]
+		new read[128], trash
+		new motdLen = 0
 		if(file_exists(configfile))
 		{
-			for(new i=0;i<file_size(configfile);i++)
+			for(new i=0;i<file_size(configfile, 1);i++)
 			{
-				read_file(configfile,i,read,31,trash)
-				format(MOTD,199,"%s<BR>%s",MOTD,read)
+				read_file(configfile, i, read, charsmax(read), trash)
+				trim(read)
+				if(!read[0] || read[0] == ';')
+				{
+					continue
+				}
+
+				motdLen += formatex(MOTD[motdLen], charsmax(MOTD) - motdLen, "%s<BR>", read)
+				if(motdLen >= charsmax(MOTD) - 1)
+				{
+					break
+				}
 			}
 		}
 		show_motd(id,MOTD,"Vote Items")
