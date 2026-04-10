@@ -156,7 +156,7 @@ public showtext(id)
 {
 	new name[32]
 	get_user_name(id,name,31)
-	client_print(0,print_chat,"[AMXX] ",0,"MSG_VOTE_AS_STARTED",name)
+	client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_STARTED",name)
 	set_task(get_pcvar_float(plasts),"tally")
 }
 
