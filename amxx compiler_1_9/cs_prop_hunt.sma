@@ -118,6 +118,8 @@ new bool:g_bGameOn = true, bool:g_bInHideTime;
 new Array:g_sPropsModel;
 new g_iProp[33], g_iCamera[33], g_iHunterClass[33], bool:g_bCameraOn[33];
 new bool:g_bIsHider[33], bool:g_bIsAlive[33], bool:g_bIsConnected[33];
+new bool:g_bPropLocked[33];
+new bool:g_bAttack2Held[33];
 new g_CvarBlockteam, g_CvarHidetime, g_CvarHealtime, g_CvarFlamedura, g_CvarHpLostAmt,
 	g_CvarHiderspeed, g_CvarSpeedBoost, g_CvarFtFuel;
 new gMaxPlayers, gMsgStatusIcon, gMsgSayText, gMsgHideWeapon,
@@ -354,6 +356,8 @@ public client_disconnect(id)
 {
 	g_bIsAlive[id] = false;
 	g_bIsConnected[id] = false;
+	g_bPropLocked[id] = false;
+	g_bAttack2Held[id] = false;
 	g_iHunterClass[id] = 0;
 	g_iCurWeapon[id] = 0;
 	
@@ -504,17 +508,24 @@ public fwd_CmdStart(id, uc_handle, seed)
 	if(!g_bIsAlive[id] || !g_bGameOn)
 		return FMRES_IGNORED;
 	
-	static button, oldbutton;
+	static button, oldbutton, ubutton;
 	button = pev(id, pev_button);
 	oldbutton = pev(id, pev_oldbuttons);
+	ubutton = get_uc(uc_handle, UC_Buttons);
 	
 	if(g_bIsHider[id])
 	{
-		if(button & IN_ATTACK2)
+		if(ubutton & IN_ATTACK2 && !g_bAttack2Held[id])
+		{
+			g_bPropLocked[id] = !g_bPropLocked[id];
+		}
+		g_bAttack2Held[id] = (ubutton & IN_ATTACK2) ? true : false;
+
+		if(g_bPropLocked[id])
 		{
 			set_pev(id, pev_maxspeed, 1.0);
 		}
-		else if(oldbutton & IN_ATTACK2)
+		else
 		{
 			set_pev(id, pev_maxspeed, get_pcvar_float(g_CvarHiderspeed));
 		}
@@ -538,7 +549,7 @@ public fwd_CmdStart(id, uc_handle, seed)
 		
 		engfunc(EngFunc_SetOrigin, iEnt, origin);
 		
-		if(!(button & IN_ATTACK2))
+		if(!g_bPropLocked[id])
 		{
 			pev(id, pev_v_angle, angle);
 			angle[0] = 0.0;
@@ -883,6 +894,8 @@ public fw_spawn_player_post(id)
 	
 	if(g_bIsHider[id])
 	{
+		g_bPropLocked[id] = false;
+		g_bAttack2Held[id] = false;
 		set_playerview(id);
 		set_pev(id, pev_health, 125.0);
 		set_visible(id, 0);
@@ -1506,6 +1519,8 @@ public change_team(id)
 {
 	cs_set_user_team(id, g_bIsHider[id] ? CS_TEAM_CT : CS_TEAM_T);
 	g_bIsHider[id] = (g_bIsHider[id] ? false : true);
+	g_bPropLocked[id] = false;
+	g_bAttack2Held[id] = false;
 }
 
 public event_touch_weapon(iEnt, id)
