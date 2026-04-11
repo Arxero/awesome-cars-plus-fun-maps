@@ -1,0 +1,27 @@
+[en]
+C_CHOOSE_CLASS = Only\t Hunter\y can choose class !
+C_CHOOSE_CLASS2 = You only can choose class in hide time !
+C_NEED_ALIVE = You need to be alive !
+C_TYPE_CLASS = Type\t /class\y to choose class again !
+C_GIVE_SPEEDBOOST = You've killed a hider and awarded a\t speed boost
+C_HEALED = Healed, go hunting now !
+STOP_HEAL = Stop healing !
+HEALING = Healing... dont go out of the buyzone !
+CANT_DROP = You can't drop weapon !
+CHANGE_TEAM = You are not allow to change team !
+HIDER_WIN = Hider Win !
+SEEKER_WIN_SWITCH = Seeker Win !^nSwitch Team !
+
+[ru]
+C_CHOOSE_CLASS = Sólo\t Hunter\y puede elegir la clase! 
+C_CHOOSE_CLASS2 = Sólo se puede elegir la clase de ocultar el tiempo ! 
+C_NEED_ALIVE =  Necesitas estar vivo ! 
+C_TYPE_CLASS = Tipo\t/clase\y elegir la clase de nuevo! 
+C_GIVE_SPEEDBOOST = Usted ha matado a un ocultador y concedió un\t aumento de velocidad 
+C_HEALED = Sanado, ir de caza ahora! 
+STOP_HEAL = Detener la curación! 
+HEALING =  Healing ... no vayas fuera de la buyzone! 
+CANT_DROP = No se puede quitar el arma! 
+CHANGE_TEAM = Usted no se permite cambiar de equipo! 
+HIDER_WIN = Escondidos Ganan! 
+SEEKER_WIN_SWITCH = Buscador Gana! ^ NSwitch Team!
