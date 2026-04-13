@@ -896,8 +896,9 @@ public fw_spawn_player_post(id)
 	{
 		g_bPropLocked[id] = false;
 		g_bAttack2Held[id] = false;
+		fm_strip_user_weapons(id);
 		set_playerview(id);
-		set_pev(id, pev_health, 125.0);
+		set_pev(id, pev_health, 40.0);
 		set_visible(id, 0);
 		//enable prop
 		static iProp, szEntModel[64], rand_mdl;
@@ -1006,6 +1007,10 @@ public fw_WeaponAttack(iWpn)
 		
 	static id, health;
 	id = get_pdata_cbase(iWpn, 41, 4);
+
+	if(g_iCurWeapon[id] == CSW_KNIFE)
+		return;
+
 	health = get_user_health(id) - get_pcvar_num(g_CvarHpLostAmt);
 	
 	if(health > 0)
@@ -1326,7 +1331,7 @@ public count_down()
 		write_byte(0);
 		write_byte(0);
 		write_byte(0);
-		write_byte(150);
+		write_byte(255);
 		message_end();
 	}
 	
