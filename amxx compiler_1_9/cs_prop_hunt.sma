@@ -590,15 +590,18 @@ public fire_throw(id)
 	g_iFuel[id]--;
 	
 	emit_sound(id, CHAN_WEAPON, g_FtSound, VOL_NORM, ATTN_NORM, 0, PITCH_NORM);
-	
-	static health;
-	health = get_user_health(id) - get_pcvar_num(g_CvarHpLostAmt);
-	if(health > 0)
-		set_pev(id, pev_health, float(health));
-	else 
+
+	if(!fire_target(id))
 	{
-		user_kill(id);
-		return;
+		static health;
+		health = get_user_health(id) - get_pcvar_num(g_CvarHpLostAmt);
+		if(health > 0)
+			set_pev(id, pev_health, float(health));
+		else 
+		{
+			user_kill(id);
+			return;
+		}
 	}
 	
 	if(!g_bInHideTime && pev(id, pev_button) & IN_JUMP)
@@ -612,13 +615,17 @@ public fire_throw(id)
 	fire_target(id);
 }
 
-public fire_target(id)
+public bool:fire_target(id)
 {
 	static target, body;
 	get_user_aiming(id, target, body, 250);
 	
-	if(!is_player_alive(target) || !g_bIsHider[target])
-		return;
+	if(is_hider_target(target))
+	{
+		if(!(1 <= target <= gMaxPlayers))
+			target = pev(target, pev_owner);
+	}
+	else return false;
 	
 	static iHealth, duration, param[2];
 	iHealth = pev(target, pev_health) - random_num(10, 15);
@@ -627,7 +634,7 @@ public fire_target(id)
 	//	make_silentkill(target);
 	//	make_DeathMsg(id, target, 0, "flame thrower");
 		ExecuteHamB(Ham_Killed, target, id, 0);
-		return;
+		return true;
 	}	
 	else set_pev(target, pev_health, float(iHealth));
 	
@@ -638,6 +645,7 @@ public fire_target(id)
 	param[0] = duration;
 	param[1] = id;
 	set_task( 0.5, "StartBurn", target+TASK_BURN, param, sizeof param )
+	return true;
 }
 
 public StartBurn(param[2], taskid)
@@ -1011,14 +1019,17 @@ public fw_WeaponAttack(iWpn)
 	if(g_iCurWeapon[id] == CSW_KNIFE)
 		return;
 
-	health = get_user_health(id) - get_pcvar_num(g_CvarHpLostAmt);
-	
-	if(health > 0)
-		set_pev(id, pev_health, float(health));
-	else 
+	if(!is_hider_target_aimed(id))
 	{
-		user_kill(id);
-		return;
+		health = get_user_health(id) - get_pcvar_num(g_CvarHpLostAmt);
+		
+		if(health > 0)
+			set_pev(id, pev_health, float(health));
+		else 
+		{
+			user_kill(id);
+			return;
+		}
 	}
 	
 	if(!g_bInHideTime && pev(id, pev_button) & IN_JUMP)
@@ -1602,6 +1613,33 @@ stock fm_find_ent_by_owner(index, const classname[], owner, jghgtype = 0)
 	while ((iEnt = engfunc(EngFunc_FindEntityByString, iEnt, strtype, classname)) && pev(iEnt, pev_owner) != owner) {}
 	
 	return iEnt
+}
+
+bool:is_hider_target(target)
+{
+	if(is_player_alive(target) && g_bIsHider[target])
+		return true;
+
+	if(pev_valid(target))
+	{
+		static szClassname[32];
+		pev(target, pev_classname, szClassname, charsmax(szClassname));
+		if(equal(szClassname, g_szHiderProp))
+		{
+			new owner = pev(target, pev_owner);
+			if(is_player_alive(owner) && g_bIsHider[owner])
+				return true;
+		}
+	}
+
+	return false;
+}
+
+bool:is_hider_target_aimed(id)
+{
+	new target, body;
+	get_user_aiming(id, target, body);
+	return is_hider_target(target);
 }
 
 get_new_team()
