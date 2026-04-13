@@ -57,7 +57,7 @@ enum (+= 200) { TASK_HIDETIME = 9999, TASK_HEAL, TASK_ZOOM, TASK_BURN, TASK_SCLI
 
 enum { HEAVY = 1, PYRO, SNIPER };
 
-new const g_iClassAmmo[] = { -1, 200, -1, 40 };
+new const g_iClassAmmo[] = { -1, 100, -1, 10 };
 
 new const g_szSeekerWpns[][] = 
 {
@@ -136,6 +136,8 @@ public plugin_init()
 {
 	if(!g_bGameOn)
 		return;
+
+	set_cvar_float("mp_roundtime", 3.5);
 		
 	register_dictionary("csprophunt.txt");
 	
@@ -863,7 +865,7 @@ public task_show_clip(taskid)
 	if(g_iCurWeapon[id] == CSW_KNIFE)
 		return;
 	
-	set_dhudmessage( 250, 250, 0, 0.85, 0.96, 0, 6.0, 0.2, 0.0, 0.0 );
+	set_dhudmessage( 250, 250, 0, 0.95, 0.96, 0, 6.0, 0.2, 0.0, 0.0 );
 	
 	static iClass, clip, ammo; 
 	iClass = g_iHunterClass[id];
@@ -871,7 +873,6 @@ public task_show_clip(taskid)
 	
 	switch(iClass)
 	{
-		case HEAVY, SNIPER: show_dhudmessage( id, "Ammo: %i", clip );
 		case PYRO: show_dhudmessage( id, "Fuel: %i", g_iFuel[id] );
 	}
 }
@@ -929,7 +930,14 @@ public fw_spawn_player_post(id)
 			{
 				new iEnt;
 				iEnt = fm_find_ent_by_owner(-1, g_szSeekerWpns[iClass], id);
-				if(iEnt) cs_set_weapon_ammo(iEnt, g_iClassAmmo[iClass]);
+				if(iEnt)
+				{
+					cs_set_weapon_ammo(iEnt, g_iClassAmmo[iClass]);
+					if(iClass == HEAVY)
+						cs_set_user_bpammo(id, CSW_M249, 100);
+					else if(iClass == SNIPER)
+						cs_set_user_bpammo(id, CSW_SCOUT, 30);
+				}
 			}
 				
 			set_pev(id, pev_health, float(g_iClassHealth[iClass]));
@@ -1141,7 +1149,14 @@ give_weapon(id)
 	{
 		new iEnt;
 		iEnt = fm_find_ent_by_owner(-1, g_szSeekerWpns[iClass], id);
-		if(iEnt) cs_set_weapon_ammo(iEnt, g_iClassAmmo[iClass]);
+		if(iEnt)
+		{
+			cs_set_weapon_ammo(iEnt, g_iClassAmmo[iClass]);
+			if(iClass == HEAVY)
+				cs_set_user_bpammo(id, CSW_M249, 100);
+			else if(iClass == SNIPER)
+				cs_set_user_bpammo(id, CSW_SCOUT, 30);
+		}
 	}
 }
 
@@ -1165,12 +1180,12 @@ public event_curweapon(id)
 	if(!g_bGameOn)
 		return PLUGIN_CONTINUE;
 		
-	message_begin(MSG_ONE, gMsgHideWeapon, _, id);
-	write_byte(HIDE_HUD);
-	message_end();
-		
 	if(g_bIsHider[id])
 	{
+		message_begin(MSG_ONE, gMsgHideWeapon, _, id);
+		write_byte(HIDE_HUD);
+		message_end();
+
 		if(!g_bRoundEnd)
 		{
 			fm_strip_user_weapons(id);
