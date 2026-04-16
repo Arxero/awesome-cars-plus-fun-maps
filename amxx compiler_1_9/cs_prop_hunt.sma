@@ -117,6 +117,7 @@ new const g_sRemoveEntities[][] =
 new bool:g_bGameOn = true, bool:g_bInHideTime;
 new Array:g_sPropsModel;
 new g_iProp[33], g_iCamera[33], g_iHunterClass[33], bool:g_bCameraOn[33];
+new g_iCurrentPropIndex[33];
 new bool:g_bIsHider[33], bool:g_bIsAlive[33], bool:g_bIsConnected[33];
 new bool:g_bPropLocked[33];
 new bool:g_bAttack2Held[33];
@@ -185,6 +186,7 @@ public plugin_init()
 	for(new i; i < 2; i++)
 		register_clcmd(g_cmdTeam[i], "cmd_chooseteam", -1, g_sBlank);
 	register_clcmd("say /class", "cmd_choose_class");
+	register_clcmd("lastinv", "cmd_cycle_prop");
 	
 	for(new i = 0; i < 4; i++)
 		g_hudmsg[i] = CreateHudSyncObj();
@@ -362,6 +364,7 @@ public client_disconnect(id)
 	g_bAttack2Held[id] = false;
 	g_iHunterClass[id] = 0;
 	g_iCurWeapon[id] = 0;
+	g_iCurrentPropIndex[id] = -1;
 	
 	if(g_iProp[id])
 		remove_prop(id);
@@ -388,6 +391,23 @@ public cmd_buy(id)
 public cmd_drop(id)
 {
 	client_print(id, print_center, "%L", LANG_PLAYER, "CANT_DROP");
+	return PLUGIN_HANDLED;
+}
+
+public cmd_cycle_prop(id)
+{
+	if(!g_bGameOn || !g_bIsAlive[id] || !g_bIsHider[id])
+		return PLUGIN_CONTINUE;
+
+	new iPropCount = ArraySize(g_sPropsModel);
+	if(iPropCount <= 1 || !g_iProp[id])
+		return PLUGIN_HANDLED;
+
+	g_iCurrentPropIndex[id]++;
+	if(g_iCurrentPropIndex[id] >= iPropCount)
+		g_iCurrentPropIndex[id] = 0;
+
+	set_hider_prop_model(id, g_iCurrentPropIndex[id]);
 	return PLUGIN_HANDLED;
 }
 	
@@ -910,13 +930,12 @@ public fw_spawn_player_post(id)
 		set_pev(id, pev_health, 40.0);
 		set_visible(id, 0);
 		//enable prop
-		static iProp, szEntModel[64], rand_mdl;
+		static iProp, rand_mdl;
 		iProp = g_iProp[id]
 		set_visible(iProp);
 		rand_mdl = random_num(0, ArraySize(g_sPropsModel) - 1);
-		ArrayGetString(g_sPropsModel, rand_mdl, szEntModel, charsmax(szEntModel));
-		format(szEntModel, charsmax(szEntModel), "models/props/%s.mdl", szEntModel);
-		engfunc(EngFunc_SetModel, iProp, szEntModel);
+		g_iCurrentPropIndex[id] = rand_mdl;
+		set_hider_prop_model(id, rand_mdl);
 	}
 	else	
 	{
@@ -1158,6 +1177,21 @@ give_weapon(id)
 				cs_set_user_bpammo(id, CSW_SCOUT, 30);
 		}
 	}
+}
+
+set_hider_prop_model(id, iPropIndex)
+{
+	new iProp = g_iProp[id];
+	if(!iProp || iPropIndex < 0 || iPropIndex >= ArraySize(g_sPropsModel))
+		return 0;
+
+	static szEntModel[64];
+	ArrayGetString(g_sPropsModel, iPropIndex, szEntModel, charsmax(szEntModel));
+	format(szEntModel, charsmax(szEntModel), "models/props/%s.mdl", szEntModel);
+	engfunc(EngFunc_SetModel, iProp, szEntModel);
+	g_iCurrentPropIndex[id] = iPropIndex;
+
+	return 1;
 }
 
 give_speedboost(id, Float:fSpeedAdd)

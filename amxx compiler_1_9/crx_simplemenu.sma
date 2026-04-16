@@ -2,7 +2,7 @@
 #include <amxmisc>
 
 #define PLUGIN_VERSION "2.1.2"
-#define MAX_MENUS 20
+#define MAX_MENUS 30
 
 enum
 {
