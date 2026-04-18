@@ -130,7 +130,8 @@ new g_iTeam[33], g_iPlayers[5];
 new bool:g_bRoundEnd, g_iDoublejump[33], g_iCurWeapon[33], g_iFuel[33];
 new g_iCountdownTime, Float:g_fLastfire[33], g_bHasSpeedBoost[33];
 new g_iZoomPower[33], g_iSniperDmg[33];
-new Float:g_fGameStartTime, Float:g_fFrags[33];
+new Float:g_fGameStartTime;
+new g_iSurvivalFrags[33];
 new g_iHostage, g_iHideTime
 
 public plugin_init() 
@@ -213,7 +214,7 @@ public plugin_precache()
 	
 	g_CvarBlockteam = register_cvar("ph_block_jointeam", "1");
 	g_CvarHidetime = register_cvar("ph_hide_time", "20");
-	g_CvarHealtime = register_cvar("ph_healing_time", "30");
+	g_CvarHealtime = register_cvar("ph_healing_time", "15");
 	g_CvarFlamedura = register_cvar("ph_flame_duration", "10");
 	g_CvarHpLostAmt = register_cvar("ph_wpnfire_hp_amount", "5"); //hp losing when wpn fire
 	g_CvarHiderspeed = register_cvar("ph_hider_speed", "280.0");
@@ -1012,9 +1013,10 @@ public fw_killed_player(victim, killer, shouldgib)
 		if(!g_bInHideTime)
 		{
 			new Float:fTime = get_gametime() - g_fGameStartTime;
-			set_pev(victim, pev_frags, pev(victim, pev_frags)+fTime);
-			ph_print(victim, "^4[PropHunt]^1 You have earned^3 %i^4 frag(s)^1 for surviving !", floatround(fTime));
-			g_fFrags[victim] = fTime;
+			new iSurvivalFrags = get_survival_frags(fTime);
+			set_pev(victim, pev_frags, pev(victim, pev_frags) + float(iSurvivalFrags));
+			ph_print(victim, "^4[PropHunt]^1 You have earned^3 %i^4 frag(s)^1 for surviving !", iSurvivalFrags);
+			g_iSurvivalFrags[victim] = iSurvivalFrags;
 		}
 		
 		if(is_player_alive(killer) && !g_bIsHider[killer])
@@ -1194,6 +1196,14 @@ set_hider_prop_model(id, iPropIndex)
 	return 1;
 }
 
+get_survival_frags(Float:fTime)
+{
+	if(fTime <= 0.0)
+		return 0;
+
+	return floatround(fTime / 20.0, floatround_ceil);
+}
+
 give_speedboost(id, Float:fSpeedAdd)
 {
 	g_bHasSpeedBoost[id] = true;
@@ -1204,9 +1214,9 @@ give_speedboost(id, Float:fSpeedAdd)
 
 give_frags(id, victim)
 {
-	new Float:fVicFrags = g_fFrags[victim];
-	if(fVicFrags != 0.0)
-		set_pev(id, pev_frags, pev(id, pev_frags)+fVicFrags);
+	new iVicFrags = g_iSurvivalFrags[victim];
+	if(iVicFrags > 0)
+		set_pev(id, pev_frags, pev(id, pev_frags) + float(iVicFrags));
 }
 
 public event_curweapon(id)
@@ -1496,10 +1506,11 @@ public EventRoundEnd()
 			if(!g_bInHideTime)
 			{
 				fTime = get_gametime() - g_fGameStartTime;
-				set_pev(i, pev_frags, pev(i, pev_frags)+fTime);
-				ph_print(i, "^4[PropHunt]^1 You have earned^3 %i^4 frag(s)^1 for surviving !", floatround(fTime));
+				new iSurvivalFrags = get_survival_frags(fTime);
+				set_pev(i, pev_frags, pev(i, pev_frags) + float(iSurvivalFrags));
+				ph_print(i, "^4[PropHunt]^1 You have earned^3 %i^4 frag(s)^1 for surviving !", iSurvivalFrags);
 			}
-			g_fFrags[i] = 0.0;
+			g_iSurvivalFrags[i] = 0;
 		}
 		else 
 		{
