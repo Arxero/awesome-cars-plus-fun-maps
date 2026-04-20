@@ -1345,7 +1345,8 @@ public EventRoundStart()
 		return;
 		
 	g_bRoundEnd = false;
-	ph_print(0, "^4oO0^3 PropHunt-v%s by Ryokin^4 0Oo", VERSION); 
+	ph_print(0, "^4[PropHunt]^1 Hiders: press^3 Q^1 to cycle props,^3 right click^1 to lock/unlock your prop.");
+	ph_print(0, "^4[PropHunt]^1 Seekers: return to the^3 CT spawn^1 to heal.");
 	
 	new time = g_iHideTime;
 	
