@@ -1345,8 +1345,7 @@ public EventRoundStart()
 		return;
 		
 	g_bRoundEnd = false;
-	ph_print(0, "^4[PropHunt]^1 Hiders: press^3 Q^1 to cycle props,^3 right click^1 to lock/unlock your prop.");
-	ph_print(0, "^4[PropHunt]^1 Seekers: return to the^3 CT spawn^1 to heal.");
+	ph_print(0, "^4[PropHunt]^1 Hiders:^3 Q^1 cycle props,^3 right click^1 lock prop.^4 Seekers:^1 return to^3 CT spawn^1 to heal.");
 	
 	new time = g_iHideTime;
 	
