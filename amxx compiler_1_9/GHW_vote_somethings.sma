@@ -29,16 +29,22 @@
 
 #include <amxmodx>
 #include <amxmisc>
+#include <colorchat>
 
 new bool:voting=false
 new votething[200]
 new bool:allowedtovoteagain=true
 new yes
 new no
-new menusid
+new currentVoteMenu
 new configfile[200]
 
 new pdelay, plasts, ptoggle, padvertise;
+
+new const tag[] = "[^1AMXX^4]^1"
+new const soundStartVote[] = "buttons/bell1.wav"
+new const soundVoteSuccess[] = "sank_sounds/woo.wav"
+new const soundVoteFail[] = "buttons/button10.wav"
 
 new const clientCommands[][] =
 {
@@ -53,8 +59,6 @@ public plugin_init()
 	register_clcmd("say","hook_say")
 	register_clcmd("say_team","hook_say")
 
-	register_menucmd(register_menuid("votean"),(1<<0)|(1<<1)|(1<<9),"Pressedvote")
-
 	pdelay = register_cvar("Vote_Delay","60.0")
 	plasts = register_cvar("Vote_Lasts","30.0")
 	ptoggle = register_cvar("Vote_Toggle","1")
@@ -66,6 +70,13 @@ public plugin_init()
 	set_task(get_pcvar_float(padvertise),"advertise",0,"",0,"b")
 
 	register_dictionary("GHW_vote.txt")
+}
+
+public plugin_precache()
+{
+	precache_sound(soundStartVote)
+	precache_sound(soundVoteSuccess)
+	precache_sound(soundVoteFail)
 }
 
 public hook_say(id)
@@ -105,19 +116,19 @@ public hook_say(id)
 	{
 		if(!get_pcvar_num(ptoggle))
 		{
-			client_print(id,print_chat,"[AMXX] %L",id,"MSG_VOTE_AS_DISABLED")
+			ColorChat(id, GREEN, "%s %L", tag, id, "MSG_VOTE_AS_DISABLED")
 		}
 		else if(voting)
 		{
-			client_print(id,print_chat,"[AMXX] %L",id,"MSG_VOTE_AS_VOTING")
+			ColorChat(id, GREEN, "%s %L", tag, id, "MSG_VOTE_AS_VOTING")
 		}
 		else if(!allowedtovoteagain)
 		{
-			client_print(id,print_chat,"[AMXX] %L",id,"MSG_VOTE_AS_SOON")
+			ColorChat(id, GREEN, "%s %L", tag, id, "MSG_VOTE_AS_SOON")
 		}
 		else if(containi(text2,";")!=-1)
 		{
-			client_print(id,print_chat,"[AMXX] %L",id,"MSG_VOTE_AS_SEMICOLONS")
+			ColorChat(id, GREEN, "%s %L", tag, id, "MSG_VOTE_AS_SEMICOLONS")
 		}
 		else
 		{
@@ -145,8 +156,8 @@ public hook_say(id)
 					}
 				}
 			}
-			client_print(id,print_chat,"[AMXX] %L",id,"MSG_VOTE_AS_INVALID1",text2)
-			client_print(id,print_chat,"[AMXX] %L",id,"MSG_VOTE_AS_INVALID2")
+			ColorChat(id, GREEN, "%s %L", tag, id, "MSG_VOTE_AS_INVALID1", text2)
+			ColorChat(id, GREEN, "%s %L", tag, id, "MSG_VOTE_AS_INVALID2")
 		}
 	}
 	return PLUGIN_CONTINUE
@@ -156,39 +167,49 @@ public showtext(id)
 {
 	new name[32]
 	get_user_name(id,name,31)
-	client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_STARTED",name)
+	client_cmd(0, "speak ^"sound/%s^"", soundStartVote)
+	ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_STARTED", name)
 	set_task(get_pcvar_float(plasts),"tally")
 }
 
 public showvotean()
 {
-	new menuBody[576]
-	new len = format(menuBody,575,"%L^n^n",0,"MSG_VOTE_AS_EXECUTE_Q",votething)
-	len += format(menuBody[len],575-len, "1. %L^n",0,"MSG_VOTE_AS_YES")
-	len += format(menuBody[len],575-len, "2. %L^n^n",0,"MSG_VOTE_AS_NO")
-	len += format(menuBody[len],575-len, "0. %L",0,"MSG_VOTE_AS_MAYBE")
-	show_menu(0,(1<<0)|(1<<1)|(1<<9),menuBody,-1,"votean")
+	new menuTitle[256]
+	formatex(menuTitle, charsmax(menuTitle), "%L", 0, "MSG_VOTE_AS_EXECUTE_Q", votething)
+
+	currentVoteMenu = menu_create(menuTitle, "Pressedvote")
+	menu_additem(currentVoteMenu, "Yes", "1", 0)
+	menu_additem(currentVoteMenu, "No", "2", 0)
+
+	new players[32], pnum, id
+	get_players(players, pnum)
+
+	for(new i = 0; i < pnum; i++)
+	{
+		id = players[i]
+		menu_display(id, currentVoteMenu, 0)
+	}
 }
 
-public Pressedvote(id,key)
+public Pressedvote(id, menu, item)
 {
-	new name[32]
-	get_user_name(id,name,31)
-	switch(key) 
+	if(item == MENU_EXIT)
 	{
-		case 0:
-		{
-			yes++
-			client_print(0,print_chat,"[AMXX] %s: [ %L ]",name,0,"MSG_VOTE_AS_YES")
-		}
+		return PLUGIN_HANDLED
+	}
+
+	new data[6], itemName[64], access, callback
+	menu_item_getinfo(menu, item, access, data, charsmax(data), itemName, charsmax(itemName), callback)
+
+	switch(str_to_num(data))
+	{
 		case 1:
 		{
-			no++
-			client_print(0,print_chat,"[AMXX] %s: [ %L ]",name,0,"MSG_VOTE_AS_NO")
+			yes++
 		}
-		case 9:
+		case 2:
 		{
-			client_print(0,print_chat,"[AMXX] %s: [ %L ]",name,0,"MSG_VOTE_AS_MAYBE")
+			no++
 		}
 	}
 	return PLUGIN_HANDLED
@@ -203,23 +224,18 @@ public allowedtovoteagaintrue()
 public tally()
 {
 	voting=false
-	for(new i=0;i<=32;i++)
+	show_menu(0, 0, "^n", 1)
+	if(currentVoteMenu)
 	{
-		if(is_user_connected(i))
-		{
-			new id
-			new keys
-			get_user_menu(i,id,keys)
-			if(id==menusid)
-			{
-				client_cmd(i,"slot0")
-			}
-		}
+		menu_destroy(currentVoteMenu)
+		currentVoteMenu = 0
 	}
-	client_print(0,print_chat,"[AMXX] %s:  %L: %d  %L: %d",votething,0,"MSG_VOTE_AS_YES",yes,0,"MSG_VOTE_AS_NO",no)
+
+	ColorChat(0, GREEN, "%s ^3%s^1: %L ^4%d^1  %L ^4%d", tag, votething, 0, "MSG_VOTE_AS_YES", yes, 0, "MSG_VOTE_AS_NO", no)
 	if(yes>no)
 	{
-		client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_EXECUTE",votething)
+		client_cmd(0, "speak ^"sound/%s^"", soundVoteSuccess)
+		ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_EXECUTE", votething)
 		if (isClientCommand(votething)) {
 			client_cmd(0, votething);
 
@@ -230,14 +246,15 @@ public tally()
 	}
 	else
 	{
-		client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_NO_EXECUTE",votething)
+		client_cmd(0, "speak ^"sound/%s^"", soundVoteFail)
+		ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_NO_EXECUTE", votething)
 	}
 	return PLUGIN_HANDLED
 }
 
 public advertise()
 {
-	client_print(0,print_chat,"[AMXX] %L",0,"MSG_VOTE_AS_ADVERTISE")
+	ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_ADVERTISE")
 }
 
 public isClientCommand(command[200]) {
