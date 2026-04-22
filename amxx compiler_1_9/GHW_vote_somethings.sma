@@ -36,6 +36,7 @@ new votething[200]
 new bool:allowedtovoteagain=true
 new yes
 new no
+new voteEligiblePlayers
 new currentVoteMenu
 new configfile[200]
 
@@ -145,6 +146,7 @@ public hook_say(id)
 					{
 						yes=0
 						no=0
+						voteEligiblePlayers = get_human_players_num()
 						allowedtovoteagain=false
 						set_task(get_pcvar_float(pdelay),"allowedtovoteagaintrue")
 						voting=true
@@ -223,6 +225,13 @@ public allowedtovoteagaintrue()
 
 public tally()
 {
+	new neededYesVotes = (voteEligiblePlayers / 2) + 1
+	new didNotVote = voteEligiblePlayers - yes - no
+	if(didNotVote < 0)
+	{
+		didNotVote = 0
+	}
+
 	voting=false
 	show_menu(0, 0, "^n", 1)
 	if(currentVoteMenu)
@@ -231,8 +240,8 @@ public tally()
 		currentVoteMenu = 0
 	}
 
-	ColorChat(0, GREEN, "%s ^3%s^1: %L ^4%d^1  %L ^4%d", tag, votething, 0, "MSG_VOTE_AS_YES", yes, 0, "MSG_VOTE_AS_NO", no)
-	if(yes>no)
+	ColorChat(0, GREEN, "%s Results from the vote: ^4%d - Yes ^1vs ^4%d - No ^1vs ^4%d - Did not vote", tag, yes, no, didNotVote)
+	if(yes > (voteEligiblePlayers / 2))
 	{
 		client_cmd(0, "speak ^"sound/%s^"", soundVoteSuccess)
 		ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_EXECUTE", votething)
@@ -247,7 +256,7 @@ public tally()
 	else
 	{
 		client_cmd(0, "speak ^"sound/%s^"", soundVoteFail)
-		ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_NO_EXECUTE", votething)
+		ColorChat(0, GREEN, "%s Not enough ^4Yes ^1votes were cast for the vote to succeed. Needed: ^4%d ^1Yes vote(s)", tag, neededYesVotes)
 	}
 	return PLUGIN_HANDLED
 }
@@ -268,4 +277,12 @@ public isClientCommand(command[200]) {
 	}
 
 	return isClientCommand;
+}
+
+public get_human_players_num()
+{
+	new players[32], pnum
+	get_players(players, pnum, "ch")
+
+	return pnum
 }
