@@ -12,7 +12,7 @@ MSG_VOTE_AS_INVALID1 = You are not allowed to vote for ^"%s^"
 
 MSG_VOTE_AS_INVALID2 = For a list of things you can vote for, type /vote
 
-MSG_VOTE_AS_STARTED = %s started a vote.
+MSG_VOTE_AS_STARTED = ^4%s started a vote.
 
 MSG_VOTE_AS_EXECUTE_Q = Execute ^"%s^" on server console?
 

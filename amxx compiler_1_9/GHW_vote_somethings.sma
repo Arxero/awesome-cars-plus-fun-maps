@@ -46,6 +46,7 @@ new const tag[] = "[^1AMXX^4]^1"
 new const soundStartVote[] = "buttons/bell1.wav"
 new const soundVoteSuccess[] = "sank_sounds/woo.wav"
 new const soundVoteFail[] = "buttons/button10.wav"
+new const Float:commandExecuteDelay = 10.0
 
 new const clientCommands[][] =
 {
@@ -61,7 +62,7 @@ public plugin_init()
 	register_clcmd("say_team","hook_say")
 
 	pdelay = register_cvar("Vote_Delay","60.0")
-	plasts = register_cvar("Vote_Lasts","30.0")
+	plasts = register_cvar("Vote_Lasts","10.0")
 	ptoggle = register_cvar("Vote_Toggle","1")
 	padvertise = register_cvar("Vote_Advertise","500.0")
 
@@ -170,7 +171,7 @@ public showtext(id)
 	new name[32]
 	get_user_name(id,name,31)
 	client_cmd(0, "speak ^"sound/%s^"", soundStartVote)
-	ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_STARTED", name)
+	ColorChat(0, GREEN, "%s Vote started by ^4%s", tag, name)
 	set_task(get_pcvar_float(plasts),"tally")
 }
 
@@ -227,37 +228,58 @@ public tally()
 {
 	new neededYesVotes = (voteEligiblePlayers / 2) + 1
 	new didNotVote = voteEligiblePlayers - yes - no
+	new players[32], pnum, id
 	if(didNotVote < 0)
 	{
 		didNotVote = 0
 	}
 
 	voting=false
-	show_menu(0, 0, "^n", 1)
+	get_players(players, pnum, "ch")
+	for(new i = 0; i < pnum; i++)
+	{
+		id = players[i]
+		show_menu(id, 0, "^n", 1)
+	}
+
 	if(currentVoteMenu)
 	{
 		menu_destroy(currentVoteMenu)
 		currentVoteMenu = 0
 	}
 
-	ColorChat(0, GREEN, "%s Results from the vote: ^4%d - Yes ^1vs ^4%d - No ^1vs ^4%d - Did not vote", tag, yes, no, didNotVote)
+	if(didNotVote > 0)
+	{
+		ColorChat(0, GREEN, "%s Results from the vote: ^4%d - Yes ^1vs ^4%d - No ^1vs ^4%d - Did not vote", tag, yes, no, didNotVote)
+	}
+	else
+	{
+		ColorChat(0, GREEN, "%s Results from the vote: ^4%d - Yes ^1vs ^4%d - No", tag, yes, no)
+	}
+
 	if(yes > (voteEligiblePlayers / 2))
 	{
 		client_cmd(0, "speak ^"sound/%s^"", soundVoteSuccess)
-		ColorChat(0, GREEN, "%s %L", tag, 0, "MSG_VOTE_AS_EXECUTE", votething)
-		if (isClientCommand(votething)) {
-			client_cmd(0, votething);
-
-			return PLUGIN_HANDLED;
-		}
-
-		server_cmd(votething)
+		ColorChat(0, GREEN, "%s Command ^4%s ^1will be executed in ^4%d ^1seconds...", tag, votething, floatround(commandExecuteDelay))
+		set_task(commandExecuteDelay, "execute_voted_command")
 	}
 	else
 	{
 		client_cmd(0, "speak ^"sound/%s^"", soundVoteFail)
 		ColorChat(0, GREEN, "%s Not enough ^4Yes ^1votes were cast for the vote to succeed. Needed: ^4%d ^1Yes vote(s)", tag, neededYesVotes)
 	}
+	return PLUGIN_HANDLED
+}
+
+public execute_voted_command()
+{
+	if (isClientCommand(votething)) {
+		client_cmd(0, votething)
+
+		return PLUGIN_HANDLED
+	}
+
+	server_cmd(votething)
 	return PLUGIN_HANDLED
 }
 
