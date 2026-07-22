@@ -10,6 +10,9 @@
                     1  log chat messages(by date)to XXXX.XX.XX.htm in amxxdir\logs\
 		       XXXX.XX.XX is the date.
                        default is 1.
+         cl_log_cleanup_minutes  How often the active log is trimmed. 0 disables trimming.
+         cl_log_max_rows         Trim the log when its number of rows exceeds this value.
+         cl_log_remove_rows      Number of oldest chat rows removed during each trim.
 */
 
 #include <amxmodx>
@@ -21,6 +24,9 @@
 #define FONT "<font face=^"Verdana^" size=2>"
 static FilePath[49]
 new g_cvarlogmode
+new g_cvarCleanupMinutes
+new g_cvarMaxRows
+new g_cvarRemoveRows
 new g_adminchatID
 new const HUDPOS[4][] = {"", "HUDCHAT", "HUDCENTER", "HUDBOTTOM"}
 new const TEAMCOLOR[_:CsTeams][] = {"gray", "red", "blue", "gray"}
@@ -30,6 +36,9 @@ public plugin_init()
 {
 	register_plugin("Chat Logger", "2.1a", "Jim")
 	g_cvarlogmode = register_cvar("cl_logmode", "1")
+	g_cvarCleanupMinutes = register_cvar("cl_log_cleanup_minutes", "30")
+	g_cvarMaxRows = register_cvar("cl_log_max_rows", "10000")
+	g_cvarRemoveRows = register_cvar("cl_log_remove_rows", "1000")
 	register_clcmd("say", "logtext")
 	register_clcmd("say_team", "logtext")
 	register_concmd("amx_say", "logtext")
@@ -43,6 +52,66 @@ public plugin_init()
 public plugin_cfg()
 {
 	g_adminchatID = is_plugin_loaded("Admin Chat")
+
+	new Float:cleanupMinutes = get_pcvar_float(g_cvarCleanupMinutes)
+	if(cleanupMinutes > 0.0)
+		set_task(cleanupMinutes * 60.0, "cleanup_log", 0, "", 0, "b")
+}
+
+public cleanup_log()
+{
+	new maxRows = get_pcvar_num(g_cvarMaxRows)
+	new removeRows = get_pcvar_num(g_cvarRemoveRows)
+	if(removeRows < 1)
+		return
+
+	static logFile[65], dateStr[11]
+	new headerRows
+	if(get_pcvar_num(g_cvarlogmode))
+	{
+		get_time("%Y.%m.%d", dateStr, charsmax(dateStr))
+		formatex(logFile, charsmax(logFile), "%s/%s.htm", FilePath, dateStr)
+		headerRows = 2
+	}
+	else
+	{
+		formatex(logFile, charsmax(logFile), "%s/ChatLog.htm", FilePath)
+		headerRows = 3
+	}
+
+	if(maxRows <= headerRows)
+		return
+
+	if(!file_exists(logFile))
+		return
+
+	new totalRows, text[512], textLen
+	while(read_file(logFile, totalRows, text, charsmax(text), textLen))
+		totalRows++
+
+	if(totalRows <= maxRows)
+		return
+
+	// Keep the HTML header rows; remove only the oldest chat entries.
+	new rowsToRemove = min(removeRows, totalRows - headerRows)
+	if(rowsToRemove < 1)
+		return
+
+	static tempFile[80]
+	formatex(tempFile, charsmax(tempFile), "%s.cleanup.tmp", logFile)
+	if(file_exists(tempFile))
+		delete_file(tempFile)
+
+	new row = 0
+	while(read_file(logFile, row, text, charsmax(text), textLen))
+	{
+		if(row < headerRows || row >= rowsToRemove + headerRows)
+			write_file(tempFile, text)
+		row++
+	}
+
+	delete_file(logFile)
+	rename_file(tempFile, logFile)
 }
 
 public logtext(id)
