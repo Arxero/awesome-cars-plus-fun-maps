@@ -60,6 +60,11 @@ public plugin_cfg()
 
 public cleanup_log()
 {
+	new players[32], playerCount
+	get_players(players, playerCount, "h")
+	if(playerCount > 0)
+		return
+
 	new maxRows = get_pcvar_num(g_cvarMaxRows)
 	new removeRows = get_pcvar_num(g_cvarRemoveRows)
 	if(removeRows < 1)
