@@ -14,7 +14,7 @@
 ; as_crazytank2
 ; as_crazytank3
 ; awesome_cars
-; awesome_cars2
+awesome_cars2
 ; awesome_cars3
 ; awesome_cars4
 ; awp_snowfun2

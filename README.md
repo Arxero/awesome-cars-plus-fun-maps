@@ -108,9 +108,9 @@ Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plu
     alt_end_round_sounds(beta).amxx
     death_ghost_halloween.amxx ; comment death_ghost.amxx - only used model is different
 
-Uncomment the `--== Halloween Update==--` maps in `mapcycle.txt`, and comment every other map entry so only Halloween maps can be selected.
+Uncomment the `--== Halloween Update==--` maps in `mapcycle.txt`, and comment every other map entry except `awesome_cars2`. Keep `awesome_cars2` uncommented as the startup map; removing it from the list delays server restarts.
 
-Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini).
+Make [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini) an identical copy of `mapcycle.txt`.
 
 
 ### Sounds
