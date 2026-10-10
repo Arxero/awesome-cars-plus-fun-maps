@@ -58,7 +58,7 @@ Edit [mapcycle.txt](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/ma
     xmas_nipperhouse
     x-mas_tree
 
-Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini).
+Make [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini) an identical copy of `mapcycle.txt`.
 
 ### Sounds
 Edit [roundsound.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/roundsound.ini) just uncomment xmas sounds and comment the normal ones.
@@ -108,7 +108,7 @@ Enable these plugins in [plugins.ini](https://github.com/Arxero/awesome-cars-plu
     alt_end_round_sounds(beta).amxx
     death_ghost_halloween.amxx ; comment death_ghost.amxx - only used model is different
 
-Also uncomment `--== Halloween Update==--` maps from `mapcycle.txt`
+Uncomment the `--== Halloween Update==--` maps in `mapcycle.txt`, and comment every other map entry so only Halloween maps can be selected.
 
 Do the same for [maps.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/maps.ini).
 
@@ -127,9 +127,15 @@ Edit [weapons_by_ThePro.ini](https://github.com/Arxero/awesome-cars-plus-fun-map
 
 Optinally you can edit [user_models.ini](https://github.com/Arxero/awesome-cars-plus-fun-maps/blob/master/cstrike/addons/amxmodx/configs/user_models.ini) for default vip/admins player skins so they don't have to select it every new map.
 
-### Spooky Fog
+### Spooky Fog (required)
 
-For better spooky atmosphere you can use these commands in the console
+Enable black fog in `amxx.cfg` for every map:
+
+- `amx_fog_default 1`
+- `amx_fog_amount 1`
+- `amx_fog_color "0 0 0"`
+
+You can use these console commands to adjust it at runtime:
 
     amx_fog 1 "0 0 0" 1 - Would make a black fog which you can hardly see.
     amx_fog 1 0 0 - Would use the default values for the fog.
@@ -137,19 +143,13 @@ For better spooky atmosphere you can use these commands in the console
     amx_fog 1 "116 137 147" 9 - Would make a realistic gray fog and it would be really hard to see anything.
     amx_fog 1 "0 0 200" 3 - Would make a cool blue fog.
 
-- amx_fog_default 1
-- amx_fog_amount 1
-- amx_fog_color "0 0 0"
-
-in `amxx.cfg` to apply for every map
-
 ### Galileo, in `galileo.cfg` change those cvars values
 - gal_emptyserver_wait 0
 - gal_banrecent 3
 
 ### Halloween Soccer
 
-- `sj_plus_maps.ini` - uncomment the halloween maps
+- `sj_plus_maps.ini` - uncomment the Halloween maps and comment the standard map entries so only Halloween Soccer Jam maps are offered.
 
 # MOTD halloween background
 Open `awesomecs/extra/motd/style.css` in awesomecs repo and uncomment the background style for halloween.
