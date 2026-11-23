@@ -7,10 +7,378 @@
 #include <engine>
 #include <cstrike>
 
+
+#define ACH_COUNT 100
+#define ACH_MAX_PROGRESS 32767
+#define ACH_VAULT_NAME "unified_melee_achievements"
+#define ACH_0 0
+#define ACH_1 1
+#define ACH_2 2
+#define ACH_3 3
+#define ACH_4 4
+#define ACH_5 5
+#define ACH_6 6
+#define ACH_7 7
+#define ACH_8 8
+#define ACH_9 9
+#define ACH_10 10
+#define ACH_11 11
+#define ACH_12 12
+#define ACH_13 13
+#define ACH_14 14
+#define ACH_15 15
+#define ACH_16 16
+#define ACH_17 17
+#define ACH_18 18
+#define ACH_19 19
+#define ACH_20 20
+#define ACH_21 21
+#define ACH_22 22
+#define ACH_23 23
+#define ACH_24 24
+#define ACH_25 25
+#define ACH_26 26
+#define ACH_27 27
+#define ACH_28 28
+#define ACH_29 29
+#define ACH_30 30
+#define ACH_31 31
+#define ACH_32 32
+#define ACH_33 33
+#define ACH_34 34
+#define ACH_35 35
+#define ACH_36 36
+#define ACH_37 37
+#define ACH_38 38
+#define ACH_39 39
+#define ACH_40 40
+#define ACH_41 41
+#define ACH_42 42
+#define ACH_43 43
+#define ACH_44 44
+#define ACH_45 45
+#define ACH_46 46
+#define ACH_47 47
+#define ACH_48 48
+#define ACH_49 49
+#define ACH_50 50
+#define ACH_51 51
+#define ACH_52 52
+#define ACH_53 53
+#define ACH_54 54
+#define ACH_55 55
+#define ACH_56 56
+#define ACH_57 57
+#define ACH_58 58
+#define ACH_59 59
+#define ACH_60 60
+#define ACH_61 61
+#define ACH_62 62
+#define ACH_63 63
+#define ACH_64 64
+#define ACH_65 65
+#define ACH_66 66
+#define ACH_67 67
+#define ACH_68 68
+#define ACH_69 69
+#define ACH_70 70
+#define ACH_71 71
+#define ACH_72 72
+#define ACH_73 73
+#define ACH_74 74
+#define ACH_75 75
+#define ACH_76 76
+#define ACH_77 77
+#define ACH_78 78
+#define ACH_79 79
+#define ACH_80 80
+#define ACH_81 81
+#define ACH_82 82
+#define ACH_83 83
+#define ACH_84 84
+#define ACH_85 85
+#define ACH_86 86
+#define ACH_87 87
+#define ACH_88 88
+#define ACH_89 89
+#define ACH_90 90
+#define ACH_91 91
+#define ACH_92 92
+#define ACH_93 93
+#define ACH_ARMOR_ROBBER 95
+#define ACH_STUBBORN 96
+#define ACH_DEATH_DOESNT_WAIT 97
+#define ACH_ADDICTION 98
+#define ACH_SKULL_CRUSHER 99
+
+new const g_AchNames[ACH_COUNT][] =
+{
+    "First Blood",
+    "Getting Used To It",
+    "Serial Killer",
+    "Winning Streak",
+    "Wall",
+    "Not Today",
+    "Backstabber",
+    "I'm Tired",
+    "Revenge",
+    "Self Defence",
+    "Ronin",
+    "Omelette",
+    "Knight",
+    "Juggernaut",
+    "Ninja",
+    "Gangster",
+    "Headsman",
+    "Colossus",
+    "Samurai",
+    "Assassin",
+    "Whirlwind",
+    "Gladiator",
+    "Necromancer",
+    "Ironclad",
+    "Butcher",
+    "Broken Legs",
+    "The Finisher",
+    "One in a Million",
+    "Double Kill",
+    "Multitasking",
+    "Mirror",
+    "Bonk!",
+    "Unfair",
+    "Shadow",
+    "Boneless",
+    "Floor Inspector",
+    "Not a Chance",
+    "Not So Fast Now",
+    "Bully",
+    "Rose",
+    "Nice Try",
+    "Top #1 Gravity Hater",
+    "Shadow Fight 2 Lynx",
+    "Berserker",
+    "The Perfect Counter",
+    "King",
+    "Shogun",
+    "Thief",
+    "Low Cortisol",
+    "Two Birds, Two Stones",
+    "Parry Master",
+    "Unbreakable",
+    "Friendship Issues",
+    "Not Touching The Ground Yet",
+    "Vertical Attack",
+    "Neutralized",
+    "Maniac",
+    "What a Luck",
+    "Insane Timing",
+    "Tank",
+    "Untouchable",
+    "Spammer",
+    "Leg Breaker",
+    "High Risk, High Reward",
+    "You Started It",
+    "Team Work",
+    "Collector",
+    "Dead Ringer",
+    "Sneaky Attack",
+    "Bash",
+    "Awesome Friendship",
+    "Best Friends Forever",
+    "The Perfect Team",
+    "Micro-Bomb Combo",
+    "Back Attack Combo",
+    "Insane Damage",
+    "I Believe I Can Fly",
+    "Unstoppable Force",
+    "Silent Reaper",
+    "Immortal Swordsman",
+    "Master Chef",
+    "Dark Overlord",
+    "Bone Breaker",
+    "Apex Predator",
+    "Home Run Hitter",
+    "Head Splitter",
+    "Titan's Bane",
+    "Untouchable Daimyo",
+    "Justice and Splendor",
+    "Death's Herald",
+    "Great Warrior",
+    "Grim Reaper",
+    "Champion of The Arena",
+    "Wrath Demon",
+    "Foot Work",
+    "Armor Robber",
+    "Stubborn",
+    "Death Doesn't Wait",
+    "Addiction",
+    "Skull Crusher"
+};
+new const g_AchDescriptions[ACH_COUNT][] =
+{
+    "Get your first kill",
+    "Get 10 kills",
+    "Get 25 kills",
+    "Win 3 rounds in a row",
+    "Block 25 incoming attacks",
+    "Successfully perform a parry",
+    "Heavy attack someone from his back",
+    "Exhaust 5 times in the same round",
+    "Kill someone who killed you last round",
+    "Get 5 kills with the knife",
+    "Get 5 kills with the katana",
+    "Get 5 kills with the pan",
+    "Get 5 kills with the longsword",
+    "Get 5 kills with the hammer",
+    "Get 5 kills with the claws",
+    "Get 5 kills with the bat",
+    "Get 5 kills with the axe",
+    "Get 5 kills with the greatsword",
+    "Get 5 kills with the naginata",
+    "Get 5 kills with the sais",
+    "Get 5 kills with the glaive",
+    "Get 5 kills with the gladius",
+    "Get 5 kills with the scythe",
+    "Get 5 kills with the gauntlets",
+    "Get 5 kills with the cleaver",
+    "Die 10 times from fall damage",
+    "Execute an opponent using the cleaver",
+    "Kill an opponent who has 1 HP",
+    "Kill 2 opponents in the same round",
+    "Kill 4 opponents in the same round",
+    "Parry 5 incoming attacks in the same round",
+    "Hit someone in the head 10 times using the pan",
+    "Kill someone who is stunned",
+    "Heavy attack 2 opponents in the back in the same round",
+    "Get kicked into a wall and die",
+    "Die from fall damage 20 times",
+    "Hit an opponent 7 times in a row without taking damage",
+    "Kill a katana user 5 times in a row without him killing you",
+    "Kick someone into a wall 10 times",
+    "Kill 10 people using thorns",
+    "Parry a cleaver execution",
+    "Die from fall damage 167 times",
+    "Kill 10 people using the micro-bomb",
+    "Get 10 kills while in berserk mode",
+    "Execute a glaive user with the cleaver",
+    "Be the last survivor in the round while using the longsword or greatsword",
+    "Be the last survivor in the round while using the katana or naginata",
+    "Kill an opponent with one attack after having dealt them no previous damage",
+    "Successfully ignore 5 parries using the greatsword",
+    "Kill 2 opponents in the same round using claws, sais or gauntlets",
+    "Successfully parry 30 incoming attacks",
+    "Successfully block 50 incoming attacks",
+    "Use 15 kicks of any type on a teammate",
+    "Kick someone while they're airborne",
+    "Use the hammer's gravity attack 5 times",
+    "Suppress a greatsword user and block or parry his attack while suppressed",
+    "Get 100 kills",
+    "Win the round with 1 HP",
+    "Parry a glaive shockwave",
+    "Take at least 401 damage in the same round and survive",
+    "Win a round without taking any damage",
+    "Win a 1v1 using only light attacks",
+    "Perform an airborne down kick",
+    "Successfully perform a back heavy attack 20 times",
+    "Kill someone using the pan's parry damage",
+    "Heavy attack someone who is stunned",
+    "Get at least 10 kills with all weapons",
+    "Successfully fake 10 deaths using the scythe",
+    "Attack 15 opponents using the scythe while invisible",
+    "Apply vulnerability to an already vulnerable opponent",
+    "Apply vulnerability on your teammate and cause them to get killed while vulnerable",
+    "Plant the micro-bomb on the same teammate 10 times",
+    "Use the hammer's gravity attack on an opponent stunned by your teammate's back attack",
+    "Low kick an opponent while the micro-bomb is planted on them",
+    "Back heavy attack an opponent and back-kick them while stunned",
+    "Hit a cleaver user stabbed by a longsword user while below 80 HP using the glaive",
+    "Stay airborne for 10 uninterrupted seconds",
+    "Win a 1v3 round",
+    "Get 300 kills with the knife",
+    "Get 300 kills with the katana",
+    "Get 300 kills with the pan",
+    "Get 300 kills with the longsword",
+    "Get 300 kills with the hammer",
+    "Get 300 kills with the claws",
+    "Get 300 kills with the bat",
+    "Get 300 kills with the axe",
+    "Get 300 kills with the greatsword",
+    "Get 300 kills with the naginata",
+    "Get 300 kills with the sais",
+    "Get 300 kills with the glaive",
+    "Get 300 kills with the gladius",
+    "Get 300 kills with the scythe",
+    "Get 300 kills with the gauntlets",
+    "Get 300 kills with the cleaver",
+    "Kill an opponent using only kicks",
+    "Steal a total of 200 AP using the Gladius",
+    "Gain a total of 400 AP in the same round using the Gladius or Gauntlets",
+    "Kill 3 opponents within 10 seconds",
+    "Get 67 kills without leaving the server",
+    "Perform 15 head hits with any attack in the same round"
+};
+new const g_AchTargets[ACH_COUNT] = {
+    1, 10, 25, 3, 25, 1, 1, 5, 1, 5, 5, 5, 5, 5, 5, 5,
+    5, 5, 5, 5, 5, 5, 5, 5, 5, 10, 1, 1, 2, 4, 5, 10,
+    1, 2, 1, 20, 7, 5, 10, 10, 1, 167, 10, 10, 1, 1, 1, 1,
+    5, 2, 30, 50, 15, 1, 5, 1, 100, 1, 1, 401, 1, 1, 1, 20,
+    1, 1, 10, 10, 15, 1, 1, 10, 1, 1, 1, 1, 1, 1, 300, 300,
+    300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 1,
+    200, 400, 3, 67, 15
+};
+new const g_AchCategories[ACH_COUNT] = {
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1,
+    1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2,
+    2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3,
+    3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4,
+    4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3,
+    1, 3, 4, 4, 2
+};
+new g_AchVault = INVALID_HANDLE;
+new g_AchProgress[33][ACH_COUNT];
+new bool:g_AchUnlocked[33][ACH_COUNT];
+new g_AchRoundKills[33], g_AchRoundParries[33], g_AchRoundBackstabs[33], g_AchSpecialRoundKills[33];
+new g_AchTotalKills[33], g_AchFallDeaths[33], g_AchWinStreak[33];
+new g_AchLastRoundKiller[33], g_AchPreviousRoundKiller[33];
+new g_AchWeaponKills[33][16];
+new g_AchLastKiller[33], g_AchKillerStreak[33];
+new g_AchMenuTarget[33];
+new g_AchMenuCategory[33];
+new Float:g_AchAirStart[33];
+new bool:g_AchRoundTookDamage[33];
+new g_AchDamageByOpponent[33][33];
+new g_AchRoundDamageTaken[33];
+new g_AchTeamWinStreak[33];
+new g_AchTeamKicks[33];
+new g_AchSameTeammateBomb[33][33];
+new g_AchThornsKiller[33], g_AchStunnedHitBy[33], g_AchKickOwner[33], g_AchBonelessOwner[33], g_AchPanParryKiller[33];
+new Float:g_AchBonelessUntil[33];
+new g_AchKickOnlyOwner[33];
+new bool:g_AchKickOnlyBroken[33];
+new g_AchStunOwner[33];
+new g_AchConsecutiveHits[33], g_AchLastHitVictim[33];
+new bool:g_AchFallPending[33];
+new g_AchBackComboVictim[33], g_AchBackstabOwner[33], g_AchVulnerabilityOwner[33], g_AchCleaverExecVictim[33];
+new g_AchBombKiller[33];
+new g_AchParryCount[33], g_AchBlockCount[33];
+new g_AchRoundLightOnly[33];
+new g_AchRoundTeamSize[33], g_AchRoundEnemySize[33];
+new g_AchRoundLightHits[33], g_AchRoundAPGained[33];
+new Float:g_AchRecentKillTimes[33][32];
+new g_AchRecentKillVictims[33][32];
+new g_AchRecentKillCount[33];
+new bool:g_AchWallBounceLethal[33], bool:g_AchWallBouncePending[33];
+new Float:g_AchWallBounceUntil[33];
+new bool:g_AchRoundResultHandled;
+#define ACH_DMG_WALL_BOUNCE (1<<27)
+new bool:p4_g_Stunned[33];
+
+
 #define MECH_STUN_TIME 2.5
 #define MECH_WALL_DAMAGE 10.0
 #define MECH_WALL_BOUNCE 0.55
-#define MECH_CLASH_WINDOW 0.20
+#define MECH_CLASH_WINDOW 0.15
 #define MECH_BACKKICK_RANGE 105.0
 #define MECH_BACKKICK_DAMAGE 15.0
 #define MECH_DOWNKICK_FORCE 520.0
@@ -20,7 +388,6 @@
 #define MECH_BACKSTAB_SAIS_RANGE 48.0
 #define MECH_BACKSTAB_GLAIVE_RANGE 125.0
 #define MECH_BACKSTAB_GLADIUS_RANGE 65.0
-#define MECH_SPARK_SPRITE "sprites/spark1.spr"
 #define MECH_TASK_STUN 28100
 
 new Float:g_MechStunUntil[33]
@@ -32,7 +399,6 @@ new bool:p5_g_bKeyDown[33];
 // Previous raw CmdStart buttons for press/hold/release edge detection.
 new p4_g_LastHookButtons[33]
 new Float:g_MechLastDamage[33]
-new g_MechSparkSprite
 new bool:g_MechBackstab[33]
 new bool:g_MechWasStunnedOnHit[33]
 new bool:g_MechWallBounce[33]
@@ -44,7 +410,7 @@ new Float:g_MechBackKickSlowUntil[33]
 new Float:g_MechBackKickSlow = 110.0
 
 #define PLUGIN "Unified Melee Combat"
-#define VERSION "1.1"
+#define VERSION "1.2"
 #define AUTHOR "Mimou"
 
 
@@ -132,6 +498,7 @@ public plugin_init()
     p5_plugin_init()
     p6_plugin_init()
     p7_plugin_init()
+    ach_plugin_init()
 }
 
 // Forward AMXX lifecycle events to the prefixed melee module helpers.
@@ -142,9 +509,15 @@ public client_putinserver(id)
     p5_client_putinserver(id)
     p7_client_putinserver(id)
     p4_g_LastHookButtons[id] = 0
+    ach_client_putinserver(id)
 }
 
 
+
+public client_authorized(id)
+{
+    ach_load(id)
+}
 
 
 #define p1_MELEE_KNIFE       0
@@ -172,17 +545,17 @@ public client_putinserver(id)
 new const p1_AnimationMap[p1_MELEE_COUNT][9] =
 {
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
+    {0, 6, 7, 3, 4, 5, 6, 7, 8},
+    {0, 1, 2, 3, 4, 5, 6, 7, 8},
+    {0, 6, 7, 3, 4, 5, 6, 7, 7},
+    {0, 6, 7, 3, 4, 5, 6, 7, 8},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
+    {0, 6, 7, 3, 4, 5, 6, 7, 8},
+    {0, 1, 7, 2, 9, 8, 1, 9, 3},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
-    {0, 1, 2, 3, 4, 5, 6, 7, 8},
-    {0, 1, 2, 3, 4, 5, 6, 7, 8},
-    {0, 1, 2, 3, 4, 5, 6, 7, 8}, // Axe: standard order
-    {0, 1, 7, 2, 8, 8, 1, 7, 3}, // Greatsword: its custom order
-    {0, 1, 2, 3, 4, 5, 6, 7, 8}, // Naginata
-    {0, 1, 2, 3, 4, 5, 6, 7, 8}, // Sais: standard order
-    {0, 1, 4, 3, 2, 7, 6, 5, 1}, // Glaive: former Sais custom order
+    {0, 1, 4, 3, 2, 7, 5, 6, 1},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
     {0, 1, 2, 3, 4, 5, 6, 7, 8},
@@ -476,7 +849,6 @@ new const p1_WeaponSounds[16][5][] = {
 
 public p1_plugin_precache()
 {
-    g_MechSparkSprite = precache_model(MECH_SPARK_SPRITE)
     precache_sound("weapons/knife_arena/axe_hitwall.wav")
     precache_model(p1_MODEL_KNIFE)
     precache_model(p1_MODEL_KATANA)
@@ -693,6 +1065,19 @@ public p1_UpdateWeaponSprites(taskid)
 
 public client_disconnected(id)
 {
+    // A disconnected killer cannot remain a Revenge target if their player
+    // slot is later reused by someone else.
+    for(new other=1;other<=32;other++)
+    {
+        if(g_AchLastRoundKiller[other]==id) g_AchLastRoundKiller[other]=0;
+        if(g_AchPreviousRoundKiller[other]==id) g_AchPreviousRoundKiller[other]=0;
+    }
+    // Save achievement progress before player state is reset.
+    ach_save(id)
+    g_AchRecentKillCount[id]=0
+    for(new k=0;k<32;k++) g_AchRecentKillTimes[id][k]=0.0
+    arrayset(g_AchRecentKillVictims[id],0,32)
+    remove_task(id+19000)
     // Selection is saved immediately on change and again at disconnect.
     p1_SaveMelee(id)
     p1_ScytheCleanup(id)
@@ -1115,6 +1500,10 @@ public p1_fw_WeaponIdle_Post(ent)
 
 public p1_fw_Killed_Post(p1_id, attacker, shouldgib)
 {
+    ach_on_death(p1_id)
+    ach_on_kill(attacker, p1_id)
+    g_AchKickOnlyOwner[p1_id] = 0
+    g_AchKickOnlyBroken[p1_id] = false
     // A real death during the cloak must immediately discard the decoy body.
     p1_ScytheCleanup(p1_id)
 
@@ -1136,6 +1525,13 @@ public p1_fw_Spawn_Post(p1_id)
 {
     if(!is_user_alive(p1_id)) return
     p1_ScytheCleanup(p1_id)
+    g_AchFallPending[p1_id]=false
+    g_AchKickOwner[p1_id]=0
+    g_AchBonelessOwner[p1_id]=0
+    g_AchBonelessUntil[p1_id]=0.0
+    g_AchKickOnlyOwner[p1_id]=0
+    g_AchKickOnlyBroken[p1_id]=false
+    g_AchStunOwner[p1_id]=0
     p1_g_ScytheHits[p1_id] = 0
     p1_g_AnimLockUntil[p1_id] = 0.0
     p1_g_bIdleAnimPlayed[p1_id] = false
@@ -1380,6 +1776,7 @@ public p1_fw_SecondaryAttack_Pre(ent)
     if(!is_user_alive(p1_id) || get_user_weapon(p1_id) != CSW_KNIFE) return HAM_IGNORED
     new Float:p1_now = get_gametime()
     if(p1_now < p1_g_NextStab[p1_id]) return HAM_SUPERCEDE
+    g_AchRoundLightOnly[p1_id]=0
     // Holding the dedicated +backattack bind + heavy attack triggers a directional backstab.
     if(g_MechBackAttackHeld[p1_id])
     {
@@ -1401,13 +1798,14 @@ public p1_fw_SecondaryAttack_Pre(ent)
                 p7_g_bWaitingHeavyHit[p1_id] = false
                 new bool:wasBackstabParried = p4_g_ParryActive[backTarget]
                 new bool:wasBackstabBlocked = p5_g_bBlockActive[backTarget]
+                ach_on_backstab(p1_id, backTarget)
                 g_MechBackstab[p1_id] = true
                 new meleeType = p1_GetCombatMelee(p1_id)
                 new Float:base = p1_GetBaseDamage(meleeType, true)
                 ExecuteHamB(Ham_TakeDamage, backTarget, p1_id, p1_id, base, DMG_SLASH)
                 g_MechBackstab[p1_id] = false
                 if(!wasBackstabParried && !wasBackstabBlocked && is_user_alive(backTarget))
-                    Mech_ApplyStun(backTarget)
+                    Mech_ApplyStun(backTarget, p1_id)
             }
             // Use the weapon-specific stab sound on a hit and slash-miss sound on a miss.
             new soundMelee = p1_GetCombatMelee(p1_id)
@@ -1507,6 +1905,10 @@ public p1_fw_TraceAttack(p1_victim, attacker, Float:damage, Float:direction[3], 
 
     p1_g_HitVictim[attacker] = p1_victim
     p1_g_HitGroup[attacker] = get_tr2(trace, TR_iHitgroup)
+    // Count the light slash when its trace reaches an opponent, even if that
+    // opponent successfully parries or blocks the hit.
+    if(p1_g_AttackType[attacker]==1 && get_user_team(attacker)!=get_user_team(p1_victim))
+        g_AchRoundLightHits[attacker]++
     return HAM_IGNORED
 }
 
@@ -1645,6 +2047,7 @@ stock p1_ScytheCreateCorpse(id)
 
 stock p1_ScytheFakeDeath(id, attacker)
 {
+    ach_add(id,67,1);
     if(!is_user_alive(id) || p1_g_ScytheCloaked[id]) return
 
     p1_g_ScytheCorpse[id] = p1_ScytheCreateCorpse(id)
@@ -1691,12 +2094,15 @@ public p1_fw_TakeDamage(p1_victim, inflictor, attacker, Float:damage, damagebits
         p1_victim >= 1 && p1_victim <= 32 && attacker != p1_victim &&
         is_user_connected(p1_victim) && damage > 0.0 &&
         get_user_team(attacker) != get_user_team(p1_victim))
+    {
+        ach_add(attacker,68,1)
         p1_ScytheUncloak(attacker)
+    }
 
     if(p1_victim >= 1 && p1_victim <= 32 && damage > 0.0)
     {
         g_MechLastDamage[p1_victim] = get_gametime()
-        g_MechWasStunnedOnHit[p1_victim] = Mech_IsStunned(p1_victim)
+        g_MechWasStunnedOnHit[p1_victim] = (Mech_IsStunned(p1_victim) || p4_g_Stunned[p1_victim])
     }
     if(!is_user_alive(p1_victim)) return HAM_IGNORED
     if(!is_user_alive(attacker) || p1_victim == attacker)
@@ -1706,7 +2112,23 @@ public p1_fw_TakeDamage(p1_victim, inflictor, attacker, Float:damage, damagebits
     }
 
     new bool:targetWasStunned = g_MechWasStunnedOnHit[p1_victim]
+    // Preserve the stun source before Mech_ClearStun resets its live state.
+    new stunOwnerAtHit = g_AchStunOwner[p1_victim]
     g_MechWasStunnedOnHit[p1_victim] = false
+    if(targetWasStunned)
+    {
+        g_AchStunnedHitBy[p1_victim] = attacker
+
+        // Team Work: only a real knife heavy/stab hit counts. Kicks, bombs,
+        // parry counters and other synthetic damage must never unlock it.
+        if(get_user_weapon(attacker) == CSW_KNIFE && p1_g_AttackType[attacker] == 2 &&
+            !(damagebits & (p1_DMG_CUSTOM_MELEE | p1_DMG_PARRY_COUNTER)) &&
+            g_AchStunOwner[p1_victim] > 0 && g_AchStunOwner[p1_victim] != attacker &&
+            is_user_connected(g_AchStunOwner[p1_victim]) &&
+            get_user_team(g_AchStunOwner[p1_victim]) == get_user_team(attacker))
+            ach_set(attacker,65)
+
+    }
 
     // Clash: two opposing attack inputs within 100ms cancel into a spark and separation.
     if(damage > 0.0 && get_user_weapon(attacker) == CSW_KNIFE && get_user_weapon(p1_victim) == CSW_KNIFE &&
@@ -1856,6 +2278,19 @@ public p1_fw_TakeDamage(p1_victim, inflictor, attacker, Float:damage, damagebits
             if(p1_bonus > p1_HAMMER_FALL_MAX_BONUS)
                 p1_bonus = p1_HAMMER_FALL_MAX_BONUS
 
+            if(p1_bonus > 0.0)
+            {
+                // Count an actual gravity-boosted heavy hit, not a setting toggle.
+                ach_add(attacker,54,1)
+                // Teammate's back-attack must have caused the stun, and the
+                // Hammer hit must receive the real falling-speed damage bonus.
+                if(targetWasStunned && g_AchBackstabOwner[p1_victim] > 0 &&
+                    stunOwnerAtHit == g_AchBackstabOwner[p1_victim] &&
+                    g_AchBackstabOwner[p1_victim] != attacker &&
+                    is_user_connected(g_AchBackstabOwner[p1_victim]) &&
+                    get_user_team(g_AchBackstabOwner[p1_victim]) == get_user_team(attacker))
+                    ach_set(attacker,72)
+            }
             p1_finalDamage *= (1.0 + p1_bonus)
         }
     }
@@ -1880,14 +2315,12 @@ public p1_fw_TakeDamage(p1_victim, inflictor, attacker, Float:damage, damagebits
         damage > 0.0)
     {
         new armorGain = p1_stab ? p1_GAUNTLETS_HEAVY_AP : p1_GAUNTLETS_LIGHT_AP
-        new currentArmor = get_user_armor(attacker)
-    
-        currentArmor += armorGain
-    
-        if(currentArmor > p1_MAX_ARMOR)
-            currentArmor = p1_MAX_ARMOR
-
+        new oldArmor = get_user_armor(attacker)
+        new currentArmor = oldArmor + armorGain
+        if(currentArmor > p1_MAX_ARMOR) currentArmor = p1_MAX_ARMOR
         cs_set_user_armor(attacker, currentArmor, CS_ARMOR_VESTHELM)
+        if(currentArmor > oldArmor)
+            ach_track_ap_gain(attacker,currentArmor-oldArmor,false)
     }
     SetHamParamFloat(4, p1_finalDamage)
 
@@ -1938,7 +2371,13 @@ public p1_fw_TakeDamage(p1_victim, inflictor, attacker, Float:damage, damagebits
         p1_g_NextStab[attacker] = get_gametime() + p1_cooldown
 
         if(p1_melee == p1_MELEE_LONGSWORD && !p1_IsSuppressed(attacker))
+        {
+            if(p1_g_Vulnerable[p1_victim])
+                ach_set(attacker,69)
+            if(get_user_team(attacker)==get_user_team(p1_victim))
+                g_AchVulnerabilityOwner[p1_victim]=attacker
             p1_StartVulnerability(p1_victim)
+        }
 
         if(p1_melee == p1_MELEE_CLAWS && !p1_IsSuppressed(attacker) && random_num(1, 100) <= p1_MICRO_CHANCE && !p1_g_MicroBomb[p1_victim])
             p1_PlantMicroBomb(p1_victim, attacker)
@@ -2079,6 +2518,8 @@ public p1_ThornsRetaliate(taskid)
     }
 
     new p1_source = p1_g_ThornsSource[p1_target]
+    if(p1_source>=1 && p1_source<=32) g_AchRoundLightOnly[p1_source]=0
+    g_AchThornsKiller[p1_target] = p1_source
     new Float:p1_damage = p1_g_ThornsDamage[p1_target]
     p1_g_ThornsSource[p1_target] = 0
     p1_g_ThornsDamage[p1_target] = 0.0
@@ -2123,6 +2564,17 @@ public p1_SuppressionHUD(taskid)
 
 public p1_PlantMicroBomb(p1_victim, owner)
 {
+    if(owner>=1 && owner<=32) g_AchRoundLightOnly[owner]=0
+    if(owner>=1 && owner<=32 && p1_victim>=1 && p1_victim<=32 && get_user_team(owner)==get_user_team(p1_victim))
+    {
+        g_AchSameTeammateBomb[owner][p1_victim]++;
+        if(g_AchSameTeammateBomb[owner][p1_victim]>g_AchProgress[owner][71])
+        {
+            g_AchProgress[owner][71]=g_AchSameTeammateBomb[owner][p1_victim];
+            ach_save(owner);
+        }
+        if(g_AchSameTeammateBomb[owner][p1_victim]>=10) ach_set(owner,71);
+    }
     p1_g_MicroBomb[p1_victim] = true
     p1_g_MicroBombOwner[p1_victim] = owner
     p1_g_BombEndTime[p1_victim] = get_gametime() + p1_MICRO_DELAY
@@ -2157,6 +2609,7 @@ public p1_MicroBombExplode(taskid)
     if(!is_user_alive(p1_victim) || !p1_g_MicroBomb[p1_victim]) return
 
     new p1_bombOwner = p1_g_MicroBombOwner[p1_victim]
+    g_AchBombKiller[p1_victim] = p1_bombOwner
     p1_g_MicroBomb[p1_victim] = false
     p1_g_MicroBombOwner[p1_victim] = 0
     p1_g_BombEndTime[p1_victim] = 0.0
@@ -2522,6 +2975,7 @@ stock Mech_ClearStun(id)
 {
     if(id < 1 || id > 32 || g_MechStunUntil[id] <= 0.0) return
     g_MechStunUntil[id] = 0.0
+    if(!p4_g_Stunned[id]) g_AchStunOwner[id] = 0
     set_pev(id, pev_renderfx, kRenderFxNone)
     set_pev(id, pev_rendercolor, Float:{0.0, 0.0, 0.0})
     set_pev(id, pev_renderamt, 0.0)
@@ -2535,10 +2989,11 @@ stock Mech_ClearStun(id)
     p7_UpdatePlayerGlow(id)
 }
 
-stock Mech_ApplyStun(id)
+stock Mech_ApplyStun(id, stunOwner)
 {
     if(!is_user_alive(id)) return
     g_MechStunUntil[id] = get_gametime() + MECH_STUN_TIME
+    g_AchStunOwner[id] = stunOwner
     // A back-attack stun disables both defensive actions for its full duration.
     p4_g_ParryActive[id] = false
     p4_g_ParryAttempt[id] = false
@@ -2588,21 +3043,16 @@ stock Mech_FindBehindTarget(id, Float:range)
 
 stock Mech_Spark(Float:origin[3])
 {
+    // Match the Glaive shockwave's native spark effect (TE_SPARKS).
     new p4_origin[3]
     p4_origin[0] = floatround(origin[0])
     p4_origin[1] = floatround(origin[1])
     p4_origin[2] = floatround(origin[2])
-    if(!g_MechSparkSprite) return
-    message_begin(MSG_PVS, SVC_TEMPENTITY, p4_origin)
-    write_byte(TE_SPRITE)
-    write_coord(floatround(origin[0])); write_coord(floatround(origin[1])); write_coord(floatround(origin[2]))
-    write_short(g_MechSparkSprite); write_byte(9); write_byte(255)
-    message_end()
-    // GoldSrc's native spark burst supplements the sprite on clients where
-    // the small spark sprite is difficult to see at melee distance.
     message_begin(MSG_PVS, SVC_TEMPENTITY, p4_origin)
     write_byte(TE_SPARKS)
-    write_coord(floatround(origin[0])); write_coord(floatround(origin[1])); write_coord(floatround(origin[2]))
+    write_coord(p4_origin[0])
+    write_coord(p4_origin[1])
+    write_coord(p4_origin[2])
     message_end()
 }
 
@@ -2974,6 +3424,7 @@ if(g_MechBackAttackHeld[p2_id]) kickType = 2 // Dedicated backattack bind takes 
 else if(buttons & IN_DUCK) kickType = 1
 new Float:now = get_gametime()
 if(now < p2_g_NextAnyKick[p2_id] || now < p2_g_KickReadyAt[p2_id][kickType]) return PLUGIN_HANDLED
+g_AchRoundLightOnly[p2_id] = 0
 p2_g_NextAnyKick[p2_id] = now + p2_g_KickGlobalDelay
 p2_g_KickType[p2_id] = kickType
 new Float:recovery = kickType == 2 ? p2_g_BackKickRecovery : (kickType == 1 ? p2_g_LowKickRecovery : p2_g_KickRecovery)
@@ -3047,6 +3498,7 @@ get_user_aiming(
 
 new bool:p2_backKick = (p2_g_KickType[p2_id] == 2)
 new bool:p2_lowKick = (p2_g_KickType[p2_id] == 1)
+new bool:p2_bLowKick = p2_lowKick
 
 // Airborne down-kicks get a forgiving target radius around the crosshair.
 // This helps connect during close mid-fight movement without making grounded
@@ -3149,6 +3601,11 @@ if(p2_backKick)
     if(!p2_target) return
 }
 if(p2_target < 1 || p2_target > p2_g_MaxPlayers || !is_user_alive(p2_target) || p2_target == p2_id) return
+if(get_user_team(p2_id)==get_user_team(p2_target)) { g_AchTeamKicks[p2_id]++; if(g_AchTeamKicks[p2_id]>=15) ach_set(p2_id,52); }
+else { g_AchKickOwner[p2_target]=p2_id; if(!(pev(p2_target,pev_flags) & FL_ONGROUND)) ach_set(p2_id,53); }
+if(p2_bLowKick && !(pev(p2_id,pev_flags) & FL_ONGROUND) && (pev(p2_id,pev_button) & IN_DUCK)) ach_set(p2_id,62);
+if(p2_backKick && Mech_IsStunned(p2_target) && g_AchBackComboVictim[p2_id]==p2_target) { ach_set(p2_id,74); g_AchBackComboVictim[p2_id]=0; }
+if(p2_bLowKick && p1_g_MicroBomb[p2_target]) ach_set(p2_id,73);
 
 // Extra view-cone check.
 static Float:p2_TargetOrigin[3]
@@ -3173,7 +3630,6 @@ if(!p2_backKick && !is_in_viewcone(
 // ========================================================
 
 new Float:p2_Damage
-new bool:p2_bLowKick = p2_lowKick
 
 if(p2_backKick)
 {
@@ -3221,8 +3677,12 @@ ExecuteHamB(
 	DMG_CLUB | p2_DMG_CUSTOM_MELEE | (p2_cleaverExecution ? p1_CLEAVER_EXECUTE_FLAG : 0)
 )
 
-// A successful parry or active block cancels all kick knockback.
+// A parry/block is not a landed head hit and cancels kick knockback.
 if(wasKickParried || wasKickBlocked) return
+if(p2_body == HIT_HEAD && !p2_bLowKick)
+{
+    ach_add(p2_id,ACH_SKULL_CRUSHER,1)
+}
 
 // ========================================================
 // 3D KNOCKBACK
@@ -3362,12 +3822,23 @@ public Mech_CheckWallBounces()
 
         if(hitWall)
         {
+            g_AchWallBouncePending[id]=true;
+            g_AchWallBounceUntil[id]=get_gametime()+3.0;
+            g_AchWallBounceLethal[id]=false;
+            g_AchFallPending[id]=false;
+            if(g_AchKickOwner[id]>0)
+            {
+                ach_add(g_AchKickOwner[id],38,1);
+                g_AchBonelessOwner[id]=g_AchKickOwner[id];
+                g_AchBonelessUntil[id]=get_gametime()+3.0;
+                g_AchKickOwner[id] = 0;
+            }
             new Float:dot = knock[0]*normal[0] + knock[1]*normal[1] + knock[2]*normal[2]
             knock[0] = (knock[0] - 2.0*dot*normal[0]) * MECH_WALL_BOUNCE
             knock[1] = (knock[1] - 2.0*dot*normal[1]) * MECH_WALL_BOUNCE
             knock[2] = (knock[2] - 2.0*dot*normal[2]) * MECH_WALL_BOUNCE
             set_pev(id, pev_velocity, knock)
-            ExecuteHamB(Ham_TakeDamage, id, 0, 0, MECH_WALL_DAMAGE, DMG_FALL)
+            ExecuteHamB(Ham_TakeDamage, id, 0, 0, MECH_WALL_DAMAGE, DMG_FALL | ACH_DMG_WALL_BOUNCE)
             g_MechWallBounce[id] = false
         }
     }
@@ -4354,6 +4825,9 @@ public p3_KnifePrimaryAttack_Post(weapon)
     if (p3_g_iAttackCount[p3_id][p3_melee] >= p3_attackCap)
     {
         p3_g_bForcedRest[p3_id][p3_melee] = true
+        g_AchProgress[p3_id][7]++;
+        if(g_AchProgress[p3_id][7]>=5) ach_set(p3_id,7);
+        ach_save(p3_id);
         p3_g_flForcedRestEnd[p3_id][p3_melee] = p3_now + p3_GetResetRest(p1_g_Melee[p3_id])
 
         /*
@@ -4621,7 +5095,6 @@ new Float:p4_g_LastParry[33]
 new Float:p4_g_AttackLockEnd[33]
 #define p4_PARRY_ATTACK_LOCK 0.67
 
-new bool:p4_g_Stunned[33]
 new Float:p4_g_PreStunSpeed[33]
 new p4_g_msgScreenFade
 
@@ -4779,8 +5252,17 @@ public p4_fw_TakeDamage(victim, inflictor, attacker, Float:damage, damagebits)
 
     if(p4_g_ParryActive[victim])
     {
+        // Cleaver execution attempt: the early melee hook may have returned
+        // on the parry before it could attach the execution damage flag.
+        if((damagebits & p1_CLEAVER_EXECUTE_FLAG) ||
+            (get_user_weapon(attacker)==CSW_KNIFE && p1_g_Melee[attacker]==p1_MELEE_CLEAVER &&
+             p1_g_AttackType[attacker]==2 && get_user_health(victim)<=p1_CLEAVER_EXECUTE_HP &&
+             !p1_IsSuppressed(attacker) && !(damagebits & p1_DMG_CUSTOM_MELEE)))
+            ach_set(victim,40)
+        ach_on_parry(victim, p1_g_ShockwaveVictim[victim])
         new bool:shockwaveParry = p1_g_ShockwaveVictim[victim]
         new bool:greatswordBypass = p4_g_bGreatswordBypass[victim]
+        if(greatswordBypass) ach_add(attacker,48,1);
         p4_g_bGreatswordBypass[victim] = false
 
         if(!greatswordBypass)
@@ -4798,7 +5280,10 @@ public p4_fw_TakeDamage(victim, inflictor, attacker, Float:damage, damagebits)
         {
             new Float:counterDamage = damage * 0.25
             if(counterDamage > 0.0)
+            {
+                if(get_user_health(attacker)<=floatround(counterDamage)) g_AchPanParryKiller[attacker]=victim
                 ExecuteHamB(Ham_TakeDamage, attacker, victim, victim, counterDamage, DMG_CLUB | p1_DMG_PARRY_COUNTER)
+            }
         }
 
         p4_g_ParryActive[victim] = false
@@ -4808,7 +5293,7 @@ public p4_fw_TakeDamage(victim, inflictor, attacker, Float:damage, damagebits)
         // stun the Glaive user. Greatsword bypass still produces normal parry
         // feedback, but the hit continues to damage the defender.
         if(!shockwaveParry)
-            p4_StunPlayer(attacker)
+            p4_StunPlayer(attacker, victim)
 
         if(greatswordBypass)
             return HAM_IGNORED
@@ -4846,12 +5331,13 @@ public p4_GoldenFlash(p4_id)
 
 // ==========================
 
-public p4_StunPlayer(p4_id)
+public p4_StunPlayer(p4_id, stunOwner)
 {
     if(!is_user_alive(p4_id)) return
     remove_task(p4_id + p4_TASK_STUN)
     pev(p4_id, pev_maxspeed, p4_g_PreStunSpeed[p4_id])
     p4_g_Stunned[p4_id] = true
+    g_AchStunOwner[p4_id] = stunOwner
     set_pev(p4_id, pev_maxspeed, p4_STUN_SPEED)
     new Float:punch[3]
     punch[0] = -8.0
@@ -4866,6 +5352,7 @@ public p4_RemoveStun(taskid)
     new p4_id = taskid - p4_TASK_STUN
     if(p4_id < 1 || p4_id > 32) return
     p4_g_Stunned[p4_id] = false
+    if(!Mech_IsStunned(p4_id)) g_AchStunOwner[p4_id] = 0
     if(is_user_alive(p4_id))
     {
         // Restore the correct custom melee movement speed, or the prior gun speed.
@@ -5082,6 +5569,8 @@ public p5_Fw_PlayerPreThink(p5_id)
 
 public p5_Fw_TakeDamage(victim, inflictor, attacker, Float:damage, damagebits)
 {
+    if(is_user_alive(victim) && is_user_alive(attacker) && p5_g_bBlockActive[victim] && damage > 0.0) ach_on_block(victim)
+
     if (!is_user_alive(victim) || !p5_g_bBlockActive[victim])
         return HAM_IGNORED;
 
@@ -5523,9 +6012,12 @@ public p7_fw_ArmorReduction(victim, inflictor, attacker, Float:damage, damagebit
         if(stolen > 0)
         {
             set_user_armor(victim, victimArmor - stolen)
-            new attackerArmor = get_user_armor(attacker) + stolen
+            new oldAttackerArmor = get_user_armor(attacker)
+            new attackerArmor = oldAttackerArmor + stolen
             if(attackerArmor > p1_MAX_ARMOR) attackerArmor = p1_MAX_ARMOR
             set_user_armor(attacker, attackerArmor)
+            if(attackerArmor > oldAttackerArmor)
+                ach_track_ap_gain(attacker,attackerArmor-oldAttackerArmor,true)
         }
     }
 
@@ -5826,3 +6318,699 @@ p7_ResetPlayer(p7_id)
         p7_ClearHeavyCountdown(p7_id)
     }
 }
+
+
+// ============================================================================
+// ACHIEVEMENTS
+// ============================================================================
+
+public ach_plugin_init()
+{
+    g_AchVault = nvault_open(ACH_VAULT_NAME);
+    if(g_AchVault == INVALID_HANDLE) set_fail_state("Could not open achievement vault");
+    register_clcmd("say", "ach_say_router");
+    register_clcmd("say_team", "ach_say_router");
+    register_logevent("ach_round_start", 2, "1=Round_Start");
+    register_logevent("ach_ct_win", 2, "1=CTs_Win");
+    register_logevent("ach_t_win", 2, "1=Terrorists_Win");
+    register_logevent("ach_round_draw", 2, "1=Round_Draw");
+    register_event("SendAudio", "ach_ct_win_audio", "a", "2=%!MRAD_ctwin")
+    register_event("SendAudio", "ach_t_win_audio", "a", "2=%!MRAD_terwin")
+    RegisterHam(Ham_TakeDamage, "player", "ach_damage_pre", 0);
+    RegisterHam(Ham_TakeDamage, "player", "ach_damage_post", 1);
+    set_task(0.25, "ach_airborne_check", 94821, _, _, "b");
+}
+
+public ach_client_putinserver(id)
+{
+    arrayset(g_AchProgress[id], 0, ACH_COUNT);
+    for(new i=0;i<ACH_COUNT;i++) g_AchUnlocked[id][i]=false;
+    g_AchTotalKills[id]=0; g_AchFallDeaths[id]=0; g_AchWinStreak[id]=0;
+    g_AchLastRoundKiller[id]=0; g_AchPreviousRoundKiller[id]=0;
+    g_AchConsecutiveHits[id]=0; g_AchLastHitVictim[id]=0; g_AchAirStart[id]=0.0;
+    g_AchLastKiller[id]=0; g_AchKillerStreak[id]=0;
+    g_AchRoundKills[id]=0; g_AchRoundParries[id]=0; g_AchRoundBackstabs[id]=0; g_AchSpecialRoundKills[id]=0;
+    g_AchTeamWinStreak[id]=0; g_AchRoundTookDamage[id]=false; g_AchRoundDamageTaken[id]=0;
+    g_AchRoundTeamSize[id]=0; g_AchRoundEnemySize[id]=0;
+    g_AchRoundLightOnly[id]=1; g_AchRoundLightHits[id]=0; g_AchRoundAPGained[id]=0; g_AchFallPending[id]=false;
+    g_AchBombKiller[id]=0; g_AchThornsKiller[id]=0; g_AchStunnedHitBy[id]=0;
+    g_AchKickOwner[id]=0; g_AchBonelessOwner[id]=0; g_AchBonelessUntil[id]=0.0; g_AchPanParryKiller[id]=0;
+    g_AchKickOnlyOwner[id]=0; g_AchKickOnlyBroken[id]=false; g_AchStunOwner[id]=0;
+    g_AchBackComboVictim[id]=0; g_AchBackstabOwner[id]=0; g_AchVulnerabilityOwner[id]=0; g_AchCleaverExecVictim[id]=0;
+    g_AchTeamKicks[id]=0; g_AchKillerStreak[id]=0;
+    g_AchRecentKillCount[id]=0; for(new k=0;k<32;k++) g_AchRecentKillTimes[id][k]=0.0; arrayset(g_AchRecentKillVictims[id],0,32); remove_task(id+19000);
+    g_AchWallBounceLethal[id]=false; g_AchWallBouncePending[id]=false; g_AchWallBounceUntil[id]=0.0;
+    g_AchRoundLightHits[id]=0; g_AchRoundAPGained[id]=0;
+    arrayset(g_AchDamageByOpponent[id],0,33);
+    for(new other=1;other<=32;other++) g_AchSameTeammateBomb[id][other]=0;
+    for(new w=0;w<16;w++) g_AchWeaponKills[id][w]=0;
+    ach_load(id);
+    if(!g_AchUnlocked[id][ACH_ADDICTION]) g_AchProgress[id][ACH_ADDICTION]=0;
+}
+
+stock ach_load(id)
+{
+    new auth[40], key[96], data[2048], pos=0;
+    get_user_authid(id, auth, charsmax(auth));
+    if(equal(auth,"STEAM_ID_PENDING") || equal(auth,"BOT")) return;
+    formatex(key, charsmax(key), "P_%s", auth);
+    if(nvault_get(g_AchVault,key,data,charsmax(data)))
+    {
+        for(new i=0;i<ACH_COUNT;i++)
+        {
+            new token[24];
+            if(!parse(data[pos], token, charsmax(token))) break;
+            new value=str_to_num(token);
+            g_AchProgress[id][i]=value;
+            if(value >= g_AchTargets[i]) g_AchUnlocked[id][i]=true;
+            pos += strlen(token)+1;
+        }
+    }
+
+    // One-time migration: Tank's old target was four opponents, and Vertical
+    // Attack previously counted gravity toggles. Clear those legacy records
+    // once, but preserve unlocks earned with the corrected implementation.
+    new versionKey[96], version[8];
+    formatex(versionKey,charsmax(versionKey),"ACH_SCHEMA_%s",auth);
+    if(!nvault_get(g_AchVault,versionKey,version,charsmax(version)))
+    {
+        g_AchProgress[id][59]=0; g_AchUnlocked[id][59]=false;
+        g_AchProgress[id][54]=0; g_AchUnlocked[id][54]=false;
+        nvault_set(g_AchVault,versionKey,"2");
+        ach_save(id);
+    }
+
+    // These are session- or round-scoped challenges; old incomplete progress
+    // must never survive a reconnect or a changed requirement.
+    if(!g_AchUnlocked[id][ACH_ADDICTION]) g_AchProgress[id][ACH_ADDICTION]=0;
+    if(!g_AchUnlocked[id][ACH_DEATH_DOESNT_WAIT]) g_AchProgress[id][ACH_DEATH_DOESNT_WAIT]=0;
+    if(!g_AchUnlocked[id][59]) { g_AchProgress[id][59]=0; g_AchUnlocked[id][59]=false; }
+    if(!g_AchUnlocked[id][ACH_STUBBORN]) g_AchProgress[id][ACH_STUBBORN]=0;
+    if(!g_AchUnlocked[id][ACH_SKULL_CRUSHER]) g_AchProgress[id][ACH_SKULL_CRUSHER]=0;
+    // Clear partial progress from the previous Tank requirement and from
+    // old Vertical Attack toggle-counting; preserve already-unlocked records.
+    if(!g_AchUnlocked[id][59]) g_AchProgress[id][59]=0;
+}
+
+public ach_save(id)
+{
+    if(!g_AchVault || !is_user_connected(id)) return;
+    new auth[40], key[96], data[2048], len=0;
+    get_user_authid(id,auth,charsmax(auth));
+    if(equal(auth,"STEAM_ID_PENDING") || equal(auth,"BOT")) return;
+    for(new i=0;i<ACH_COUNT;i++)
+    {
+        new value=g_AchProgress[id][i];
+        if((i==ACH_ADDICTION || i==59 || i==ACH_STUBBORN || i==ACH_SKULL_CRUSHER || i==ACH_DEATH_DOESNT_WAIT) && !g_AchUnlocked[id][i]) value=0;
+        len += formatex(data[len],charsmax(data)-len,"%d ",value);
+    }
+    formatex(key,charsmax(key),"P_%s",auth);
+    nvault_set(g_AchVault,key,data);
+}
+
+stock ach_schedule_death_window_expire(id)
+{
+    remove_task(id+19000);
+    if(id<1 || id>32 || !is_user_connected(id) || g_AchRecentKillCount[id]<=0) return;
+    new Float:delay=g_AchRecentKillTimes[id][0]+10.01-get_gametime();
+    if(delay<0.05) delay=0.05;
+    set_task(delay,"ach_death_window_expire",id+19000);
+}
+
+public ach_death_window_expire(taskid)
+{
+    new id=taskid-19000;
+    if(id<1 || id>32 || !is_user_connected(id) || g_AchUnlocked[id][ACH_DEATH_DOESNT_WAIT]) return;
+    new Float:now=get_gametime();
+    new writeIndex=0;
+    for(new k=0;k<g_AchRecentKillCount[id];k++)
+    {
+        if(now < g_AchRecentKillTimes[id][k] || now-g_AchRecentKillTimes[id][k] > 10.0) continue;
+        g_AchRecentKillTimes[id][writeIndex]=g_AchRecentKillTimes[id][k];
+        g_AchRecentKillVictims[id][writeIndex]=g_AchRecentKillVictims[id][k];
+        writeIndex++;
+    }
+    g_AchRecentKillCount[id]=writeIndex;
+    g_AchProgress[id][ACH_DEATH_DOESNT_WAIT]=writeIndex;
+    ach_save(id);
+    if(writeIndex>0) ach_schedule_death_window_expire(id);
+}
+
+stock ach_track_ap_gain(id, amount, bool:gladiusSteal)
+{
+    if(id<1 || id>32 || !is_user_connected(id) || amount<=0) return;
+    if(gladiusSteal) ach_add(id,ACH_ARMOR_ROBBER,amount);
+    g_AchRoundAPGained[id]+=amount;
+    if(g_AchRoundAPGained[id]>=400) ach_set(id,ACH_STUBBORN);
+    else if(!g_AchUnlocked[id][ACH_STUBBORN])
+    {
+        g_AchProgress[id][ACH_STUBBORN]=g_AchRoundAPGained[id];
+        ach_save(id);
+    }
+}
+
+stock ach_add(id, ach, amount=1)
+{
+    if(id<1 || id>32 || !is_user_connected(id) || ach<0 || ach>=ACH_COUNT || amount<=0 || g_AchUnlocked[id][ach]) return;
+    g_AchProgress[id][ach] += amount;
+    if(g_AchProgress[id][ach] > g_AchTargets[ach]) g_AchProgress[id][ach]=g_AchTargets[ach];
+    if(g_AchProgress[id][ach] >= g_AchTargets[ach])
+    {
+        g_AchUnlocked[id][ach]=true;
+        new name[32]; get_user_name(id,name,charsmax(name));
+        static const rarityNames[][] = {"Common","Uncommon","Rare","Epic","Legendary"};
+        new category = g_AchCategories[ach];
+        new article[4];
+        if(category == 1 || category == 3) copy(article,charsmax(article),"an");
+        else copy(article,charsmax(article),"a");
+        client_print_color(0, print_team_default, "^3%s^1 has got %s %s Achievement ^4[%s]^1.",
+            name, article, rarityNames[category], g_AchNames[ach]);
+    }
+    ach_save(id);
+}
+
+stock ach_set(id, ach)
+{
+    if(id<1 || id>32 || ach<0 || ach>=ACH_COUNT) return;
+    ach_add(id,ach,g_AchTargets[ach]);
+}
+
+public ach_cmd_menu(id)
+{
+    new menu=menu_create("Achievements", "ach_menu_handler");
+    menu_additem(menu,"Common Achievements","0");
+    menu_additem(menu,"Uncommon Achievements","1");
+    menu_additem(menu,"Rare Achievements","2");
+    menu_additem(menu,"Epic Achievements","3");
+    menu_additem(menu,"Legendary Achievements","4");
+    menu_setprop(menu,MPROP_EXITNAME,"Back");
+    menu_display(id,menu);
+    return PLUGIN_HANDLED;
+}
+
+public ach_menu_handler(id,menu,item)
+{
+    if(item==MENU_EXIT) { menu_destroy(menu); return PLUGIN_HANDLED; }
+    new data[8],access,callback; menu_item_getinfo(menu,item,access,data,charsmax(data),_,_,callback);
+    new category=str_to_num(data);
+    menu_destroy(menu);
+    ach_show_category(id,id,category);
+    return PLUGIN_HANDLED;
+}
+
+stock ach_show_category(viewer,target,category,page=0)
+{
+    if(viewer < 1 || viewer > 32 || !is_user_connected(viewer) ||
+        target < 1 || target > 32 || !is_user_connected(target) ||
+        category < 0 || category > 4)
+        return;
+
+    new title[64];
+    static const titles[][]={"Common Achievements","Uncommon Achievements","Rare Achievements","Epic Achievements","Legendary Achievements"};
+    formatex(title,charsmax(title),"%s",titles[category]);
+    new menu=menu_create(title,"ach_category_handler");
+    new item[64],info[8];
+
+    for(new i=0;i<ACH_COUNT;i++)
+    {
+        // Insert the new Legendary pair after the existing special challenges
+        // and immediately before Silent Reaper / the 300-kill weapon set.
+        if(category==4 && i==78)
+        {
+            for(new special=ACH_DEATH_DOESNT_WAIT;special<=ACH_ADDICTION;special++)
+            {
+                formatex(item,charsmax(item),"%s %d/%d",g_AchNames[special],g_AchProgress[target][special],g_AchTargets[special]);
+                num_to_str(special,info,charsmax(info));
+                menu_additem(menu,item,info);
+            }
+        }
+        if(g_AchCategories[i]!=category || i==ACH_DEATH_DOESNT_WAIT || i==ACH_ADDICTION) continue;
+        // Keep menu rows short; the full explanation is printed privately in chat.
+        formatex(item,charsmax(item),"%s %d/%d",g_AchNames[i],g_AchProgress[target][i],g_AchTargets[i]);
+        num_to_str(i,info,charsmax(info));
+        menu_additem(menu,item,info);
+    }
+
+    menu_setprop(menu,MPROP_EXITNAME,"Back");
+    g_AchMenuTarget[viewer]=target;
+    g_AchMenuCategory[viewer]=category;
+    menu_display(viewer,menu,page);
+}
+
+public ach_category_handler(id,menu,item)
+{
+    if(item == MENU_EXIT)
+    {
+        menu_destroy(menu);
+        ach_cmd_menu(id);
+        return PLUGIN_HANDLED;
+    }
+
+    new data[8],access,callback;
+    menu_item_getinfo(menu,item,access,data,charsmax(data),_,_,callback);
+    new ach=str_to_num(data);
+    new target=g_AchMenuTarget[id];
+    new category=g_AchMenuCategory[id];
+    new page=item / 7;
+    menu_destroy(menu);
+
+    if(ach>=0 && ach<ACH_COUNT && target>=1 && target<=32 && is_user_connected(target))
+    {
+        client_print(id,print_chat,"[Achievements] %s: %s (%d/%d)",
+            g_AchNames[ach],g_AchDescriptions[ach],
+            g_AchProgress[target][ach],g_AchTargets[ach]);
+    }
+
+    // Reopen the same category and page automatically after displaying the explanation.
+    ach_show_category(id,id,category,page);
+    return PLUGIN_HANDLED;
+}
+
+public ach_cmd_list(id)
+{
+    new args[64]; read_args(args,charsmax(args)); remove_quotes(args); trim(args);
+    if(!args[0]) { ach_show_unlocked(id,id); return PLUGIN_HANDLED; }
+    new target=cmd_target(id,args,0);
+    if(!target) { client_print(id,print_chat,"[Achievements] Player not found."); return PLUGIN_HANDLED; }
+    ach_show_unlocked(id,target);
+    return PLUGIN_HANDLED;
+}
+
+public ach_say_router(id)
+{
+    new text[96]; read_args(text,charsmax(text)); remove_quotes(text); trim(text);
+    if(equali(text,"/achieve")) { ach_cmd_menu(id); return PLUGIN_HANDLED; }
+    if(equali(text,"/achievements")) { ach_show_unlocked(id,id); return PLUGIN_HANDLED; }
+    if(containi(text,"/achievements ")==0)
+    {
+        new name[64]; copy(name,charsmax(name),text[14]); trim(name);
+        new target=cmd_target(id,name,0);
+        if(target) ach_show_unlocked(id,target);
+        else client_print(id,print_chat,"[Achievements] Player not found.");
+        return PLUGIN_HANDLED;
+    }
+    return PLUGIN_CONTINUE;
+}
+
+stock ach_show_unlocked(viewer,target,page=0)
+{
+    if(viewer < 1 || viewer > 32 || !is_user_connected(viewer) ||
+        target < 1 || target > 32 || !is_user_connected(target))
+        return;
+
+    new name[32],title[64],menu;
+    get_user_name(target,name,charsmax(name));
+    formatex(title,charsmax(title),"%s: Unlocked",name);
+    menu=menu_create(title,"ach_unlocked_handler");
+
+    new info[8],count=0;
+    for(new i=0;i<ACH_COUNT;i++)
+    {
+        if(i==78)
+        {
+            for(new special=ACH_DEATH_DOESNT_WAIT;special<=ACH_ADDICTION;special++)
+                if(g_AchUnlocked[target][special])
+                {
+                    num_to_str(special,info,charsmax(info));
+                    menu_additem(menu,g_AchNames[special],info);
+                    count++;
+                }
+        }
+        if(i==ACH_DEATH_DOESNT_WAIT || i==ACH_ADDICTION || !g_AchUnlocked[target][i]) continue;
+        num_to_str(i,info,charsmax(info));
+        menu_additem(menu,g_AchNames[i],info);
+        count++;
+    }
+    if(!count) menu_additem(menu,"No achievements unlocked yet","-1",0);
+
+    menu_setprop(menu,MPROP_EXITNAME,"Close");
+    g_AchMenuTarget[viewer]=target;
+    menu_display(viewer,menu,page);
+}
+
+public ach_unlocked_handler(id,menu,item)
+{
+    if(item == MENU_EXIT)
+    {
+        menu_destroy(menu);
+        return PLUGIN_HANDLED;
+    }
+
+    new data[8],access,callback;
+    menu_item_getinfo(menu,item,access,data,charsmax(data),_,_,callback);
+    new ach=str_to_num(data);
+    new target=g_AchMenuTarget[id];
+    new page=item / 7;
+    menu_destroy(menu);
+
+    if(ach>=0 && ach<ACH_COUNT && target>=1 && target<=32 && is_user_connected(target))
+        client_print(id,print_chat,"[Achievements] %s: %s",
+            g_AchNames[ach],g_AchDescriptions[ach]);
+
+    // Keep the target's unlocked-achievement list open after selecting a name.
+    if(target>=1 && target<=32 && is_user_connected(target))
+        ach_show_unlocked(id,target,page);
+    return PLUGIN_HANDLED;
+}
+
+
+public ach_round_start()
+{
+    remove_task(98101);
+    remove_task(98102);
+    // Snapshot each player's killer from the previous round for Revenge.
+    for(new id=1;id<=32;id++)
+    {
+        g_AchPreviousRoundKiller[id]=g_AchLastRoundKiller[id];
+        g_AchLastRoundKiller[id]=0;
+    }
+    new players[32], playerCount;
+    get_players(players,playerCount,"h");
+        new ctCount=0, tCount=0;
+    for(new i=0;i<playerCount;i++)
+    {
+        new player=players[i];
+        if(cs_get_user_team(player)==CS_TEAM_CT) ctCount++;
+        else if(cs_get_user_team(player)==CS_TEAM_T) tCount++;
+    }
+    g_AchRoundResultHandled=false;
+    for(new id=1;id<=32;id++) if(is_user_connected(id))
+    {
+        if(!g_AchUnlocked[id][ACH_DEATH_DOESNT_WAIT] && g_AchRecentKillCount[id]>0 && get_gametime()<g_AchRecentKillTimes[id][0])
+        {
+            g_AchRecentKillCount[id]=0;
+            g_AchProgress[id][ACH_DEATH_DOESNT_WAIT]=0;
+            remove_task(id+19000);
+        }
+        g_AchRoundTeamSize[id]=(cs_get_user_team(id)==CS_TEAM_CT) ? ctCount : ((cs_get_user_team(id)==CS_TEAM_T) ? tCount : 0);
+        g_AchRoundEnemySize[id]=(cs_get_user_team(id)==CS_TEAM_CT) ? tCount : ((cs_get_user_team(id)==CS_TEAM_T) ? ctCount : 0);
+        g_AchRoundKills[id]=0; g_AchRoundParries[id]=0; g_AchRoundBackstabs[id]=0; g_AchSpecialRoundKills[id]=0;
+        if(!g_AchUnlocked[id][7]) g_AchProgress[id][7]=0;
+        if(!g_AchUnlocked[id][59]) g_AchProgress[id][59]=0;
+        if(!g_AchUnlocked[id][ACH_STUBBORN]) g_AchProgress[id][ACH_STUBBORN]=0;
+        if(!g_AchUnlocked[id][ACH_SKULL_CRUSHER]) g_AchProgress[id][ACH_SKULL_CRUSHER]=0;
+        g_AchRoundTookDamage[id]=false; g_AchRoundDamageTaken[id]=0;
+        g_AchFallPending[id]=false; g_AchPanParryKiller[id]=0; g_AchCleaverExecVictim[id]=0;
+        g_AchRoundLightOnly[id]=1; g_AchRoundLightHits[id]=0; g_AchRoundAPGained[id]=0;
+        arrayset(g_AchDamageByOpponent[id],0,33);
+                g_AchKickOwner[id]=0; g_AchBonelessOwner[id]=0; g_AchBonelessUntil[id]=0.0; g_AchBackstabOwner[id]=0;
+        g_AchKickOnlyOwner[id]=0; g_AchKickOnlyBroken[id]=false; g_AchStunOwner[id]=0;
+        g_AchStunnedHitBy[id]=0; g_AchVulnerabilityOwner[id]=0; g_AchBombKiller[id]=0; g_AchThornsKiller[id]=0;
+        g_AchWallBounceLethal[id]=false; g_AchWallBouncePending[id]=false; g_AchWallBounceUntil[id]=0.0;
+        ach_save(id);
+        client_print(id,print_chat,"Type /achieve to open achievements menu.");
+    }
+}
+// Delay result evaluation by a frame so GoldSrc has completed its death-state
+// updates before survivor counts are sampled. Log and audio events are both
+// registered; the round-result guard ensures only one evaluation is applied.
+public ach_ct_win() { remove_task(98101); set_task(0.1,"ach_ct_win_delayed",98101); }
+public ach_t_win() { remove_task(98102); set_task(0.1,"ach_t_win_delayed",98102); }
+public ach_ct_win_audio() { remove_task(98101); set_task(0.1,"ach_ct_win_delayed",98101); }
+public ach_t_win_audio() { remove_task(98102); set_task(0.1,"ach_t_win_delayed",98102); }
+public ach_ct_win_delayed() { ach_finish_round(CS_TEAM_CT); }
+public ach_t_win_delayed() { ach_finish_round(CS_TEAM_T); }
+public ach_round_draw()
+{
+    remove_task(98101);
+    remove_task(98102);
+    g_AchRoundResultHandled=true;
+    for(new id=1;id<=32;id++) if(is_user_connected(id)) g_AchTeamWinStreak[id]=0;
+}
+stock ach_finish_round(CsTeams:winningTeam)
+{
+    // Prevent duplicate processing from the team-win log and SendAudio events.
+    if(g_AchRoundResultHandled) return;
+    g_AchRoundResultHandled=true;
+    new teamAlive=0, enemyAlive=0;
+    for(new other=1;other<=32;other++) if(is_user_alive(other))
+    {
+        if(cs_get_user_team(other)==winningTeam) teamAlive++;
+        else if(cs_get_user_team(other)!=CS_TEAM_UNASSIGNED && cs_get_user_team(other)!=CS_TEAM_SPECTATOR) enemyAlive++;
+    }
+    for(new id=1;id<=32;id++) if(is_user_connected(id))
+    {
+        if(cs_get_user_team(id)==winningTeam)
+        {
+            g_AchTeamWinStreak[id]++;
+            if(g_AchTeamWinStreak[id]>=3) ach_set(id,3);
+            if(is_user_alive(id) && get_user_health(id)==1) ach_set(id,57);
+            if(g_AchRoundLightOnly[id] && g_AchRoundLightHits[id]>0) ach_set(id,61);
+            if(is_user_alive(id) && !g_AchRoundTookDamage[id]) ach_set(id,60);
+            if(is_user_alive(id) && teamAlive==1 && enemyAlive==0 &&
+                g_AchRoundTeamSize[id]>=2 && g_AchRoundKills[id]>=g_AchRoundEnemySize[id])
+            {
+                if(p1_g_Melee[id]==p1_MELEE_LONGSWORD) ach_set(id,45);
+                if(p1_g_Melee[id]==p1_MELEE_KATANA) ach_set(id,46);
+            }
+            if(is_user_alive(id) && g_AchRoundTeamSize[id]==1 && g_AchRoundEnemySize[id]>=3)
+                ach_set(id,77);
+        }
+        else g_AchTeamWinStreak[id]=0;
+    }
+}
+
+stock ach_on_death(victim)
+{
+    if(victim<1 || victim>32) return;
+    // A death breaks the Tank survival attempt; a respawn must start fresh.
+    if(!g_AchUnlocked[victim][59])
+    {
+        g_AchRoundDamageTaken[victim]=0;
+        g_AchProgress[victim][59]=0;
+    }
+    // Clear any earlier killer; ach_on_kill immediately below will restore
+    // this only when the current death was caused by an opponent.
+    g_AchLastRoundKiller[victim]=0;
+    if(g_AchPanParryKiller[victim]>0) { ach_set(g_AchPanParryKiller[victim],64); g_AchPanParryKiller[victim]=0; }
+
+    // Boneless belongs to the victim when the wall impact kills them or
+    // the bounce causes a fall death within the short impact window.
+    if(g_AchWallBouncePending[victim] && get_gametime()<=g_AchWallBounceUntil[victim] &&
+        (g_AchWallBounceLethal[victim] || g_AchFallPending[victim]))
+    {
+        ach_set(victim,34);
+        // If the wall-bounce death came from a kick and no other damage broke
+        // the kick-only chain, credit the kicker for Foot Work as well.
+        if(g_AchKickOnlyOwner[victim]>0 && !g_AchKickOnlyBroken[victim])
+            ach_set(g_AchKickOnlyOwner[victim],94);
+    }
+    g_AchWallBounceLethal[victim]=false;
+    g_AchWallBouncePending[victim]=false;
+    g_AchWallBounceUntil[victim]=0.0;
+    g_AchBonelessOwner[victim]=0;
+    g_AchBonelessUntil[victim]=0.0;
+
+    if(g_AchFallPending[victim])
+    {
+        g_AchFallPending[victim]=false; g_AchFallDeaths[victim]++;
+        ach_add(victim,25,1); ach_add(victim,35,1); ach_add(victim,41,1);
+    }
+}
+
+stock ach_on_kill(attacker,victim)
+{
+    if(attacker<1 || attacker>32 || victim<1 || victim>32 || attacker==victim || !is_user_connected(attacker)) return;
+    if(get_user_team(attacker)==get_user_team(victim)) return;
+    if(g_AchKickOnlyOwner[victim] == attacker && !g_AchKickOnlyBroken[victim])
+        ach_set(attacker,94);
+    if(g_AchBombKiller[victim]==attacker) { ach_add(attacker,42,1); g_AchBombKiller[victim]=0; }
+    if(g_AchThornsKiller[victim]==attacker) { ach_add(attacker,39,1); g_AchThornsKiller[victim]=0; }
+    if(g_AchStunnedHitBy[victim]==attacker) { ach_set(attacker,32); g_AchStunnedHitBy[victim]=0; }
+    if(g_AchVulnerabilityOwner[victim]>0 && g_AchVulnerabilityOwner[victim]!=victim && p1_g_Vulnerable[victim]) { ach_set(g_AchVulnerabilityOwner[victim],70); g_AchVulnerabilityOwner[victim]=0; }
+    g_AchTotalKills[attacker]++; g_AchRoundKills[attacker]++;
+    ach_add(attacker,0,1); ach_add(attacker,1,1); ach_add(attacker,2,1);
+    ach_add(attacker,ACH_ADDICTION,1);
+    // Keep each distinct opponent killed in the last ten seconds. Repeated
+    // kills on the same opponent do not inflate the three-opponent challenge.
+    new Float:killNow=get_gametime();
+    new victimUserid=get_user_userid(victim);
+    new writeIndex=0;
+    new bool:alreadyCounted=false;
+    for(new k=0;k<g_AchRecentKillCount[attacker];k++)
+    {
+        if(killNow < g_AchRecentKillTimes[attacker][k] || killNow-g_AchRecentKillTimes[attacker][k] > 10.0) continue;
+        g_AchRecentKillTimes[attacker][writeIndex]=g_AchRecentKillTimes[attacker][k];
+        g_AchRecentKillVictims[attacker][writeIndex]=g_AchRecentKillVictims[attacker][k];
+        if(g_AchRecentKillVictims[attacker][k]==victimUserid) alreadyCounted=true;
+        writeIndex++;
+    }
+    if(!alreadyCounted && writeIndex<32)
+    {
+        g_AchRecentKillTimes[attacker][writeIndex]=killNow;
+        g_AchRecentKillVictims[attacker][writeIndex]=victimUserid;
+        writeIndex++;
+    }
+    g_AchRecentKillCount[attacker]=writeIndex;
+    if(!g_AchUnlocked[attacker][ACH_DEATH_DOESNT_WAIT])
+    {
+        g_AchProgress[attacker][ACH_DEATH_DOESNT_WAIT]=writeIndex;
+        if(writeIndex>=3)
+        {
+            ach_set(attacker,ACH_DEATH_DOESNT_WAIT);
+            remove_task(attacker+19000);
+        }
+        else
+        {
+            ach_save(attacker);
+            ach_schedule_death_window_expire(attacker);
+        }
+    }
+    ach_add(attacker,56,1);
+    new weapon=p1_g_Melee[attacker];
+    if(weapon>=0 && weapon<16)
+    {
+        g_AchWeaponKills[attacker][weapon]++;
+        if(weapon==p1_MELEE_CLAWS || weapon==p1_MELEE_SAIS || weapon==p1_MELEE_GAUNTLETS)
+        {
+            g_AchSpecialRoundKills[attacker]++;
+            if(g_AchSpecialRoundKills[attacker]>=2) ach_set(attacker,49);
+        }
+        if(weapon<16) ach_add(attacker,9+weapon,1);
+        ach_add(attacker,78+weapon,1);
+        new bool:allTen=true;
+        for(new w=0;w<16;w++) if(g_AchProgress[attacker][78+w]<10) allTen=false;
+        if(allTen) ach_set(attacker,66);
+    }
+    if(g_AchRoundKills[attacker]>=2) ach_set(attacker,28);
+    if(g_AchRoundKills[attacker]>=4) ach_set(attacker,29);
+    if(g_AchCleaverExecVictim[attacker]==victim) { ach_set(attacker,26); g_AchCleaverExecVictim[attacker]=0; }
+    if(Mech_IsStunned(victim)) ach_set(attacker,32);
+    if(g_AchPreviousRoundKiller[attacker]==victim) ach_set(attacker,8);
+    if(p1_g_Melee[victim]==p1_MELEE_KATANA)
+    {
+        if(g_AchLastKiller[attacker]==victim) g_AchKillerStreak[attacker]++;
+        else { g_AchLastKiller[attacker]=victim; g_AchKillerStreak[attacker]=1; }
+        if(g_AchKillerStreak[attacker]>=5) ach_set(attacker,37);
+    }
+    else { g_AchLastKiller[attacker]=0; g_AchKillerStreak[attacker]=0; }
+    g_AchKillerStreak[victim]=0;
+    if(p1_g_Melee[attacker]==p1_MELEE_SCYTHE && p1_g_ScytheCloaked[attacker]) ach_add(attacker,68,1);
+    if(p1_g_Melee[attacker]==p1_MELEE_GLAIVE && p1_g_GlaiveBerserk[attacker]) ach_add(attacker,43,1);
+    if(p1_g_Melee[attacker]==p1_MELEE_CLEAVER && p1_g_Melee[victim]==p1_MELEE_GLAIVE) ach_set(attacker,44);
+    g_AchLastRoundKiller[victim]=attacker;
+}
+
+stock ach_on_parry(id,bool:shockwave)
+{
+    ach_set(id,5); g_AchParryCount[id]++; g_AchRoundParries[id]++;
+    ach_add(id,50,1);
+    if(g_AchRoundParries[id]>=5) ach_set(id,30);
+    if(shockwave) ach_set(id,58);
+}
+stock ach_on_block(id)
+{
+    g_AchBlockCount[id]++; ach_add(id,4,1); ach_add(id,51,1);
+}
+stock ach_on_backstab(id,victim)
+{
+    ach_set(id,6); g_AchRoundBackstabs[id]++; ach_add(id,63,1); g_AchBackComboVictim[id]=victim; g_AchBackstabOwner[victim]=id;
+    if(g_AchRoundBackstabs[id]>=2) ach_set(id,33);
+}
+
+public ach_damage_post(victim,inflictor,attacker,Float:damage,damagebits)
+{
+    // Tank: the player must accumulate at least 401 damage in this round
+    // and still be alive after the damage event that reaches the threshold.
+    if(victim>=1 && victim<=32 && is_user_connected(victim) && is_user_alive(victim) &&
+        !g_AchUnlocked[victim][59] && g_AchRoundDamageTaken[victim]>=401)
+    {
+        ach_set(victim,59);
+    }
+}
+
+public ach_damage_pre(victim,inflictor,attacker,Float:damage,damagebits)
+{
+    if(victim>=1 && victim<=32 && damage>0.0 && (damagebits & DMG_FALL) && !(damagebits & ACH_DMG_WALL_BOUNCE))
+    {
+        g_AchFallPending[victim]=true;
+    }
+    if(victim>=1 && victim<=32 && damage>0.0 && (damagebits & ACH_DMG_WALL_BOUNCE) &&
+        get_user_health(victim)<=floatround(damage))
+        g_AchWallBounceLethal[victim]=true;
+    if(victim>=1 && victim<=32 && damage>0.0)
+    {
+        g_AchRoundTookDamage[victim]=true;
+        g_AchRoundDamageTaken[victim]+=floatround(damage);
+        if(!g_AchUnlocked[victim][59])
+        {
+            g_AchProgress[victim][59]=g_AchRoundDamageTaken[victim];
+            if(g_AchProgress[victim][59]>g_AchTargets[59]) g_AchProgress[victim][59]=g_AchTargets[59];
+        }
+
+        // Foot Work: every damaging event must come from the same player's
+        // active kick. A wall-impact fall caused by that recorded kick is
+        // treated as part of the kick; any unrelated damage invalidates it.
+        if(attacker>=1 && attacker<=32 && attacker!=victim && is_user_connected(attacker))
+        {
+            new bool:isKickDamage = (p2_g_Kicking[attacker] &&
+                (damagebits & p2_DMG_CUSTOM_MELEE) &&
+                g_AchKickOwner[victim] == attacker);
+
+            if(isKickDamage)
+            {
+                if(g_AchKickOnlyOwner[victim] == 0)
+                    g_AchKickOnlyOwner[victim] = attacker;
+                else if(g_AchKickOnlyOwner[victim] != attacker)
+                    g_AchKickOnlyBroken[victim] = true;
+            }
+            else
+                g_AchKickOnlyBroken[victim] = true;
+        }
+        else
+        {
+            new bool:isKickWallImpact = ((damagebits & DMG_FALL) &&
+                g_AchBonelessOwner[victim] > 0 &&
+                g_AchKickOnlyOwner[victim] == g_AchBonelessOwner[victim] &&
+                get_gametime() <= g_AchBonelessUntil[victim]);
+            if(!isKickWallImpact)
+                g_AchKickOnlyBroken[victim] = true;
+        }
+    }
+    if(victim<1 || victim>32 || attacker<1 || attacker>32 || victim==attacker || damage<=0.0) return HAM_IGNORED;
+    if(!is_user_connected(victim) || !is_user_connected(attacker)) return HAM_IGNORED;
+    if((damagebits & p1_DMG_PARRY_COUNTER) && get_user_health(victim)<=floatround(damage)) g_AchPanParryKiller[victim]=attacker;
+    if((damagebits & p1_CLEAVER_EXECUTE_FLAG) && attacker>=1 && attacker<=32) g_AchCleaverExecVictim[attacker]=victim;
+    if(get_user_team(victim)==get_user_team(attacker)) return HAM_IGNORED;
+    if(!(get_user_weapon(attacker)==CSW_KNIFE && p1_g_AttackType[attacker]==1 &&
+        !(damagebits & (p1_DMG_CUSTOM_MELEE | p1_DMG_PARRY_COUNTER))))
+        g_AchRoundLightOnly[attacker]=0;
+    if(get_user_weapon(attacker)==CSW_KNIFE && !(damagebits & (p1_DMG_CUSTOM_MELEE | p1_DMG_PARRY_COUNTER)) && p1_g_HitGroup[attacker]==HIT_HEAD)
+        ach_add(attacker,ACH_SKULL_CRUSHER,1);
+    if(get_user_health(victim)<=floatround(damage))
+    {
+        if(g_AchDamageByOpponent[victim][attacker]==0) ach_set(attacker,47);
+        if(get_user_health(victim)==1) ach_set(attacker,27);
+    }
+    if(p1_g_Melee[attacker]==p1_MELEE_GLAIVE && p1_g_Melee[victim]==p1_MELEE_CLEAVER &&
+        get_user_health(attacker)<80 && p1_g_Vulnerable[victim]) ach_set(attacker,75);
+    g_AchDamageByOpponent[victim][attacker]+=floatround(damage);
+    if(g_AchLastHitVictim[attacker]==victim) g_AchConsecutiveHits[attacker]++;
+    else { g_AchLastHitVictim[attacker]=victim; g_AchConsecutiveHits[attacker]=1; }
+    if(g_AchConsecutiveHits[attacker]>=7) ach_set(attacker,36);
+    g_AchConsecutiveHits[victim]=0; g_AchLastHitVictim[victim]=0;
+    if(p1_g_Melee[attacker]==p1_MELEE_PAN && p1_g_HitGroup[attacker]==HIT_HEAD) ach_add(attacker,31,1);
+    if(p1_g_Melee[attacker]==p1_MELEE_SCYTHE && p1_g_ScytheCloaked[attacker]) ach_add(attacker,68,1);
+    if(p1_g_Melee[attacker]==p1_MELEE_GREATSWORD && p1_IsSuppressed(attacker) && (p4_g_ParryActive[victim] || p5_g_bBlockActive[victim])) ach_set(victim,55);
+    return HAM_IGNORED;
+}
+
+public ach_airborne_check()
+{
+    for(new id=1;id<=32;id++) if(is_user_alive(id))
+    {
+        new flags=pev(id,pev_flags);
+        if(!(flags & FL_ONGROUND) && !(flags & FL_INWATER))
+        {
+            if(g_AchAirStart[id]<=0.0) g_AchAirStart[id]=get_gametime();
+            else if(get_gametime()-g_AchAirStart[id]>=10.0) ach_set(id,76);
+        }
+        else g_AchAirStart[id]=0.0;
+    }
+}
+
+public plugin_end()
+{
+    if(g_AchVault != INVALID_HANDLE) nvault_close(g_AchVault);
+}
+
