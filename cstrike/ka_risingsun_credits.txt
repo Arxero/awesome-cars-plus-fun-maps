@@ -1,0 +1,77 @@
+[ru]
+¬тора€ верси€ первой карты в €понском стиле, имеюща€ р€д преимуществ.
+ арта имеет симметричный план строени€, как и прин€то дл€ режима Knife Arena.
+
+¬ центре карты расположена восстанавливающа€ здоровье игрока область, в которой обитают светл€чки с синим свечением. 
+ѕомимо восстановлени€ здоровь€, игроку представитс€ возможность попасть на верх центральной крыши благодар€ магическому PushТу.
+¬етки сакуры имеют анимацию движени€ на ветру, а падающие лепестки с дерева постепенно оседают на земле(реализовано, к сожалению, не так, как хотелось бы).
+японские светл€чки разбавл€ют иллюминацию красно-синих тонов карты, соответствующих цветам команды.
+
+ћаксимальные показатели полигонов:
+1) на нижнем уровне не превышают 1100 wpoly и 14 000 epoly;
+2) на втором этаже 1500 wpoly и 15 500 epoly;
+3) на самом верху угловых крыш 1750 wpoly 15 500 epoly.
+
+–екомендуемые настройки:
+r_detailtextures 1 Ч HD textures;
+gl_fog 1 Ч Enable fog;
+cl_weather 1 Ч A little snow.
+brightness 1.0
+gamma 2.5
+
+Ѕлагодарности:
+DartSerafim Ч DSTools Ц Ќабор графических инструментов дл€ маппинга.
+Psycrow Ч консультаци€ и помощь по Blender.
+Nikosemen и ZombieSource Ч за метод additive дл€ текстуры не в qc файле модели, а в самой энтити cycler_sprite дл€ создани€ свет€щихс€ частей.
+[Epic Games] Unreal Tournament 3 Ч “екстуры & Monkey Statue model
+[Lukewarm Media] Primal Carnage Ч «вуки amb_strongwind и amb_wind, “екстура воды.
+[Team17] Worms ultimate Mayhem Ч «вуки rs_gong, rs_hallelujah
+
+Ќе успел добавить птиц, мышей, бабочек и оформить внутренности второго этажа. ћожет быть, как-нибудь в следующей версии.
+
+
+
+
+[en]
+The second version of the first map in Japanese style, which has a number of advantages.
+
+The map has a symmetrical structure plan, as is accepted for Knife Arena mode.
+
+
+
+In the center of the map there is an area that restores the player's health, where fireflies with a blue glow are located. 
+In addition to restoring health, the player will have the opportunity to get to the top of the central roof thanks to the magic Push.
+
+Sakura branches have animation of movement in the wind, and falling petals from the tree gradually settle on the ground(realize, unfortunately, not as i would like). 
+Japanese fireflies dilute the illumination of the red and blue tones of the map, corresponding to the colors of the team.
+
+
+
+Maximum values of polygons:
+
+1) on the lower level not exceed 1100 wpoly and 14,000 epoly;
+
+2) on the second floor 1500 wpoly and 15 500 epoly;
+
+3) on the top of corner roofs 1750 wpoly 15 500 epoly.
+
+
+Recommended settings:
+
+r_detailtextures 1 Ч HD textures;
+gl_fog 1 Ч Enable fog;
+cl_weather 1 Ч A little snow.
+brightness 1.0
+gamma 2.5
+
+
+Credits:
+DartSerafim Ч DSTools Ц A set of graphical tools for mapping.
+Psycrow Ч Consultation and assistance on Blender
+Nikosemen and ZombieSource Ч For the metod additive for texture not in the qc file model, but in the entity cycler_sprite for the bright parts of model.
+[Epic Games] Unreal Tournament 3 Ч Textures & Monkey Statue model
+[Lukewarm Media] Primal Carnage Ч Sounds amb_strongwind и amb_wind, texture water.
+[Team17] Worms ultimate Mayhem Ч Sounds rs_gong, rs_hallelujah
+
+ЧЧЧЧЧЧЧЧЧЧЧЧЧЧЧЧ
+chakki056@mail.ru

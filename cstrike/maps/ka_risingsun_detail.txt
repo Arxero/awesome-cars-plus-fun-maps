@@ -1,0 +1,40 @@
+// [texture name]	[detail texture name]		[hscale][vscale]
+
+rs_door01a_m		ka_risingsun/rs_door01a_hd		1.0	1.0
+rs_door01b_m		ka_risingsun/rs_door01b_hd		1.0	1.0
+
+rs_grass01_m		ka_risingsun/rs_grass01_hd		1.0	1.0
+rs_floor01_m		ka_risingsun/rs_floor01_hd		1.0	1.0
+rs_ftile01_m		ka_risingsun/rs_ftile01_hd		1.0	1.0
+rs_ftile02_m		ka_risingsun/rs_ftile02_hd		1.0	1.0
+rs_ftile03_m		ka_risingsun/rs_ftile03_hd		1.0	1.0
+rs_ftile04_m		ka_risingsun/rs_ftile04_hd		1.0	1.0
+rs_ftile05_m		ka_risingsun/rs_ftile05_hd		1.0	1.0
+
+rs_plinth01_m		ka_risingsun/rs_plinth01_hd		1.0	1.0
+rs_plinth02_m		ka_risingsun/rs_plinth02_hd		1.0	1.0
+rs_plinth03_m		ka_risingsun/rs_plinth03_hd		1.0	1.0
+
+rs_snow01_m		ka_risingsun/rs_snow01_hd		1.0	1.0
+
+rs_trim01_m		ka_risingsun/rs_trim01_hd		1.0	1.0
+rs_trim02_m		ka_risingsun/rs_trim02_hd		1.0	1.0
+rs_trim03_m		ka_risingsun/rs_trim03_hd		1.0	1.0
+rs_trim04_m		ka_risingsun/rs_trim04_hd		1.0	1.0
+
+rs_wall01a_m		ka_risingsun/rs_wall01a_hd		1.0	1.0
+rs_wall01b_m		ka_risingsun/rs_wall01b_hd		1.0	1.0
+rs_wall02a_m		ka_risingsun/rs_wall02a_hd		1.0	1.0
+rs_wall02b_m		ka_risingsun/rs_wall02b_hd		1.0	1.0
+rs_wall03_m		ka_risingsun/rs_wall03_hd		1.0	1.0
+rs_wall04_m		ka_risingsun/rs_wall04_hd		1.0	1.0
+rs_wall05_m		ka_risingsun/rs_wall05_hd		1.0	1.0
+rs_wall06_m		ka_risingsun/rs_wall06_hd		1.0	1.0
+rs_wall07a_m		ka_risingsun/rs_wall07a_hd		1.0	1.0
+
+rs_wood01_m		ka_risingsun/rs_wood01_hd		1.0	1.0
+rs_wood02_m		ka_risingsun/rs_wood02_hd		1.0	1.0
+rs_wood03_m		ka_risingsun/rs_wood03_hd		1.0	1.0
+rs_wood04_m		ka_risingsun/rs_wood04_hd		1.0	1.0
+rs_wood05_m		ka_risingsun/rs_wood05_hd		1.0	1.0
+rs_wood06_m		ka_risingsun/rs_wood06_hd		1.0	1.0

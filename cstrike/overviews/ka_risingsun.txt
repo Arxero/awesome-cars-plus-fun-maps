@@ -1,0 +1,18 @@
+// overview description file for ka_risingsun.bsp
+
+global 
+{
+	ZOOM	2.09
+	ORIGIN	0 	0	-256
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ka_risingsun.bmp"
+	HEIGHT	-256
+}
+
+
+
+//Overview: Zoom 2.09, Map Origin (0.00, 0.00, 896.00), Z Min 2049.00, Z Max -257.00, Rotated 1

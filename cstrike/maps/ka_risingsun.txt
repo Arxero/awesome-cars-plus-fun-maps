@@ -1,0 +1,18 @@
+Recommended settings:
+
+r_detailtextures 1 — HD textures;
+gl_fog 1 — Enable fog;
+cl_weather 1 — A little snow
+brightness 1.0
+gamma 2.5
+
+
+Credits:
+DartSerafim — DSTools – A set of graphical tools for mapping.
+Psycrow — Consultation and assistance
+Nikosemen è ZombieSource — For the metod additive for texture not in the qc file model, but in the entity cycler_sprite for the bright parts of model.
+[Epic Games] Unreal Tournament 3 — Textures & Monkey Statue model
+[Lukewarm Media] Primal Carnage — Sounds amb_strongwind è amb_wind, texture water.
+[Team17] Worms ultimate Mayhem — Sounds rs_gong, rs_hallelujah
+
+(Press Fire To Continue)
